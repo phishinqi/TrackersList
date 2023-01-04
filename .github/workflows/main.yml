@@ -10,5 +10,5 @@ jobs:
   run:
     runs-on: ubuntu-latest
     steps:
-      - name: Run python src/PyTrackers.py
-        run: python src/PyTrackers.py
+      - name: Run python PyTrackers.py
+        run: python PyTrackers.py
