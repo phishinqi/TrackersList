@@ -1,0 +1,12 @@
+name: GetTrackers
+
+on:
+  push:
+    branches: [ main ]
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run python src/PyTrackers.py
+        run: python src/PyTrackers.py
+
