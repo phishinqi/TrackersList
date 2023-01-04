@@ -1,0 +1,2 @@
+# TrackersList
+適用於一些BT客戶端的Trackers列表，通過Python自動爬取
