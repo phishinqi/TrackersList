@@ -11,5 +11,16 @@ jobs:
   run:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - name: cache log
+        id: cache-log
+        uses: actions/cache@v3
+        with:
+          path: log
+          key: bot-logs
       - name: Run python PyTrackers.py
-        run: python PyTrackers.py
+        run: |
+          python PyTrackers.py
