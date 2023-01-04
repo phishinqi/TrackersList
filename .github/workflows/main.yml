@@ -21,6 +21,8 @@ jobs:
         with:
           path: log
           key: bot-logs
+      - name: Run pip install wget
+        run: pip install wget
       - name: Run python PyTrackers.py
         run: |
           python PyTrackers.py
