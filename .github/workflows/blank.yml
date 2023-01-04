@@ -1,0 +1,14 @@
+name: GetTrackers
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    # IMPORTANT: Set cron job in UTC timezone
+    - cron:  '0 0 * * *'
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run python src/PyTrackers.py
+        run: python src/PyTrackers.py
