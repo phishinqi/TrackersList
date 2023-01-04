@@ -2,6 +2,7 @@
 # coding=utf-8
 import urllib.request
 import os
+import wget
 
 
 
@@ -13,8 +14,8 @@ if os.path.exists(url_path):
     print("--------------------")
 else:
     print("文件不存在！正在创建中......")
-    file_url = open('./main_url.txt','w')
-    file_url.write('https://newtrackon.com/api/all')
+    main_url = "https://cdn.jsdelivr.net/gh/phishinqi/TrackersList@main/main/main_url.txt"
+    wget.download(url, "./main_url.txt")
     #os.mkdir(url_path)
     print("OK!")
     print("--------------------")
