@@ -6,6 +6,7 @@ on:
   schedule:
     # IMPORTANT: Set cron job in UTC timezone
     - cron:  '0 0 * * *'
+
 jobs:
   run:
     runs-on: ubuntu-latest
