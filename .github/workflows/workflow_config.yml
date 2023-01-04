@@ -1,17 +1,14 @@
-name: PyGetTrackers
+name: GetTrackers
+
 on:
-  workflow_dispatch:
+  push:
+    branches: [main]
   schedule:
     # IMPORTANT: Set cron job in UTC timezone
     - cron:  '0 0 * * *'
-
 jobs:
-  run-python-script:
+  run:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-python@v2
-        with:
-          python-version: '3.11.1'
-      - run: pip install requests
-      - run: python src/PyTrackers.py
+      - name: Run python src/PyTrackers.py
+        run: python src/PyTrackers.py
