@@ -15,7 +15,7 @@ if os.path.exists(url_path):
 else:
     print("文件不存在！正在创建中......")
     main_url = "https://cdn.jsdelivr.net/gh/phishinqi/TrackersList@main/main/main_url.txt"
-    wget.download(url, "./main_url.txt")
+    wget.download(main_url, "./main_url.txt")
     #os.mkdir(url_path)
     print("OK!")
     print("--------------------")
