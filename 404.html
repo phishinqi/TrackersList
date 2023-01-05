@@ -1,13 +1,14 @@
+
 <!DOCTYPE html>
 
-<html lang="zh"  id="home_page"  class=" md_page ">
+<html lang="zh"  class=" md_page ">
 
 <head>
      
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="keywords" content="PyTrackers">
-        <meta name="description" content="PyTrackers, generated with teedoc, a static site generator">
+        <meta name="keywords" content="">
+        <meta name="description" content="">
         <meta name="generator" content="teedoc">
         <meta name="theme" content="teedoc-plugin-theme-default">
     
@@ -17,10 +18,53 @@ MathJax = {"loader": {"load": ["output/svg"]}, "tex": {"inlineMath": [["$", "$"]
 </script><script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script><script src="/static/js/theme_default/pre_main.js"></script><link rel="stylesheet" href="/static/css/theme_default/prism.min.css" type="text/css"/><link rel="stylesheet" href="/static/css/theme_default/viewer.min.css" type="text/css"/><link rel="stylesheet" href="/static/css/theme_default/dark.css" type="text/css"/><link rel="stylesheet" href="/static/css/theme_default/light.css" type="text/css"/><script src="/static/js/theme_default/jquery.min.js"></script><script src="/static/js/theme_default/split.js"></script><link rel="stylesheet" href="/static/css/search/style.css" type="text/css"/><link rel="stylesheet" href="/static/css/custom.css" type="text/css"/>
     
     
-        <title>PyTrackers - PyTrackersList</title>
+        <title>PyTrackersList</title>
     
     
-    
+<script>
+  function getQueryVariable(variable)
+  {
+      var query = window.location.search.substring(1);
+      var vars = query.split("&");
+      for (var i=0;i<vars.length;i++) {
+              var pair = vars[i].split("=");
+              if(pair[0] == variable){return pair[1];}
+      }
+      return(false);
+  }
+  var jump = getQueryVariable("jump");
+  var from = getQueryVariable("from");
+  var pageLang = a=document.getElementsByTagName("html")[0].lang.toLowerCase(); // en -> zh-cn
+  var browerLang =(navigator.language || navigator.browserLanguage).toLowerCase();    // zh-cn
+  if(!from){
+    from = document.referrer;
+  }
+  if(pageLang && browerLang!=pageLang){
+    var idx = browerLang.indexOf("-");
+    if(!jump){
+      if(idx > 0){ // zh-cn, jump to /zh_CN/404.html?jump=1
+        var url = "/" + browerLang.substr(0, idx) + "_" + browerLang.substr(idx + 1).toUpperCase() + "/404.html?jump=1&from="+from;
+        window.location.href=url;
+      }else{       // /zh/404.html?jump=5
+        var url = "/" + browerLang + "/404.html?jump=5&from="+from;
+        window.location.href=url;
+      }
+    }else if(jump == "1"){ // /zh-CN/404.html?jump=2
+      var url = "/" + browerLang.substr(0, idx) + "-" + browerLang.substr(idx + 1).toUpperCase() + "/404.html?jump=2&from="+from;
+      window.location.href=url;
+    }else if(jump == "2"){ // /zh-cn/404.html?jump=3
+      var url = "/" + browerLang.substr(0, idx) + "-" + browerLang.substr(idx + 1).toLowerCase() + "/404.html?jump=3&from="+from;
+      window.location.href=url;
+    }else if(jump == "3"){ // /zh_cn/404.html?jump=4
+      var url = "/" + browerLang.substr(0, idx) + "_" + browerLang.substr(idx + 1).toLowerCase() + "/404.html?jump=4&from="+from;
+      window.location.href=url;
+    }else if(jump == "4"){ // /zh/404.html?jump=5
+      var url = "/" + browerLang.substr(0, idx) + "/404.html?jump=5&from="+from;
+      window.location.href=url;
+    }
+  }
+</script>
+
     <script type="text/javascript">js_vars = {}</script>
 </head>
 <body class="type_page">
@@ -64,15 +108,27 @@ MathJax = {"loader": {"load": ["output/svg"]}, "tex": {"inlineMath": [["$", "$"]
         <div id="page_content">
             <div>
                 
-                <div>
-    <h1><span>PyTrackers</span></h1>
-    <h3>好耶~</h3>
-</div>
-<div id="big_btn_wrapper">
-    <a class="btn" href="/doc/">See Doc</a>
-</div>
+  
+    <h1 style="width: 100%; text-align: center;">404 页面未找到</h1>
+  
+  
+    
+  
+  
+  <div style="text-align:center;padding:1em;">
+      <a class="btn" id="previous_btn">返回上一页</a> <a class="btn" href="/">首页</a>
+  </div>
+  <script>
+    var btn = document.getElementById("previous_btn");
+    btn.onclick = function(){
+      if(from.indexOf("/404.html") >= 0){
+        from = "/";
+      }
+      window.location.href=from;
+    };
+  </script>
+  
 
-                
             </div>
         </div>
         <a id="to_top" href="#"></a>
