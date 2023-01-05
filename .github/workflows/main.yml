@@ -29,5 +29,5 @@ jobs:
         run: |
           python PyTrackers.py
         working-directory: ./main
-      - name: GitOps Pull Request
-        uses: WhatTheFar/gitops-pr-action@main
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v4
