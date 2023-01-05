@@ -950,11 +950,11 @@ http://vps-dd0a0715.vps.ovh.net:6969/announce
 
 udp://black-bird.ynh.fr:6969/announce
 
+udp://tracker.qu.ax:6969/announce
+
 udp://camera.lei001.com:6969/announce
 
 http://fosstorrents.com:6969/announce
-
-udp://tracker.qu.ax:6969/announce
 
 udp://thinking.duckdns.org:6969/announce
 
@@ -1126,7 +1126,7 @@ udp://edu.uifr.ru:6969/announce
 
 http://0205.uptm.ch:6969/announce
 
-udp://9.rarbg.to:2960/announce
+udp://9.rarbg.to:2940/announce
 
 udp://zephir.monocul.us:6969/announce
 

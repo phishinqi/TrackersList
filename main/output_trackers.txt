@@ -277,7 +277,7 @@ http://open.nyap2p.com:8080/announce
 udp://tracker.zemoj.com:6969/announce
 udp://edu.uifr.ru:6969/announce
 http://0205.uptm.ch:6969/announce
-udp://9.rarbg.to:2960/announce
+udp://9.rarbg.to:2940/announce
 udp://zephir.monocul.us:6969/announce
 udp://tracker.uw0.xyz:6969/announce
 udp://retracker.netbynet.ru:2710/announce
