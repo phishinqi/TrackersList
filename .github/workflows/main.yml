@@ -4,7 +4,8 @@ on:
   schedule:
     # IMPORTANT: Set cron job in UTC timezone
     - cron:  '0 0 * * *'
-
+  workflow_dispatch:
+  
 jobs:
   run:
     runs-on: ubuntu-latest
