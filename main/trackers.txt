@@ -926,11 +926,11 @@ udp://tracker-udp.gbitt.info:80/announce
 
 udp://mail.zasaonsk.ga:6969/announce
 
-udp://tracker1.myporn.club:9337/announce
-
 udp://tracker.srv00.com:6969/announce
 
 http://dn42.smrsh.net:6969/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 http://107.189.10.20.sslip.io:7777/announce
 
@@ -954,9 +954,9 @@ http://fosstorrents.com:6969/announce
 
 udp://camera.lei001.com:6969/announce
 
-udp://thinking.duckdns.org:6969/announce
-
 udp://tracker.qu.ax:6969/announce
+
+udp://thinking.duckdns.org:6969/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
