@@ -29,3 +29,5 @@ jobs:
         run: |
           python PyTrackers.py
         working-directory: ./main
+      - name: GitOps Pull Request
+        uses: WhatTheFar/gitops-pr-action@main
