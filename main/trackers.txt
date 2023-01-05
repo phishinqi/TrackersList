@@ -900,9 +900,9 @@ https://trackers.mlsub.net:443/announce
 
 http://t.nyaatracker.com:80/announce
 
-udp://stargrave.org:6969/announce
-
 udp://bt1.archive.org:6969/announce
+
+udp://stargrave.org:6969/announce
 
 udp://v2.iperson.xyz:6969/announce
 
@@ -970,9 +970,9 @@ https://tracker.foreverpirates.co:443/announce
 
 http://tracker.servequake.com:9999/announce
 
-udp://tamas3.ynh.fr:6969/announce
-
 udp://www.peckservers.com:9000/announce
+
+udp://tamas3.ynh.fr:6969/announce
 
 http://bt.endpot.com:80/announce
 
@@ -1002,9 +1002,9 @@ udp://ipv6.tracker.harry.lu:80/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
-udp://epider.me:6969/announce
-
 http://cn.pcfreetime.com:6969/announce
+
+udp://epider.me:6969/announce
 
 udp://open.demonii.com:1337/announce
 
