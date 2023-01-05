@@ -257,10 +257,10 @@ udp://tracker.btsync.gq:233/announce
 udp://open-tracker.demonoid.ch:6969/announce
 http://tracker1.itzmx.com:8080/announce
 udp://sx.xxtor.com:6969/announce
-https://tracker1.wimix.org:443/announce
 udp://commento.getblog.cn:6969/announce
-udp://tracker.army:6969/announce
+https://tracker1.wimix.org:443/announce
 http://tracker2.itzmx.com:6961/announce
+udp://tracker.army:6969/announce
 https://tracker.cyber-hub.net:443/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://tracker.lyretain.site:2710/announce
