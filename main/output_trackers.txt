@@ -221,8 +221,8 @@ udp://cpe-104-34-3-152.socal.res.rr.com:6969/announce
 http://vps-dd0a0715.vps.ovh.net:6969/announce
 udp://thinking.duckdns.org:6969/announce
 udp://srv5.digiboy.ir:6969/announce
-http://tracker.servequake.com:9999/announce
 http://tracker.sakurato.art:23333/announce
+http://tracker.servequake.com:9999/announce
 udp://boysbitte.be:6969/announce
 http://bt.endpot.com:80/announce
 http://ipv4announce.sktorrent.eu:6969/announce
@@ -260,8 +260,8 @@ udp://sx.xxtor.com:6969/announce
 https://tracker1.wimix.org:443/announce
 udp://commento.getblog.cn:6969/announce
 udp://tracker.army:6969/announce
-https://tracker.cyber-hub.net:443/announce
 http://tracker2.itzmx.com:6961/announce
+https://tracker.cyber-hub.net:443/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://tracker.lyretain.site:2710/announce
 udp://94-227-232-84.access.telenet.be:6969/announce
