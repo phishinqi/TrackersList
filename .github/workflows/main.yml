@@ -31,5 +31,5 @@ jobs:
         with:
           name: my-artifact
           path: |
-            trackers.txt
-            output_trackers.txt
+            ./main/trackers.txt
+            ./main/output_trackers.txt
