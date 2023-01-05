@@ -1,13 +1,27 @@
-name: Automatic pull request review
-on: [pull_request]
+name: Automerge
+on:
+  pull_request:
+    types:
+      - labeled
+      - unlabeled
+      - synchronize
+      - opened
+      - edited
+      - ready_for_review
+      - reopened
+      - unlocked
+  pull_request_review:
+    types:
+      - submitted
+  status: {}
 jobs:
-  automate-pullrequest-review:
+  automerge:
     runs-on: ubuntu-latest
     steps:
-      - name: Approve pull request
-        if: github.actor == 'dependabot[bot]'
-        uses: andrewmusgrave/automatic-pull-request-review@0.0.5
-        with:
-          repo-token: ${{ secrets.TOKEN }}
-          event: APPROVE
-          body: 'Thank you dependabot 🎊'
+      - name: automerge
+        uses: "pascalgn/automerge-action@629929da409181990e4e638dcf84a74e11d3af66"
+        env:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          MERGE_LABELS: "automerge,!work in progress"
+          MERGE_METHOD: "squash"
+          MERGE_COMMIT_MESSAGE: "pull-request-title"
