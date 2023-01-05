@@ -33,3 +33,4 @@ jobs:
           path: |
             ./main/trackers.txt
             ./main/output_trackers.txt
+          retention-days: 1
