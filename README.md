@@ -11,7 +11,7 @@
 * 去重：https://raw.githubusercontent.com/phishinqi/TrackersList/main/main/output_trackers.txt
 * 未去重：https://raw.githubusercontent.com/phishinqi/TrackersList/main/main/trackers.txt
 
-**若上述無法使用，我還提供了CDN鏈接**
+**若上述無法使用，我提供了CDN鏈接**
 
 * 去重：https://cdn.jsdelivr.net/gh/phishinqi/TrackersList@main/main/output_trackers.txt
 * 未去重：https://cdn.jsdelivr.net/gh/phishinqi/TrackersList@main/main/trackers.txt
