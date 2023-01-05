@@ -92,3 +92,10 @@ def remove_duplicates():
     f_write.close()
     print("OK!")
 remove_duplicates()
+
+try:
+    os.remove(url_path)
+except OSError as e:
+    print(e)
+else:
+    print("File is deleted successfully")
