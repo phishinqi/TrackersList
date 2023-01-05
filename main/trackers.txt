@@ -888,8 +888,6 @@ udp://tracker.publictracker.xyz:6969/announce
 
 https://tracker.lilithraws.cf:443/announce
 
-udp://themaninashed.com:6969/announce
-
 https://tracker.moeblog.cn:443/announce
 
 https://tracker.lilithraws.org:443/announce
@@ -899,6 +897,8 @@ https://tracker.jiesen.life:8443/announce
 udp://www.torrent.eu.org:451/announce
 
 https://trackers.mlsub.net:443/announce
+
+udp://themaninashed.com:6969/announce
 
 http://t.nyaatracker.com:80/announce
 
@@ -926,9 +926,9 @@ udp://tracker-udp.gbitt.info:80/announce
 
 udp://mail.zasaonsk.ga:6969/announce
 
-udp://tracker.srv00.com:6969/announce
-
 http://dn42.smrsh.net:6969/announce
+
+udp://tracker.srv00.com:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
 
@@ -944,15 +944,15 @@ udp://jutone.com:6969/announce
 
 http://tracker.vraphim.com:6969/announce
 
-http://vps-dd0a0715.vps.ovh.net:6969/announce
-
 udp://cpe-104-34-3-152.socal.res.rr.com:6969/announce
+
+http://vps-dd0a0715.vps.ovh.net:6969/announce
 
 udp://black-bird.ynh.fr:6969/announce
 
-http://fosstorrents.com:6969/announce
-
 udp://camera.lei001.com:6969/announce
+
+http://fosstorrents.com:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
@@ -960,13 +960,13 @@ udp://thinking.duckdns.org:6969/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
-http://tracker.servequake.com:9999/announce
-
 udp://srv5.digiboy.ir:6969/announce
 
-udp://boysbitte.be:6969/announce
+http://tracker.servequake.com:9999/announce
 
 http://tracker.sakurato.art:23333/announce
+
+udp://boysbitte.be:6969/announce
 
 https://tracker.foreverpirates.co:443/announce
 
@@ -976,11 +976,11 @@ http://bt.endpot.com:80/announce
 
 udp://www.peckservers.com:9000/announce
 
-http://ipv4announce.sktorrent.eu:6969/announce
-
 udp://chouchou.top:8080/announce
 
 udp://admin.52ywp.com:6969/announce
+
+http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://thouvenin.cloud:6969/announce
 
@@ -996,9 +996,9 @@ http://retracker.joxnet.ru:80/announce
 
 https://tr.ready4.icu:443/announce
 
-udp://ipv6.tracker.harry.lu:80/announce
-
 http://bt1.letpo.com:80/announce
+
+udp://ipv6.tracker.harry.lu:80/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
@@ -1092,11 +1092,11 @@ udp://tracker.army:6969/announce
 
 https://tracker.cyber-hub.net:443/announce
 
+http://tracker2.itzmx.com:6961/announce
+
 udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://tracker.lyretain.site:2710/announce
-
-http://tracker2.itzmx.com:6961/announce
 
 udp://94-227-232-84.access.telenet.be:6969/announce
 

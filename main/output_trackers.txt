@@ -217,13 +217,13 @@ https://tracker1.ctix.cn:443/announce
 https://tracker2.ctix.cn:443/announce
 udp://jutone.com:6969/announce
 http://tracker.vraphim.com:6969/announce
-http://vps-dd0a0715.vps.ovh.net:6969/announce
 udp://cpe-104-34-3-152.socal.res.rr.com:6969/announce
+http://vps-dd0a0715.vps.ovh.net:6969/announce
 udp://thinking.duckdns.org:6969/announce
-http://tracker.servequake.com:9999/announce
 udp://srv5.digiboy.ir:6969/announce
-udp://boysbitte.be:6969/announce
+http://tracker.servequake.com:9999/announce
 http://tracker.sakurato.art:23333/announce
+udp://boysbitte.be:6969/announce
 http://bt.endpot.com:80/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 udp://tracker.breizh.pm:6969/announce
@@ -232,8 +232,8 @@ http://504e163a.host.njalla.net:6969/announce
 udp://btt.service.gongt.me:43079/announce
 http://retracker.joxnet.ru:80/announce
 https://tr.ready4.icu:443/announce
-udp://ipv6.tracker.harry.lu:80/announce
 http://bt1.letpo.com:80/announce
+udp://ipv6.tracker.harry.lu:80/announce
 http://tracker.pcfreetime.com:6969/announce
 http://cn.pcfreetime.com:6969/announce
 udp://devops.gay:6969/announce
@@ -261,9 +261,9 @@ https://tracker1.wimix.org:443/announce
 udp://commento.getblog.cn:6969/announce
 udp://tracker.army:6969/announce
 https://tracker.cyber-hub.net:443/announce
+http://tracker2.itzmx.com:6961/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://tracker.lyretain.site:2710/announce
-http://tracker2.itzmx.com:6961/announce
 udp://94-227-232-84.access.telenet.be:6969/announce
 http://www.nartlof.com.br:6969/announce
 udp://tracker6.lelux.fi:6969/announce
