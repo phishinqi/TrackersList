@@ -786,6 +786,8 @@ udp://tracker.monitorit4.me:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
 
+udp://tracker1.bt.moack.co.kr:80/announce
+
 udp://tracker.theoks.net:6969/announce
 
 udp://open.publictracker.xyz:6969/announce
@@ -836,8 +838,6 @@ udp://exodus.desync.com:6969/announce
 
 udp://tracker2.dler.com:80/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
-
 udp://torrentclub.space:6969/announce
 
 https://tracker1.ctix.cn:443/announce
@@ -876,8 +876,6 @@ https://tracker2.ctix.cn:443/announce
 
 http://bt.okmp3.ru:2710/announce
 
-udp://themaninashed.com:6969/announce
-
 udp://tracker.joybomb.tw:6969/announce
 
 udp://tracker.tcp.exchange:6969/announce
@@ -890,15 +888,17 @@ udp://tracker.publictracker.xyz:6969/announce
 
 https://tracker.lilithraws.cf:443/announce
 
+udp://themaninashed.com:6969/announce
+
 https://tracker.moeblog.cn:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
+https://tracker.jiesen.life:8443/announce
+
 udp://www.torrent.eu.org:451/announce
 
 https://trackers.mlsub.net:443/announce
-
-https://tracker.jiesen.life:8443/announce
 
 http://t.nyaatracker.com:80/announce
 
@@ -924,11 +924,11 @@ udp://bt2.archive.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
+udp://mail.zasaonsk.ga:6969/announce
+
 udp://tracker1.myporn.club:9337/announce
 
 udp://tracker.srv00.com:6969/announce
-
-udp://mail.zasaonsk.ga:6969/announce
 
 http://dn42.smrsh.net:6969/announce
 
@@ -1038,9 +1038,9 @@ http://t.overflow.biz:6969/announce
 
 udp://run-2.publictracker.xyz:6969/announce
 
-udp://retracker.hotplug.ru:2710/announce
-
 http://tracker.skyts.net:6969/announce
+
+udp://retracker.hotplug.ru:2710/announce
 
 udp://tracker.edkj.club:6969/announce
 
