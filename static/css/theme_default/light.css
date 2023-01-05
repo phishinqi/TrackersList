@@ -389,7 +389,7 @@ pre[class*="language-"].line-numbers > code {
 }
 #sidebar .sub_indicator {
     transition: transform 0.4s linear;
-    background: url("/static/image/theme_default/indicator.svg");
+    background: url("/TrackersList/static/image/theme_default/indicator.svg");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -491,7 +491,7 @@ html[lang^=zh] #article_content #blog_list h2:before {
     width: 2%;
 }
 #menu {
-    background: url("/static/image/theme_default/menu.svg");
+    background: url("/TrackersList/static/image/theme_default/menu.svg");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -708,7 +708,7 @@ html[lang^=zh].heading_no_counter #article_content h4:before {
     cursor: pointer;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url("/static/image/theme_default/print.svg");
+    background-image: url("/TrackersList/static/image/theme_default/print.svg");
 }
 #article_info>div>span {
     padding: 0.2em;
@@ -745,7 +745,7 @@ div.code-toolbar > .toolbar a:hover, div.code-toolbar > .toolbar a:focus, div.co
 /* #to_top_wrapper {
 } */
 #to_top {
-    background: url("/static/image/theme_default/to-top.svg");
+    background: url("/TrackersList/static/image/theme_default/to-top.svg");
     background-size: 2em;
     background-repeat: no-repeat;
     background-position: center;
@@ -805,7 +805,7 @@ div.code-toolbar > .toolbar a:hover, div.code-toolbar > .toolbar a:focus, div.co
 }
 #previous_next #previous a > .icon{
     transition: transform 0.4s linear;
-    background: url("/static/image/theme_default/to-top.svg");
+    background: url("/TrackersList/static/image/theme_default/to-top.svg");
     background-size: 2em;
     background-repeat: no-repeat;
     background-position: center;
@@ -828,7 +828,7 @@ div.code-toolbar > .toolbar a:hover, div.code-toolbar > .toolbar a:focus, div.co
 }
 #previous_next #next a > .icon{
     transition: transform 0.4s linear;
-    background: url("/static/image/theme_default/to-top.svg");
+    background: url("/TrackersList/static/image/theme_default/to-top.svg");
     background-size: 2em;
     background-repeat: no-repeat;
     background-position: center;
@@ -1099,7 +1099,7 @@ details > summary {
 }
 details > summary:before {
     display:inline-block;
-    content: url("/static/image/theme_default/array.svg");
+    content: url("/TrackersList/static/image/theme_default/array.svg");
     transform:rotate(90deg);
     transition: 0.4s;
     left: 0.5em;
@@ -1153,7 +1153,7 @@ details > .details-content, details > div {
         padding-left: 0;
     }
     #navbar_menu_btn {
-        background: url("/static/image/theme_default/menu.svg");
+        background: url("/TrackersList/static/image/theme_default/menu.svg");
         background-size: contain;
         background-repeat: no-repeat;
         background-position: center;
@@ -1210,7 +1210,7 @@ details > .details-content, details > div {
         top: 1em;
     }
     #menu.close {
-        background: url("/static/image/theme_default/back.svg");
+        background: url("/TrackersList/static/image/theme_default/back.svg");
         background-size: contain;
         background-repeat: no-repeat;
         background-position: center;
@@ -1267,7 +1267,7 @@ details > .details-content, details > div {
         z-index: 97;
     }
     #toc_btn {
-        background: url("/static/image/theme_default/anchor.svg");
+        background: url("/TrackersList/static/image/theme_default/anchor.svg");
         background-size: contain;
         background-repeat: no-repeat;
         background-position: center;
@@ -1289,7 +1289,7 @@ details > .details-content, details > div {
     cursor: pointer;
 }
 #navbar .light, #navbar .dark:hover {
-    background: url("/static/image/theme_default/light_mode.svg");
+    background: url("/TrackersList/static/image/theme_default/light_mode.svg");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -1297,7 +1297,7 @@ details > .details-content, details > div {
     min-width: 1rem;
 }
 #navbar .dark, #navbar .light:hover {
-    background: url("/static/image/theme_default/dark_mode.svg");
+    background: url("/TrackersList/static/image/theme_default/dark_mode.svg");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;

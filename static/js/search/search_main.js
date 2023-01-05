@@ -79,7 +79,7 @@ $(document).ready(function(){
             onSearch();
         }
     }
-    downloadJson("/static/search_index/index.json", onDownloadOk);
+    downloadJson("/TrackersList/static/search_index/index.json", onDownloadOk);
     var input_hint = $("#search_input_hint").html();
     var loading_hint = $("#search_loading_hint").html();
     var download_err_hint = $("#search_download_err_hint").html();

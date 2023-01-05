@@ -26,7 +26,7 @@
 
 #search .icon {
     transition: transform 0.4s linear;
-    background: url("/static/image/search/search.svg");
+    background: url("/TrackersList/static/image/search/search.svg");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -61,7 +61,7 @@
     border: 1px solid #58b195;
 }
 #search_wrapper .close {
-    background: url("/static/image/search/close.svg");
+    background: url("/TrackersList/static/image/search/close.svg");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
