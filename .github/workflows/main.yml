@@ -2,8 +2,7 @@ name: GetTrackers
 
 on:
   schedule:
-    # IMPORTANT: Set cron job in UTC timezone
-    - cron:  '0 0 * * *'
+    - cron: '7 0,1,5,10,14,17,22 * * *'
   workflow_dispatch:
   
 jobs:
