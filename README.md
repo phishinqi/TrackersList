@@ -1,4 +1,6 @@
 # TrackersList
+![](https://count.getloli.com/get/@PyTrackerList?theme=asoul)  
+
 適用於一些BT客戶端的Trackers列表，通過Python自動爬取
 你可以在這裏查看相關幫助：https://phishinqi.github.io/TrackersList/
 感謝以下項目提供的Trackers：
