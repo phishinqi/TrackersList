@@ -8,6 +8,7 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 http://bt.endpot.com:80/announce
 http://bt.okmp3.ru:2710/announce
 http://chouchou.top:8080/announce
+http://fosstorrents.com:6969/announce
 http://i-p-v-6.tk:6969/announce
 http://incine.ru:6969/announce
 http://ipv6.1337.cx:6969/announce
@@ -16,10 +17,12 @@ http://movies.zsw.ca:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://open-v6.demonoid.ch:6969/announce
 http://open.acgnxtracker.com:80/announce
+http://open.tracker.ink:6969/announce
 http://p2p.0g.cx:6969/announce
 http://retracker.hotplug.ru:2710/announce
 http://share.camoe.cn:8080/announce
 http://t.acg.rip:6699/announce
+http://t.nyaatracker.com:80/announce
 http://torrentsmd.com:8080/announce
 http://tr.cili001.com:8070/announce
 http://tracker.birkenwald.de:6969/announce
@@ -36,7 +39,6 @@ http://tracker.opentrackr.org:1337/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.skyts.net:6969/announce
 http://tracker.srv00.com:6969/announce
-http://tracker1.bt.moack.co.kr:80/announce
 http://tracker2.dler.org:80/announce
 http://trackme.theom.nz:80/announce
 http://v6-tracker.0g.cx:6969/announce
@@ -113,7 +115,6 @@ udp://new-line.net:6969/announce
 udp://open.4ever.tk:6969/announce
 udp://open.demonii.com:1337/announce
 udp://open.dstud.io:6969/announce
-udp://open.free-tracker.ga:6969/announce
 udp://open.publictracker.xyz:6969/announce
 udp://open.stealth.si:80/announce
 udp://open.tracker.ink:6969/announce
@@ -139,6 +140,7 @@ udp://t.133335.xyz:6969/announce
 udp://tamas3.ynh.fr:6969/announce
 udp://thagoat.rocks:6969/announce
 udp://themaninashed.com:6969/announce
+udp://thinking.duckdns.org:6969/announce
 udp://thouvenin.cloud:6969/announce
 udp://torrents.artixlinux.org:6969/announce
 udp://tr.bangumi.moe:6969/announce
@@ -174,7 +176,6 @@ udp://tracker.tcp.exchange:6969/announce
 udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
-udp://tracker.yangxiaoguozi.cn:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.myporn.club:9337/announce
 udp://tracker2.dler.com:80/announce
@@ -195,22 +196,21 @@ udp://explodie.org:6969/announce
 http://tracker.mywaifu.best:6969/announce
 udp://tracker.lelux.fi:6969/announce
 udp://run-2.publictracker.xyz:6969/announce
+udp://open.free-tracker.ga:6969/announce
 udp://download.nerocloud.me:6969/announce
 udp://carr.codes:6969/announce
 http://www.peckservers.com:9000/announce
 http://tracker3.ctix.cn:8080/announce
 http://tracker.lelux.fi:80/announce
-http://open.tracker.ink:6969/announce
 udp://cpe-104-34-3-152.socal.res.rr.com:6969/announce
-http://t.nyaatracker.com:80/announce
 https://tracker1.ctix.cn:443/announce
+udp://tracker.yangxiaoguozi.cn:6969/announce
 https://tracker2.ctix.cn:443/announce
 udp://bt.letpo.com:6969/announce
-udp://thinking.duckdns.org:6969/announce
-http://tracker.aibt.xyz:900/announce
 http://vps-dd0a0715.vps.ovh.net:6969/announce
 udp://boysbitte.be:6969/announce
 http://bt1.letpo.com:80/announce
+http://tracker.aibt.xyz:900/announce
 udp://jutone.com:6969/announce
 udp://srv5.digiboy.ir:6969/announce
 https://tr.ready4.icu:443/announce
@@ -226,7 +226,6 @@ http://ipv4announce.sktorrent.eu:6969/announce
 udp://btt.service.gongt.me:43079/announce
 udp://tracker.edkj.club:6969/announce
 http://debuz.com:6969/announce
-http://fosstorrents.com:6969/announce
 udp://creative.7o7.cx:6969/announce
 http://tracker.servequake.com:9999/announce
 udp://torrentclub.space:6969/announce
@@ -265,7 +264,7 @@ http://openbittorrent.com:80/announce
 http://0205.uptm.ch:6969/announce
 udp://edu.uifr.ru:6969/announce
 https://tracker.cangku.moe:443/announce
-udp://9.rarbg.to:2970/announce
+udp://9.rarbg.to:2740/announce
 udp://tracker.uw0.xyz:6969/announce
 udp://retracker.netbynet.ru:2710/announce
 udp://newtoncity.org:6969/announce
@@ -692,6 +691,7 @@ http://datascene.net/announce.php
 http://156.234.201.18/announce
 http://61.216.109.95:6969/announce
 http://61.216.166.123:6969/announce
+http://tracker1.bt.moack.co.kr:80/announce
 http://bt.beatrice-raws.org/announce
 http://www.xwt-classics.net/announce.php
 http://torrent.mp3quran.net/announce.php
