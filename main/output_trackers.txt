@@ -8,6 +8,7 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 http://bt.okmp3.ru:2710/announce
 http://chouchou.top:8080/announce
 http://dht.dhtclub.com:666/announce
+http://fosstorrents.com:6969/announce
 http://i-p-v-6.tk:6969/announce
 http://incine.ru:6969/announce
 http://ipv6.1337.cx:6969/announce
@@ -33,6 +34,7 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 http://tracker.k.vu:6969/announce
 http://tracker.mywaifu.best:6969/announce
+http://tracker.openbittorrent.com:80/announce
 http://tracker.opentrackr.org:1337/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.sakurato.art:23333/announce
@@ -45,7 +47,6 @@ http://v6-tracker.0g.cx:6969/announce
 http://vps02.net.orel.ru:80/announce
 http://wepzone.net:6969/announce
 http://www.all4nothin.net:80/announce.php
-http://www.peckservers.com:9000/announce
 http://www.wareztorrent.com:80/announce
 https://1337.abcvg.info:443/announce
 https://opentracker.i2p.rocks:443/announce
@@ -129,7 +130,6 @@ udp://private.anonseed.com:6969/announce
 udp://psyco.fr:6969/announce
 udp://public-tracker.ml:6969/announce
 udp://public.publictracker.xyz:6969/announce
-udp://qtstm32fan.ru:6969/announce
 udp://rep-art.ynh.fr:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://retracker.lanta-net.ru:2710/announce
@@ -146,7 +146,6 @@ udp://thagoat.rocks:6969/announce
 udp://themaninashed.com:6969/announce
 udp://thouvenin.cloud:6969/announce
 udp://torrents.artixlinux.org:6969/announce
-udp://tr.bangumi.moe:6969/announce
 udp://tr.cili001.com:8070/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.4.babico.name.tr:3131/announce
@@ -196,15 +195,16 @@ udp://www.torrent.eu.org:451/announce
 udp://zecircle.xyz:6969/announce
 ws://hub.bugout.link:80/announce
 wss://tracker.openwebtorrent.com:443/announceudp://tracker.opentrackr.org:1337/announce
-http://tracker.openbittorrent.com:80/announce
 udp://explodie.org:6969/announce
 https://tracker2.ctix.cn:443/announce
+http://www.peckservers.com:9000/announce
+udp://tr.bangumi.moe:6969/announce
 udp://run-2.publictracker.xyz:6969/announce
+udp://qtstm32fan.ru:6969/announce
 udp://download.nerocloud.me:6969/announce
 udp://carr.codes:6969/announce
 http://tracker3.ctix.cn:8080/announce
 http://tracker1.bt.moack.co.kr:80/announce
-http://fosstorrents.com:6969/announce
 udp://cpe-104-34-3-152.socal.res.rr.com:6969/announce
 https://tracker1.ctix.cn:443/announce
 http://bt1.letpo.com:80/announce
@@ -225,8 +225,8 @@ udp://tracker.breizh.pm:6969/announce
 http://retracker.joxnet.ru:80/announce
 http://107.189.10.20.sslip.io:7777/announce
 udp://sx.xxtor.com:6969/announce
-udp://srv5.digiboy.ir:6969/announce
 udp://tracker.edkj.club:6969/announce
+udp://srv5.digiboy.ir:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 http://debuz.com:6969/announce
 udp://v2.iperson.xyz:6969/announce
@@ -253,7 +253,7 @@ udp://theodoric.fr:6969/announce
 http://0205.uptm.ch:6969/announce
 udp://edu.uifr.ru:6969/announce
 https://tracker.cangku.moe:443/announce
-udp://9.rarbg.to:2950/announce
+udp://9.rarbg.to:2880/announce
 udp://tracker.uw0.xyz:6969/announce
 udp://retracker.netbynet.ru:2710/announce
 udp://newtoncity.org:6969/announce
