@@ -722,8 +722,6 @@ udp://open.dstud.io:6969/announce
 
 udp://zecircle.xyz:6969/announce
 
-udp://boysbitte.be:6969/announce
-
 udp://moonburrow.club:6969/announce
 
 udp://tracker.artixlinux.org:6969/announce
@@ -751,6 +749,8 @@ udp://tracker.auctor.tv:6969/announce
 udp://tracker.srv00.com:6969/announce
 
 udp://epider.me:6969/announce
+
+udp://boysbitte.be:6969/announce
 
 udp://tracker.4.babico.name.tr:3131/announce
 
@@ -782,6 +782,8 @@ udp://sanincode.com:6969/announce
 
 udp://download.nerocloud.me:6969/announce
 
+udp://thagoat.rocks:6969/announce
+
 udp://tracker.theoks.net:6969/announce
 
 udp://mirror.aptus.co.tz:6969/announce
@@ -793,8 +795,6 @@ udp://stargrave.org:6969/announce
 udp://cutscloud.duckdns.org:6969/announce
 
 udp://rep-art.ynh.fr:6969/announce
-
-udp://thagoat.rocks:6969/announce
 
 https://tracker.lilithraws.cf:443/announce
 
@@ -850,27 +850,25 @@ udp://ipv4.tracker.harry.lu:80/announce
 
 udp://new-line.net:6969/announce
 
+https://tracker.moeblog.cn:443/announce
+
+udp://tracker.publictracker.xyz:6969/announce
+
+udp://tracker.qu.ax:6969/announce
+
 http://open-v6.demonoid.ch:6969/announce
 
-https://tracker.moeblog.cn:443/announce
+http://bt1.letpo.com:80/announce
 
 http://ipv6.govt.hu:6969/announce
 
 udp://ipv6.69.mu:6969/announce
 
-http://i-p-v-6.tk:6969/announce
-
-udp://tracker.publictracker.xyz:6969/announce
+udp://u4.trakx.crim.ist:1337/announce
 
 http://ipv6.1337.cx:6969/announce
 
-http://tracker.k.vu:6969/announce
-
-udp://tracker.qu.ax:6969/announce
-
-http://bt1.letpo.com:80/announce
-
-udp://u4.trakx.crim.ist:1337/announce
+http://i-p-v-6.tk:6969/announce
 
 http://dht.dhtclub.com:666/announce
 
@@ -879,6 +877,8 @@ https://tracker1.ctix.cn:443/announce
 http://vps-dd0a0715.vps.ovh.net:6969/announce
 
 udp://tracker.yangxiaoguozi.cn:6969/announce
+
+http://tracker.k.vu:6969/announce
 
 udp://thinking.duckdns.org:6969/announce
 
@@ -890,19 +890,19 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 
 http://tracker.sakurato.art:23333/announce
 
-udp://u6.trakx.crim.ist:1337/announce
-
-udp://bt.letpo.com:6969/announce
-
 http://504e163a.host.njalla.net:6969/announce
+
+udp://u6.trakx.crim.ist:1337/announce
 
 udp://tracker.beeimg.com:6969/announce
 
+udp://bt.letpo.com:6969/announce
+
 udp://ipv6.tracker.harry.lu:80/announce
 
-udp://tracker.torrent.eu.org:451/announce
-
 udp://tamas3.ynh.fr:6969/announce
+
+udp://tracker.torrent.eu.org:451/announce
 
 http://retracker.joxnet.ru:80/announce
 
@@ -918,17 +918,17 @@ udp://camera.lei001.com:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
+udp://tracker.ccp.ovh:6969/announce
+
 udp://tracker.breizh.pm:6969/announce
 
 udp://black-bird.ynh.fr:6969/announce
 
-udp://tracker.ccp.ovh:6969/announce
-
 https://tracker1.loli.co.nz:443/announce
 
-udp://btt.service.gongt.me:43079/announce
-
 https://tracker.dmhy.pw:443/announce
+
+udp://btt.service.gongt.me:43079/announce
 
 udp://admin.52ywp.com:6969/announce
 
@@ -946,9 +946,9 @@ udp://tracker.farted.net:6969/announce
 
 https://tr.ready4.icu:443/announce
 
-udp://open.xxtor.com:3074/announce
-
 http://openbittorrent.com:80/announce
+
+udp://open.xxtor.com:3074/announce
 
 udp://z.mercax.com:53/announce
 
@@ -982,9 +982,9 @@ udp://free.publictracker.xyz:6969/announce
 
 udp://static.202.35.76.144.clients.your-server.de:6969/announce
 
-udp://retracker.lanta-net.ru:2710/announce
-
 http://web.open-tracker.cf:6969/announce
+
+udp://retracker.lanta-net.ru:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
@@ -1028,7 +1028,7 @@ http://0205.uptm.ch:6969/announce
 
 https://tracker.cangku.moe:443/announce
 
-udp://9.rarbg.to:2770/announce
+udp://9.rarbg.to:2980/announce
 
 udp://tracker.uw0.xyz:6969/announce
 
