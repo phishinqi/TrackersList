@@ -217,11 +217,11 @@ udp://btt.service.gongt.me:43079/announce
 udp://ipv6.tracker.harry.lu:80/announce
 udp://tracker.zaluan.xyz:6969/announce
 udp://thinking.duckdns.org:6969/announce
-http://504e163a.host.njalla.net:6969/announce
 http://tracker.vraphim.com:6969/announce
 udp://tracker.edkj.club:6969/announce
-udp://dht.bt251.com:6969/announce
+http://504e163a.host.njalla.net:6969/announce
 udp://tracker.breizh.pm:6969/announce
+udp://dht.bt251.com:6969/announce
 http://web.open-tracker.cf:6969/announce
 http://openbittorrent.com:80/announce
 udp://smtp.loki.tel:25/announce
@@ -252,7 +252,7 @@ https://tracker.nitrix.me:443/announce
 udp://tracker.lyretain.site:2710/announce
 http://0205.uptm.ch:6969/announce
 https://tracker.cangku.moe:443/announce
-udp://9.rarbg.to:2960/announce
+udp://9.rarbg.to:2770/announce
 udp://retracker.netbynet.ru:2710/announce
 udp://newtoncity.org:6969/announce
 http://retracker.sevstar.net:2710/announce
