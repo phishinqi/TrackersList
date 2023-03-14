@@ -720,8 +720,6 @@ udp://www.peckservers.com:9000/announce
 
 http://web.open-tracker.cf:6969/announce
 
-udp://tracker.arcbox.cc:6969/announce
-
 udp://tracker.renfei.net:8080/announce
 
 udp://open.stealth.si:80/announce
@@ -756,6 +754,8 @@ udp://opentracker.i2p.rocks:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
 
+http://bt.okmp3.ru:2710/announce
+
 udp://tracker.auctor.tv:6969/announce
 
 https://tr.burnabyhighstar.com:443/announce
@@ -764,21 +764,21 @@ udp://astrr.ru:6969/announce
 
 udp://cpe-104-34-3-152.socal.res.rr.com:6969/announce
 
-udp://acxx.de:6969/announce
-
 http://v6-tracker.0g.cx:6969/announce
 
 udp://t.133335.xyz:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-http://bt.okmp3.ru:2710/announce
-
 udp://ipv6.tracker.monitorit4.me:6969/announce
 
 udp://slicie.icon256.com:8000/announce
 
+udp://acxx.de:6969/announce
+
 udp://tracker.skynetcloud.site:6969/announce
+
+udp://tracker.arcbox.cc:6969/announce
 
 udp://sanincode.com:6969/announce
 
@@ -822,9 +822,9 @@ https://trackers.mlsub.net:443/announce
 
 udp://run-2.publictracker.xyz:6969/announce
 
-http://t.nyaatracker.com:80/announce
-
 udp://tracker.pimpmyworld.to:6969/announce
+
+http://t.nyaatracker.com:80/announce
 
 udp://new-line.net:6969/announce
 
@@ -836,23 +836,21 @@ https://tracker.mlsub.net:443/announce
 
 udp://tracker.cubonegro.xyz:6969/announce
 
-http://dht.dhtclub.com:666/announce
+udp://retracker01-msk-virt.corbina.net:80/announce
 
-udp://tracker.bittor.pw:1337/announce
+http://dht.dhtclub.com:666/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
 https://tracker.moeblog.cn:443/announce
 
-udp://www.torrent.eu.org:451/announce
-
 http://bt1.letpo.com:80/announce
 
 udp://tracker.yangxiaoguozi.cn:6969/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
+udp://www.torrent.eu.org:451/announce
 
-http://bt.endpot.com:80/announce
+udp://tracker.bittor.pw:1337/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
@@ -861,6 +859,8 @@ udp://u6.trakx.crim.ist:1337/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
+
+http://bt.endpot.com:80/announce
 
 https://tracker.jiesen.life:8443/announce
 
@@ -908,9 +908,9 @@ udp://zecircle.xyz:6969/announce
 
 udp://camera.lei001.com:6969/announce
 
-udp://jutone.com:6969/announce
-
 udp://admin.52ywp.com:6969/announce
+
+udp://jutone.com:6969/announce
 
 udp://thinking.duckdns.org:6969/announce
 
@@ -922,9 +922,9 @@ udp://black-bird.ynh.fr:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
-http://fosstorrents.com:6969/announce
-
 udp://tracker.filemail.com:6969/announce
+
+http://fosstorrents.com:6969/announce
 
 udp://tracker.zaluan.xyz:6969/announce
 
@@ -936,9 +936,9 @@ udp://tracker.theoks.net:6969/announce
 
 udp://dns.xxtor.com:53/announce
 
-udp://chouchou.top:8080/announce
-
 udp://ftp.pet:2710/announce
+
+udp://chouchou.top:8080/announce
 
 http://tracker3.ctix.cn:8080/announce
 
@@ -952,9 +952,9 @@ udp://creative.7o7.cx:6969/announce
 
 udp://open.tracker.ink:6969/announce
 
-http://tracker.sakurato.art:23333/announce
-
 udp://v2.iperson.xyz:6969/announce
+
+http://tracker.sakurato.art:23333/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -972,19 +972,19 @@ udp://tracker.jonaslsa.com:6969/announce
 
 udp://retracker.lanta-net.ru:2710/announce
 
-udp://tracker.openbtba.com:6969/announce
-
 udp://open.xxtor.com:3074/announce
 
-udp://freedom.1776.ga:6969/announce
+udp://tracker.openbtba.com:6969/announce
 
 udp://fe.dealclub.de:6969/announce
 
 http://parag.rs:6969/announce
 
-udp://psyco.fr:6969/announce
-
 http://open-v6.demonoid.ch:6969/announce
+
+udp://freedom.1776.ga:6969/announce
+
+udp://psyco.fr:6969/announce
 
 http://ipv6.govt.hu:6969/announce
 
@@ -998,21 +998,21 @@ udp://tracker.farted.net:6969/announce
 
 http://i-p-v-6.tk:6969/announce
 
-udp://ipv6.69.mu:6969/announce
-
 udp://free.publictracker.xyz:6969/announce
+
+udp://ipv6.69.mu:6969/announce
 
 http://tracker.k.vu:6969/announce
 
-http://tracker.swifte.space:2710/announce
-
 http://montreal.nyap2p.com:8080/announce
+
+http://tracker.swifte.space:2710/announce
 
 https://1337.abcvg.info:443/announce
 
-http://connect.swifte.space:2710/announce
-
 udp://tsundere.pw:6969/announce
+
+http://connect.swifte.space:2710/announce
 
 http://cn.pcfreetime.com:6969/announce
 
@@ -1032,7 +1032,7 @@ udp://tracker.lyretain.site:2710/announce
 
 http://0205.uptm.ch:6969/announce
 
-udp://9.rarbg.to:2880/announce
+udp://9.rarbg.to:2930/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
