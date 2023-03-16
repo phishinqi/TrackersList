@@ -162,8 +162,8 @@ udp://tracker.yangxiaoguozi.cn:6969/announce
 http://vps-dd0a0715.vps.ovh.net:6969/announce
 udp://tracker2.dler.com:80/announce
 udp://bt.letpo.com:6969/announce
-http://tracker.gbitt.info:80/announce
 udp://tracker.edkj.club:6969/announce
+http://tracker.gbitt.info:80/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.publictracker.xyz:6969/announce
 http://retracker.joxnet.ru:80/announce
@@ -193,8 +193,8 @@ udp://dht.bt251.com:6969/announce
 http://open-v6.demonoid.ch:6969/announce
 http://ipv6.govt.hu:6969/announce
 http://ipv6.1337.cx:6969/announce
-udp://open.xxtor.com:3074/announce
 udp://tracker.btsync.gq:233/announce
+udp://open.xxtor.com:3074/announce
 udp://tracker.farted.net:6969/announce
 http://i-p-v-6.tk:6969/announce
 http://tracker.k.vu:6969/announce
@@ -202,8 +202,8 @@ udp://free.publictracker.xyz:6969/announce
 udp://smtp.loki.tel:25/announce
 udp://ipv6.69.mu:6969/announce
 http://tracker.swifte.space:2710/announce
-https://1337.abcvg.info:443/announce
 udp://tsundere.pw:6969/announce
+https://1337.abcvg.info:443/announce
 udp://tracker.openbtba.com:6969/announce
 udp://open.tracker.cl:1337/announce
 http://cn.pcfreetime.com:6969/announce
@@ -215,7 +215,7 @@ https://tracker.cangku.moe:443/announce
 http://tracker.yoshi210.com:6969/announce
 udp://tracker.lyretain.site:2710/announce
 http://0205.uptm.ch:6969/announce
-udp://9.rarbg.to:2730/announce
+udp://9.rarbg.to:2770/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://retracker.netbynet.ru:2710/announce
 udp://newtoncity.org:6969/announce
