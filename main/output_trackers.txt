@@ -167,10 +167,10 @@ udp://bt.letpo.com:6969/announce
 udp://tracker.edkj.club:6969/announce
 http://retracker.joxnet.ru:80/announce
 udp://thinking.duckdns.org:6969/announce
-https://tracker.lilithraws.cf:443/announce
 udp://ipv6.tracker.harry.lu:80/announce
-udp://ftp.pet:2710/announce
 https://tracker1.loli.co.nz:443/announce
+https://tracker.lilithraws.cf:443/announce
+udp://ftp.pet:2710/announce
 https://tracker1.ctix.cn:443/announce
 https://tracker.dmhy.pw:443/announce
 udp://cutscloud.duckdns.org:6969/announce
@@ -218,7 +218,6 @@ http://0205.uptm.ch:6969/announce
 udp://9.rarbg.to:2960/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://retracker.netbynet.ru:2710/announce
-udp://newtoncity.org:6969/announce
 http://retracker.sevstar.net:2710/announce
 https://tracker.nanoha.org:443/announce
 udp://tr.cili001.com:8070/announce
@@ -452,7 +451,6 @@ http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 http://chouchou.top:8080/announce
 http://fe.dealclub.de:6969/announce
-http://movies.zsw.ca:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://retracker.hotplug.ru:2710/announce
 http://share.camoe.cn:8080/announce
@@ -464,6 +462,7 @@ http://tracker.srv00.com:6969/announce
 http://tracker.swateam.org.uk:2710/announce
 http://trackme.theom.nz:80/announce
 http://www.all4nothin.net:80/announce.php
+http://www.peckservers.com:9000/announce
 http://www.wareztorrent.com:80/announce
 https://trackme.theom.nz:443/announce
 udp://184.105.151.166:6969/announce
@@ -750,6 +749,7 @@ http://torrents.linuxmint.com/announce.php
 http://announce.partis.si/announce
 http://proaudiotorrents.org/announce.php
 https://torrent.ubuntu.com/announce
+http://movies.zsw.ca:6969/announce
 http://torrent.ubuntu.com:6969/announce
 http://mvgforumtracker.mvgroup.org/tracker.php/announce
 http://blackz.ro/announce.php
@@ -956,7 +956,6 @@ udp://tracker.istole.it:80/announce
 udp://11.rarbg.com:80/announce
 http://tracker2.itzmx.com:6961/announce
 udp://tracker2.itzmx.com:6961/announce
-http://www.peckservers.com:9000/announce
 http://201.43.209.254:6969/announce
 http://45.154.253.8/announce
 http://97.117.78.100:9000/announce
@@ -1113,7 +1112,6 @@ https://tr.doogh.club:443/announce
 https://tr.highstar.shop:443/announce
 http://140.82.21.192:8080/announce
 http://83.31.190.19:6969/announce
-http://45.154.253.10/announce
 udp://sugoi.pomf.se:80/announce
 http://www.siambt.com/announce.php
 http://bt.3dmgame.com:2710/announce
