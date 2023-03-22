@@ -710,9 +710,9 @@ udp://opentracker.io:6969/announce
 
 udp://tracker.cubonegro.lol:6969/announce
 
-udp://explodie.org:6969/announce
+http://tracker.renfei.net:8080/announce
 
-http://tracker.ipv6tracker.ru:80/announce
+udp://explodie.org:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
@@ -766,9 +766,9 @@ http://web.open-tracker.cf:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
-https://tr.burnabyhighstar.com:443/announce
-
 udp://www.peckservers.com:9000/announce
+
+https://tr.burnabyhighstar.com:443/announce
 
 udp://tracker.joybomb.tw:6969/announce
 
@@ -777,6 +777,8 @@ http://vps-dd0a0715.vps.ovh.net:6969/announce
 udp://wepzone.net:6969/announce
 
 udp://tracker.dler.com:6969/announce
+
+http://tracker.ipv6tracker.ru:80/announce
 
 udp://tracker.cyberia.is:6969/announce
 
@@ -818,9 +820,11 @@ http://bt1.letpo.com:80/announce
 
 udp://www.torrent.eu.org:451/announce
 
+udp://tracker2.dler.com:80/announce
+
 http://open.acgtracker.com:1096/announce
 
-udp://tracker2.dler.com:80/announce
+udp://u6.trakx.crim.ist:1337/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
@@ -830,13 +834,11 @@ https://trackers.mlsub.net:443/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
-udp://u6.trakx.crim.ist:1337/announce
-
 udp://tracker.bitsearch.to:1337/announce
 
-http://ipv4announce.sktorrent.eu:6969/announce
-
 udp://tracker1.bt.moack.co.kr:80/announce
+
+http://ipv4announce.sktorrent.eu:6969/announce
 
 https://tracker.mlsub.net:443/announce
 
@@ -852,11 +854,11 @@ http://bt.endpot.com:80/announce
 
 udp://thouvenin.cloud:6969/announce
 
-https://tracker.expli.top:443/announce
-
 http://tracker.gbitt.info:80/announce
 
 udp://tracker-udp.gbitt.info:80/announce
+
+https://tracker.expli.top:443/announce
 
 http://retracker.joxnet.ru:80/announce
 
@@ -866,11 +868,11 @@ udp://camera.lei001.com:6969/announce
 
 udp://zecircle.xyz:6969/announce
 
-udp://tracker.cubonegro.xyz:6969/announce
-
 udp://admin.52ywp.com:6969/announce
 
 udp://ipv6.tracker.harry.lu:80/announce
+
+udp://tracker.cubonegro.xyz:6969/announce
 
 https://tracker1.loli.co.nz:443/announce
 
@@ -884,13 +886,13 @@ https://tracker1.520.jp:443/announce
 
 https://tracker.dmhy.pw:443/announce
 
-https://tracker2.ctix.cn:443/announce
-
 udp://tamas3.ynh.fr:6969/announce
 
-udp://black-bird.ynh.fr:6969/announce
+https://tracker2.ctix.cn:443/announce
 
 udp://ftp.pet:2710/announce
+
+udp://black-bird.ynh.fr:6969/announce
 
 https://tracker.foreverpirates.co:443/announce
 
@@ -940,10 +942,6 @@ udp://btt.service.gongt.me:43079/announce
 
 http://debuz.com:6969/announce
 
-https://tr.ready4.icu:443/announce
-
-udp://retracker.lanta-net.ru:2710/announce
-
 http://ipv6.1337.cx:6969/announce
 
 http://tracker.k.vu:6969/announce
@@ -952,9 +950,13 @@ http://i-p-v-6.tk:6969/announce
 
 http://ipv6.govt.hu:6969/announce
 
-udp://dns.xxtor.com:53/announce
+udp://retracker.lanta-net.ru:2710/announce
 
 http://open-v6.demonoid.ch:6969/announce
+
+https://tr.ready4.icu:443/announce
+
+udp://dns.xxtor.com:53/announce
 
 udp://tracker.farted.net:6969/announce
 
@@ -984,15 +986,15 @@ https://1337.abcvg.info:443/announce
 
 http://147job.com:6969/announce
 
+udp://open.tracker.cl:1337/announce
+
 udp://dht.bt251.com:6969/announce
 
-udp://open.tracker.cl:1337/announce
+http://dn42.smrsh.net:6969/announce
 
 http://tracker.swifte.space:2710/announce
 
 http://cn.pcfreetime.com:6969/announce
-
-http://dn42.smrsh.net:6969/announce
 
 http://wegkxfcivgx.chickenkiller.com:80/announce
 
@@ -1000,15 +1002,13 @@ http://tracker.pcfreetime.com:6969/announce
 
 http://connect.swifte.space:2710/announce
 
-https://tracker.renfei.net:8080/announce
+http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://tracker.yoshi210.com:6969/announce
 
-http://torrenttracker.nwc.acsalaska.net:6969/announce
-
 http://0205.uptm.ch:6969/announce
 
-udp://9.rarbg.to:2980/announce
+udp://9.rarbg.to:2850/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -2725,7 +2725,7 @@ http://140.82.21.192:8080/announce
 http://tracker.renfei.net:8080/announce
 http://83.31.190.19:6969/announce
 http://45.154.253.10/announce
-The content may contain violation informationhttp://tracker1.itzmx.com:8080/announce
+http://tracker1.itzmx.com:8080/announce
 http://tracker2.itzmx.com:6961/announce
 http://tracker3.itzmx.com:6961/announce
 http://tracker4.itzmx.com:2710/announce
