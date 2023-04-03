@@ -231,15 +231,15 @@ https://tracker.jiesen.life:8443/announce
 udp://www.2600.com:6969/announce
 udp://freedom.1776.ga:6969/announce
 udp://cutscloud.duckdns.org:6969/announce
-udp://tsundere.pw:6969/announce
 udp://open.tracker.cl:1337/announce
+udp://tsundere.pw:6969/announce
 http://cn.pcfreetime.com:6969/announce
 udp://jutone.com:6969/announce
 http://tracker.pcfreetime.com:6969/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.iperson.xyz:6969/announce
-udp://9.rarbg.to:2960/announce
+udp://9.rarbg.to:2890/announce
 udp://retracker.netbynet.ru:2710/announce
 http://retracker.sevstar.net:2710/announce
 https://tracker.nanoha.org:443/announce
