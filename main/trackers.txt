@@ -812,9 +812,9 @@ https://tracker.moeblog.cn:443/announce
 
 udp://admin.52ywp.com:6969/announce
 
-http://tracker.gbitt.info:80/announce
-
 udp://ryjer.com:6969/announce
+
+http://tracker.gbitt.info:80/announce
 
 http://147job.com:6969/announce
 
@@ -842,21 +842,21 @@ udp://open.publictracker.xyz:6969/announce
 
 udp://open.4ever.tk:6969/announce
 
-udp://www.peckservers.com:9000/announce
-
 udp://ftp.pet:2710/announce
+
+udp://www.peckservers.com:9000/announce
 
 udp://tracker.swateam.org.uk:2710/announce
 
 http://tracker.vraphim.com:6969/announce
 
-http://open.acgtracker.com:1096/announce
-
-udp://tracker.edkj.club:6969/announce
-
 udp://retracker.hotplug.ru:2710/announce
 
+http://open.acgtracker.com:1096/announce
+
 http://openbittorrent.com:80/announce
+
+udp://tracker.edkj.club:6969/announce
 
 udp://slicie.icon256.com:8000/announce
 
@@ -882,21 +882,21 @@ http://montreal.nyap2p.com:8080/announce
 
 https://tracker.jiesen.life:8443/announce
 
-udp://ipv4.tracker.harry.lu:80/announce
-
 http://debuz.com:6969/announce
+
+udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.harry.lu:80/announce
 
+udp://retracker.lanta-net.ru:2710/announce
+
 https://tracker.dmhy.pw:443/announce
 
-udp://retracker.lanta-net.ru:2710/announce
+udp://tracker.lelux.fi:6969/announce
 
 http://vps02.net.orel.ru:80/announce
 
 https://tracker2.ctix.cn:443/announce
-
-udp://tracker.lelux.fi:6969/announce
 
 https://tracker1.ctix.cn:443/announce
 
@@ -905,6 +905,8 @@ udp://fe.dealclub.de:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 
 https://tracker1.520.jp:443/announce
+
+udp://cloud.arzanmodern.ir:6969/announce
 
 udp://tracker.btsync.gq:233/announce
 
@@ -936,11 +938,11 @@ https://tracker.foreverpirates.co:443/announce
 
 udp://freedom.1776.ga:6969/announce
 
-udp://t.zerg.pw:6969/announce
-
 http://cn.pcfreetime.com:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
+
+udp://t.zerg.pw:6969/announce
 
 udp://tsundere.pw:6969/announce
 
@@ -962,7 +964,7 @@ udp://tracker.iperson.xyz:6969/announce
 
 udp://jutone.com:6969/announce
 
-udp://9.rarbg.to:2750/announce
+udp://9.rarbg.to:2940/announce
 
 udp://retracker.netbynet.ru:2710/announce
 
