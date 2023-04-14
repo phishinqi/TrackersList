@@ -12,15 +12,11 @@ http://bt.endpot.com:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://bt1.letpo.com:80/announce
-
 http://chouchou.top:8080/announce
 
 http://dht.dhtclub.com:666/announce
 
 http://dn42.smrsh.net:6969/announce
-
-http://fosstorrents.com:6969/announce
 
 http://incine.ru:6969/announce
 
@@ -50,8 +46,6 @@ http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.dler.com:6969/announce
-
 http://tracker.dler.org:6969/announce
 
 http://tracker.edkj.club:6969/announce
@@ -73,8 +67,6 @@ http://tracker.renfei.net:8080/announce
 http://tracker.srv00.com:6969/announce
 
 http://tracker.swateam.org.uk:2710/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -790,23 +782,23 @@ https://torrent-tracker.hama3.net:443/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
+https://tracker.moeblog.cn:443/announce
+
 https://trackers.mlsub.net:443/announce
 
 udp://run-2.publictracker.xyz:6969/announce
-
-https://tracker.moeblog.cn:443/announce
-
-https://tracker.mlsub.net:443/announce
 
 http://retracker.joxnet.ru:80/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
+https://tracker.mlsub.net:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
-udp://www.torrent.eu.org:451/announce
-
 udp://tracker.cubonegro.lol:6969/announce
+
+udp://www.torrent.eu.org:451/announce
 
 udp://admin.52ywp.com:6969/announce
 
@@ -826,9 +818,9 @@ udp://stargrave.org:6969/announce
 
 udp://tracker.pimpmyworld.to:6969/announce
 
-udp://chouchou.top:8080/announce
-
 udp://black-bird.ynh.fr:6969/announce
+
+udp://chouchou.top:8080/announce
 
 udp://tracker.arcbox.cc:6969/announce
 
@@ -872,9 +864,9 @@ udp://btt.service.gongt.me:43079/announce
 
 udp://slicie.icon256.com:8000/announce
 
-http://web.open-tracker.cf:6969/announce
-
 https://tracker.jiesen.life:8443/announce
+
+http://web.open-tracker.cf:6969/announce
 
 http://montreal.nyap2p.com:8080/announce
 
@@ -892,9 +884,9 @@ udp://retracker.lanta-net.ru:2710/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
-udp://ipv6.tracker.harry.lu:80/announce
-
 udp://tracker.btsync.gq:233/announce
+
+udp://ipv6.tracker.harry.lu:80/announce
 
 https://tracker.dmhy.pw:443/announce
 
@@ -960,7 +952,7 @@ udp://cloud.samtechnic.ir:6969/announce
 
 udp://files.samtechnic.ir:6969/announce
 
-udp://9.rarbg.to:2750/announce
+udp://9.rarbg.to:2790/announce
 
 udp://retracker.netbynet.ru:2710/announce
 
@@ -1452,15 +1444,11 @@ http://bt.endpot.com:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://bt1.letpo.com:80/announce
-
 http://chouchou.top:8080/announce
 
 http://dht.dhtclub.com:666/announce
 
 http://dn42.smrsh.net:6969/announce
-
-http://fosstorrents.com:6969/announce
 
 http://incine.ru:6969/announce
 
@@ -1490,8 +1478,6 @@ http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.dler.com:6969/announce
-
 http://tracker.dler.org:6969/announce
 
 http://tracker.edkj.club:6969/announce
@@ -1513,8 +1499,6 @@ http://tracker.renfei.net:8080/announce
 http://tracker.srv00.com:6969/announce
 
 http://tracker.swateam.org.uk:2710/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -2698,6 +2682,7 @@ http://announce.partis.si:80/announce
 http://mvgforumtracker.mvgroup.org:80/tracker.php/announce
 http://156.234.201.18:80/announce
 https://t.zerg.pw/announce
+http://frp.v2fy.com:8000/announce
 http://www.zone-torrent.net:80/announce.php
 udp://sugoi.pomf.se:80/announce
 http://kinorun.com/announce.php
