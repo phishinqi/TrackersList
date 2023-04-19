@@ -296,8 +296,6 @@ udp://carr.codes:6969/announce
 
 https://t1.hloli.org:443/announce
 
-http://dn42.smrsh.net:6969/announce
-
 udp://aegir.sexy:6969/announce
 
 udp://acxx.de:6969/announce
@@ -305,8 +303,6 @@ udp://acxx.de:6969/announce
 udp://bedro.cloud:6969/announce
 
 http://p2p.0g.cx:6969/announce
-
-http://v6-tracker.0g.cx:6969/announce
 
 udp://t.133335.xyz:6969/announce
 
@@ -346,7 +342,11 @@ http://parag.rs:6969/announce
 
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
 
+http://dn42.smrsh.net:6969/announce
+
 udp://private.anonseed.com:6969/announce
+
+http://v6-tracker.0g.cx:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
@@ -398,11 +398,11 @@ http://t.nyaatracker.com:80/announce
 
 http://vps-dd0a0715.vps.ovh.net:6969/announce
 
-udp://tracker.filemail.com:6969/announce
-
 udp://tracker.joybomb.tw:6969/announce
 
 udp://tr2.cubonegro.lol:6969/announce
+
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
 
@@ -420,9 +420,9 @@ udp://p4p.arenabg.com:1337/announce
 
 https://tracker.moeblog.cn:443/announce
 
-http://dht.dhtclub.com:666/announce
-
 https://tr.burnabyhighstar.com:443/announce
+
+http://dht.dhtclub.com:666/announce
 
 http://bt1.letpo.com:80/announce
 
@@ -434,21 +434,21 @@ udp://www.torrent.eu.org:451/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
-udp://tracker.ccp.ovh:6969/announce
-
 https://tracker.mlsub.net:443/announce
+
+udp://tracker.ccp.ovh:6969/announce
 
 http://retracker.joxnet.ru:80/announce
 
 udp://bt2.archive.org:6969/announce
 
-http://incine.ru:6969/announce
-
 udp://admin.52ywp.com:6969/announce
 
-udp://btt.service.gongt.me:43079/announce
+http://incine.ru:6969/announce
 
 udp://ryjer.com:6969/announce
+
+udp://btt.service.gongt.me:43079/announce
 
 udp://camera.lei001.com:6969/announce
 
@@ -466,17 +466,17 @@ udp://black-bird.ynh.fr:6969/announce
 
 udp://tracker.arcbox.cc:6969/announce
 
-udp://tracker.torrent.eu.org:451/announce
-
 udp://tracker.breizh.pm:6969/announce
+
+udp://tracker.torrent.eu.org:451/announce
 
 http://fosstorrents.com:6969/announce
 
 http://tracker.vraphim.com:6969/announce
 
-udp://boysbitte.be:6969/announce
-
 udp://tracker.lelux.fi:6969/announce
+
+udp://boysbitte.be:6969/announce
 
 udp://run-2.publictracker.xyz:6969/announce
 
@@ -508,21 +508,21 @@ http://tracker-sanopiracy.hopto.org:9123/announce
 
 udp://open.tracker.ink:6969/announce
 
+http://tracker.k.vu:6969/announce
+
 udp://open.publictracker.xyz:6969/announce
 
 http://tracker.skyts.net:6969/announce
 
-http://tracker.k.vu:6969/announce
-
-udp://open.4ever.tk:6969/announce
+udp://retracker.lanta-net.ru:2710/announce
 
 http://debuz.com:6969/announce
 
-udp://retracker.lanta-net.ru:2710/announce
-
-udp://www.peckservers.com:9000/announce
+udp://open.4ever.tk:6969/announce
 
 udp://tracker.farted.net:6969/announce
+
+udp://www.peckservers.com:9000/announce
 
 https://1337.abcvg.info:443/announce
 
@@ -530,9 +530,9 @@ udp://slicie.icon256.com:8000/announce
 
 http://web.open-tracker.cf:6969/announce
 
-http://tracker3.ctix.cn:2095/announce
-
 udp://tracker.btsync.gq:233/announce
+
+http://tracker3.ctix.cn:2095/announce
 
 udp://jutone.com:6969/announce
 
@@ -556,6 +556,8 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
+udp://t.zerg.pw:6969/announce
+
 udp://ipv6.tracker.harry.lu:80/announce
 
 https://tracker1.ctix.cn:443/announce
@@ -567,8 +569,6 @@ http://ipv6.1337.cx:6969/announce
 https://tracker.expli.top:443/announce
 
 http://i-p-v-6.tk:6969/announce
-
-udp://t.zerg.pw:6969/announce
 
 udp://www.2600.com:6969/announce
 
@@ -590,7 +590,7 @@ udp://cloud.arzanmodern.ir:6969/announce
 
 udp://files.samtechnic.ir:6969/announce
 
-udp://9.rarbg.to:2810/announce
+udp://9.rarbg.to:2730/announce
 
 udp://retracker.netbynet.ru:2710/announce
 
@@ -2326,6 +2326,7 @@ udp://109.201.134.183:80/announce
 udp://178.170.48.154:1337/announce
 http://185.197.195.20:1919/announce
 http://83.31.191.97:6969/announce
+http://45.154.253.4:80/announce
 http://www.zone-torrent.net:80/announce.php
 http://kinorun.com/announce.php
 udp://sugoi.pomf.se:80/announce
