@@ -195,8 +195,8 @@ udp://tracker.ccp.ovh:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 http://incine.ru:6969/announce
 udp://tracker.breizh.pm:6969/announce
-http://fosstorrents.com:6969/announce
 http://tracker.vraphim.com:6969/announce
+http://fosstorrents.com:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://run-2.publictracker.xyz:6969/announce
 http://openbittorrent.com:80/announce
@@ -208,8 +208,8 @@ http://open.acgtracker.com:1096/announce
 http://tracker.k.vu:6969/announce
 http://tracker.skyts.net:6969/announce
 udp://open.publictracker.xyz:6969/announce
-http://tracker-sanopiracy.hopto.org:9123/announce
 udp://tracker.farted.net:6969/announce
+http://tracker-sanopiracy.hopto.org:9123/announce
 http://debuz.com:6969/announce
 udp://open.4ever.tk:6969/announce
 udp://www.peckservers.com:9000/announce
@@ -222,9 +222,9 @@ udp://tracker.zerobytes.xyz:1337/announce
 udp://ipv4.tracker.harry.lu:80/announce
 https://tracker.dmhy.pw:443/announce
 https://tracker2.ctix.cn:443/announce
-http://vps02.net.orel.ru:80/announce
 http://cn.pcfreetime.com:6969/announce
 http://open-v6.demonoid.ch:6969/announce
+http://vps02.net.orel.ru:80/announce
 http://ipv6.govt.hu:6969/announce
 https://tracker.expli.top:443/announce
 http://ipv6.1337.cx:6969/announce
@@ -234,12 +234,12 @@ https://tracker1.ctix.cn:443/announce
 udp://tsundere.pw:6969/announce
 udp://www.2600.com:6969/announce
 http://tracker.pcfreetime.com:6969/announce
-http://wegkxfcivgx.chickenkiller.com:80/announce
 udp://freedom.1776.ga:6969/announce
+http://wegkxfcivgx.chickenkiller.com:80/announce
 udp://cloud.samtechnic.ir:6969/announce
 udp://cloud.arzanmodern.ir:6969/announce
 udp://files.samtechnic.ir:6969/announce
-udp://9.rarbg.to:2910/announce
+udp://9.rarbg.to:2940/announce
 udp://retracker.netbynet.ru:2710/announce
 http://retracker.sevstar.net:2710/announce
 https://tracker.nanoha.org:443/announce
