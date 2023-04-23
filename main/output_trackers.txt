@@ -241,7 +241,7 @@ udp://cloud.samtechnic.ir:6969/announce
 udp://cloud.arzanmodern.ir:6969/announce
 udp://files.samtechnic.ir:6969/announce
 udp://ipv6.tracker.harry.lu:80/announce
-udp://9.rarbg.to:2780/announce
+udp://9.rarbg.to:2870/announce
 udp://retracker.netbynet.ru:2710/announce
 http://retracker.sevstar.net:2710/announce
 https://tracker.nanoha.org:443/announce
