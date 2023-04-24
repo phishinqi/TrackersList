@@ -176,12 +176,17 @@ ws://hub.bugout.link:80/announce
 wss://tracker.openwebtorrent.com:443/announceudp://tracker.opentrackr.org:1337/announce
 http://tracker.openbittorrent.com:80/announce
 udp://explodie.org:6969/announce
+udp://tracker.lelux.fi:6969/announce
+https://tracker.lelux.fi:443/announce
+http://tracker.lelux.fi:80/announce
 udp://download.nerocloud.me:6969/announce
 udp://carr.codes:6969/announce
 https://tracker.mlsub.net:443/announce
+udp://tracker.zerobytes.xyz:1337/announce
 http://tracker.zerobytes.xyz:1337/announce
 http://bt1.letpo.com:80/announce
 https://t.zerg.pw/announce
+http://uraniumhexafluori.de:1919/announce
 http://tracker1.itzmx.com:8080/announce
 http://open.tracker.ink:6969/announce
 udp://cpe-104-34-3-152.socal.res.rr.com:6969/announce
@@ -190,7 +195,6 @@ http://retracker.joxnet.ru:80/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 udp://btt.service.gongt.me:43079/announce
 https://trackers.mlsub.net:443/announce
-udp://tracker.lelux.fi:6969/announce
 http://dht.dhtclub.com:666/announce
 https://tracker.jiesen.life:8443/announce
 http://tracker.ipv6tracker.ru:80/announce
@@ -200,8 +204,8 @@ http://tracker.vraphim.com:6969/announce
 http://openbittorrent.com:80/announce
 udp://tracker.ccp.ovh:6969/announce
 http://incine.ru:6969/announce
-udp://tracker.edkj.club:6969/announce
 http://tracker.k.vu:6969/announce
+udp://tracker.edkj.club:6969/announce
 udp://tracker.farted.net:6969/announce
 http://fosstorrents.com:6969/announce
 udp://jutone.com:6969/announce
@@ -212,13 +216,12 @@ udp://tracker.btsync.gq:233/announce
 http://147job.com:6969/announce
 http://debuz.com:6969/announce
 udp://open.publictracker.xyz:6969/announce
-udp://tracker.zerobytes.xyz:1337/announce
 http://tracker-sanopiracy.hopto.org:9123/announce
 http://tracker3.ctix.cn:2095/announce
 udp://open.4ever.tk:6969/announce
+http://tracker.aibt.xyz:900/announce
 http://cn.pcfreetime.com:6969/announce
 http://web.open-tracker.cf:6969/announce
-http://tracker.aibt.xyz:900/announce
 udp://slicie.icon256.com:8000/announce
 https://tracker.expli.top:443/announce
 http://open-v6.demonoid.ch:6969/announce
@@ -234,7 +237,7 @@ udp://cloud.arzanmodern.ir:6969/announce
 udp://files.samtechnic.ir:6969/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.tracker.harry.lu:80/announce
-udp://9.rarbg.to:2900/announce
+udp://9.rarbg.to:2730/announce
 http://vps02.net.orel.ru:80/announce
 udp://retracker.netbynet.ru:2710/announce
 http://retracker.sevstar.net:2710/announce
@@ -322,7 +325,6 @@ https://track.plop.pm:8989/announce
 https://tracker1.ctix.cn:443/announce
 https://tracker.baka.ink:443/announce
 udp://fgg.pp.ua:6969/announce
-http://uraniumhexafluori.de:1919/announce
 http://tracker.coppersurfer.site:2710/announce
 udp://chennuo.xyz:6969/announce
 https://luna.jae.su:443/announce
@@ -857,9 +859,7 @@ http://104.143.10.186:8000/announce
 http://tracker3.itzmx.com:6961/announce
 https://tracker1.loli.co.nz:443/announce
 http://www.torrentsnipe.info:2701/announce
-https://tracker.lelux.fi:443/announce
 http://tracker.lelux.fi/announce
-http://tracker.lelux.fi:80/announce
 http://tracker.pow7.com/announce
 https://tracker.lelux.fi/announce
 http://tracker.anirena.com/b16a15d9a238d1f59178d3614b857290/announce
