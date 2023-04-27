@@ -592,6 +592,8 @@ http://bt.endpot.com:80/announce
 
 udp://explodie.org:6969/announce
 
+udp://open.stealth.si:80/announce
+
 udp://retracker.hotplug.ru:2710/announce
 
 udp://tracker.birkenwald.de:6969/announce
@@ -644,8 +646,6 @@ udp://opentracker.io:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-udp://open.stealth.si:80/announce
-
 udp://exodus.desync.com:6969/announce
 
 udp://tracker.beeimg.com:6969/announce
@@ -663,6 +663,8 @@ udp://epider.me:6969/announce
 udp://laze.cc:6969/announce
 
 udp://u6.trakx.crim.ist:1337/announce
+
+udp://tracker.jonaslsa.com:6969/announce
 
 udp://download.nerocloud.me:6969/announce
 
@@ -693,8 +695,6 @@ udp://htz3.noho.st:6969/announce
 udp://moonburrow.club:6969/announce
 
 udp://linfan.moe:6969/announce
-
-udp://tracker.jonaslsa.com:6969/announce
 
 http://parag.rs:6969/announce
 
@@ -760,11 +760,11 @@ https://tr.burnabyhighstar.com:443/announce
 
 http://bt.endpot.com:80/announce
 
+https://tracker.jiesen.life:8443/announce
+
 udp://tracker1.myporn.club:9337/announce
 
 https://tracker.kuroy.me:443/announce
-
-https://tracker.jiesen.life:8443/announce
 
 https://torrent-tracker.hama3.net:443/announce
 
@@ -782,8 +782,6 @@ udp://bt2.archive.org:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
-http://dn42.smrsh.net:6969/announce
-
 http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://admin.52ywp.com:6969/announce
@@ -792,13 +790,15 @@ http://bt1.letpo.com:80/announce
 
 udp://tracker.cubonegro.lol:6969/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
-
 http://retracker.joxnet.ru:80/announce
+
+http://dn42.smrsh.net:6969/announce
 
 udp://ryjer.com:6969/announce
 
 udp://camera.lei001.com:6969/announce
+
+udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://btt.service.gongt.me:43079/announce
 
@@ -828,9 +828,9 @@ https://tracker.lilithraws.cf:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
-udp://tracker.lelux.fi:6969/announce
-
 udp://black-bird.ynh.fr:6969/announce
+
+udp://tracker.lelux.fi:6969/announce
 
 http://tracker.vraphim.com:6969/announce
 
@@ -860,7 +860,7 @@ udp://open.tracker.ink:6969/announce
 
 http://fosstorrents.com:6969/announce
 
-udp://t.zerg.pw:6969/announce
+udp://t.zerg.pw:1337/announce
 
 udp://fe.dealclub.de:6969/announce
 
@@ -914,9 +914,9 @@ http://tracker.pcfreetime.com:6969/announce
 
 http://ipv6.1337.cx:6969/announce
 
-http://ipv6.govt.hu:6969/announce
-
 http://i-p-v-6.tk:6969/announce
+
+http://ipv6.govt.hu:6969/announce
 
 udp://slicie.icon256.com:8000/announce
 
@@ -934,7 +934,7 @@ udp://ipv6.tracker.harry.lu:80/announce
 
 udp://tracker.openbtba.com:6969/announce
 
-udp://9.rarbg.to:2860/announce
+udp://9.rarbg.to:2940/announce
 
 http://vps02.net.orel.ru:80/announce
 

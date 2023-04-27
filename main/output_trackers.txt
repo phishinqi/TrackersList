@@ -186,10 +186,10 @@ https://t.zerg.pw/announce
 http://tracker1.itzmx.com:8080/announce
 udp://cpe-104-34-3-152.socal.res.rr.com:6969/announce
 http://t.nyaatracker.com:80/announce
-http://dn42.smrsh.net:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
-udp://6ahddutb1ucc3cp.ru:6969/announce
 http://retracker.joxnet.ru:80/announce
+http://dn42.smrsh.net:6969/announce
+udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://btt.service.gongt.me:43079/announce
 http://tracker.ipv6tracker.ru:80/announce
 https://trackers.mlsub.net:443/announce
@@ -206,6 +206,7 @@ udp://tracker.edkj.club:6969/announce
 udp://tracker.ccp.ovh:6969/announce
 http://incine.ru:6969/announce
 http://fosstorrents.com:6969/announce
+udp://t.zerg.pw:1337/announce
 udp://run-2.publictracker.xyz:6969/announce
 udp://ftp.pet:2710/announce
 udp://tracker.btsync.gq:233/announce
@@ -222,8 +223,8 @@ http://open-v6.demonoid.ch:6969/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
 http://tracker.pcfreetime.com:6969/announce
 http://ipv6.1337.cx:6969/announce
-http://ipv6.govt.hu:6969/announce
 http://i-p-v-6.tk:6969/announce
+http://ipv6.govt.hu:6969/announce
 udp://slicie.icon256.com:8000/announce
 udp://open.4ever.tk:6969/announce
 udp://cloud.arzanmodern.ir:6969/announce
@@ -231,7 +232,7 @@ udp://files.samtechnic.ir:6969/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.tracker.harry.lu:80/announce
 udp://tracker.openbtba.com:6969/announce
-udp://9.rarbg.to:2860/announce
+udp://9.rarbg.to:2940/announce
 http://vps02.net.orel.ru:80/announce
 udp://retracker.netbynet.ru:2710/announce
 http://retracker.sevstar.net:2710/announce
@@ -1215,7 +1216,6 @@ udp://104.131.98.232:6969/announce
 udp://81.7.10.104:6969/announce
 udp://tracker-de.ololosh.space:6969/announce
 udp://denis.stalker.upeer.me:1337/announce
-udp://t.zerg.pw:1337/announce
 http://tracker.torrenty.org:6969/announce
 http://tehconnection.eu:2790/announce
 udp://tracker.fatkhoala.org:13720/announce
