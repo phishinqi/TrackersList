@@ -180,9 +180,9 @@ udp://download.nerocloud.me:6969/announce
 udp://carr.codes:6969/announce
 http://tracker.skyts.net:6969/announce
 udp://cpe-104-34-3-152.socal.res.rr.com:6969/announce
-http://tracker1.itzmx.com:8080/announce
 http://tracker.k.vu:6969/announce
 udp://tracker.farted.net:6969/announce
+http://tracker1.itzmx.com:8080/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 http://retracker.joxnet.ru:80/announce
 https://trackers.mlsub.net:443/announce
@@ -193,9 +193,9 @@ http://dht.dhtclub.com:666/announce
 http://tracker.vraphim.com:6969/announce
 udp://admin.52ywp.com:6969/announce
 udp://camera.lei001.com:6969/announce
-http://dn42.smrsh.net:6969/announce
-http://openbittorrent.com:80/announce
 http://frp.v2fy.com:8000/announce
+http://openbittorrent.com:80/announce
+http://dn42.smrsh.net:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://btt.service.gongt.me:43079/announce
 udp://tracker.edkj.club:6969/announce
@@ -218,9 +218,9 @@ http://tracker.pcfreetime.com:6969/announce
 https://tracker.cangku.moe:443/announce
 http://open-v6.demonoid.ch:6969/announce
 http://ipv6.1337.cx:6969/announce
-udp://ipv4.tracker.harry.lu:80/announce
 udp://tracker.openbtba.com:6969/announce
-udp://9.rarbg.to:2770/announce
+udp://9.rarbg.to:2940/announce
+udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.tracker.harry.lu:80/announce
 http://vps02.net.orel.ru:80/announce
 udp://retracker.netbynet.ru:2710/announce

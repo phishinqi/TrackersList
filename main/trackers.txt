@@ -756,21 +756,21 @@ udp://tracker.arcbox.cc:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-http://tracker1.itzmx.com:8080/announce
-
 http://tracker.k.vu:6969/announce
+
+udp://tracker.farted.net:6969/announce
+
+http://tracker1.itzmx.com:8080/announce
 
 udp://rep-art.ynh.fr:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
-udp://tracker.farted.net:6969/announce
-
-http://ipv4announce.sktorrent.eu:6969/announce
-
 udp://bt2.archive.org:6969/announce
 
 https://tracker.lilithraws.cf:443/announce
+
+http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
@@ -814,17 +814,17 @@ udp://black-bird.ynh.fr:6969/announce
 
 udp://camera.lei001.com:6969/announce
 
-http://dn42.smrsh.net:6969/announce
-
 udp://fe.dealclub.de:6969/announce
+
+http://frp.v2fy.com:8000/announce
 
 udp://v2.iperson.xyz:6969/announce
 
-udp://tracker.swateam.org.uk:2710/announce
-
 http://openbittorrent.com:80/announce
 
-http://frp.v2fy.com:8000/announce
+udp://tracker.swateam.org.uk:2710/announce
+
+http://dn42.smrsh.net:6969/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
@@ -856,9 +856,9 @@ udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker.btsync.gq:233/announce
 
-http://incine.ru:6969/announce
-
 https://tr.ready4.icu:443/announce
+
+http://incine.ru:6969/announce
 
 http://fosstorrents.com:6969/announce
 
@@ -892,11 +892,11 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://ipv6.1337.cx:6969/announce
 
-udp://ipv4.tracker.harry.lu:80/announce
-
 udp://tracker.openbtba.com:6969/announce
 
-udp://9.rarbg.to:2770/announce
+udp://9.rarbg.to:2940/announce
+
+udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.harry.lu:80/announce
 
