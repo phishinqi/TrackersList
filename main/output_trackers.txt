@@ -212,12 +212,13 @@ udp://ftp.pet:2710/announce
 http://debuz.com:6969/announce
 http://tracker-sanopiracy.hopto.org:9123/announce
 http://cn.pcfreetime.com:6969/announce
-http://wegkxfcivgx.chickenkiller.com:80/announce
 http://tracker.pcfreetime.com:6969/announce
+http://wegkxfcivgx.chickenkiller.com:80/announce
 https://tracker.cangku.moe:443/announce
 http://open-v6.demonoid.ch:6969/announce
+http://mail.lakameraobscura.com:6969/announce
 udp://tracker.openbtba.com:6969/announce
-udp://9.rarbg.to:2810/announce
+udp://9.rarbg.to:2830/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.tracker.harry.lu:80/announce
 http://vps02.net.orel.ru:80/announce
@@ -333,7 +334,6 @@ udp://204.zablog.me:6969/announce
 udp://oracle.rdysoftware.com:6969/announce
 udp://testing.syahaha.live:6969/announce
 http://widemus.de:6969/announce
-http://mail.lakameraobscura.com:6969/announce
 http://download01.championsofregnum.com:6969/announce
 http://147job.com:6969/announce
 udp://kokodayo.site:6969/announce
