@@ -200,8 +200,8 @@ udp://tracker.edkj.club:6969/announce
 http://frp.v2fy.com:8000/announce
 udp://tracker.lelux.fi:6969/announce
 udp://t.zerg.pw:1337/announce
-https://tracker.moeblog.cn:443/announce
 udp://tracker.btsync.gq:233/announce
+https://tracker.moeblog.cn:443/announce
 udp://tracker.ccp.ovh:6969/announce
 http://incine.ru:6969/announce
 http://fosstorrents.com:6969/announce
@@ -218,7 +218,7 @@ https://tracker.cangku.moe:443/announce
 http://mail.lakameraobscura.com:6969/announce
 http://open-v6.demonoid.ch:6969/announce
 udp://tracker.openbtba.com:6969/announce
-udp://9.rarbg.to:2900/announce
+udp://9.rarbg.to:2800/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.tracker.harry.lu:80/announce
 http://vps02.net.orel.ru:80/announce
