@@ -211,13 +211,13 @@ https://tracker.cangku.moe:443/announce
 http://mail.lakameraobscura.com:6969/announce
 http://cn.pcfreetime.com:6969/announce
 http://tracker-sanopiracy.hopto.org:9123/announce
-udp://run-2.publictracker.xyz:6969/announce
 http://debuz.com:6969/announce
-udp://ftp.pet:2710/announce
+udp://run-2.publictracker.xyz:6969/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
 http://tracker.pcfreetime.com:6969/announce
+udp://ftp.pet:2710/announce
 udp://tracker.openbtba.com:6969/announce
-udp://9.rarbg.to:2960/announce
+udp://9.rarbg.to:2780/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.tracker.harry.lu:80/announce
 http://vps02.net.orel.ru:80/announce
@@ -469,7 +469,7 @@ http://tracker3.ctix.cn:2095/announce
 udp://cloud.samtechnic.ir:6969/announce
 udp://files.samtechnic.ir:6969/announce
 udp://cloud.arzanmodern.ir:6969/announce
-http://tracker.gbitt.info/announce
+wss://tracker.openwebtorrent.com:443/announcehttp://tracker.gbitt.info/announce
 https://tracker.lilithraws.cf/announce
 https://tracker1.520.jp/announce
 http://www.wareztorrent.com/announce
