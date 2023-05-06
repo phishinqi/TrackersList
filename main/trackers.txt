@@ -702,17 +702,17 @@ udp://tracker2.dler.com:80/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
 
-udp://thinking.duckdns.org:6969/announce
-
 udp://tracker.artixlinux.org:6969/announce
 
 http://v6-tracker.0g.cx:6969/announce
 
-udp://tracker6.lelux.fi:6969/announce
+udp://thinking.duckdns.org:6969/announce
 
 udp://tracker.pimpmyworld.to:6969/announce
 
 http://t.nyaatracker.com:80/announce
+
+udp://tracker6.lelux.fi:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
@@ -726,9 +726,9 @@ http://vps-dd0a0715.vps.ovh.net:6969/announce
 
 udp://stargrave.org:6969/announce
 
-udp://new-line.net:6969/announce
-
 udp://tracker1.myporn.club:9337/announce
+
+udp://new-line.net:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
@@ -754,11 +754,11 @@ udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://bt2.archive.org:6969/announce
 
-http://parag.rs:6969/announce
-
 udp://rep-art.ynh.fr:6969/announce
 
 udp://tracker.arcbox.cc:6969/announce
+
+http://parag.rs:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
@@ -770,15 +770,15 @@ udp://tamas3.ynh.fr:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
-udp://inferno.demonoid.is:3391/announce
-
 udp://tracker.cubonegro.lol:6969/announce
+
+udp://inferno.demonoid.is:3391/announce
 
 udp://ryjer.com:6969/announce
 
-http://retracker.joxnet.ru:80/announce
-
 udp://fe.dealclub.de:6969/announce
+
+http://retracker.joxnet.ru:80/announce
 
 udp://chouchou.top:8080/announce
 
@@ -792,9 +792,9 @@ http://bt1.letpo.com:80/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-udp://tracker.torrent.eu.org:451/announce
-
 http://montreal.nyap2p.com:8080/announce
+
+udp://tracker.torrent.eu.org:451/announce
 
 http://tracker.vraphim.com:6969/announce
 
@@ -814,9 +814,9 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://www.peckservers.com:9000/announce
 
-udp://btt.service.gongt.me:43079/announce
-
 http://open.acgtracker.com:1096/announce
+
+udp://btt.service.gongt.me:43079/announce
 
 udp://open.tracker.ink:6969/announce
 
@@ -836,9 +836,9 @@ http://tracker.skyts.net:6969/announce
 
 udp://retracker.lanta-net.ru:2710/announce
 
-http://frp.v2fy.com:8000/announce
-
 udp://t.zerg.pw:1337/announce
+
+http://frp.v2fy.com:8000/announce
 
 udp://tracker.btsync.gq:233/announce
 
@@ -854,15 +854,15 @@ udp://tracker.ccp.ovh:6969/announce
 
 http://incine.ru:6969/announce
 
-udp://tsundere.pw:6969/announce
-
 http://mail.lakameraobscura.com:6969/announce
+
+udp://tsundere.pw:6969/announce
 
 udp://open.tracker.cl:1337/announce
 
-udp://tracker.zerobytes.xyz:1337/announce
-
 https://tracker.cangku.moe:443/announce
+
+udp://tracker.zerobytes.xyz:1337/announce
 
 udp://freedom.1776.ga:6969/announce
 
@@ -870,19 +870,17 @@ http://cn.pcfreetime.com:6969/announce
 
 http://tracker-sanopiracy.hopto.org:9123/announce
 
-http://tracker.pcfreetime.com:6969/announce
-
 http://wegkxfcivgx.chickenkiller.com:80/announce
+
+http://tracker.pcfreetime.com:6969/announce
 
 http://debuz.com:6969/announce
 
 udp://run-2.publictracker.xyz:6969/announce
 
-udp://ftp.pet:2710/announce
-
 udp://tracker.openbtba.com:6969/announce
 
-udp://9.rarbg.to:2860/announce
+udp://9.rarbg.to:2750/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
@@ -1319,6 +1317,8 @@ http://kamikazee.duckdns.org:7777/announce
 http://tracker.bittorrent.nibblepoker.lu:49227/announce
 
 udp://tracker.cubonegro.xyz:6969/announce
+
+udp://ftp.pet:2710/announce
 
 udp://dns.xxtor.com:53/announce
 
