@@ -774,17 +774,17 @@ http://parag.rs:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
-udp://inferno.demonoid.is:3391/announce
+udp://fe.dealclub.de:6969/announce
 
 udp://tracker.cubonegro.lol:6969/announce
 
-udp://fe.dealclub.de:6969/announce
+udp://inferno.demonoid.is:3391/announce
 
 udp://ryjer.com:6969/announce
 
-http://retracker.joxnet.ru:80/announce
-
 udp://chouchou.top:8080/announce
+
+http://retracker.joxnet.ru:80/announce
 
 https://trackers.mlsub.net:443/announce
 
@@ -814,9 +814,9 @@ udp://v2.iperson.xyz:6969/announce
 
 http://openbittorrent.com:80/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
-
 udp://www.peckservers.com:9000/announce
+
+udp://6ahddutb1ucc3cp.ru:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -842,41 +842,41 @@ udp://retracker.lanta-net.ru:2710/announce
 
 udp://t.zerg.pw:1337/announce
 
-http://frp.v2fy.com:8000/announce
-
 udp://tracker.btsync.gq:233/announce
+
+http://frp.v2fy.com:8000/announce
 
 udp://tracker.lelux.fi:6969/announce
 
 https://tr.ready4.icu:443/announce
 
-http://fosstorrents.com:6969/announce
-
 http://mail.lakameraobscura.com:6969/announce
+
+http://fosstorrents.com:6969/announce
 
 https://tracker.moeblog.cn:443/announce
 
-udp://tracker.ccp.ovh:6969/announce
-
 udp://tsundere.pw:6969/announce
 
-http://incine.ru:6969/announce
+udp://tracker.ccp.ovh:6969/announce
 
 udp://open.tracker.cl:1337/announce
 
+http://incine.ru:6969/announce
+
 https://tracker.cangku.moe:443/announce
 
-udp://tracker.zerobytes.xyz:1337/announce
-
 udp://freedom.1776.ga:6969/announce
+
+udp://tracker.zerobytes.xyz:1337/announce
 
 http://cn.pcfreetime.com:6969/announce
 
 http://tracker-sanopiracy.hopto.org:9123/announce
 
-http://wegkxfcivgx.chickenkiller.com:80/announce
-
 http://tracker.pcfreetime.com:6969/announce
+
+http://wegkxfcivgx.chickenkiller.com:80/announce
 
 http://debuz.com:6969/announce
 
@@ -884,7 +884,7 @@ udp://run-2.publictracker.xyz:6969/announce
 
 udp://tracker.openbtba.com:6969/announce
 
-udp://9.rarbg.to:2920/announce
+udp://9.rarbg.to:2770/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
