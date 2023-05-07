@@ -182,16 +182,16 @@ http://tracker1.itzmx.com:8080/announce
 http://open.tracker.ink:6969/announce
 udp://cpe-104-34-3-152.socal.res.rr.com:6969/announce
 udp://tracker6.lelux.fi:6969/announce
-http://ipv4announce.sktorrent.eu:6969/announce
 udp://zecircle.xyz:6969/announce
+http://ipv4announce.sktorrent.eu:6969/announce
 http://parag.rs:6969/announce
 http://retracker.joxnet.ru:80/announce
 https://trackers.mlsub.net:443/announce
 udp://tracker.breizh.pm:6969/announce
 http://bt1.letpo.com:80/announce
 http://tracker.vraphim.com:6969/announce
-http://dht.dhtclub.com:666/announce
 udp://btt.service.gongt.me:43079/announce
+http://dht.dhtclub.com:666/announce
 http://open.acgtracker.com:1096/announce
 http://openbittorrent.com:80/announce
 udp://tracker.edkj.club:6969/announce
@@ -216,7 +216,7 @@ http://tracker.pcfreetime.com:6969/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
 http://debuz.com:6969/announce
 udp://tracker.openbtba.com:6969/announce
-udp://9.rarbg.to:2960/announce
+udp://9.rarbg.to:2810/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.tracker.harry.lu:80/announce
 http://vps02.net.orel.ru:80/announce
