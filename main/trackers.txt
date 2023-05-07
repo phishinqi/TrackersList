@@ -24,6 +24,10 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.acgtracker.com:1096/announce
+
+http://open.tracker.ink:6969/announce
+
 http://p2p.0g.cx:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
@@ -41,10 +45,6 @@ http://tr.cili001.com:8070/announce
 http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
-
-http://tracker.dler.com:6969/announce
-
-http://tracker.dler.org:6969/announce
 
 http://tracker.edkj.club:6969/announce
 
@@ -64,13 +64,11 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
+http://tracker.skyts.net:6969/announce
+
 http://tracker.srv00.com:6969/announce
 
 http://tracker.swateam.org.uk:2710/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
-
-http://tracker2.dler.org:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
 
@@ -109,8 +107,6 @@ https://tracker.lilithraws.cf:443/announce
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
-
-https://tracker.mlsub.net:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
@@ -738,15 +734,15 @@ udp://bt.ktrackers.com:6666/announce
 
 udp://tracker.jonaslsa.com:6969/announce
 
-udp://laze.cc:6969/announce
-
 udp://stargrave.org:6969/announce
 
-udp://new-line.net:6969/announce
+udp://laze.cc:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
 
 udp://public.publictracker.xyz:6969/announce
+
+udp://new-line.net:6969/announce
 
 https://tracker.lilithraws.cf:443/announce
 
@@ -756,33 +752,33 @@ https://tracker.lilithraws.org:443/announce
 
 udp://tr2.cubonegro.lol:6969/announce
 
+udp://fe.dealclub.de:6969/announce
+
 udp://tracker.beeimg.com:6969/announce
 
-udp://www.torrent.eu.org:451/announce
-
 udp://jutone.com:6969/announce
+
+udp://www.torrent.eu.org:451/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
 http://open.acgnxtracker.com:80/announce
 
-udp://fe.dealclub.de:6969/announce
-
-https://tracker.kuroy.me:443/announce
-
 udp://bt2.archive.org:6969/announce
 
-http://bt.endpot.com:80/announce
+https://tracker.kuroy.me:443/announce
 
 udp://tracker.arcbox.cc:6969/announce
 
 udp://rep-art.ynh.fr:6969/announce
 
+http://bt.endpot.com:80/announce
+
 udp://zecircle.xyz:6969/announce
 
-http://ipv4announce.sktorrent.eu:6969/announce
-
 http://tracker1.itzmx.com:8080/announce
+
+http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
@@ -790,9 +786,9 @@ udp://tracker.filemail.com:6969/announce
 
 udp://inferno.demonoid.is:3391/announce
 
-udp://tracker.cubonegro.lol:6969/announce
-
 udp://chouchou.top:8080/announce
+
+udp://tracker.cubonegro.lol:6969/announce
 
 udp://ryjer.com:6969/announce
 
@@ -800,11 +796,11 @@ http://parag.rs:6969/announce
 
 http://retracker.joxnet.ru:80/announce
 
+udp://tracker.breizh.pm:6969/announce
+
 http://tracker.gbitt.info:80/announce
 
 https://trackers.mlsub.net:443/announce
-
-udp://tracker.breizh.pm:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -814,9 +810,9 @@ http://bt1.letpo.com:80/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-http://tracker.vraphim.com:6969/announce
-
 udp://btt.service.gongt.me:43079/announce
+
+http://tracker.vraphim.com:6969/announce
 
 http://dht.dhtclub.com:666/announce
 
@@ -896,7 +892,7 @@ http://debuz.com:6969/announce
 
 udp://tracker.openbtba.com:6969/announce
 
-udp://9.rarbg.to:2810/announce
+udp://9.rarbg.to:2950/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
@@ -1444,6 +1440,10 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.acgtracker.com:1096/announce
+
+http://open.tracker.ink:6969/announce
+
 http://p2p.0g.cx:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
@@ -1461,10 +1461,6 @@ http://tr.cili001.com:8070/announce
 http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
-
-http://tracker.dler.com:6969/announce
-
-http://tracker.dler.org:6969/announce
 
 http://tracker.edkj.club:6969/announce
 
@@ -1484,13 +1480,11 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
+http://tracker.skyts.net:6969/announce
+
 http://tracker.srv00.com:6969/announce
 
 http://tracker.swateam.org.uk:2710/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
-
-http://tracker2.dler.org:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
 
@@ -1529,8 +1523,6 @@ https://tracker.lilithraws.cf:443/announce
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
-
-https://tracker.mlsub.net:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
