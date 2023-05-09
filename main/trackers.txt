@@ -640,6 +640,8 @@ http://tracker.bt4g.com:2095/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
+http://bt.okmp3.ru:2710/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 udp://u4.trakx.crim.ist:1337/announce
@@ -673,8 +675,6 @@ udp://bt1.archive.org:6969/announce
 udp://opentracker.i2p.rocks:6969/announce
 
 udp://movies.zsw.ca:6969/announce
-
-http://bt.okmp3.ru:2710/announce
 
 udp://tracker.theoks.net:6969/announce
 
@@ -710,8 +710,6 @@ udp://tracker.4.babico.name.tr:3131/announce
 
 udp://bedro.cloud:6969/announce
 
-udp://tracker2.dler.com:80/announce
-
 udp://tracker.artixlinux.org:6969/announce
 
 http://p2p.0g.cx:6969/announce
@@ -720,15 +718,17 @@ http://v6-tracker.0g.cx:6969/announce
 
 http://t.nyaatracker.com:80/announce
 
+udp://tracker2.dler.com:80/announce
+
 udp://run.publictracker.xyz:6969/announce
 
 udp://tracker.pimpmyworld.to:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
-udp://thinking.duckdns.org:6969/announce
-
 udp://wepzone.net:6969/announce
+
+udp://thinking.duckdns.org:6969/announce
 
 udp://tracker6.lelux.fi:6969/announce
 
@@ -740,11 +740,11 @@ udp://stargrave.org:6969/announce
 
 udp://laze.cc:6969/announce
 
-udp://tracker1.myporn.club:9337/announce
-
 udp://public.publictracker.xyz:6969/announce
 
 https://tracker.lilithraws.cf:443/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 udp://new-line.net:6969/announce
 
@@ -788,9 +788,9 @@ udp://chouchou.top:8080/announce
 
 udp://tracker.filemail.com:6969/announce
 
-udp://tracker.beeimg.com:6969/announce
-
 udp://tracker.cubonegro.lol:6969/announce
+
+udp://tracker.beeimg.com:6969/announce
 
 udp://ryjer.com:6969/announce
 
@@ -806,9 +806,9 @@ http://montreal.nyap2p.com:8080/announce
 
 https://trackers.mlsub.net:443/announce
 
-http://parag.rs:6969/announce
-
 udp://tracker-udp.gbitt.info:80/announce
+
+http://parag.rs:6969/announce
 
 http://bt1.letpo.com:80/announce
 
@@ -850,9 +850,9 @@ http://tracker.skyts.net:6969/announce
 
 udp://retracker.lanta-net.ru:2710/announce
 
-http://dn42.smrsh.net:6969/announce
-
 udp://t.zerg.pw:1337/announce
+
+http://dn42.smrsh.net:6969/announce
 
 udp://tracker.btsync.gq:233/announce
 
@@ -892,7 +892,7 @@ https://tracker.moeblog.cn:443/announce
 
 udp://tracker.openbtba.com:6969/announce
 
-udp://9.rarbg.to:2960/announce
+udp://9.rarbg.to:2770/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
@@ -2729,6 +2729,10 @@ http://171.104.111.20:6969/announce
 http://97.117.114.88:9000/announce
 udp://51.81.222.188:6969/announce
 udp://tracker.ccp.ovh:6969/announce
+http://tr.nyacat.pw/announce
+http://tracker.btcake.com/announce
+https://tr.nyacat.pw/announce
+http://tracker.btcake.com:80/announce
 udp://sugoi.pomf.se:80/announce
 http://kinorun.com/announce.php
 http://www.zone-torrent.net:80/announce.php

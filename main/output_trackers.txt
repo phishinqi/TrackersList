@@ -199,8 +199,8 @@ http://openbittorrent.com:80/announce
 udp://tracker.edkj.club:6969/announce
 udp://admin.52ywp.com:6969/announce
 udp://camera.lei001.com:6969/announce
-http://dn42.smrsh.net:6969/announce
 udp://t.zerg.pw:1337/announce
+http://dn42.smrsh.net:6969/announce
 udp://tracker.btsync.gq:233/announce
 http://mail.lakameraobscura.com:6969/announce
 http://frp.v2fy.com:8000/announce
@@ -216,7 +216,7 @@ http://tracker.pcfreetime.com:6969/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
 https://tracker.moeblog.cn:443/announce
 udp://tracker.openbtba.com:6969/announce
-udp://9.rarbg.to:2960/announce
+udp://9.rarbg.to:2770/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.tracker.harry.lu:80/announce
 http://vps02.net.orel.ru:80/announce
@@ -1200,6 +1200,10 @@ udp://46.138.242.240:6969/announce
 http://171.104.111.20:6969/announce
 http://97.117.114.88:9000/announce
 udp://51.81.222.188:6969/announce
+http://tr.nyacat.pw/announce
+http://tracker.btcake.com/announce
+https://tr.nyacat.pw/announce
+http://tracker.btcake.com:80/announce
 udp://sugoi.pomf.se:80/announce
 udp://82.156.24.219:6969/announce
 http://www.bitseduce.com/announce.php
