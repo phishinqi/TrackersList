@@ -9,9 +9,9 @@ http://bt.okmp3.ru:2710/announce
 http://chouchou.top:8080/announce
 http://incine.ru:6969/announce
 http://montreal.nyap2p.com:8080/announce
-http://movies.zsw.ca:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.acgnxtracker.com:80/announce
+http://open.acgtracker.com:1096/announce
 http://open.tracker.ink:6969/announce
 http://p2p.0g.cx:6969/announce
 http://retracker.hotplug.ru:2710/announce
@@ -23,6 +23,7 @@ http://tr.cili001.com:8070/announce
 http://tracker.birkenwald.de:6969/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.dler.com:6969/announce
+http://tracker.dler.org:6969/announce
 http://tracker.edkj.club:6969/announce
 http://tracker.files.fm:6969/announce
 http://tracker.gbitt.info:80/announce
@@ -34,8 +35,8 @@ http://tracker.peckservers.com:9000/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.skyts.net:6969/announce
-http://tracker.srv00.com:6969/announce
 http://tracker.swateam.org.uk:2710/announce
+http://tracker2.dler.org:80/announce
 http://v6-tracker.0g.cx:6969/announce
 http://vps-dd0a0715.vps.ovh.net:6969/announce
 http://wepzone.net:6969/announce
@@ -107,7 +108,6 @@ udp://p4p.arenabg.com:1337/announce
 udp://private.anonseed.com:6969/announce
 udp://psyco.fr:6969/announce
 udp://public.publictracker.xyz:6969/announce
-udp://public.tracker.vraphim.com:6969/announce
 udp://rep-art.ynh.fr:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://retracker.lanta-net.ru:2710/announce
@@ -173,13 +173,11 @@ wss://tracker.openwebtorrent.com:443/announceudp://tracker.opentrackr.org:1337/a
 http://tracker.openbittorrent.com:80/announce
 http://tracker1.bt.moack.co.kr:80/announce
 udp://explodie.org:6969/announce
-http://tracker2.dler.org:80/announce
+udp://public.tracker.vraphim.com:6969/announce
 udp://download.nerocloud.me:6969/announce
 udp://carr.codes:6969/announce
-http://tracker.dler.org:6969/announce
 http://tracker1.itzmx.com:8080/announce
 udp://cpe-104-34-3-152.socal.res.rr.com:6969/announce
-udp://tracker.trojangogogo.site:8080/announce
 udp://tracker6.lelux.fi:6969/announce
 udp://zecircle.xyz:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
@@ -187,10 +185,10 @@ udp://btt.service.gongt.me:43079/announce
 udp://tracker.beeimg.com:6969/announce
 http://retracker.joxnet.ru:80/announce
 udp://tracker.breizh.pm:6969/announce
+udp://tracker.trojangogogo.site:8080/announce
 https://trackers.mlsub.net:443/announce
-http://parag.rs:6969/announce
 http://bt1.letpo.com:80/announce
-http://open.acgtracker.com:1096/announce
+http://parag.rs:6969/announce
 udp://www.peckservers.com:9000/announce
 http://tracker.vraphim.com:6969/announce
 http://dht.dhtclub.com:666/announce
@@ -200,9 +198,9 @@ udp://tracker.edkj.club:6969/announce
 udp://admin.52ywp.com:6969/announce
 udp://camera.lei001.com:6969/announce
 udp://t.zerg.pw:1337/announce
-http://dn42.smrsh.net:6969/announce
 udp://tracker.btsync.gq:233/announce
 http://mail.lakameraobscura.com:6969/announce
+http://dn42.smrsh.net:6969/announce
 http://frp.v2fy.com:8000/announce
 https://tracker.cangku.moe:443/announce
 udp://tsundere.pw:6969/announce
@@ -216,7 +214,7 @@ http://tracker-sanopiracy.hopto.org:9123/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
 https://tracker.moeblog.cn:443/announce
 udp://tracker.openbtba.com:6969/announce
-udp://9.rarbg.to:2900/announce
+udp://9.rarbg.to:2830/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.tracker.harry.lu:80/announce
 http://vps02.net.orel.ru:80/announce
@@ -747,6 +745,7 @@ http://torrents.linuxmint.com/announce.php
 http://announce.partis.si/announce
 http://proaudiotorrents.org/announce.php
 https://torrent.ubuntu.com/announce
+http://movies.zsw.ca:6969/announce
 http://torrent.ubuntu.com:6969/announce
 http://mvgforumtracker.mvgroup.org/tracker.php/announce
 http://blackz.ro/announce.php
@@ -820,6 +819,7 @@ http://tracker.anirena.com:80/b16a15d9a238d1f59178d3614b857290/announce
 https://bittorrent.gongt.net/announce
 http://private.minimafia.nl:443/announce
 http://193.37.214.12:6969/announce
+http://tracker.srv00.com:6969/announce
 http://tracker.publictorrent.net:80/announce
 http://198.251.84.144/announce
 http://opentracker.acgnx.se:80/announce
