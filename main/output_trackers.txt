@@ -189,8 +189,8 @@ http://retracker.joxnet.ru:80/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.beeimg.com:6969/announce
 http://bt1.letpo.com:80/announce
-https://trackers.mlsub.net:443/announce
 udp://www.peckservers.com:9000/announce
+https://trackers.mlsub.net:443/announce
 http://tracker.vraphim.com:6969/announce
 http://parag.rs:6969/announce
 http://dht.dhtclub.com:666/announce
@@ -216,7 +216,7 @@ http://fosstorrents.com:6969/announce
 http://tracker-sanopiracy.hopto.org:9123/announce
 https://tracker.moeblog.cn:443/announce
 udp://tracker.openbtba.com:6969/announce
-udp://9.rarbg.to:2760/announce
+udp://9.rarbg.to:2940/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.tracker.harry.lu:80/announce
 http://vps02.net.orel.ru:80/announce
