@@ -90,11 +90,11 @@ https://1337.abcvg.info:443/announce
 
 https://opentracker.i2p.rocks:443/announce
 
+https://t.zerg.pw:443/announce
+
 https://t1.hloli.org:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
-
-https://tr.ready4.icu:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
@@ -151,6 +151,8 @@ udp://astrr.ru:6969/announce
 udp://bedro.cloud:6969/announce
 
 udp://black-bird.ynh.fr:6969/announce
+
+udp://boysbitte.be:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
@@ -236,6 +238,8 @@ udp://static.54.161.216.95.clients.your-server.de:6969/announce
 
 udp://t.133335.xyz:6969/announce
 
+udp://t.zerg.pw:6969/announce
+
 udp://tamas3.ynh.fr:6969/announce
 
 udp://thagoat.rocks:6969/announce
@@ -267,6 +271,8 @@ udp://tracker.auctor.tv:6969/announce
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
+
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
@@ -690,13 +696,13 @@ http://t.nyaatracker.com:80/announce
 
 udp://tracker.openbittorrent.com:6969/announce
 
+udp://open.dstud.io:6969/announce
+
 http://v6-tracker.0g.cx:6969/announce
 
 udp://tracker2.dler.com:80/announce
 
 udp://tracker.auctor.tv:6969/announce
-
-udp://open.dstud.io:6969/announce
 
 udp://tracker.farted.net:6969/announce
 
@@ -722,15 +728,15 @@ udp://stargrave.org:6969/announce
 
 udp://fe.dealclub.de:6969/announce
 
-udp://laze.cc:6969/announce
-
 udp://tracker.trojangogogo.site:8080/announce
 
-udp://tracker6.lelux.fi:6969/announce
+udp://laze.cc:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
 https://tracker.lilithraws.cf:443/announce
+
+udp://tracker6.lelux.fi:6969/announce
 
 https://tracker.imgoingto.icu:443/announce
 
@@ -766,17 +772,17 @@ udp://jutone.com:6969/announce
 
 udp://tracker.arcbox.cc:6969/announce
 
+http://ipv4announce.sktorrent.eu:6969/announce
+
 http://bt.endpot.com:80/announce
 
 udp://zecircle.xyz:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
 
-http://ipv4announce.sktorrent.eu:6969/announce
+udp://tamas3.ynh.fr:6969/announce
 
 https://tracker.tamersunion.org:443/announce
-
-udp://tamas3.ynh.fr:6969/announce
 
 udp://chouchou.top:8080/announce
 
@@ -792,9 +798,9 @@ http://montreal.nyap2p.com:8080/announce
 
 http://open.acgtracker.com:1096/announce
 
-udp://inferno.demonoid.is:3391/announce
-
 http://retracker.joxnet.ru:80/announce
+
+udp://inferno.demonoid.is:3391/announce
 
 udp://tracker.breizh.pm:6969/announce
 
@@ -812,17 +818,17 @@ http://bt1.letpo.com:80/announce
 
 udp://tracker.beeimg.com:6969/announce
 
-https://trackers.mlsub.net:443/announce
-
 udp://tracker.swateam.org.uk:2710/announce
 
 http://openbittorrent.com:80/announce
 
+https://trackers.mlsub.net:443/announce
+
 udp://black-bird.ynh.fr:6969/announce
 
-http://parag.rs:6969/announce
-
 http://dht.dhtclub.com:666/announce
+
+http://parag.rs:6969/announce
 
 udp://v2.iperson.xyz:6969/announce
 
@@ -832,9 +838,9 @@ udp://open.tracker.ink:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
-https://tracker.mlsub.net:443/announce
-
 https://1337.abcvg.info:443/announce
+
+https://tracker.mlsub.net:443/announce
 
 http://mail.lakameraobscura.com:6969/announce
 
@@ -868,9 +874,9 @@ udp://freedom.1776.ga:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
-https://tracker.cangku.moe:443/announce
-
 udp://tracker.zerobytes.xyz:1337/announce
+
+https://tracker.cangku.moe:443/announce
 
 http://frp.v2fy.com:8000/announce
 
@@ -882,11 +888,9 @@ http://wegkxfcivgx.chickenkiller.com:80/announce
 
 udp://tracker.lelux.fi:6969/announce
 
-http://tracker-sanopiracy.hopto.org:9123/announce
-
 udp://tracker.openbtba.com:6969/announce
 
-udp://9.rarbg.to:2780/announce
+udp://9.rarbg.to:2940/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
@@ -1412,6 +1416,8 @@ udp://files.samtechnic.ir:6969/announce
 
 udp://cloud.arzanmodern.ir:6969/announce
 
+http://tracker-sanopiracy.hopto.org:9123/announce
+
 http://1337.abcvg.info:80/announce
 
 http://207.241.226.111:6969/announce
@@ -1504,11 +1510,11 @@ https://1337.abcvg.info:443/announce
 
 https://opentracker.i2p.rocks:443/announce
 
+https://t.zerg.pw:443/announce
+
 https://t1.hloli.org:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
-
-https://tr.ready4.icu:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
@@ -1565,6 +1571,8 @@ udp://astrr.ru:6969/announce
 udp://bedro.cloud:6969/announce
 
 udp://black-bird.ynh.fr:6969/announce
+
+udp://boysbitte.be:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
@@ -1650,6 +1658,8 @@ udp://static.54.161.216.95.clients.your-server.de:6969/announce
 
 udp://t.133335.xyz:6969/announce
 
+udp://t.zerg.pw:6969/announce
+
 udp://tamas3.ynh.fr:6969/announce
 
 udp://thagoat.rocks:6969/announce
@@ -1681,6 +1691,8 @@ udp://tracker.auctor.tv:6969/announce
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
+
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
