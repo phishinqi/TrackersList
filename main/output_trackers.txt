@@ -13,6 +13,7 @@ http://montreal.nyap2p.com:8080/announce
 http://movies.zsw.ca:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.acgnxtracker.com:80/announce
+http://open.tracker.ink:6969/announce
 http://p2p.0g.cx:6969/announce
 http://retracker.hotplug.ru:2710/announce
 http://share.camoe.cn:8080/announce
@@ -34,6 +35,7 @@ http://tracker.opentrackr.org:1337/announce
 http://tracker.peckservers.com:9000/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
+http://tracker.skyts.net:6969/announce
 http://tracker.srv00.com:6969/announce
 http://tracker.swateam.org.uk:2710/announce
 http://tracker2.dler.org:80/announce
@@ -172,7 +174,6 @@ udp://v1046920.hosted-by-vdsina.ru:6969/announce
 udp://v2.iperson.xyz:6969/announce
 udp://wepzone.net:6969/announce
 udp://www.torrent.eu.org:451/announce
-ws://hub.bugout.link:80/announce
 wss://tracker.openwebtorrent.com:443/announceudp://tracker.opentrackr.org:1337/announce
 http://tracker.openbittorrent.com:80/announce
 udp://explodie.org:6969/announce
@@ -183,7 +184,6 @@ udp://tracker.zerobytes.xyz:1337/announce
 udp://download.nerocloud.me:6969/announce
 udp://carr.codes:6969/announce
 https://tr.ready4.icu:443/announce
-http://tracker.skyts.net:6969/announce
 http://tracker1.itzmx.com:8080/announce
 udp://cpe-104-34-3-152.socal.res.rr.com:6969/announce
 udp://tracker6.lelux.fi:6969/announce
@@ -191,8 +191,8 @@ udp://jutone.com:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 udp://zecircle.xyz:6969/announce
 https://tracker.tamersunion.org:443/announce
-udp://btt.service.gongt.me:43079/announce
 http://open.acgtracker.com:1096/announce
+udp://btt.service.gongt.me:43079/announce
 http://retracker.joxnet.ru:80/announce
 udp://tracker.breizh.pm:6969/announce
 http://tracker.vraphim.com:6969/announce
@@ -220,7 +220,7 @@ http://tracker.pcfreetime.com:6969/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
 udp://tracker.lelux.fi:6969/announce
 udp://tracker.openbtba.com:6969/announce
-udp://9.rarbg.to:2900/announce
+udp://9.rarbg.to:2760/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.tracker.harry.lu:80/announce
 http://vps02.net.orel.ru:80/announce
@@ -556,7 +556,6 @@ http://54.39.98.124/announce
 http://54.39.98.124:80/announce
 http://www.legittorrents.info:80/announce.php
 http://tracker.ygsub.com:6969/announce
-http://open.tracker.ink:6969/announce
 http://www.yqzuji.com:80/announce
 http://tracker.ali213.net:8000/announce
 http://bt.edwardk.info:6969/announce

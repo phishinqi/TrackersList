@@ -26,6 +26,8 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://p2p.0g.cx:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
@@ -67,6 +69,8 @@ http://tracker.peckservers.com:9000/announce
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://tracker.srv00.com:6969/announce
 
@@ -343,8 +347,6 @@ udp://v2.iperson.xyz:6969/announce
 udp://wepzone.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
-
-ws://hub.bugout.link:80/announce
 
 wss://tracker.openwebtorrent.com:443/announceudp://tracker.opentrackr.org:1337/announce
 
@@ -692,8 +694,6 @@ udp://tracker.theoks.net:6969/announce
 
 udp://download.nerocloud.me:6969/announce
 
-http://t.nyaatracker.com:80/announce
-
 udp://tracker2.dler.com:80/announce
 
 udp://tracker.openbittorrent.com:6969/announce
@@ -701,6 +701,8 @@ udp://tracker.openbittorrent.com:6969/announce
 udp://open.dstud.io:6969/announce
 
 http://v6-tracker.0g.cx:6969/announce
+
+http://t.nyaatracker.com:80/announce
 
 udp://tracker.auctor.tv:6969/announce
 
@@ -712,11 +714,11 @@ udp://bedro.cloud:6969/announce
 
 http://p2p.0g.cx:6969/announce
 
-udp://torrents.artixlinux.org:6969/announce
-
 udp://wepzone.net:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
+
+udp://torrents.artixlinux.org:6969/announce
 
 udp://tracker.jonaslsa.com:6969/announce
 
@@ -744,13 +746,13 @@ udp://tracker1.myporn.club:9337/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
-udp://tracker6.lelux.fi:6969/announce
-
 udp://new-line.net:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
+
+udp://tracker6.lelux.fi:6969/announce
 
 https://t1.hloli.org:443/announce
 
@@ -758,9 +760,9 @@ http://open.acgnxtracker.com:80/announce
 
 udp://tracker.joybomb.tw:6969/announce
 
-udp://tr2.cubonegro.lol:6969/announce
-
 udp://www.torrent.eu.org:451/announce
+
+udp://tr2.cubonegro.lol:6969/announce
 
 udp://bt2.archive.org:6969/announce
 
@@ -788,13 +790,13 @@ udp://chouchou.top:8080/announce
 
 udp://tracker.filemail.com:6969/announce
 
+http://open.acgtracker.com:1096/announce
+
 udp://ryjer.com:6969/announce
 
 udp://tracker.cubonegro.lol:6969/announce
 
 udp://btt.service.gongt.me:43079/announce
-
-http://open.acgtracker.com:1096/announce
 
 http://montreal.nyap2p.com:8080/announce
 
@@ -828,9 +830,9 @@ http://dht.dhtclub.com:666/announce
 
 udp://black-bird.ynh.fr:6969/announce
 
-http://parag.rs:6969/announce
-
 udp://v2.iperson.xyz:6969/announce
+
+http://parag.rs:6969/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
@@ -856,15 +858,15 @@ udp://admin.52ywp.com:6969/announce
 
 udp://camera.lei001.com:6969/announce
 
-udp://t.zerg.pw:1337/announce
-
 http://incine.ru:6969/announce
+
+udp://t.zerg.pw:1337/announce
 
 https://tr.ready4.icu:443/announce
 
-http://dn42.smrsh.net:6969/announce
-
 udp://tracker.ccp.ovh:6969/announce
+
+http://dn42.smrsh.net:6969/announce
 
 udp://open.tracker.cl:1337/announce
 
@@ -890,7 +892,7 @@ udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.openbtba.com:6969/announce
 
-udp://9.rarbg.to:2900/announce
+udp://9.rarbg.to:2760/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
@@ -1446,6 +1448,8 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://p2p.0g.cx:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
@@ -1487,6 +1491,8 @@ http://tracker.peckservers.com:9000/announce
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://tracker.srv00.com:6969/announce
 
@@ -1763,8 +1769,6 @@ udp://v2.iperson.xyz:6969/announce
 udp://wepzone.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
-
-ws://hub.bugout.link:80/announce
 
 wss://tracker.openwebtorrent.com:443/announcehttp://tracker.gbitt.info/announce
 https://tracker.lilithraws.cf/announce
