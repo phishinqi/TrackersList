@@ -694,13 +694,13 @@ udp://download.nerocloud.me:6969/announce
 
 http://t.nyaatracker.com:80/announce
 
+udp://tracker2.dler.com:80/announce
+
 udp://tracker.openbittorrent.com:6969/announce
 
 udp://open.dstud.io:6969/announce
 
 http://v6-tracker.0g.cx:6969/announce
-
-udp://tracker2.dler.com:80/announce
 
 udp://tracker.auctor.tv:6969/announce
 
@@ -712,11 +712,11 @@ udp://bedro.cloud:6969/announce
 
 http://p2p.0g.cx:6969/announce
 
+udp://torrents.artixlinux.org:6969/announce
+
 udp://wepzone.net:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
-
-udp://torrents.artixlinux.org:6969/announce
 
 udp://tracker.jonaslsa.com:6969/announce
 
@@ -726,17 +726,15 @@ udp://thinking.duckdns.org:6969/announce
 
 udp://stargrave.org:6969/announce
 
-udp://fe.dealclub.de:6969/announce
-
 udp://tracker.trojangogogo.site:8080/announce
+
+udp://fe.dealclub.de:6969/announce
 
 udp://laze.cc:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
 https://tracker.lilithraws.cf:443/announce
-
-udp://tracker6.lelux.fi:6969/announce
 
 https://tracker.imgoingto.icu:443/announce
 
@@ -745,6 +743,8 @@ https://tracker.lilithraws.org:443/announce
 udp://tracker1.myporn.club:9337/announce
 
 https://tr.burnabyhighstar.com:443/announce
+
+udp://tracker6.lelux.fi:6969/announce
 
 udp://new-line.net:6969/announce
 
@@ -788,15 +788,15 @@ udp://chouchou.top:8080/announce
 
 udp://tracker.filemail.com:6969/announce
 
-udp://tracker.cubonegro.lol:6969/announce
-
 udp://ryjer.com:6969/announce
+
+udp://tracker.cubonegro.lol:6969/announce
 
 udp://btt.service.gongt.me:43079/announce
 
-http://montreal.nyap2p.com:8080/announce
-
 http://open.acgtracker.com:1096/announce
+
+http://montreal.nyap2p.com:8080/announce
 
 http://retracker.joxnet.ru:80/announce
 
@@ -806,9 +806,9 @@ udp://tracker.breizh.pm:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-http://tracker.gbitt.info:80/announce
-
 http://tracker.vraphim.com:6969/announce
+
+http://tracker.gbitt.info:80/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
@@ -824,9 +824,9 @@ http://openbittorrent.com:80/announce
 
 https://trackers.mlsub.net:443/announce
 
-udp://black-bird.ynh.fr:6969/announce
-
 http://dht.dhtclub.com:666/announce
+
+udp://black-bird.ynh.fr:6969/announce
 
 http://parag.rs:6969/announce
 
@@ -890,7 +890,7 @@ udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.openbtba.com:6969/announce
 
-udp://9.rarbg.to:2940/announce
+udp://9.rarbg.to:2900/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
