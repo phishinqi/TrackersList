@@ -220,7 +220,7 @@ http://tracker.pcfreetime.com:6969/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
 udp://tracker.lelux.fi:6969/announce
 udp://tracker.openbtba.com:6969/announce
-udp://9.rarbg.to:2940/announce
+udp://9.rarbg.to:2900/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.tracker.harry.lu:80/announce
 http://vps02.net.orel.ru:80/announce
