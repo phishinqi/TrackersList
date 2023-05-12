@@ -218,9 +218,8 @@ https://tracker.cangku.moe:443/announce
 http://frp.v2fy.com:8000/announce
 http://tracker.pcfreetime.com:6969/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
-udp://tracker.lelux.fi:6969/announce
 udp://tracker.openbtba.com:6969/announce
-udp://9.rarbg.to:2760/announce
+udp://9.rarbg.to:2750/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.tracker.harry.lu:80/announce
 http://vps02.net.orel.ru:80/announce
@@ -260,6 +259,7 @@ http://tracker.loadbt.com:6969/announce
 https://tracker.iriseden.fr:443/announce
 udp://free.publictracker.xyz:6969/announce
 udp://open.publictracker.xyz:6969/announce
+udp://tracker.lelux.fi:6969/announce
 udp://tracker.cortexlabs.ai:5008/announce
 https://danielcloud.ddns.net:443/announce
 http://buny.uk:6969/announce
