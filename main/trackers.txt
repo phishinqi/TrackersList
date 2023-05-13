@@ -20,6 +20,8 @@ http://incine.ru:6969/announce
 
 http://montreal.nyap2p.com:8080/announce
 
+http://nyaa.tracker.wf:7777/announce
+
 http://open.acgnxtracker.com:80/announce
 
 http://open.tracker.ink:6969/announce
@@ -64,8 +66,6 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.skyts.net:6969/announce
-
 http://tracker.srv00.com:6969/announce
 
 http://tracker.swateam.org.uk:2710/announce
@@ -93,6 +93,8 @@ https://t.zerg.pw:443/announce
 https://t1.hloli.org:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
+
+https://tr.ready4.icu:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
@@ -658,6 +660,8 @@ udp://static.54.161.216.95.clients.your-server.de:6969/announce
 
 udp://carr.codes:6969/announce
 
+udp://tracker.pimpmyworld.to:6969/announce
+
 udp://thagoat.rocks:6969/announce
 
 udp://acxx.de:6969/announce
@@ -671,8 +675,6 @@ udp://opentracker.i2p.rocks:6969/announce
 udp://movies.zsw.ca:6969/announce
 
 udp://linfan.moe:6969/announce
-
-udp://tracker.pimpmyworld.to:6969/announce
 
 udp://private.anonseed.com:6969/announce
 
@@ -740,9 +742,9 @@ https://tr.burnabyhighstar.com:443/announce
 
 udp://new-line.net:6969/announce
 
-http://tracker.ipv6tracker.ru:80/announce
-
 udp://tracker1.bt.moack.co.kr:80/announce
+
+http://tracker.ipv6tracker.ru:80/announce
 
 https://t1.hloli.org:443/announce
 
@@ -752,19 +754,17 @@ udp://tracker.joybomb.tw:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
-udp://bt2.archive.org:6969/announce
-
 udp://rep-art.ynh.fr:6969/announce
 
 udp://tr2.cubonegro.lol:6969/announce
+
+udp://bt2.archive.org:6969/announce
 
 https://tracker.kuroy.me:443/announce
 
 udp://jutone.com:6969/announce
 
 udp://tracker.arcbox.cc:6969/announce
-
-udp://tracker6.lelux.fi:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
@@ -776,6 +776,8 @@ udp://tamas3.ynh.fr:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
 
+udp://tracker6.lelux.fi:6969/announce
+
 udp://chouchou.top:8080/announce
 
 http://open.acgtracker.com:1096/announce
@@ -786,13 +788,13 @@ udp://tracker.filemail.com:6969/announce
 
 udp://btt.service.gongt.me:43079/announce
 
-https://tracker.tamersunion.org:443/announce
-
 udp://ryjer.com:6969/announce
 
 udp://inferno.demonoid.is:3391/announce
 
 http://montreal.nyap2p.com:8080/announce
+
+https://tracker.tamersunion.org:443/announce
 
 http://retracker.joxnet.ru:80/announce
 
@@ -838,9 +840,9 @@ https://tracker.mlsub.net:443/announce
 
 http://mail.lakameraobscura.com:6969/announce
 
-udp://open.demonii.com:1337/announce
-
 http://tracker.skyts.net:6969/announce
+
+udp://open.demonii.com:1337/announce
 
 udp://retracker.lanta-net.ru:2710/announce
 
@@ -848,9 +850,9 @@ udp://tracker.btsync.gq:233/announce
 
 http://incine.ru:6969/announce
 
-udp://admin.52ywp.com:6969/announce
-
 https://tr.ready4.icu:443/announce
+
+udp://admin.52ywp.com:6969/announce
 
 udp://camera.lei001.com:6969/announce
 
@@ -882,7 +884,7 @@ http://wegkxfcivgx.chickenkiller.com:80/announce
 
 udp://tracker.openbtba.com:6969/announce
 
-udp://9.rarbg.to:2910/announce
+udp://9.rarbg.to:2960/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
@@ -1434,6 +1436,8 @@ http://incine.ru:6969/announce
 
 http://montreal.nyap2p.com:8080/announce
 
+http://nyaa.tracker.wf:7777/announce
+
 http://open.acgnxtracker.com:80/announce
 
 http://open.tracker.ink:6969/announce
@@ -1478,8 +1482,6 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.skyts.net:6969/announce
-
 http://tracker.srv00.com:6969/announce
 
 http://tracker.swateam.org.uk:2710/announce
@@ -1507,6 +1509,8 @@ https://t.zerg.pw:443/announce
 https://t1.hloli.org:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
+
+https://tr.ready4.icu:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
