@@ -714,15 +714,15 @@ udp://download.nerocloud.me:6969/announce
 
 udp://tracker2.dler.com:80/announce
 
-udp://tracker.openbittorrent.com:6969/announce
-
-udp://open.dstud.io:6969/announce
-
 http://v6-tracker.0g.cx:6969/announce
 
 http://t.nyaatracker.com:80/announce
 
+udp://tracker.openbittorrent.com:6969/announce
+
 udp://tracker.auctor.tv:6969/announce
+
+udp://open.dstud.io:6969/announce
 
 udp://tracker.farted.net:6969/announce
 
@@ -748,19 +748,19 @@ udp://thinking.duckdns.org:6969/announce
 
 udp://stargrave.org:6969/announce
 
-udp://fe.dealclub.de:6969/announce
-
 udp://tracker.trojangogogo.site:8080/announce
+
+udp://fe.dealclub.de:6969/announce
 
 udp://laze.cc:6969/announce
 
-https://tracker.imgoingto.icu:443/announce
-
 https://tracker.lilithraws.cf:443/announce
 
-udp://public.publictracker.xyz:6969/announce
+https://tracker.imgoingto.icu:443/announce
 
 https://tracker.lilithraws.org:443/announce
+
+udp://public.publictracker.xyz:6969/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -768,9 +768,9 @@ udp://tracker1.myporn.club:9337/announce
 
 udp://new-line.net:6969/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
-
 http://tracker.ipv6tracker.ru:80/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 https://t1.hloli.org:443/announce
 
@@ -778,9 +778,9 @@ http://open.acgnxtracker.com:80/announce
 
 udp://tracker.joybomb.tw:6969/announce
 
-udp://www.torrent.eu.org:451/announce
-
 udp://rep-art.ynh.fr:6969/announce
+
+udp://www.torrent.eu.org:451/announce
 
 udp://bt2.archive.org:6969/announce
 
@@ -796,27 +796,27 @@ udp://tracker.arcbox.cc:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-http://bt.endpot.com:80/announce
-
 udp://zecircle.xyz:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
+
+http://bt.endpot.com:80/announce
 
 udp://tracker.cubonegro.lol:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
-udp://tracker6.lelux.fi:6969/announce
-
 udp://chouchou.top:8080/announce
 
-udp://tracker.filemail.com:6969/announce
+udp://tracker6.lelux.fi:6969/announce
 
 udp://inferno.demonoid.is:3391/announce
 
+http://montreal.nyap2p.com:8080/announce
+
 udp://btt.service.gongt.me:43079/announce
 
-http://montreal.nyap2p.com:8080/announce
+udp://tracker.filemail.com:6969/announce
 
 udp://ryjer.com:6969/announce
 
@@ -862,9 +862,9 @@ udp://tracker.edkj.club:6969/announce
 
 https://1337.abcvg.info:443/announce
 
-https://tracker.mlsub.net:443/announce
-
 http://mail.lakameraobscura.com:6969/announce
+
+https://tracker.mlsub.net:443/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -890,17 +890,17 @@ udp://open.tracker.cl:1337/announce
 
 udp://tsundere.pw:6969/announce
 
-http://dn42.smrsh.net:6969/announce
-
 udp://freedom.1776.ga:6969/announce
 
-http://cn.pcfreetime.com:6969/announce
+http://dn42.smrsh.net:6969/announce
 
-udp://tracker.zerobytes.xyz:1337/announce
+http://cn.pcfreetime.com:6969/announce
 
 https://tracker.moeblog.cn:443/announce
 
 https://tracker.cangku.moe:443/announce
+
+udp://tracker.zerobytes.xyz:1337/announce
 
 http://frp.v2fy.com:8000/announce
 
@@ -910,7 +910,7 @@ http://wegkxfcivgx.chickenkiller.com:80/announce
 
 udp://tracker.openbtba.com:6969/announce
 
-udp://9.rarbg.to:2810/announce
+udp://9.rarbg.to:2780/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
