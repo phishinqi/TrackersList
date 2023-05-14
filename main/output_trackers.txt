@@ -184,8 +184,8 @@ udp://tr2.cubonegro.lol:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 udp://zecircle.xyz:6969/announce
 udp://btt.service.gongt.me:43079/announce
-udp://tracker6.lelux.fi:6969/announce
 http://retracker.joxnet.ru:80/announce
+udp://tracker6.lelux.fi:6969/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 http://tracker.vraphim.com:6969/announce
@@ -197,13 +197,13 @@ http://dht.dhtclub.com:666/announce
 udp://tracker.beeimg.com:6969/announce
 udp://tracker.edkj.club:6969/announce
 https://trackers.mlsub.net:443/announce
-http://parag.rs:6969/announce
 http://mail.lakameraobscura.com:6969/announce
+http://parag.rs:6969/announce
 https://tracker.mlsub.net:443/announce
 http://tracker.skyts.net:6969/announce
 udp://tracker.btsync.gq:233/announce
-udp://admin.52ywp.com:6969/announce
 https://tracker.cangku.moe:443/announce
+udp://admin.52ywp.com:6969/announce
 udp://camera.lei001.com:6969/announce
 udp://t.zerg.pw:1337/announce
 udp://tsundere.pw:6969/announce
@@ -215,7 +215,7 @@ http://frp.v2fy.com:8000/announce
 http://tracker.pcfreetime.com:6969/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
 udp://tracker.openbtba.com:6969/announce
-udp://9.rarbg.to:2950/announce
+udp://9.rarbg.to:2940/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.tracker.harry.lu:80/announce
 http://vps02.net.orel.ru:80/announce
