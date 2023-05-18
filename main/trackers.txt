@@ -294,15 +294,11 @@ http://t.acg.rip:6699/announce
 
 http://tracker.bt4g.com:2095/announce
 
-udp://bt1.archive.org:6969/announce
-
 udp://opentracker.i2p.rocks:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
 http://bt.okmp3.ru:2710/announce
-
-udp://u4.trakx.crim.ist:1337/announce
 
 http://tracker.k.vu:6969/announce
 
@@ -320,7 +316,11 @@ udp://carr.codes:6969/announce
 
 udp://open.stealth.si:80/announce
 
+udp://bt1.archive.org:6969/announce
+
 udp://movies.zsw.ca:6969/announce
+
+udp://u4.trakx.crim.ist:1337/announce
 
 udp://thagoat.rocks:6969/announce
 
@@ -330,17 +330,17 @@ udp://opentracker.io:6969/announce
 
 https://tracker.jiesen.life:8443/announce
 
+udp://ipv6.fuuuuuck.com:6969/announce
+
 udp://tracker.theoks.net:6969/announce
 
 udp://download.nerocloud.me:6969/announce
 
-udp://ipv6.fuuuuuck.com:6969/announce
+udp://tracker.farted.net:6969/announce
 
 http://v6-tracker.0g.cx:6969/announce
 
 udp://tracker2.dler.com:80/announce
-
-udp://tracker.farted.net:6969/announce
 
 https://tracker.imgoingto.icu:443/announce
 
@@ -354,8 +354,6 @@ udp://tracker.altrosky.nl:6969/announce
 
 udp://tracker.openbittorrent.com:6969/announce
 
-udp://tracker.auctor.tv:6969/announce
-
 udp://open.dstud.io:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
@@ -364,11 +362,11 @@ https://tracker.lilithraws.org:443/announce
 
 udp://tracker.trojangogogo.site:8080/announce
 
+udp://run.publictracker.xyz:6969/announce
+
 udp://bt.ktrackers.com:6666/announce
 
 https://tracker.lilithraws.cf:443/announce
-
-udp://run.publictracker.xyz:6969/announce
 
 udp://thinking.duckdns.org:6969/announce
 
@@ -376,19 +374,19 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://fe.dealclub.de:6969/announce
 
+udp://tracker.auctor.tv:6969/announce
+
 udp://laze.cc:6969/announce
 
-udp://public.publictracker.xyz:6969/announce
-
 udp://tracker1.myporn.club:9337/announce
+
+udp://public.publictracker.xyz:6969/announce
 
 https://tracker.kuroy.me:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
 udp://wepzone.net:6969/announce
-
-udp://bedro.cloud:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
@@ -404,6 +402,8 @@ https://tracker.ipfsscan.io:443/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
+udp://bedro.cloud:6969/announce
+
 udp://bt2.archive.org:6969/announce
 
 udp://jutone.com:6969/announce
@@ -416,17 +416,17 @@ udp://chouchou.top:8080/announce
 
 udp://tracker.joybomb.tw:6969/announce
 
-http://bt.endpot.com:80/announce
-
 http://montreal.nyap2p.com:8080/announce
+
+http://bt.endpot.com:80/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://tracker.arcbox.cc:6969/announce
 
-http://open.acgtracker.com:1096/announce
-
 http://tracker1.itzmx.com:8080/announce
+
+http://open.acgtracker.com:1096/announce
 
 udp://zecircle.xyz:6969/announce
 
@@ -466,11 +466,11 @@ udp://tracker.swateam.org.uk:2710/announce
 
 http://bt1.letpo.com:80/announce
 
+udp://black-bird.ynh.fr:6969/announce
+
 http://tracker.gbitt.info:80/announce
 
 udp://tracker6.lelux.fi:6969/announce
-
-udp://black-bird.ynh.fr:6969/announce
 
 https://www.peckservers.com:9443/announce
 
@@ -498,23 +498,23 @@ udp://retracker.lanta-net.ru:2710/announce
 
 https://tr.ready4.icu:443/announce
 
-http://parag.rs:6969/announce
-
 https://tracker.moeblog.cn:443/announce
+
+http://parag.rs:6969/announce
 
 https://tracker.mlsub.net:443/announce
 
 udp://tracker.btsync.gq:233/announce
 
-http://leidenfro.st:6969/announce
-
 udp://open.tracker.cl:1337/announce
 
-udp://open.demonii.com:1337/announce
+https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 
 http://cn.pcfreetime.com:6969/announce
 
-https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
+http://leidenfro.st:6969/announce
+
+udp://open.demonii.com:1337/announce
 
 udp://freedom.1776.ga:6969/announce
 
@@ -528,11 +528,11 @@ http://tracker.pcfreetime.com:6969/announce
 
 udp://admin.52ywp.com:6969/announce
 
-udp://tracker.qu.ax:6969/announce
-
 http://wegkxfcivgx.chickenkiller.com:80/announce
 
 udp://chihaya.de:6969/announce
+
+udp://tracker.qu.ax:6969/announce
 
 udp://camera.lei001.com:6969/announce
 
@@ -546,7 +546,7 @@ udp://tracker.openbtba.com:6969/announce
 
 udp://cloud.samtechnic.ir:6969/announce
 
-udp://9.rarbg.to:2730/announce
+udp://9.rarbg.to:2910/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
