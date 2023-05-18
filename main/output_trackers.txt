@@ -138,9 +138,9 @@ https://tracker.lilithraws.cf:443/announce
 udp://thinking.duckdns.org:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 https://tracker.ipfsscan.io:443/announce
-udp://bedro.cloud:6969/announce
-udp://jutone.com:6969/announce
 udp://www.torrent.eu.org:451/announce
+udp://jutone.com:6969/announce
+udp://bedro.cloud:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 http://open.acgtracker.com:1096/announce
 udp://zecircle.xyz:6969/announce
@@ -168,13 +168,13 @@ https://tr.ready4.icu:443/announce
 http://parag.rs:6969/announce
 https://tracker.mlsub.net:443/announce
 udp://tracker.btsync.gq:233/announce
+http://leidenfro.st:6969/announce
 udp://open.tracker.cl:1337/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 http://cn.pcfreetime.com:6969/announce
-http://leidenfro.st:6969/announce
-udp://freedom.1776.ga:6969/announce
-udp://tracker.zerobytes.xyz:1337/announce
 https://tracker.cangku.moe:443/announce
+udp://tracker.zerobytes.xyz:1337/announce
+udp://freedom.1776.ga:6969/announce
 http://frp.v2fy.com:8000/announce
 http://tracker.pcfreetime.com:6969/announce
 udp://admin.52ywp.com:6969/announce
@@ -186,7 +186,7 @@ udp://t.zerg.pw:1337/announce
 http://0205.uptm.ch:6969/announce
 udp://tracker.openbtba.com:6969/announce
 udp://cloud.samtechnic.ir:6969/announce
-udp://9.rarbg.to:2910/announce
+udp://9.rarbg.to:2850/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.tracker.harry.lu:80/announce
 http://vps02.net.orel.ru:80/announce
@@ -448,7 +448,7 @@ http://207.241.231.226:6969/announce
 http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 http://chouchou.top:8080/announce
-http://fe.dealclub.de:6969/announce
+http://movies.zsw.ca:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://retracker.hotplug.ru:2710/announce
 http://share.camoe.cn:8080/announce
@@ -472,6 +472,7 @@ udp://[2001:470:1:189:0:1:2:3]:6969/announce
 udp://[2a03:7220:8083:cd00::1]:451/announce
 udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 udp://[2a0f:e586:f:f::81]:6969/announce
+udp://opentor.org:2710/announce
 udp://tracker.skyts.net:6969/announce
 ws://hub.bugout.link:80/announce
 wss://tracker.openwebtorrent.com:443/announcehttp://tracker.gbitt.info/announce
@@ -672,6 +673,7 @@ http://tracker.bittor.pw:1337/announce
 udp://tracker.sylphix.com:6969/announce
 http://tracker.trackerfix.com/announce
 http://t1.pow7.com/announce
+http://fe.dealclub.de:6969/announce
 http://tracker.tiny-vps.com:6969/announce
 udp://tracker.ddunlimited.net:6969/announce
 http://retracker.joxnet.ru/announce
@@ -749,7 +751,6 @@ http://torrents.linuxmint.com/announce.php
 http://announce.partis.si/announce
 http://proaudiotorrents.org/announce.php
 https://torrent.ubuntu.com/announce
-http://movies.zsw.ca:6969/announce
 http://torrent.ubuntu.com:6969/announce
 http://mvgforumtracker.mvgroup.org/tracker.php/announce
 http://blackz.ro/announce.php
