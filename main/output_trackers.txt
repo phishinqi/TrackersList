@@ -183,8 +183,8 @@ udp://jutone.com:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 udp://zecircle.xyz:6969/announce
 udp://tr2.cubonegro.lol:6969/announce
-udp://btt.service.gongt.me:43079/announce
 http://mail.lakameraobscura.com:6969/announce
+udp://btt.service.gongt.me:43079/announce
 http://retracker.joxnet.ru:80/announce
 udp://tracker.breizh.pm:6969/announce
 udp://bedro.cloud:6969/announce
@@ -208,8 +208,8 @@ udp://open.tracker.cl:1337/announce
 https://tracker.cangku.moe:443/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 http://cn.pcfreetime.com:6969/announce
-udp://freedom.1776.ga:6969/announce
 http://tracker.aibt.xyz:900/announce
+udp://freedom.1776.ga:6969/announce
 http://leidenfro.st:6969/announce
 http://frp.v2fy.com:8000/announce
 http://tracker.pcfreetime.com:6969/announce
@@ -218,7 +218,7 @@ udp://chihaya.de:6969/announce
 http://0205.uptm.ch:6969/announce
 udp://tracker.openbtba.com:6969/announce
 udp://cloud.samtechnic.ir:6969/announce
-udp://9.rarbg.to:2880/announce
+udp://9.rarbg.to:2760/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.tracker.harry.lu:80/announce
 http://vps02.net.orel.ru:80/announce
