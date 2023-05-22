@@ -6,11 +6,10 @@ http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 http://bt.endpot.com:80/announce
 http://bt.okmp3.ru:2710/announce
-http://chouchou.top:8080/announce
 http://montreal.nyap2p.com:8080/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.acgnxtracker.com:80/announce
-http://open.acgtracker.com:1096/announce
+http://open.tracker.ink:6969/announce
 http://p2p.0g.cx:6969/announce
 http://retracker.hotplug.ru:2710/announce
 http://share.camoe.cn:8080/announce
@@ -22,7 +21,6 @@ http://tracker.birkenwald.de:6969/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
-http://tracker.edkj.club:6969/announce
 http://tracker.files.fm:6969/announce
 http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
@@ -33,7 +31,6 @@ http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.srv00.com:6969/announce
 http://tracker.swateam.org.uk:2710/announce
-http://tracker2.dler.org:80/announce
 http://v6-tracker.0g.cx:6969/announce
 http://vps-dd0a0715.vps.ovh.net:6969/announce
 http://wepzone.net:6969/announce
@@ -106,6 +103,7 @@ udp://p4p.arenabg.com:1337/announce
 udp://private.anonseed.com:6969/announce
 udp://psyco.fr:6969/announce
 udp://public.publictracker.xyz:6969/announce
+udp://public.tracker.vraphim.com:6969/announce
 udp://rep-art.ynh.fr:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://retracker.lanta-net.ru:2710/announce
@@ -172,19 +170,20 @@ http://tracker.openbittorrent.com:80/announce
 udp://explodie.org:6969/announce
 http://tracker1.bt.moack.co.kr:80/announce
 udp://tracker.zerobytes.xyz:1337/announce
-udp://public.tracker.vraphim.com:6969/announce
 udp://download.nerocloud.me:6969/announce
 udp://carr.codes:6969/announce
+http://tracker2.dler.org:80/announce
 http://tracker.zerobytes.xyz:1337/announce
-http://open.tracker.ink:6969/announce
+http://tracker.edkj.club:6969/announce
 http://tracker1.itzmx.com:8080/announce
 udp://cpe-104-34-3-152.socal.res.rr.com:6969/announce
 http://t.nyaatracker.com:80/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 udp://jutone.com:6969/announce
-udp://zecircle.xyz:6969/announce
 http://mail.lakameraobscura.com:6969/announce
+udp://zecircle.xyz:6969/announce
 udp://tr2.cubonegro.lol:6969/announce
+http://open.acgtracker.com:1096/announce
 udp://btt.service.gongt.me:43079/announce
 http://retracker.joxnet.ru:80/announce
 udp://tracker.breizh.pm:6969/announce
@@ -206,8 +205,8 @@ udp://tracker.beeimg.com:6969/announce
 http://parag.rs:6969/announce
 https://tracker.mlsub.net:443/announce
 https://tracker.cangku.moe:443/announce
-udp://open.tracker.cl:1337/announce
 http://cn.pcfreetime.com:6969/announce
+udp://open.tracker.cl:1337/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 http://tracker.pcfreetime.com:6969/announce
 udp://freedom.1776.ga:6969/announce
@@ -219,7 +218,7 @@ udp://run-2.publictracker.xyz:6969/announce
 http://0205.uptm.ch:6969/announce
 udp://tracker.openbtba.com:6969/announce
 udp://cloud.samtechnic.ir:6969/announce
-udp://9.rarbg.to:2850/announce
+udp://9.rarbg.to:2940/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.tracker.harry.lu:80/announce
 http://vps02.net.orel.ru:80/announce
@@ -783,6 +782,7 @@ http://tr.bangumi.moe:6969/announce
 https://tr.bangumi.moe:6969/announce
 http://167.235.245.209/announce
 http://tracker.frozen-layer.net:6969/announce.php
+http://chouchou.top:8080/announce
 udp://tracker1.itzmx.com:8080/announce
 https://tracker.m-team.cc:443/announce.php
 https://tracker.vectahosting.eu:443/announce
@@ -1211,4 +1211,5 @@ http://tracker.peckservers.com:9000/announce
 http://www.ansktracker.net/announce.php?passkey=58fff4518e745565986d5d2d3e884841
 https://tracker.bangumi.zip/announce
 https://tracker.ipfsscan.io/announce
+udp://107.175.221.194:6969/announce
 The content may contain violation informationhttp://tracker1.itzmx.com:8080/announce
