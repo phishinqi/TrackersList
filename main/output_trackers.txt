@@ -178,9 +178,9 @@ http://tracker1.itzmx.com:8080/announce
 udp://cpe-104-34-3-152.socal.res.rr.com:6969/announce
 http://t.nyaatracker.com:80/announce
 udp://thinking.duckdns.org:6969/announce
+udp://zecircle.xyz:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 udp://jutone.com:6969/announce
-udp://zecircle.xyz:6969/announce
 udp://tr2.cubonegro.lol:6969/announce
 udp://btt.service.gongt.me:43079/announce
 http://retracker.joxnet.ru:80/announce
@@ -204,9 +204,9 @@ udp://tracker.btsync.gq:233/announce
 http://cn.pcfreetime.com:6969/announce
 https://tr.ready4.icu:443/announce
 udp://tracker.beeimg.com:6969/announce
-https://tracker.cangku.moe:443/announce
 http://tracker.pcfreetime.com:6969/announce
 udp://open.tracker.cl:1337/announce
+https://tracker.cangku.moe:443/announce
 https://tracker.mlsub.net:443/announce
 http://parag.rs:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
@@ -216,10 +216,11 @@ http://frp.v2fy.com:8000/announce
 http://leidenfro.st:6969/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
 udp://chihaya.de:6969/announce
+http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://0205.uptm.ch:6969/announce
 udp://tracker.openbtba.com:6969/announce
 udp://cloud.samtechnic.ir:6969/announce
-udp://9.rarbg.to:2790/announce
+udp://9.rarbg.to:2910/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.tracker.harry.lu:80/announce
 udp://retracker.netbynet.ru:2710/announce
@@ -231,7 +232,6 @@ udp://ipv6.tracker.zerobytes.xyz:16661/announce
 udp://tr2.ysagin.top:2710/announce
 udp://tracker.army:6969/announce
 udp://tracker.teambelgium.net:6969/announce
-http://torrenttracker.nwc.acsalaska.net:6969/announce
 udp://tracker.zemoj.com:6969/announce
 udp://discord.heihachi.pw:6969/announce
 udp://cutiegirl.ru:6969/announce
