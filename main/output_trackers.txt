@@ -6,16 +6,15 @@ http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 http://bt.endpot.com:80/announce
 http://bt.okmp3.ru:2710/announce
-http://chouchou.top:8080/announce
 http://fe.dealclub.de:6969/announce
 http://mail.lakameraobscura.com:6969/announce
 http://montreal.nyap2p.com:8080/announce
+http://movies.zsw.ca:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.acgnxtracker.com:80/announce
 http://p2p.0g.cx:6969/announce
 http://retracker.hotplug.ru:2710/announce
 http://share.camoe.cn:8080/announce
-http://shogiroom.com:6969/announce
 http://t.acg.rip:6699/announce
 http://torrentsmd.com:8080/announce
 http://tr.cili001.com:8070/announce
@@ -32,8 +31,6 @@ http://tracker.opentrackr.org:1337/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.srv00.com:6969/announce
-http://tracker.swateam.org.uk:2710/announce
-http://tracker2.dler.org:80/announce
 http://v6-tracker.0g.cx:6969/announce
 http://vps-dd0a0715.vps.ovh.net:6969/announce
 http://vps02.net.orel.ru:80/announce
@@ -116,6 +113,7 @@ udp://static.54.161.216.95.clients.your-server.de:6969/announce
 udp://t.133335.xyz:6969/announce
 udp://tamas3.ynh.fr:6969/announce
 udp://thagoat.rocks:6969/announce
+udp://thinking.duckdns.org:6969/announce
 udp://thouvenin.cloud:6969/announce
 udp://torrents.artixlinux.org:6969/announce
 udp://tr.bangumi.moe:6969/announce
@@ -164,11 +162,13 @@ udp://v1046920.hosted-by-vdsina.ru:6969/announce
 udp://v2.iperson.xyz:6969/announce
 udp://wepzone.net:6969/announce
 udp://www.torrent.eu.org:451/announce
+udp://zecircle.xyz:6969/announce
 ws://hub.bugout.link:80/announce
 wss://tracker.openwebtorrent.com:443/announceudp://tracker.opentrackr.org:1337/announce
 http://tracker.openbittorrent.com:80/announce
 udp://explodie.org:6969/announce
 http://tracker1.bt.moack.co.kr:80/announce
+http://tracker2.dler.org:80/announce
 udp://run-2.publictracker.xyz:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
 udp://download.nerocloud.me:6969/announce
@@ -177,8 +177,7 @@ http://open.tracker.ink:6969/announce
 http://tracker1.itzmx.com:8080/announce
 udp://cpe-104-34-3-152.socal.res.rr.com:6969/announce
 http://t.nyaatracker.com:80/announce
-udp://thinking.duckdns.org:6969/announce
-udp://zecircle.xyz:6969/announce
+http://shogiroom.com:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 udp://jutone.com:6969/announce
 udp://tr2.cubonegro.lol:6969/announce
@@ -206,12 +205,12 @@ https://tr.ready4.icu:443/announce
 udp://tracker.beeimg.com:6969/announce
 http://tracker.pcfreetime.com:6969/announce
 udp://open.tracker.cl:1337/announce
-https://tracker.cangku.moe:443/announce
 https://tracker.mlsub.net:443/announce
 http://parag.rs:6969/announce
+https://tracker.cangku.moe:443/announce
 udp://tracker.zerobytes.xyz:1337/announce
-https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 udp://freedom.1776.ga:6969/announce
+https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 http://frp.v2fy.com:8000/announce
 http://leidenfro.st:6969/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
@@ -220,7 +219,7 @@ http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://0205.uptm.ch:6969/announce
 udp://tracker.openbtba.com:6969/announce
 udp://cloud.samtechnic.ir:6969/announce
-udp://9.rarbg.to:2910/announce
+udp://9.rarbg.to:2880/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.tracker.harry.lu:80/announce
 udp://retracker.netbynet.ru:2710/announce
@@ -749,7 +748,6 @@ http://torrents.linuxmint.com/announce.php
 http://announce.partis.si/announce
 http://proaudiotorrents.org/announce.php
 https://torrent.ubuntu.com/announce
-http://movies.zsw.ca:6969/announce
 http://torrent.ubuntu.com:6969/announce
 http://mvgforumtracker.mvgroup.org/tracker.php/announce
 http://blackz.ro/announce.php
@@ -781,6 +779,7 @@ http://tr.bangumi.moe:6969/announce
 https://tr.bangumi.moe:6969/announce
 http://167.235.245.209/announce
 http://tracker.frozen-layer.net:6969/announce.php
+http://chouchou.top:8080/announce
 udp://tracker1.itzmx.com:8080/announce
 https://tracker.m-team.cc:443/announce.php
 https://tracker.vectahosting.eu:443/announce
@@ -942,6 +941,7 @@ http://207.246.79.17:6961/announce
 http://47.54.245.23:6969/announce
 http://189.110.233.96:6969/announce
 http://83.31.33.73:6969/announce
+http://tracker.swateam.org.uk:2710/announce
 http://tracker3.torrentino.com/announce
 http://tracker2.torrentino.com/announce
 http://47.243.23.189:6969/announce
