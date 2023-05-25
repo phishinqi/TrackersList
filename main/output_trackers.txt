@@ -9,6 +9,7 @@ http://bt.okmp3.ru:2710/announce
 http://chouchou.top:8080/announce
 http://fe.dealclub.de:6969/announce
 http://montreal.nyap2p.com:8080/announce
+http://movies.zsw.ca:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.acgnxtracker.com:80/announce
 http://p2p.0g.cx:6969/announce
@@ -23,16 +24,19 @@ http://tracker.birkenwald.de:6969/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
+http://tracker.edkj.club:6969/announce
 http://tracker.files.fm:6969/announce
 http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 http://tracker.k.vu:6969/announce
 http://tracker.mywaifu.best:6969/announce
+http://tracker.openbittorrent.com:80/announce
 http://tracker.opentrackr.org:1337/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.swateam.org.uk:2710/announce
 http://tracker1.bt.moack.co.kr:80/announce
+http://tracker2.dler.org:80/announce
 http://v6-tracker.0g.cx:6969/announce
 http://vps-dd0a0715.vps.ovh.net:6969/announce
 http://vps02.net.orel.ru:80/announce
@@ -167,9 +171,7 @@ udp://www.torrent.eu.org:451/announce
 udp://zecircle.xyz:6969/announce
 ws://hub.bugout.link:80/announce
 wss://tracker.openwebtorrent.com:443/announceudp://tracker.opentrackr.org:1337/announce
-http://tracker.openbittorrent.com:80/announce
 udp://explodie.org:6969/announce
-http://tracker2.dler.org:80/announce
 udp://carr.codes:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://run-2.publictracker.xyz:6969/announce
@@ -199,8 +201,8 @@ http://incine.ru:6969/announce
 http://tracker.skyts.net:6969/announce
 udp://tracker6.lelux.fi:6969/announce
 http://tracker.aibt.xyz:900/announce
-udp://tracker.btsync.gq:233/announce
 http://cn.pcfreetime.com:6969/announce
+udp://tracker.btsync.gq:233/announce
 https://tracker.cangku.moe:443/announce
 http://tracker.pcfreetime.com:6969/announce
 udp://open.tracker.cl:1337/announce
@@ -216,7 +218,7 @@ https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/annou
 http://0205.uptm.ch:6969/announce
 udp://tracker.openbtba.com:6969/announce
 udp://cloud.samtechnic.ir:6969/announce
-udp://9.rarbg.to:2880/announce
+udp://9.rarbg.to:2910/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.tracker.harry.lu:80/announce
 udp://retracker.netbynet.ru:2710/announce
@@ -747,7 +749,6 @@ http://torrents.linuxmint.com/announce.php
 http://announce.partis.si/announce
 http://proaudiotorrents.org/announce.php
 https://torrent.ubuntu.com/announce
-http://movies.zsw.ca:6969/announce
 http://torrent.ubuntu.com:6969/announce
 http://mvgforumtracker.mvgroup.org/tracker.php/announce
 http://blackz.ro/announce.php
@@ -871,7 +872,6 @@ https://tracker.opentracker.se/announce
 http://rstracker.ohys.net/announce
 udp://aaa.army:8866/announce
 http://aaa.army:8866/announce
-http://tracker.edkj.club:6969/announce
 https://aaa.army:8866/announce
 http://185.185.40.51:6969/announce
 http://95.217.161.135/announce
