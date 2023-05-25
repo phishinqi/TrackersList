@@ -181,8 +181,8 @@ http://tracker1.itzmx.com:8080/announce
 udp://cpe-104-34-3-152.socal.res.rr.com:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 udp://jutone.com:6969/announce
-http://mail.lakameraobscura.com:6969/announce
 udp://tr2.cubonegro.lol:6969/announce
+http://mail.lakameraobscura.com:6969/announce
 http://retracker.joxnet.ru:80/announce
 udp://btt.service.gongt.me:43079/announce
 udp://tracker.breizh.pm:6969/announce
@@ -193,8 +193,8 @@ http://openbittorrent.com:80/announce
 udp://bedro.cloud:6969/announce
 https://www.peckservers.com:9443/announce
 http://bt1.letpo.com:80/announce
-http://dht.dhtclub.com:666/announce
 https://trackers.mlsub.net:443/announce
+http://dht.dhtclub.com:666/announce
 udp://tracker.edkj.club:6969/announce
 udp://stargrave.org:6969/announce
 http://incine.ru:6969/announce
@@ -1211,6 +1211,7 @@ https://tracker.bangumi.zip/announce
 https://tracker.ipfsscan.io/announce
 udp://107.175.221.194:6969/announce
 http://www.bitseduce.com/announce.php
+http://houniao.ddns.net:8888/announce
 udp://sugoi.pomf.se:80/announce
 udp://82.156.24.219:6969/announce
 http://bt.3dmgame.com:2710/announce
