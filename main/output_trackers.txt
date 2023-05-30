@@ -232,8 +232,8 @@ udp://tracker.breizh.pm:6969/announce
 http://tracker.vraphim.com:6969/announce
 http://open.acgtracker.com:1096/announce
 http://openbittorrent.com:80/announce
-http://mail.lakameraobscura.com:6969/announce
 https://www.peckservers.com:9443/announce
+http://mail.lakameraobscura.com:6969/announce
 https://trackers.mlsub.net:443/announce
 http://bt1.letpo.com:80/announce
 udp://tracker.edkj.club:6969/announce
@@ -247,9 +247,9 @@ http://incine.ru:6969/announce
 https://tracker.cangku.moe:443/announce
 http://147job.com:6969/announce
 udp://tracker6.lelux.fi:6969/announce
-udp://open.tracker.cl:1337/announce
 udp://open-tracker.demonoid.ch:6969/announce
 http://tracker.pcfreetime.com:6969/announce
+udp://open.tracker.cl:1337/announce
 udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 http://frp.v2fy.com:8000/announce
 udp://open.publictracker.xyz:6969/announce
@@ -259,7 +259,7 @@ http://leidenfro.st:6969/announce
 http://0205.uptm.ch:6969/announce
 udp://tracker.openbtba.com:6969/announce
 udp://cloud.samtechnic.ir:6969/announce
-udp://9.rarbg.to:2880/announce
+udp://9.rarbg.to:2720/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.tracker.harry.lu:80/announce
 udp://retracker.netbynet.ru:2710/announce
