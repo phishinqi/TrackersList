@@ -231,8 +231,8 @@ http://ipv4announce.sktorrent.eu:6969/announce
 udp://jutone.com:6969/announce
 udp://tr2.cubonegro.lol:6969/announce
 udp://btt.service.gongt.me:43079/announce
-udp://zecircle.xyz:6969/announce
 udp://llideong.cn:6969/announce
+udp://zecircle.xyz:6969/announce
 https://www.peckservers.com:9443/announce
 udp://tracker.breizh.pm:6969/announce
 http://tracker.vraphim.com:6969/announce
@@ -269,7 +269,7 @@ http://leidenfro.st:6969/announce
 http://0205.uptm.ch:6969/announce
 udp://tracker.openbtba.com:6969/announce
 udp://cloud.samtechnic.ir:6969/announce
-udp://9.rarbg.to:2740/announce
+udp://9.rarbg.to:2910/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.tracker.harry.lu:80/announce
 udp://retracker.netbynet.ru:2710/announce
