@@ -10,6 +10,7 @@ http://canardscitrons.nohost.me:6969/announce
 http://fe.dealclub.de:6969/announce
 http://li2021-95.members.linode.com:6969/announce
 http://montreal.nyap2p.com:8080/announce
+http://movies.zsw.ca:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.acgnxtracker.com:80/announce
 http://p2p.0g.cx:6969/announce
@@ -24,6 +25,7 @@ http://torrentsmd.com:8080/announce
 http://tr.cili001.com:8070/announce
 http://tracker.birkenwald.de:6969/announce
 http://tracker.bt4g.com:2095/announce
+http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
 http://tracker.fansub.id:80/announce
 http://tracker.files.fm:6969/announce
@@ -35,6 +37,7 @@ http://tracker.opentrackr.org:1337/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.swateam.org.uk:2710/announce
+http://tracker1.bt.moack.co.kr:80/announce
 http://unknownsite.de:6969/announce
 http://v6-tracker.0g.cx:6969/announce
 http://vps-dd0a0715.vps.ovh.net:6969/announce
@@ -131,6 +134,7 @@ udp://private.anonseed.com:6969/announce
 udp://psyco.fr:6969/announce
 udp://public-tracker.cf:6969/announce
 udp://public.publictracker.xyz:6969/announce
+udp://public.tracker.vraphim.com:6969/announce
 udp://pxnet.ru:6969/announce
 udp://rep-art.ynh.fr:6969/announce
 udp://retracker.hotplug.ru:2710/announce
@@ -204,11 +208,9 @@ wss://tracker.openwebtorrent.com:443/announceudp://tracker.opentrackr.org:1337/a
 udp://opentracker.i2p.rocks:6969/announce
 http://tracker.openbittorrent.com:80/announce
 udp://explodie.org:6969/announce
-http://tracker1.bt.moack.co.kr:80/announce
 udp://download.nerocloud.me:6969/announce
 udp://carr.codes:6969/announce
 http://tracker2.dler.org:80/announce
-udp://public.tracker.vraphim.com:6969/announce
 https://t.zerg.pw/announce
 http://tracker.skyts.net:6969/announce
 http://tracker.fansub.id/announce
@@ -241,10 +243,10 @@ http://dht.dhtclub.com:666/announce
 udp://tracker.btsync.gq:233/announce
 http://147job.com:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
-http://shogiroom.com:6969/announce
 http://cn.pcfreetime.com:6969/announce
-udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
+http://shogiroom.com:6969/announce
+udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 udp://open.publictracker.xyz:6969/announce
 https://tr.ready4.icu:443/announce
 udp://tracker.zerobytes.xyz:1337/announce
@@ -265,7 +267,7 @@ udp://open.tracker.cl:1337/announce
 http://0205.uptm.ch:6969/announce
 udp://tracker.openbtba.com:6969/announce
 udp://cloud.samtechnic.ir:6969/announce
-udp://9.rarbg.to:2840/announce
+udp://9.rarbg.to:2770/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.tracker.harry.lu:80/announce
 udp://retracker.netbynet.ru:2710/announce
@@ -610,7 +612,6 @@ http://fxtt.ru/announce
 https://tr.bangumi.moe:9696/announce
 http://93.158.213.92:1337/announce
 http://www.zone-torrent.net:80/announce.php
-http://tracker.dler.com:6969/announce
 http://data-bg.net:80/announce.php
 http://open.acgnxtracker.com/announce
 http://tracker.pussytorrents.org:3000/announce
@@ -792,7 +793,6 @@ http://torrents.linuxmint.com/announce.php
 http://announce.partis.si/announce
 http://proaudiotorrents.org/announce.php
 https://torrent.ubuntu.com/announce
-http://movies.zsw.ca:6969/announce
 http://torrent.ubuntu.com:6969/announce
 http://mvgforumtracker.mvgroup.org/tracker.php/announce
 http://blackz.ro/announce.php
