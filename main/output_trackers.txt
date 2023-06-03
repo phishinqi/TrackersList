@@ -220,8 +220,8 @@ http://t.nyaatracker.com:80/announce
 udp://chouchou.top:8080/announce
 http://retracker.joxnet.ru:80/announce
 http://ipv4announce.sktorrent.eu:6969/announce
-udp://tracker.pimpmyworld.to:6969/announce
 udp://jutone.com:6969/announce
+udp://tracker.pimpmyworld.to:6969/announce
 udp://tr2.cubonegro.lol:6969/announce
 udp://btt.service.gongt.me:43079/announce
 udp://llideong.cn:6969/announce
@@ -239,8 +239,8 @@ udp://tracker.edkj.club:6969/announce
 http://bt1.letpo.com:80/announce
 http://dht.dhtclub.com:666/announce
 udp://tracker.btsync.gq:233/announce
-http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://147job.com:6969/announce
+http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://shogiroom.com:6969/announce
 https://tr.ready4.icu:443/announce
 http://cn.pcfreetime.com:6969/announce
@@ -265,7 +265,7 @@ http://leidenfro.st:6969/announce
 http://0205.uptm.ch:6969/announce
 udp://tracker.openbtba.com:6969/announce
 udp://cloud.samtechnic.ir:6969/announce
-udp://9.rarbg.to:2740/announce
+udp://9.rarbg.to:2730/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.tracker.harry.lu:80/announce
 udp://retracker.netbynet.ru:2710/announce
