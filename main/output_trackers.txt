@@ -223,13 +223,13 @@ udp://chouchou.top:8080/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 http://retracker.joxnet.ru:80/announce
 udp://jutone.com:6969/announce
-http://t.nyaatracker.com:80/announce
 udp://tr2.cubonegro.lol:6969/announce
+http://t.nyaatracker.com:80/announce
 https://www.peckservers.com:9443/announce
-udp://llideong.cn:6969/announce
 udp://btt.service.gongt.me:43079/announce
-udp://tracker.pimpmyworld.to:6969/announce
+udp://llideong.cn:6969/announce
 https://trackers.mlsub.net:443/announce
+udp://tracker.pimpmyworld.to:6969/announce
 udp://tracker.breizh.pm:6969/announce
 udp://zecircle.xyz:6969/announce
 http://tracker.vraphim.com:6969/announce
@@ -255,8 +255,8 @@ http://open-v6.demonoid.ch:6969/announce
 http://ipv6.1337.cx:6969/announce
 udp://bedro.cloud:6969/announce
 http://tracker.pcfreetime.com:6969/announce
-https://tracker.cangku.moe:443/announce
 udp://stargrave.org:6969/announce
+https://tracker.cangku.moe:443/announce
 http://incine.ru:6969/announce
 http://frp.v2fy.com:8000/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
@@ -265,8 +265,9 @@ http://leidenfro.st:6969/announce
 udp://open.tracker.cl:1337/announce
 http://0205.uptm.ch:6969/announce
 udp://tracker.openbtba.com:6969/announce
+https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 udp://cloud.samtechnic.ir:6969/announce
-udp://9.rarbg.to:2920/announce
+udp://9.rarbg.to:2810/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.tracker.harry.lu:80/announce
 udp://retracker.netbynet.ru:2710/announce
@@ -506,7 +507,6 @@ udp://smtp.loki.tel:25/announce
 http://mail.martin-gebhardt.com:8443/announce
 http://multi.open-tracker.cf:8000/announce
 http://web.open-tracker.cf:6969/announce
-https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 http://tracker.swifte.space:2710/announce
 http://connect.swifte.space:2710/announce
 udp://tracker.iperson.xyz:6969/announce
