@@ -734,6 +734,8 @@ udp://tk1.trackerservers.com:8080/announce
 
 udp://tk1v6.trackerservers.com:8080/announce
 
+udp://open.u-p.pw:6969/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 udp://exodus.desync.com:6969/announce
@@ -766,9 +768,9 @@ http://v6-tracker.0g.cx:6969/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
 
-udp://fleira.no:6969/announce
-
 udp://1c.premierzal.ru:6969/announce
+
+udp://fleira.no:6969/announce
 
 udp://ns1.monolithindustries.com:6969/announce
 
@@ -789,8 +791,6 @@ udp://cpe-104-34-3-152.socal.res.rr.com:6969/announce
 udp://market-re.quest:6969/announce
 
 udp://dex.email:6969/announce
-
-udp://ts.populargamers.co.za:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -830,9 +830,9 @@ udp://tracker.theoks.net:6969/announce
 
 http://ch3oh.ru:6969/announce
 
-udp://public.publictracker.xyz:6969/announce
-
 udp://axell24.ru:6969/announce
+
+udp://public.publictracker.xyz:6969/announce
 
 https://tracker.lilithraws.cf:443/announce
 
@@ -848,6 +848,8 @@ udp://tracker.4.babico.name.tr:3131/announce
 
 udp://thinking.duckdns.org:6969/announce
 
+udp://ts.populargamers.co.za:6969/announce
+
 https://tracker.tamersunion.org:443/announce
 
 udp://tracker1.myporn.club:9337/announce
@@ -860,9 +862,9 @@ udp://www.torrent.eu.org:451/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-udp://new-line.net:6969/announce
-
 udp://tracker.joybomb.tw:6969/announce
+
+udp://new-line.net:6969/announce
 
 http://region.nl1.privex.cc:6969/announce
 
@@ -890,43 +892,43 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 
 http://qu.ax:6969/announce
 
-udp://inferno.demonoid.is:3391/announce
+udp://ryjer.com:6969/announce
 
 udp://llideong.cn:6969/announce
 
-udp://ryjer.com:6969/announce
+udp://inferno.demonoid.is:3391/announce
 
 https://tracker.kuroy.me:443/announce
 
-udp://btt.service.gongt.me:43079/announce
+udp://tracker-udp.gbitt.info:80/announce
 
 https://1337.abcvg.info:443/announce
 
-udp://tracker-udp.gbitt.info:80/announce
+udp://btt.service.gongt.me:43079/announce
 
 udp://fe.dealclub.de:6969/announce
 
-http://thitgaluoc.dynu.net:6969/announce
-
 http://tracker.vraphim.com:6969/announce
-
-udp://laze.cc:6969/announce
 
 https://tracker.moeblog.cn:443/announce
 
-udp://tracker.altrosky.nl:6969/announce
+http://thitgaluoc.dynu.net:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 
-http://t.nyaatracker.com:80/announce
+udp://laze.cc:6969/announce
+
+udp://tracker.altrosky.nl:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
+http://t.nyaatracker.com:80/announce
+
 udp://black-bird.ynh.fr:6969/announce
 
-http://smurfsoft.com:6969/announce
-
 udp://run-2.publictracker.xyz:6969/announce
+
+http://smurfsoft.com:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -938,9 +940,9 @@ udp://tracker.swateam.org.uk:2710/announce
 
 udp://zecircle.xyz:6969/announce
 
-udp://tracker.torrent.eu.org:451/announce
-
 udp://v2.iperson.xyz:6969/announce
+
+udp://tracker.torrent.eu.org:451/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
@@ -956,15 +958,15 @@ udp://linfan.moe:6969/announce
 
 udp://open.tracker.ink:6969/announce
 
-udp://tracker.edkj.club:6969/announce
-
-http://bt1.letpo.com:80/announce
+udp://open-tracker.demonoid.ch:6969/announce
 
 udp://tracker.publictracker.xyz:6969/announce
 
-udp://open-tracker.demonoid.ch:6969/announce
-
 udp://open.publictracker.xyz:6969/announce
+
+udp://tracker.edkj.club:6969/announce
+
+http://bt1.letpo.com:80/announce
 
 udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 
@@ -972,25 +974,25 @@ udp://retracker.lanta-net.ru:2710/announce
 
 http://tracker.gbitt.info:80/announce
 
-udp://lopatins.ru:5972/announce
-
 udp://free.publictracker.xyz:6969/announce
+
+udp://lopatins.ru:5972/announce
 
 http://dht.dhtclub.com:666/announce
 
-http://mail.lakameraobscura.com:6969/announce
+http://ipv6.govt.hu:6969/announce
 
 udp://tracker.btsync.gq:233/announce
-
-http://ipv6.govt.hu:6969/announce
 
 http://t.publictracker.xyz:6969/announce
 
 http://open-v6.demonoid.ch:6969/announce
 
-http://tracker.skyts.net:6969/announce
+http://mail.lakameraobscura.com:6969/announce
 
 http://ipv6.1337.cx:6969/announce
+
+http://tracker.skyts.net:6969/announce
 
 udp://ip119.ip-146-59-102.eu:6969/announce
 
@@ -1020,8 +1022,6 @@ http://frp.v2fy.com:8000/announce
 
 http://leidenfro.st:6969/announce
 
-udp://bedro.cloud:6969/announce
-
 udp://tracker.qu.ax:6969/announce
 
 http://0205.uptm.ch:6969/announce
@@ -1031,8 +1031,6 @@ udp://tracker.openbtba.com:6969/announce
 udp://stargrave.org:6969/announce
 
 udp://cloud.samtechnic.ir:6969/announce
-
-udp://9.rarbg.to:2910/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
@@ -1487,6 +1485,8 @@ http://dn42.smrsh.net:6969/announce
 udp://p5796a22a.dip0.t-ipconnect.de:6969/announce
 
 udp://dht.bt251.com:6969/announce
+
+udp://bedro.cloud:6969/announce
 
 http://504e163a.host.njalla.net:6969/announce
 
