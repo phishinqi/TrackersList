@@ -222,8 +222,8 @@ udp://tr2.cubonegro.lol:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 udp://jutone.com:6969/announce
 udp://llideong.cn:6969/announce
-udp://chouchou.top:8080/announce
 http://retracker.joxnet.ru:80/announce
+udp://chouchou.top:8080/announce
 udp://btt.service.gongt.me:43079/announce
 http://unknownsite.de:6969/announce
 http://qu.ax:6969/announce
@@ -232,8 +232,8 @@ udp://tracker.breizh.pm:6969/announce
 https://tracker.kawaii.id:443/announce
 http://open.acgtracker.com:1096/announce
 udp://laze.cc:6969/announce
-http://thitgaluoc.dynu.net:6969/announce
 http://openbittorrent.com:80/announce
+http://thitgaluoc.dynu.net:6969/announce
 http://t.nyaatracker.com:80/announce
 http://smurfsoft.com:6969/announce
 http://147job.com:6969/announce
@@ -243,9 +243,9 @@ udp://open.publictracker.xyz:6969/announce
 udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
 http://ipv6.govt.hu:6969/announce
-udp://tracker.edkj.club:6969/announce
 http://open-v6.demonoid.ch:6969/announce
 http://ipv6.1337.cx:6969/announce
+udp://tracker.edkj.club:6969/announce
 http://bt1.letpo.com:80/announce
 udp://linfan.moe:6969/announce
 http://t.publictracker.xyz:6969/announce
