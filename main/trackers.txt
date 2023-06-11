@@ -28,8 +28,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.acgtracker.com:1096/announce
-
 http://region.nl1.privex.cc:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
@@ -66,11 +64,17 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
 
+http://tracker.qu.ax:6969/announce
+
 http://tracker.renfei.net:8080/announce
 
 http://tracker.skyts.net:6969/announce
 
 http://tracker.swateam.org.uk:2710/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
+
+http://tracker2.dler.org:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
 
@@ -97,6 +101,8 @@ https://t1.hloli.org:443/announce
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.ready4.icu:443/announce
+
+https://tracker.cloudit.top:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
@@ -381,6 +387,8 @@ udp://tracker2.dler.com:80/announce
 udp://tracker2.dler.org:80/announce
 
 udp://tracker2.itzmx.com:6961/announce
+
+udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
@@ -730,10 +738,6 @@ udp://tk1v6.trackerservers.com:8080/announce
 
 udp://tracker.ocnix.net:6969/announce
 
-https://tracker.cloudit.top:443/announce
-
-udp://npge.nprotect.com:6969/announce
-
 udp://tracker4.itzmx.com:2710/announce
 
 http://tracker.ipv6tracker.ru:80/announce
@@ -774,9 +778,9 @@ udp://1c.premierzal.ru:6969/announce
 
 udp://fleira.no:6969/announce
 
-udp://ns575949.ip-51-222-82.net:6969/announce
-
 udp://ns1.monolithindustries.com:6969/announce
+
+udp://ns575949.ip-51-222-82.net:6969/announce
 
 udp://market-re.quest:6969/announce
 
@@ -838,8 +842,6 @@ https://tr.burnabyhighstar.com:443/announce
 
 udp://tracker.jonaslsa.com:6969/announce
 
-udp://dmitrynegoda.com:6969/announce
-
 udp://public.publictracker.xyz:6969/announce
 
 udp://ssb14.nohost.me:6969/announce
@@ -848,15 +850,17 @@ udp://bt2.archive.org:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
+udp://dmitrynegoda.com:6969/announce
+
 udp://tracker.4.babico.name.tr:3131/announce
 
 udp://thinking.duckdns.org:6969/announce
 
 udp://open.u-p.pw:6969/announce
 
-https://tracker.tamersunion.org:443/announce
-
 udp://tracker1.myporn.club:9337/announce
+
+https://tracker.tamersunion.org:443/announce
 
 https://www.peckservers.com:9443/announce
 
@@ -868,11 +872,11 @@ udp://www.torrent.eu.org:451/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
+http://region.nl1.privex.cc:6969/announce
+
 udp://tracker.joybomb.tw:6969/announce
 
 udp://new-line.net:6969/announce
-
-http://region.nl1.privex.cc:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -888,11 +892,11 @@ udp://tr2.cubonegro.lol:6969/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
-udp://pxnet.ru:6969/announce
-
 http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://jutone.com:6969/announce
+
+udp://pxnet.ru:6969/announce
 
 udp://run-2.publictracker.xyz:6969/announce
 
@@ -914,33 +918,37 @@ https://tracker.kuroy.me:443/announce
 
 udp://btt.service.gongt.me:43079/announce
 
+https://tracker.cloudit.top:443/announce
+
 udp://ryjer.com:6969/announce
 
 udp://dex.email:6969/announce
 
-https://tracker.moeblog.cn:443/announce
+udp://tracker2.itzmx.com:6961/announce
 
-http://tracker.vraphim.com:6969/announce
+https://tracker.moeblog.cn:443/announce
 
 udp://tracker.breizh.pm:6969/announce
 
-udp://tracker2.itzmx.com:6961/announce
+http://tracker.vraphim.com:6969/announce
+
+udp://npge.nprotect.com:6969/announce
 
 udp://black-bird.ynh.fr:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
-http://unknownsite.de:6969/announce
-
 https://tracker.kawaii.id:443/announce
 
 http://open.acgtracker.com:1096/announce
 
+http://unknownsite.de:6969/announce
+
 http://qu.ax:6969/announce
 
-udp://tracker.swateam.org.uk:2710/announce
-
 http://147job.com:6969/announce
+
+udp://tracker.swateam.org.uk:2710/announce
 
 http://openbittorrent.com:80/announce
 
@@ -952,25 +960,25 @@ udp://tracker.altrosky.nl:6969/announce
 
 http://bt.endpot.com:80/announce
 
-udp://laze.cc:6969/announce
-
 udp://v2.iperson.xyz:6969/announce
 
-http://thitgaluoc.dynu.net:6969/announce
+udp://laze.cc:6969/announce
 
 udp://tracker.publictracker.xyz:6969/announce
 
 udp://open.publictracker.xyz:6969/announce
 
-http://t.nyaatracker.com:80/announce
+http://thitgaluoc.dynu.net:6969/announce
 
 udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 
+http://t.nyaatracker.com:80/announce
+
 http://tracker.gbitt.info:80/announce
 
-http://smurfsoft.com:6969/announce
-
 udp://free.publictracker.xyz:6969/announce
+
+http://smurfsoft.com:6969/announce
 
 udp://open-tracker.demonoid.ch:6969/announce
 
@@ -979,8 +987,6 @@ http://ipv6.govt.hu:6969/announce
 http://open-v6.demonoid.ch:6969/announce
 
 http://ipv6.1337.cx:6969/announce
-
-udp://tracker3.itzmx.com:6961/announce
 
 udp://zecircle.xyz:6969/announce
 
@@ -998,11 +1004,13 @@ http://bt1.letpo.com:80/announce
 
 udp://tracker.artixlinux.org:6969/announce
 
-http://dht.dhtclub.com:666/announce
-
 http://tracker.skyts.net:6969/announce
 
 udp://tracker.btsync.gq:233/announce
+
+http://dht.dhtclub.com:666/announce
+
+udp://tracker3.itzmx.com:6961/announce
 
 udp://linfan.moe:6969/announce
 
@@ -1602,8 +1610,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.acgtracker.com:1096/announce
-
 http://region.nl1.privex.cc:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
@@ -1640,11 +1646,17 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
 
+http://tracker.qu.ax:6969/announce
+
 http://tracker.renfei.net:8080/announce
 
 http://tracker.skyts.net:6969/announce
 
 http://tracker.swateam.org.uk:2710/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
+
+http://tracker2.dler.org:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
 
@@ -1671,6 +1683,8 @@ https://t1.hloli.org:443/announce
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.ready4.icu:443/announce
+
+https://tracker.cloudit.top:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
@@ -1955,6 +1969,8 @@ udp://tracker2.dler.com:80/announce
 udp://tracker2.dler.org:80/announce
 
 udp://tracker2.itzmx.com:6961/announce
+
+udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
