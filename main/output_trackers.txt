@@ -227,10 +227,10 @@ udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 http://t.publictracker.xyz:6969/announce
 udp://jutone.com:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
-udp://open-tracker.demonoid.ch:6969/announce
 udp://www.torrent.eu.org:451/announce
-http://147job.com:6969/announce
+udp://open-tracker.demonoid.ch:6969/announce
 udp://btt.service.gongt.me:43079/announce
+http://147job.com:6969/announce
 udp://axell24.ru:6969/announce
 http://tracker.vraphim.com:6969/announce
 udp://freedomalternative.com:6969/announce
@@ -249,8 +249,8 @@ http://bt.endpot.com:80/announce
 udp://tracker.edkj.club:6969/announce
 udp://pxnet.ru:6969/announce
 udp://dmitrynegoda.com:6969/announce
-udp://npge.nprotect.com:6969/announce
 udp://dex.email:6969/announce
+udp://npge.nprotect.com:6969/announce
 http://unknownsite.de:6969/announce
 udp://dyndns.xionxiii.ovh:6969/announce
 udp://tracker.btsync.gq:233/announce
@@ -266,8 +266,8 @@ http://smurfsoft.com:6969/announce
 udp://tracker.altrosky.nl:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 https://tracker.cangku.moe:443/announce
-udp://laze.cc:6969/announce
 udp://ftp.pet:2710/announce
+udp://laze.cc:6969/announce
 udp://lopatins.ru:5972/announce
 udp://ip119.ip-146-59-102.eu:6969/announce
 http://mail.lakameraobscura.com:6969/announce
