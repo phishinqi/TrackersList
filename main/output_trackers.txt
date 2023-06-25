@@ -241,8 +241,8 @@ http://openbittorrent.com:80/announce
 udp://nullzone.fr:6969/announce
 udp://freedomalternative.com:6969/announce
 udp://tracker.trojangogogo.site:8080/announce
-udp://llideong.cn:6969/announce
 udp://tracker.edkj.club:6969/announce
+udp://llideong.cn:6969/announce
 http://open.acgtracker.com:1096/announce
 http://bt.endpot.com:80/announce
 udp://rep-art.ynh.fr:6969/announce
@@ -269,8 +269,8 @@ udp://p2p.publictracker.xyz:6969/announce
 http://tracker.pcfreetime.com:6969/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
 http://mail.lakameraobscura.com:6969/announce
-udp://npge.nprotect.com:6969/announce
 http://tracker.aibt.xyz:900/announce
+udp://npge.nprotect.com:6969/announce
 udp://freedom.1776.ga:6969/announce
 http://0205.uptm.ch:6969/announce
 udp://tracker.openbtba.com:6969/announce
