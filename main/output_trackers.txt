@@ -225,10 +225,10 @@ http://tracker1.itzmx.com:8080/announce
 http://home.kray.pw:6969/announce
 http://ipv6.govt.hu:6969/announce
 http://tracker.k.vu:6969/announce
-udp://c-71-227-163-17.hsd1.wa.comcast.net:6969/announce
-http://ipv6.1337.cx:6969/announce
 udp://www.torrent.eu.org:451/announce
+http://ipv6.1337.cx:6969/announce
 http://open-v6.demonoid.ch:6969/announce
+udp://c-71-227-163-17.hsd1.wa.comcast.net:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 http://tracker.vraphim.com:6969/announce
 udp://btt.service.gongt.me:43079/announce
@@ -249,8 +249,8 @@ udp://open-tracker.demonoid.ch:6969/announce
 udp://ftp.pet:2710/announce
 udp://tracker.edkj.club:6969/announce
 https://tracker1.ctix.cn:443/announce
-udp://llideong.cn:6969/announce
 http://open.acgtracker.com:1096/announce
+udp://llideong.cn:6969/announce
 udp://ts.populargamers.co.za:6969/announce
 udp://axell24.ru:6969/announce
 udp://freedomalternative.com:6969/announce
@@ -259,8 +259,8 @@ udp://nullzone.fr:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://tracker.btsync.gq:233/announce
 https://tracker.cangku.moe:443/announce
-udp://tracker.trojangogogo.site:8080/announce
 udp://dyndns.xionxiii.ovh:6969/announce
+udp://tracker.trojangogogo.site:8080/announce
 http://bt1.letpo.com:80/announce
 udp://rep-art.ynh.fr:6969/announce
 udp://u6.trakx.crim.ist:1337/announce
@@ -273,11 +273,11 @@ http://wegkxfcivgx.chickenkiller.com:80/announce
 udp://pxnet.ru:6969/announce
 http://mail.lakameraobscura.com:6969/announce
 https://tracker.kawaii.id:443/announce
-udp://fleira.no:6969/announce
 http://0205.uptm.ch:6969/announce
 udp://tracker.openbtba.com:6969/announce
 udp://stargrave.org:6969/announce
 udp://cloud.samtechnic.ir:6969/announce
+udp://fleira.no:6969/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.tracker.harry.lu:80/announce
 http://vps02.net.orel.ru:80/announce
