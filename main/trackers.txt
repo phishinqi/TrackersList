@@ -842,31 +842,31 @@ udp://open.dstud.io:6969/announce
 
 udp://acxx.de:6969/announce
 
-udp://tracker2.dler.com:80/announce
-
 http://tracker.mywaifu.best:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
 
 udp://yahor.of.by:6969/announce
 
+udp://tracker2.dler.com:80/announce
+
 udp://tamas3.ynh.fr:6969/announce
 
 https://tracker.jiesen.life:8443/announce
 
-udp://wepzone.net:6969/announce
-
 udp://tracker1.myporn.club:9337/announce
+
+udp://wepzone.net:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
 udp://open.u-p.pw:6969/announce
 
-udp://carr.codes:6969/announce
-
 udp://ssb14.nohost.me:6969/announce
 
 http://shubt.net:2710/announce
+
+udp://carr.codes:6969/announce
 
 http://ch3oh.ru:6969/announce
 
@@ -904,11 +904,11 @@ udp://tracker.openbittorrent.com:6969/announce
 
 http://tracker.k.vu:6969/announce
 
-http://region.nl1.privex.cc:6969/announce
-
 udp://www.torrent.eu.org:451/announce
 
 http://ipv6.1337.cx:6969/announce
+
+http://region.nl1.privex.cc:6969/announce
 
 http://open-v6.demonoid.ch:6969/announce
 
@@ -916,11 +916,11 @@ https://t1.hloli.org:443/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-udp://c-71-227-163-17.hsd1.wa.comcast.net:6969/announce
-
 https://tracker.moeblog.cn:443/announce
 
 udp://mail.segso.net:6969/announce
+
+udp://c-71-227-163-17.hsd1.wa.comcast.net:6969/announce
 
 udp://tracker.joybomb.tw:6969/announce
 
@@ -930,9 +930,9 @@ https://1337.abcvg.info:443/announce
 
 udp://new-line.net:6969/announce
 
-udp://inferno.demonoid.is:3391/announce
-
 udp://tracker.cubonegro.lol:6969/announce
+
+udp://inferno.demonoid.is:3391/announce
 
 https://www.peckservers.com:9443/announce
 
@@ -964,21 +964,21 @@ https://tracker.cloudit.top:443/announce
 
 http://openbittorrent.com:80/announce
 
+udp://black-bird.ynh.fr:6969/announce
+
 udp://open.8a.is:6969/announce
 
 udp://tracker.publictracker.xyz:6969/announce
 
-udp://black-bird.ynh.fr:6969/announce
-
 udp://tracker.filemail.com:6969/announce
-
-udp://tracker.monitorit4.me:6969/announce
-
-udp://ipv6.tracker.monitorit4.me:6969/announce
 
 udp://run-2.publictracker.xyz:6969/announce
 
+udp://tracker.monitorit4.me:6969/announce
+
 udp://ryjer.com:6969/announce
+
+udp://ipv6.tracker.monitorit4.me:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
@@ -990,13 +990,13 @@ http://cn.pcfreetime.com:6969/announce
 
 http://tracker.aibt.xyz:900/announce
 
-udp://open-tracker.demonoid.ch:6969/announce
-
 udp://ftp.pet:2710/announce
 
-http://rfc5746.mywaifu.best:6969/announce
+udp://open-tracker.demonoid.ch:6969/announce
 
 udp://v2.iperson.xyz:6969/announce
+
+http://rfc5746.mywaifu.best:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
@@ -1050,9 +1050,9 @@ http://bt1.letpo.com:80/announce
 
 udp://rep-art.ynh.fr:6969/announce
 
-udp://u6.trakx.crim.ist:1337/announce
-
 http://frp.v2fy.com:8000/announce
+
+udp://u6.trakx.crim.ist:1337/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
@@ -1067,8 +1067,6 @@ http://incine.ru:6969/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
 
 http://mail.lakameraobscura.com:6969/announce
-
-udp://pxnet.ru:6969/announce
 
 http://0205.uptm.ch:6969/announce
 
@@ -1589,6 +1587,8 @@ udp://dmitrynegoda.com:6969/announce
 http://smurfsoft.com:6969/announce
 
 udp://ip119.ip-146-59-102.eu:6969/announce
+
+udp://pxnet.ru:6969/announce
 
 udp://dex.email:6969/announce
 
@@ -2170,31 +2170,31 @@ udp://open.dstud.io:6969/announce
 
 udp://acxx.de:6969/announce
 
-udp://tracker2.dler.com:80/announce
-
 http://tracker.mywaifu.best:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
 
 udp://yahor.of.by:6969/announce
 
+udp://tracker2.dler.com:80/announce
+
 udp://tamas3.ynh.fr:6969/announce
 
 https://tracker.jiesen.life:8443/announce
 
-udp://wepzone.net:6969/announce
-
 udp://tracker1.myporn.club:9337/announce
+
+udp://wepzone.net:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
 udp://open.u-p.pw:6969/announce
 
-udp://carr.codes:6969/announce
-
 udp://ssb14.nohost.me:6969/announce
 
 http://shubt.net:2710/announce
+
+udp://carr.codes:6969/announce
 
 http://ch3oh.ru:6969/announce
 
