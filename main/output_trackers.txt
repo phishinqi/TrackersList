@@ -223,8 +223,8 @@ http://tracker1.itzmx.com:8080/announce
 http://home.kray.pw:6969/announce
 http://shubt.net:2710/announce
 http://ipv6.govt.hu:6969/announce
-http://tracker.k.vu:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
+http://tracker.k.vu:6969/announce
 http://ipv6.1337.cx:6969/announce
 udp://www.torrent.eu.org:451/announce
 http://open-v6.demonoid.ch:6969/announce
@@ -264,14 +264,14 @@ http://bt1.letpo.com:80/announce
 udp://tracker.trojangogogo.site:8080/announce
 http://frp.v2fy.com:8000/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
+http://dht.dhtclub.com:666/announce
 udp://rep-art.ynh.fr:6969/announce
 udp://u6.trakx.crim.ist:1337/announce
-http://dht.dhtclub.com:666/announce
-udp://laszlo130.go.ro:6969/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
+udp://laszlo130.go.ro:6969/announce
 http://mail.lakameraobscura.com:6969/announce
-http://0205.uptm.ch:6969/announce
 udp://tracker.6.babico.name.tr:6969/announce
+http://0205.uptm.ch:6969/announce
 udp://tracker.openbtba.com:6969/announce
 udp://stargrave.org:6969/announce
 udp://cloud.samtechnic.ir:6969/announce
