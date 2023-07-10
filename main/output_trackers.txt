@@ -227,12 +227,12 @@ http://open-v6.demonoid.ch:6969/announce
 http://ipv6.1337.cx:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://www.torrent.eu.org:451/announce
-udp://tracker.bitsearch.to:1337/announce
 udp://btt.service.gongt.me:43079/announce
 http://tracker.vraphim.com:6969/announce
+udp://tracker.bitsearch.to:1337/announce
 udp://jutone.com:6969/announce
-udp://astrra.space:6969/announce
 http://retracker.joxnet.ru:80/announce
+udp://astrra.space:6969/announce
 https://tracker1.ctix.cn:443/announce
 udp://open.publictracker.xyz:6969/announce
 http://frp.v2fy.com:8000/announce
@@ -240,9 +240,9 @@ udp://netmap.top:6969/announce
 udp://tracker.breizh.pm:6969/announce
 http://openbittorrent.com:80/announce
 udp://ftp.pet:2710/announce
+http://cn.pcfreetime.com:6969/announce
 udp://npge.nprotect.com:6969/announce
 udp://c-71-227-163-17.hsd1.wa.comcast.net:6969/announce
-http://cn.pcfreetime.com:6969/announce
 udp://llideong.cn:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://chouchou.top:8080/announce
@@ -254,8 +254,8 @@ udp://tracker.6.babico.name.tr:6969/announce
 udp://tracker.monitorit4.me:6969/announce
 udp://ipv6.tracker.monitorit4.me:6969/announce
 udp://astrr.ru:6969/announce
-udp://open-tracker.demonoid.ch:6969/announce
 http://147job.com:6969/announce
+udp://open-tracker.demonoid.ch:6969/announce
 https://tracker.cangku.moe:443/announce
 http://rfc5746.mywaifu.best:6969/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
