@@ -240,8 +240,8 @@ http://cn.pcfreetime.com:6969/announce
 udp://tracker.6.babico.name.tr:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://astrra.space:6969/announce
-udp://seedbay.net:2710/announce
 udp://netmap.top:6969/announce
+udp://seedbay.net:2710/announce
 udp://tracker.edkj.club:6969/announce
 udp://chouchou.top:8080/announce
 http://147job.com:6969/announce
@@ -250,8 +250,8 @@ http://tracker.skyts.net:6969/announce
 http://frp.v2fy.com:8000/announce
 udp://tracker.btsync.gq:233/announce
 udp://c-71-227-163-17.hsd1.wa.comcast.net:6969/announce
-https://tracker.cangku.moe:443/announce
 udp://thagoat.rocks:6969/announce
+https://tracker.cangku.moe:443/announce
 udp://tracker.zerobytes.xyz:1337/announce
 https://tr.ready4.icu:443/announce
 http://tracker.pcfreetime.com:6969/announce
@@ -275,7 +275,6 @@ udp://tr.cili001.com:8070/announce
 udp://tracker6.lelux.fi:6969/announce
 udp://tracker.beeimg.com:6969/announce
 http://tracker.noobsubs.net:80/announce
-udp://tr2.ysagin.top:2710/announce
 udp://tracker.monitorit4.me:6969/announce
 udp://tracker.teambelgium.net:6969/announce
 udp://tracker.zemoj.com:6969/announce
