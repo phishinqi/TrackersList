@@ -234,10 +234,10 @@ http://retracker.joxnet.ru:80/announce
 udp://tracker.breizh.pm:6969/announce
 http://openbittorrent.com:80/announce
 udp://tracker.6.babico.name.tr:6969/announce
-http://tracker.privateseedbox.xyz:2710/announce
-udp://seedbay.net:2710/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 http://cn.pcfreetime.com:6969/announce
+udp://seedbay.net:2710/announce
+http://tracker.privateseedbox.xyz:2710/announce
 https://www.peckservers.com:9443/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://tracker.bitsearch.to:1337/announce
@@ -251,8 +251,8 @@ udp://ftp.pet:2710/announce
 udp://tracker.btsync.gq:233/announce
 http://reisub.nsupdate.info:6969/announce
 udp://c-71-227-163-17.hsd1.wa.comcast.net:6969/announce
-http://tracker.pcfreetime.com:6969/announce
 udp://thagoat.rocks:6969/announce
+http://tracker.pcfreetime.com:6969/announce
 http://rfc5746.mywaifu.best:6969/announce
 https://tracker.cangku.moe:443/announce
 http://frp.v2fy.com:8000/announce
