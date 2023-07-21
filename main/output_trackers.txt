@@ -38,6 +38,7 @@ http://tracker.mywaifu.best:6969/announce
 http://tracker.opentrackr.org:1337/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
+http://tracker2.dler.org:80/announce
 http://tracker4.itzmx.com:2710/announce
 http://v6-tracker.0g.cx:6969/announce
 http://wepzone.net:6969/announce
@@ -205,7 +206,6 @@ udp://opentracker.i2p.rocks:6969/announce
 http://tracker.openbittorrent.com:80/announce
 udp://explodie.org:6969/announce
 http://tracker1.bt.moack.co.kr:80/announce
-http://tracker2.dler.org:80/announce
 udp://download.nerocloud.me:6969/announce
 udp://carr.codes:6969/announce
 udp://tracker.army:6969/announce
@@ -252,8 +252,8 @@ http://tracker.privateseedbox.xyz:2710/announce
 udp://ftp.pet:2710/announce
 udp://tracker.zerobytes.xyz:1337/announce
 https://tracker.cangku.moe:443/announce
-http://bt.endpot.com:80/announce
 http://tracker.pcfreetime.com:6969/announce
+http://bt.endpot.com:80/announce
 udp://c-71-227-163-17.hsd1.wa.comcast.net:6969/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
 http://buny.uk:6969/announce
@@ -261,10 +261,10 @@ udp://open.tracker.cl:1337/announce
 udp://open-tracker.demonoid.ch:6969/announce
 http://rfc5746.mywaifu.best:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
-udp://thagoat.rocks:6969/announce
 http://0205.uptm.ch:6969/announce
 udp://tracker.openbtba.com:6969/announce
 udp://stargrave.org:6969/announce
+udp://thagoat.rocks:6969/announce
 udp://cloud.samtechnic.ir:6969/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.tracker.harry.lu:80/announce
