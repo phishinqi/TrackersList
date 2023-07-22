@@ -28,8 +28,6 @@ http://li2021-95.members.linode.com:6969/announce
 
 http://montreal.nyap2p.com:8080/announce
 
-http://movies.zsw.ca:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
@@ -49,8 +47,6 @@ http://t.nyaatracker.com:80/announce
 http://t.publictracker.xyz:6969/announce
 
 http://torrentsmd.com:8080/announce
-
-http://tr.cili001.com:8070/announce
 
 http://tracker.birkenwald.de:6969/announce
 
@@ -117,8 +113,6 @@ https://tracker.gbitt.info:443/announce
 https://tracker.imgoingto.icu:443/announce
 
 https://tracker.ipfsscan.io:443/announce
-
-https://tracker.jiesen.life:8443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -674,8 +668,6 @@ http://open.acgnxtracker.com:80/announce
 
 udp://movies.zsw.ca:6969/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 udp://tracker.leech.ie:1337/announce
 
 https://tracker.lilithraws.cf:443/announce
@@ -738,13 +730,13 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://globalwave.no-ip.org:6969/announce
 
-udp://tracker.t-rb.org:6969/announce
-
 udp://anzix.net:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 https://tracker.imgoingto.icu:443/announce
 
@@ -764,9 +756,9 @@ udp://yahor.of.by:6969/announce
 
 udp://odd-hd.fr:6969/announce
 
-udp://tk1v6.trackerservers.com:8080/announce
+udp://tracker.t-rb.org:6969/announce
 
-udp://open.stealth.si:80/announce
+udp://tk1v6.trackerservers.com:8080/announce
 
 http://bt.okmp3.ru:2710/announce
 
@@ -779,6 +771,8 @@ http://montreal.nyap2p.com:8080/announce
 udp://public-tracker.cf:6969/announce
 
 https://tracker.bangumi.zip:443/announce
+
+udp://open.stealth.si:80/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
@@ -854,11 +848,11 @@ http://shubt.net:2710/announce
 
 http://ch3oh.ru:6969/announce
 
+udp://tracker1.bt.moack.co.kr:80/announce
+
 udp://download.nerocloud.me:6969/announce
 
 udp://explodie.org:6969/announce
-
-udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
@@ -872,9 +866,9 @@ udp://public.publictracker.xyz:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-https://tr.burnabyhighstar.com:443/announce
-
 udp://exodus.desync.com:6969/announce
+
+https://tr.burnabyhighstar.com:443/announce
 
 udp://thinking.duckdns.org:6969/announce
 
@@ -902,19 +896,19 @@ udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 
 udp://jutone.com:6969/announce
 
-udp://tracker.farted.net:6969/announce
+https://1337.abcvg.info:443/announce
 
 udp://tracker.openbittorrent.com:6969/announce
 
-https://1337.abcvg.info:443/announce
+udp://tracker.farted.net:6969/announce
 
 udp://tracker.cubonegro.lol:6969/announce
 
 http://tracker.gdp.pw:900/announce
 
-http://incine.ru:6969/announce
-
 udp://tracker.6.babico.name.tr:6969/announce
+
+http://incine.ru:6969/announce
 
 udp://tracker.joybomb.tw:6969/announce
 
@@ -928,9 +922,9 @@ udp://llideong.cn:6969/announce
 
 udp://ryjer.com:6969/announce
 
-udp://open.publictracker.xyz:6969/announce
-
 udp://6ahddutb1ucc3cp.ru:6969/announce
+
+udp://open.publictracker.xyz:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 
@@ -990,11 +984,11 @@ udp://freedomalternative.com:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
 
-udp://inferno.demonoid.is:3391/announce
-
 udp://astrra.space:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
+
+udp://inferno.demonoid.is:3391/announce
 
 udp://ftp.pet:2710/announce
 
@@ -1006,9 +1000,9 @@ http://tracker.pcfreetime.com:6969/announce
 
 https://tr.ready4.icu:443/announce
 
-https://tracker.cangku.moe:443/announce
-
 http://buny.uk:6969/announce
+
+https://tracker.cangku.moe:443/announce
 
 http://region.nl1.privex.cc:6969/announce
 
@@ -1608,8 +1602,6 @@ http://li2021-95.members.linode.com:6969/announce
 
 http://montreal.nyap2p.com:8080/announce
 
-http://movies.zsw.ca:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
@@ -1629,8 +1621,6 @@ http://t.nyaatracker.com:80/announce
 http://t.publictracker.xyz:6969/announce
 
 http://torrentsmd.com:8080/announce
-
-http://tr.cili001.com:8070/announce
 
 http://tracker.birkenwald.de:6969/announce
 
@@ -1697,8 +1687,6 @@ https://tracker.gbitt.info:443/announce
 https://tracker.imgoingto.icu:443/announce
 
 https://tracker.ipfsscan.io:443/announce
-
-https://tracker.jiesen.life:8443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -1996,8 +1984,6 @@ http://open.acgnxtracker.com:80/announce
 
 udp://movies.zsw.ca:6969/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 udp://tracker.leech.ie:1337/announce
 
 https://tracker.lilithraws.cf:443/announce
@@ -2060,13 +2046,13 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://globalwave.no-ip.org:6969/announce
 
-udp://tracker.t-rb.org:6969/announce
-
 udp://anzix.net:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 https://tracker.imgoingto.icu:443/announce
 
@@ -2086,9 +2072,9 @@ udp://yahor.of.by:6969/announce
 
 udp://odd-hd.fr:6969/announce
 
-udp://tk1v6.trackerservers.com:8080/announce
+udp://tracker.t-rb.org:6969/announce
 
-udp://open.stealth.si:80/announce
+udp://tk1v6.trackerservers.com:8080/announce
 
 http://bt.okmp3.ru:2710/announce
 
@@ -2101,6 +2087,8 @@ http://montreal.nyap2p.com:8080/announce
 udp://public-tracker.cf:6969/announce
 
 https://tracker.bangumi.zip:443/announce
+
+udp://open.stealth.si:80/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
@@ -2176,11 +2164,11 @@ http://shubt.net:2710/announce
 
 http://ch3oh.ru:6969/announce
 
+udp://tracker1.bt.moack.co.kr:80/announce
+
 udp://download.nerocloud.me:6969/announce
 
 udp://explodie.org:6969/announce
-
-udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
@@ -2194,9 +2182,9 @@ udp://public.publictracker.xyz:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-https://tr.burnabyhighstar.com:443/announce
-
 udp://exodus.desync.com:6969/announce
+
+https://tr.burnabyhighstar.com:443/announce
 
 udp://thinking.duckdns.org:6969/announce
 
