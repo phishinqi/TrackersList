@@ -34,13 +34,9 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://p2p.0g.cx:6969/announce
-
 http://retracker.hotplug.ru:2710/announce
 
 http://share.camoe.cn:8080/announce
-
-http://shubt.net:2710/announce
 
 http://t.acg.rip:6699/announce
 
@@ -381,6 +377,8 @@ udp://v2.iperson.xyz:6969/announce
 udp://vm3268418.24ssd.had.wf:6969/announce
 
 udp://wepzone.net:6969/announce
+
+udp://www.torrent.eu.org:451/announce
 
 udp://yahor.of.by:6969/announce
 
@@ -770,25 +768,25 @@ udp://tamas3.ynh.fr:6969/announce
 
 https://t1.hloli.org:443/announce
 
-udp://bt1.archive.org:6969/announce
-
 udp://exodus.desync.com:6969/announce
+
+udp://bt1.archive.org:6969/announce
 
 https://tracker.jiesen.life:8443/announce
 
-udp://ns1.monolithindustries.com:6969/announce
+udp://107.182.30.76.16clouds.com:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://107.182.30.76.16clouds.com:6969/announce
-
 udp://u4.trakx.crim.ist:1337/announce
-
-udp://new-line.net:6969/announce
 
 http://tracker.k.vu:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
+
+udp://new-line.net:6969/announce
+
+udp://ns1.monolithindustries.com:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -798,17 +796,17 @@ udp://tracker.6.babico.name.tr:6969/announce
 
 udp://bt2.archive.org:6969/announce
 
-http://ipv6.1337.cx:6969/announce
-
-http://open-v6.demonoid.ch:6969/announce
+udp://carr.codes:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
-udp://carr.codes:6969/announce
+http://ipv6.1337.cx:6969/announce
 
 http://t.publictracker.xyz:6969/announce
 
 http://ipv6.govt.hu:6969/announce
+
+http://open-v6.demonoid.ch:6969/announce
 
 udp://tracker.4.babico.name.tr:3131/announce
 
@@ -848,11 +846,11 @@ udp://www.torrent.eu.org:451/announce
 
 https://tracker.moeblog.cn:443/announce
 
-http://canardscitrons.nohost.me:6969/announce
-
 udp://run-2.publictracker.xyz:6969/announce
 
 udp://ssb14.nohost.me:6969/announce
+
+http://canardscitrons.nohost.me:6969/announce
 
 udp://thinking.duckdns.org:6969/announce
 
@@ -954,9 +952,9 @@ http://buny.uk:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
-udp://tracker.bitsearch.to:1337/announce
-
 https://tr.ready4.icu:443/announce
+
+udp://tracker.bitsearch.to:1337/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
@@ -974,9 +972,9 @@ http://tracker.pcfreetime.com:6969/announce
 
 http://wegkxfcivgx.chickenkiller.com:80/announce
 
-udp://ftp.pet:2710/announce
-
 udp://open.tracker.cl:1337/announce
+
+udp://ftp.pet:2710/announce
 
 udp://open-tracker.demonoid.ch:6969/announce
 
@@ -1578,13 +1576,9 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://p2p.0g.cx:6969/announce
-
 http://retracker.hotplug.ru:2710/announce
 
 http://share.camoe.cn:8080/announce
-
-http://shubt.net:2710/announce
 
 http://t.acg.rip:6699/announce
 
@@ -1926,6 +1920,8 @@ udp://vm3268418.24ssd.had.wf:6969/announce
 
 udp://wepzone.net:6969/announce
 
+udp://www.torrent.eu.org:451/announce
+
 udp://yahor.of.by:6969/announce
 
 ws://hub.bugout.link:80/announce
@@ -2084,25 +2080,25 @@ udp://tamas3.ynh.fr:6969/announce
 
 https://t1.hloli.org:443/announce
 
-udp://bt1.archive.org:6969/announce
-
 udp://exodus.desync.com:6969/announce
+
+udp://bt1.archive.org:6969/announce
 
 https://tracker.jiesen.life:8443/announce
 
-udp://ns1.monolithindustries.com:6969/announce
+udp://107.182.30.76.16clouds.com:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://107.182.30.76.16clouds.com:6969/announce
-
 udp://u4.trakx.crim.ist:1337/announce
-
-udp://new-line.net:6969/announce
 
 http://tracker.k.vu:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
+
+udp://new-line.net:6969/announce
+
+udp://ns1.monolithindustries.com:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -2112,17 +2108,17 @@ udp://tracker.6.babico.name.tr:6969/announce
 
 udp://bt2.archive.org:6969/announce
 
-http://ipv6.1337.cx:6969/announce
-
-http://open-v6.demonoid.ch:6969/announce
+udp://carr.codes:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
-udp://carr.codes:6969/announce
+http://ipv6.1337.cx:6969/announce
 
 http://t.publictracker.xyz:6969/announce
 
 http://ipv6.govt.hu:6969/announce
+
+http://open-v6.demonoid.ch:6969/announce
 
 udp://tracker.4.babico.name.tr:3131/announce
 
@@ -2157,6 +2153,8 @@ http://tracker.ipv6tracker.ru:80/announce
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.cloudit.top:443/announce
+
+udp://www.torrent.eu.org:451/announce
 
 http://tracker.gbitt.info/announce
 https://tracker.lilithraws.cf/announce
