@@ -240,10 +240,10 @@ udp://tracker.edkj.club:6969/announce
 http://tracker.yuelili.com:80/announce
 udp://ts.populargamers.co.za:6969/announce
 http://buny.uk:6969/announce
-http://147job.com:6969/announce
 udp://tracker.btsync.gq:233/announce
-udp://escalaenbernal.com:3074/announce
+http://147job.com:6969/announce
 udp://chouchou.top:8080/announce
+udp://escalaenbernal.com:3074/announce
 udp://freedomalternative.com:6969/announce
 udp://tracker.jonaslsa.com:6969/announce
 https://www.peckservers.com:9443/announce
