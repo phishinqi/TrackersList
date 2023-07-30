@@ -214,8 +214,8 @@ udp://www.torrent.eu.org:451/announce
 http://ipv6.govt.hu:6969/announce
 udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 udp://jutone.com:6969/announce
-http://tracker.gdp.pw:900/announce
 http://ipv4announce.sktorrent.eu:6969/announce
+http://tracker.gdp.pw:900/announce
 udp://llideong.cn:6969/announce
 http://tracker.vraphim.com:6969/announce
 udp://tracker.breizh.pm:6969/announce
@@ -223,11 +223,11 @@ udp://ns1.monolithindustries.com:6969/announce
 http://reisub.nsupdate.info:6969/announce
 udp://seedbay.net:2710/announce
 udp://tracker.publictracker.xyz:6969/announce
-https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 http://wg.mortis.me:6969/announce
+https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 http://openbittorrent.com:80/announce
-udp://btt.service.gongt.me:43079/announce
 http://open.acgtracker.com:1096/announce
+udp://btt.service.gongt.me:43079/announce
 udp://tracker.joybomb.tw:6969/announce
 http://incine.ru:6969/announce
 http://retracker.joxnet.ru:80/announce
@@ -247,8 +247,8 @@ https://tr.ready4.icu:443/announce
 https://tracker.cangku.moe:443/announce
 http://tracker.privateseedbox.xyz:2710/announce
 udp://tracker.zerobytes.xyz:1337/announce
-http://region.nl1.privex.cc:6969/announce
 http://cn.pcfreetime.com:6969/announce
+http://region.nl1.privex.cc:6969/announce
 http://tracker.pcfreetime.com:6969/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
 udp://open.tracker.cl:1337/announce
