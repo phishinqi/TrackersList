@@ -209,9 +209,9 @@ http://tracker1.itzmx.com:8080/announce
 https://tracker1.ctix.cn:443/announce
 http://home.kray.pw:6969/announce
 http://tracker.k.vu:6969/announce
-https://t1.hloli.org:443/announce
 udp://www.torrent.eu.org:451/announce
 http://ipv6.1337.cx:6969/announce
+https://t1.hloli.org:443/announce
 http://open-v6.demonoid.ch:6969/announce
 udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 udp://jutone.com:6969/announce
@@ -232,8 +232,8 @@ https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/annou
 udp://v2.iperson.xyz:6969/announce
 udp://tracker.joybomb.tw:6969/announce
 udp://tracker.edkj.club:6969/announce
-udp://btt.service.gongt.me:43079/announce
 http://buny.uk:6969/announce
+udp://btt.service.gongt.me:43079/announce
 http://retracker.joxnet.ru:80/announce
 udp://ts.populargamers.co.za:6969/announce
 http://tracker.yuelili.com:80/announce
@@ -244,10 +244,10 @@ http://147job.com:6969/announce
 udp://escalaenbernal.com:3074/announce
 udp://u6.trakx.crim.ist:1337/announce
 http://bt.endpot.com:80/announce
-udp://tracker.jonaslsa.com:6969/announce
 https://tracker.cangku.moe:443/announce
-https://www.peckservers.com:9443/announce
+udp://tracker.jonaslsa.com:6969/announce
 http://cn.pcfreetime.com:6969/announce
+https://www.peckservers.com:9443/announce
 http://tracker.pcfreetime.com:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
 udp://tracker.zerobytes.xyz:1337/announce
