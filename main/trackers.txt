@@ -814,13 +814,11 @@ udp://sanincode.com:6969/announce
 
 udp://tracker.therarbg.com:6969/announce
 
-udp://tamas3.ynh.fr:6969/announce
-
 udp://tracker.t-rb.org:6969/announce
 
 udp://open.publictracker.xyz:6969/announce
 
-https://tracker.kuroy.me:443/announce
+udp://tamas3.ynh.fr:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
@@ -834,21 +832,23 @@ udp://carr.codes:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
+https://tracker.kuroy.me:443/announce
+
 http://tracker1.itzmx.com:8080/announce
+
+http://shubt.net:2710/announce
 
 http://www.chouchou.club:8080/announce
 
 udp://tracker1.myporn.club:9337/announce
 
-udp://download.nerocloud.me:6969/announce
-
 udp://bt2.archive.org:6969/announce
 
-http://shubt.net:2710/announce
-
-udp://tracker.theoks.net:6969/announce
+udp://download.nerocloud.me:6969/announce
 
 udp://tracker.6.babico.name.tr:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
@@ -902,31 +902,31 @@ http://open-v6.demonoid.ch:6969/announce
 
 https://tracker.ipfsscan.io:443/announce
 
-http://home.kray.pw:6969/announce
-
 http://ipv6.govt.hu:6969/announce
 
-http://tracker.gdp.pw:900/announce
-
-udp://107.182.30.76.16clouds.com:6969/announce
+http://home.kray.pw:6969/announce
 
 udp://tracker.sheesh.rip:6969/announce
 
 udp://thinking.duckdns.org:6969/announce
 
+http://tracker.gdp.pw:900/announce
+
 http://ipv4announce.sktorrent.eu:6969/announce
+
+udp://107.182.30.76.16clouds.com:6969/announce
 
 udp://tracker.openbittorrent.com:6969/announce
 
 https://t1.hloli.org:443/announce
 
-udp://llideong.cn:6969/announce
-
 http://tracker.vraphim.com:6969/announce
 
-udp://ryjer.com:6969/announce
+udp://llideong.cn:6969/announce
 
 http://reisub.nsupdate.info:6969/announce
+
+udp://ryjer.com:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 
@@ -954,21 +954,21 @@ http://openbittorrent.com:80/announce
 
 udp://netmap.top:6969/announce
 
-http://incine.ru:6969/announce
-
 http://buny.uk:6969/announce
 
-http://wg.mortis.me:6969/announce
+http://incine.ru:6969/announce
 
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
+
+http://wg.mortis.me:6969/announce
 
 udp://v2.iperson.xyz:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
-udp://tracker.joybomb.tw:6969/announce
-
 udp://ts.populargamers.co.za:6969/announce
+
+udp://tracker.joybomb.tw:6969/announce
 
 udp://tracker2.itzmx.com:6961/announce
 
@@ -980,9 +980,9 @@ udp://tracker.btsync.gq:233/announce
 
 http://tracker.skyts.net:6969/announce
 
-udp://btt.service.gongt.me:43079/announce
-
 http://tracker.yuelili.com:80/announce
+
+udp://btt.service.gongt.me:43079/announce
 
 udp://chouchou.top:8080/announce
 
@@ -994,17 +994,17 @@ udp://open.demonii.com:1337/announce
 
 http://cn.pcfreetime.com:6969/announce
 
+https://tracker.cangku.moe:443/announce
+
 http://147job.com:6969/announce
 
 udp://escalaenbernal.com:3074/announce
 
-https://tracker.cangku.moe:443/announce
-
 http://bt.endpot.com:80/announce
 
-http://tracker.pcfreetime.com:6969/announce
-
 https://tr.ready4.icu:443/announce
+
+http://tracker.pcfreetime.com:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
@@ -1018,9 +1018,9 @@ http://wegkxfcivgx.chickenkiller.com:80/announce
 
 udp://open.tracker.cl:1337/announce
 
-udp://tracker.jonaslsa.com:6969/announce
-
 udp://open.8a.is:6969/announce
+
+udp://tracker.jonaslsa.com:6969/announce
 
 http://0205.uptm.ch:6969/announce
 
@@ -2138,13 +2138,11 @@ udp://sanincode.com:6969/announce
 
 udp://tracker.therarbg.com:6969/announce
 
-udp://tamas3.ynh.fr:6969/announce
-
 udp://tracker.t-rb.org:6969/announce
 
 udp://open.publictracker.xyz:6969/announce
 
-https://tracker.kuroy.me:443/announce
+udp://tamas3.ynh.fr:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
@@ -2158,21 +2156,23 @@ udp://carr.codes:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
+https://tracker.kuroy.me:443/announce
+
 http://tracker1.itzmx.com:8080/announce
+
+http://shubt.net:2710/announce
 
 http://www.chouchou.club:8080/announce
 
 udp://tracker1.myporn.club:9337/announce
 
-udp://download.nerocloud.me:6969/announce
-
 udp://bt2.archive.org:6969/announce
 
-http://shubt.net:2710/announce
-
-udp://tracker.theoks.net:6969/announce
+udp://download.nerocloud.me:6969/announce
 
 udp://tracker.6.babico.name.tr:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
