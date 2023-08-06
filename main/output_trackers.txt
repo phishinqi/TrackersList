@@ -229,16 +229,16 @@ udp://netmap.top:6969/announce
 http://buny.uk:6969/announce
 http://home.kray.pw:6969/announce
 udp://107.182.30.76.16clouds.com:6969/announce
-udp://seedbay.net:2710/announce
 http://cn.pcfreetime.com:6969/announce
+udp://seedbay.net:2710/announce
 udp://tracker3.itzmx.com:6961/announce
 http://open.acgtracker.com:1096/announce
 udp://tracker.publictracker.xyz:6969/announce
 http://openbittorrent.com:80/announce
 udp://tracker.edkj.club:6969/announce
+udp://u6.trakx.crim.ist:1337/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 udp://tracker2.itzmx.com:6961/announce
-udp://u6.trakx.crim.ist:1337/announce
 udp://ns1.monolithindustries.com:6969/announce
 udp://tracker.btsync.gq:233/announce
 http://wg.mortis.me:6969/announce
@@ -254,8 +254,8 @@ udp://tracker.zerobytes.xyz:1337/announce
 http://tracker.privateseedbox.xyz:2710/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
 http://retracker.xxtor.com:80/announce
-udp://open.tracker.cl:1337/announce
 http://0205.uptm.ch:6969/announce
+udp://open.tracker.cl:1337/announce
 udp://tracker.openbtba.com:6969/announce
 udp://stargrave.org:6969/announce
 udp://cloud.samtechnic.ir:6969/announce
@@ -263,7 +263,6 @@ http://frp.v2fy.com:8000/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.tracker.harry.lu:80/announce
 http://vps02.net.orel.ru:80/announce
-udp://retracker.netbynet.ru:2710/announce
 https://tracker.nanoha.org:443/announce
 udp://tr.cili001.com:8070/announce
 udp://tracker6.lelux.fi:6969/announce
