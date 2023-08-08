@@ -219,8 +219,8 @@ http://tracker.k.vu:6969/announce
 http://ipv6.1337.cx:6969/announce
 http://tracker.gdp.pw:900/announce
 http://open-v6.demonoid.ch:6969/announce
-http://ipv6.govt.hu:6969/announce
 http://tracker.vraphim.com:6969/announce
+http://ipv6.govt.hu:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 udp://netmap.top:6969/announce
 http://buny.uk:6969/announce
@@ -233,14 +233,14 @@ http://home.kray.pw:6969/announce
 udp://107.182.30.76.16clouds.com:6969/announce
 http://open.acgtracker.com:1096/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
-udp://tracker3.itzmx.com:6961/announce
 udp://u6.trakx.crim.ist:1337/announce
+udp://tracker3.itzmx.com:6961/announce
 udp://tracker.edkj.club:6969/announce
 http://openbittorrent.com:80/announce
-udp://tracker.publictracker.xyz:6969/announce
 udp://tracker2.itzmx.com:6961/announce
-udp://ns1.monolithindustries.com:6969/announce
+udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.btsync.gq:233/announce
+udp://ns1.monolithindustries.com:6969/announce
 http://wg.mortis.me:6969/announce
 https://tracker.cangku.moe:443/announce
 udp://chouchou.top:8080/announce

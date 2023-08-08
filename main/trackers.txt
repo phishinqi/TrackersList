@@ -842,13 +842,17 @@ udp://tracker1.myporn.club:9337/announce
 
 http://ch3oh.ru:6969/announce
 
-udp://bt2.archive.org:6969/announce
-
 udp://new-line.net:6969/announce
+
+udp://bt2.archive.org:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://bt.ktrackers.com:6666/announce
+
+http://tracker.ipv6tracker.ru:80/announce
+
+https://tr.burnabyhighstar.com:443/announce
 
 udp://city21.pk:6969/announce
 
@@ -858,10 +862,6 @@ udp://tracker.ocnix.net:6969/announce
 
 udp://htz3.noho.st:6969/announce
 
-http://tracker.ipv6tracker.ru:80/announce
-
-https://tr.burnabyhighstar.com:443/announce
-
 http://t.publictracker.xyz:6969/announce
 
 udp://download.nerocloud.me:6969/announce
@@ -870,19 +870,19 @@ udp://open.u-p.pw:6969/announce
 
 https://tracker.moeblog.cn:443/announce
 
-https://tracker.imgoingto.icu:443/announce
-
 https://tracker.kuroy.me:443/announce
+
+https://tracker.imgoingto.icu:443/announce
 
 udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
-http://tracker1.itzmx.com:8080/announce
-
 udp://explodie.org:6969/announce
 
 https://1337.abcvg.info:443/announce
+
+http://tracker1.itzmx.com:8080/announce
 
 udp://tracker.cubonegro.lol:6969/announce
 
@@ -902,9 +902,9 @@ http://open-v6.demonoid.ch:6969/announce
 
 https://tracker.cloudit.top:443/announce
 
-http://ipv6.govt.hu:6969/announce
-
 http://tracker.vraphim.com:6969/announce
+
+http://ipv6.govt.hu:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -912,9 +912,9 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://netmap.top:6969/announce
 
-udp://tracker.openbittorrent.com:6969/announce
-
 http://buny.uk:6969/announce
+
+udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 
@@ -950,15 +950,15 @@ udp://tracker.farted.net:6969/announce
 
 udp://open.demonii.com:1337/announce
 
-https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
-
 http://incine.ru:6969/announce
 
-udp://tracker3.itzmx.com:6961/announce
+https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
 udp://v2.iperson.xyz:6969/announce
+
+udp://tracker3.itzmx.com:6961/announce
 
 udp://ts.populargamers.co.za:6969/announce
 
@@ -966,17 +966,17 @@ udp://tracker.edkj.club:6969/announce
 
 http://openbittorrent.com:80/announce
 
-udp://tracker.publictracker.xyz:6969/announce
-
 udp://tracker2.itzmx.com:6961/announce
+
+udp://tracker.publictracker.xyz:6969/announce
 
 udp://retracker.lanta-net.ru:2710/announce
 
 http://tracker.skyts.net:6969/announce
 
-udp://ns1.monolithindustries.com:6969/announce
-
 udp://tracker.btsync.gq:233/announce
+
+udp://ns1.monolithindustries.com:6969/announce
 
 http://wg.mortis.me:6969/announce
 
@@ -2160,13 +2160,17 @@ udp://tracker1.myporn.club:9337/announce
 
 http://ch3oh.ru:6969/announce
 
-udp://bt2.archive.org:6969/announce
-
 udp://new-line.net:6969/announce
+
+udp://bt2.archive.org:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://bt.ktrackers.com:6666/announce
+
+http://tracker.ipv6tracker.ru:80/announce
+
+https://tr.burnabyhighstar.com:443/announce
 
 udp://city21.pk:6969/announce
 
@@ -2175,10 +2179,6 @@ udp://public.publictracker.xyz:6969/announce
 udp://tracker.ocnix.net:6969/announce
 
 udp://htz3.noho.st:6969/announce
-
-http://tracker.ipv6tracker.ru:80/announce
-
-https://tr.burnabyhighstar.com:443/announce
 
 http://t.publictracker.xyz:6969/announce
 
