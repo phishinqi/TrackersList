@@ -33,9 +33,11 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.opentrackr.org:1337/announce
+http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.sheesh.rip:6969/announce
 http://tracker.skyts.net:6969/announce
+http://tracker2.dler.org:80/announce
 http://tracker4.itzmx.com:2710/announce
 http://v6-tracker.0g.cx:6969/announce
 http://wepzone.net:6969/announce
@@ -101,7 +103,6 @@ udp://freedomalternative.com:6969/announce
 udp://globalwave.no-ip.org:6969/announce
 udp://htz3.noho.st:6969/announce
 udp://ipv6.fuuuuuck.com:6969/announce
-udp://isk.richardsw.club:6969/announce
 udp://mail.artixlinux.org:6969/announce
 udp://mail.segso.net:6969/announce
 udp://market-re.quest:6969/announce
@@ -113,7 +114,6 @@ udp://odd-hd.fr:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
 udp://open.demonii.com:1337/announce
 udp://open.dstud.io:6969/announce
-udp://open.free-tracker.ga:6969/announce
 udp://open.publictracker.xyz:6969/announce
 udp://open.stealth.si:80/announce
 udp://open.tracker.ink:6969/announce
@@ -141,7 +141,6 @@ udp://sx.xxtor.com:6969/announce
 udp://t.133335.xyz:6969/announce
 udp://t.zerg.pw:6969/announce
 udp://tamas3.ynh.fr:6969/announce
-udp://thinking.duckdns.org:6969/announce
 udp://thouvenin.cloud:6969/announce
 udp://tk1.trackerservers.com:8080/announce
 udp://tk1v6.trackerservers.com:8080/announce
@@ -157,6 +156,7 @@ udp://tracker.birkenwald.de:6969/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cubonegro.lol:6969/announce
 udp://tracker.cyberia.is:6969/announce
+udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 udp://tracker.dump.cl:6969/announce
@@ -197,10 +197,12 @@ https://tracker2.ctix.cn:443/announce
 udp://opentracker.i2p.rocks:6969/announce
 http://tracker.openbittorrent.com:80/announce
 udp://explodie.org:6969/announce
+udp://open.free-tracker.ga:6969/announce
 http://tracker1.bt.moack.co.kr:80/announce
-http://tracker2.dler.org:80/announce
+udp://isk.richardsw.club:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.army:6969/announce
+udp://thinking.duckdns.org:6969/announce
 udp://download.nerocloud.me:6969/announce
 udp://carr.codes:6969/announce
 https://t.zerg.pw/announce
@@ -214,15 +216,15 @@ udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 udp://www.torrent.eu.org:451/announce
 udp://jutone.com:6969/announce
 http://tracker1.itzmx.com:8080/announce
-https://tracker.imgoingto.icu:443/announce
-http://tracker.k.vu:6969/announce
 udp://netmap.top:6969/announce
-http://ipv6.1337.cx:6969/announce
-http://tracker.vraphim.com:6969/announce
+http://tracker.k.vu:6969/announce
+https://tracker.imgoingto.icu:443/announce
 http://buny.uk:6969/announce
+http://tracker.vraphim.com:6969/announce
+http://ipv6.1337.cx:6969/announce
 http://open-v6.demonoid.ch:6969/announce
-http://tracker.gdp.pw:900/announce
 http://ipv6.govt.hu:6969/announce
+http://tracker.gdp.pw:900/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 udp://tracker.breizh.pm:6969/announce
 udp://llideong.cn:6969/announce
@@ -241,8 +243,8 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.btsync.gq:233/announce
 udp://ns1.monolithindustries.com:6969/announce
-http://wg.mortis.me:6969/announce
 udp://chouchou.top:8080/announce
+http://wg.mortis.me:6969/announce
 udp://open.8a.is:6969/announce
 http://tracker.yuelili.com:80/announce
 http://retracker.joxnet.ru:80/announce
@@ -727,7 +729,6 @@ http://tracker.trackerfix.com/announce
 http://t1.pow7.com/announce
 http://fe.dealclub.de:6969/announce
 http://tracker.tiny-vps.com:6969/announce
-udp://tracker.ddunlimited.net:6969/announce
 http://retracker.joxnet.ru/announce
 http://torrent.fedoraproject.org:6969/announce
 http://mvgroup.org:2710/announce
@@ -1082,7 +1083,6 @@ http://tracker.dm258.cn:7070/announce
 http://ipv4.tracker.harry.lu:80/announce
 http://bigfoot1942.sektori.org:6969/announce
 https://tracker.tvgc.win/announce
-http://tracker.qu.ax:6969/announce
 http://171.104.111.250:6969/announce
 http://97.117.150.188:9000/announce
 http://192.3.165.191:6969/announce
