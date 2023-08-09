@@ -217,9 +217,9 @@ udp://www.torrent.eu.org:451/announce
 udp://jutone.com:6969/announce
 http://tracker1.itzmx.com:8080/announce
 udp://netmap.top:6969/announce
+http://buny.uk:6969/announce
 http://tracker.k.vu:6969/announce
 https://tracker.imgoingto.icu:443/announce
-http://buny.uk:6969/announce
 http://tracker.vraphim.com:6969/announce
 http://ipv6.1337.cx:6969/announce
 http://open-v6.demonoid.ch:6969/announce
@@ -231,9 +231,9 @@ udp://llideong.cn:6969/announce
 http://reisub.nsupdate.info:6969/announce
 udp://seedbay.net:2710/announce
 http://open.acgtracker.com:1096/announce
+https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 http://home.kray.pw:6969/announce
 udp://107.182.30.76.16clouds.com:6969/announce
-https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 udp://u6.trakx.crim.ist:1337/announce
 http://cn.pcfreetime.com:6969/announce
 udp://tracker3.itzmx.com:6961/announce
@@ -249,8 +249,8 @@ udp://open.8a.is:6969/announce
 http://tracker.yuelili.com:80/announce
 http://retracker.joxnet.ru:80/announce
 https://tracker.cangku.moe:443/announce
-http://region.nl1.privex.cc:6969/announce
 http://tracker.pcfreetime.com:6969/announce
+http://region.nl1.privex.cc:6969/announce
 udp://tracker.joybomb.tw:6969/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
 http://0205.uptm.ch:6969/announce
