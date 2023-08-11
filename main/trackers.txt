@@ -838,9 +838,9 @@ udp://tamas3.ynh.fr:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://tracker.srv00.com:6969/announce
-
 udp://p4p.arenabg.com:1337/announce
+
+udp://tracker.srv00.com:6969/announce
 
 http://www.chouchou.club:8080/announce
 
@@ -860,9 +860,9 @@ udp://new-line.net:6969/announce
 
 udp://bt2.archive.org:6969/announce
 
-udp://tracker1.myporn.club:9337/announce
-
 udp://bt.ktrackers.com:6666/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 https://tracker.moeblog.cn:443/announce
 
@@ -890,9 +890,9 @@ udp://tracker.ocnix.net:6969/announce
 
 https://1337.abcvg.info:443/announce
 
-udp://tracker.cubonegro.lol:6969/announce
-
 udp://explodie.org:6969/announce
+
+udp://tracker.cubonegro.lol:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
@@ -960,9 +960,9 @@ udp://107.182.30.76.16clouds.com:6969/announce
 
 udp://v2.iperson.xyz:6969/announce
 
-https://tracker.ipfsscan.io:443/announce
-
 udp://ts.populargamers.co.za:6969/announce
+
+https://tracker.ipfsscan.io:443/announce
 
 http://home.kray.pw:6969/announce
 
@@ -1016,9 +1016,9 @@ udp://linfan.moe:6969/announce
 
 http://wegkxfcivgx.chickenkiller.com:80/announce
 
-http://region.nl1.privex.cc:6969/announce
-
 udp://tracker.swateam.org.uk:2710/announce
+
+http://region.nl1.privex.cc:6969/announce
 
 http://0205.uptm.ch:6969/announce
 
@@ -2156,9 +2156,9 @@ udp://tamas3.ynh.fr:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://tracker.srv00.com:6969/announce
-
 udp://p4p.arenabg.com:1337/announce
+
+udp://tracker.srv00.com:6969/announce
 
 http://www.chouchou.club:8080/announce
 
@@ -2178,9 +2178,9 @@ udp://new-line.net:6969/announce
 
 udp://bt2.archive.org:6969/announce
 
-udp://tracker1.myporn.club:9337/announce
-
 udp://bt.ktrackers.com:6666/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 https://tracker.moeblog.cn:443/announce
 
@@ -2195,8 +2195,6 @@ http://buny.uk:6969/announce
 udp://public.publictracker.xyz:6969/announce
 
 udp://download.nerocloud.me:6969/announce
-
-http://t.publictracker.xyz:6969/announce
 
 http://tracker.gbitt.info/announce
 https://tracker.lilithraws.cf/announce
