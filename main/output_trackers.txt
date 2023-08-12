@@ -245,8 +245,8 @@ udp://chouchou.top:8080/announce
 http://tracker.yuelili.com:80/announce
 udp://ns1.monolithindustries.com:6969/announce
 http://bt.endpot.com:80/announce
-http://retracker.joxnet.ru:80/announce
 udp://linfan.moe:6969/announce
+http://retracker.joxnet.ru:80/announce
 http://tracker.pcfreetime.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 http://wg.mortis.me:6969/announce
