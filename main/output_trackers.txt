@@ -231,8 +231,8 @@ http://tracker1.itzmx.com:8080/announce
 http://open.acgtracker.com:1096/announce
 udp://llideong.cn:6969/announce
 udp://tracker.breizh.pm:6969/announce
-http://tracker.gdp.pw:900/announce
 http://reisub.nsupdate.info:6969/announce
+http://tracker.gdp.pw:900/announce
 https://tracker.moeblog.cn:443/announce
 udp://globalwave.no-ip.org:6969/announce
 udp://seedbay.net:2710/announce
