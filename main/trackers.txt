@@ -846,9 +846,9 @@ udp://open.u-p.pw:6969/announce
 
 udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 
-udp://tracker.4.babico.name.tr:3131/announce
-
 udp://www.torrent.eu.org:451/announce
+
+udp://tracker.4.babico.name.tr:3131/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -888,9 +888,9 @@ udp://tracker.ocnix.net:6969/announce
 
 udp://open.demonii.com:1337/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
-
 udp://tracker.openbittorrent.com:6969/announce
+
+udp://6ahddutb1ucc3cp.ru:6969/announce
 
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 
@@ -914,9 +914,9 @@ udp://ryjer.com:6969/announce
 
 udp://black-bird.ynh.fr:6969/announce
 
-http://tracker.gdp.pw:900/announce
-
 http://reisub.nsupdate.info:6969/announce
+
+http://tracker.gdp.pw:900/announce
 
 https://tracker.moeblog.cn:443/announce
 
@@ -944,9 +944,9 @@ udp://freedomalternative.com:6969/announce
 
 udp://v2.iperson.xyz:6969/announce
 
-udp://bedro.cloud:6969/announce
-
 http://cn.pcfreetime.com:6969/announce
+
+udp://bedro.cloud:6969/announce
 
 udp://retracker.lanta-net.ru:2710/announce
 
