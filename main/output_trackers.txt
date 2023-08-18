@@ -214,9 +214,9 @@ udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 http://tracker.nartlof.com.br:6969/announce
 udp://tracker.6.babico.name.tr:6969/announce
 http://tracker.k.vu:6969/announce
-http://ipv6.1337.cx:6969/announce
 http://ipv6.govt.hu:6969/announce
 http://tracker.vraphim.com:6969/announce
+http://ipv6.1337.cx:6969/announce
 udp://jutone.com:6969/announce
 http://open-v6.demonoid.ch:6969/announce
 udp://market-re.quest:6969/announce
@@ -227,8 +227,8 @@ https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/annou
 http://li2021-95.members.linode.com:6969/announce
 http://tracker1.itzmx.com:8080/announce
 udp://llideong.cn:6969/announce
-udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://tracker.breizh.pm:6969/announce
+udp://6ahddutb1ucc3cp.ru:6969/announce
 http://open.acgtracker.com:1096/announce
 http://tracker.gdp.pw:900/announce
 http://reisub.nsupdate.info:6969/announce
@@ -246,12 +246,12 @@ http://openbittorrent.com:80/announce
 http://tracker.skyts.net:6969/announce
 udp://btt.service.gongt.me:43079/announce
 udp://tracker.btsync.gq:233/announce
-https://tracker.cangku.moe:443/announce
 http://tracker.pcfreetime.com:6969/announce
+https://tracker.cangku.moe:443/announce
 http://home.kray.pw:6969/announce
+http://tracker.h0me.cc:8880/announce
 udp://www.2600.com:6969/announce
 http://tracker.yuelili.com:80/announce
-http://tracker.h0me.cc:8880/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://chouchou.top:8080/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
@@ -1303,6 +1303,8 @@ http://79.137.198.96:6969/announce
 http://65.130.205.148:9000/announce
 http://49.12.76.8:6961/announce
 http://91.224.92.110:6969/announce
+http://www.arabp2p.net:2052/f5a1e35785c9f3885fd54f34b6e262b8/announce
+http://107.189.7.143:6969/announce
 udp://7.rarbg.to:2710/announce
 udp://8.rarbg.to:2710/announce
 udp://tracker.fatkhoala.org:13750/announce
