@@ -828,11 +828,11 @@ udp://tracker-udp.gbitt.info:80/announce
 
 udp://sanincode.com:6969/announce
 
+udp://www.torrent.eu.org:451/announce
+
 udp://open.u-p.pw:6969/announce
 
 udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
-
-udp://www.torrent.eu.org:451/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -844,9 +844,9 @@ http://tracker.nartlof.com.br:6969/announce
 
 udp://explodie.org:6969/announce
 
-udp://tracker.cubonegro.lol:6969/announce
-
 udp://tracker.4.babico.name.tr:3131/announce
+
+udp://tracker.cubonegro.lol:6969/announce
 
 udp://thinking.duckdns.org:6969/announce
 
@@ -888,9 +888,9 @@ http://tracker1.itzmx.com:8080/announce
 
 udp://llideong.cn:6969/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
-
 http://canardscitrons.nohost.me:6969/announce
+
+udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 

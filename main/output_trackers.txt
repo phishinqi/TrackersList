@@ -209,8 +209,8 @@ http://canardscitrons.nohost.me:6969/announce
 https://tracker.lilithraws.cf:443/announce
 https://tracker1.ctix.cn:443/announce
 http://shubt.net:2710/announce
-udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 udp://www.torrent.eu.org:451/announce
+udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 http://tracker.nartlof.com.br:6969/announce
 udp://tracker.6.babico.name.tr:6969/announce
 http://tracker.k.vu:6969/announce
