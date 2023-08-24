@@ -792,9 +792,9 @@ http://www.chouchou.club:8080/announce
 
 http://ch3oh.ru:6969/announce
 
-udp://tracker.army:6969/announce
-
 http://shubt.net:2710/announce
+
+udp://tracker.army:6969/announce
 
 http://montreal.nyap2p.com:8080/announce
 
@@ -826,23 +826,23 @@ udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 
 udp://ssb14.nohost.me:6969/announce
 
-udp://www.torrent.eu.org:451/announce
-
 udp://thinking.duckdns.org:6969/announce
+
+udp://www.torrent.eu.org:451/announce
 
 udp://open.u-p.pw:6969/announce
 
 http://ipv6.govt.hu:6969/announce
 
-http://tracker.k.vu:6969/announce
-
 https://t1.hloli.org:443/announce
+
+http://tracker.k.vu:6969/announce
 
 http://ipv6.1337.cx:6969/announce
 
-http://open-v6.demonoid.ch:6969/announce
-
 udp://tracker.cubonegro.lol:6969/announce
+
+http://open-v6.demonoid.ch:6969/announce
 
 udp://explodie.org:6969/announce
 
@@ -904,9 +904,9 @@ udp://seedbay.net:2710/announce
 
 udp://market-re.quest:6969/announce
 
-udp://tracker.breizh.pm:6969/announce
-
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.breizh.pm:6969/announce
 
 udp://btt.service.gongt.me:43079/announce
 
@@ -942,9 +942,9 @@ udp://globalwave.no-ip.org:6969/announce
 
 http://t.publictracker.xyz:6969/announce
 
-udp://retracker.lanta-net.ru:2710/announce
-
 udp://tracker.btsync.gq:233/announce
+
+udp://retracker.lanta-net.ru:2710/announce
 
 https://tr.ready4.icu:443/announce
 
@@ -972,9 +972,9 @@ http://147job.com:6969/announce
 
 http://0205.uptm.ch:6969/announce
 
-http://frp.v2fy.com:8000/announce
-
 udp://open.tracker.cl:1337/announce
+
+http://frp.v2fy.com:8000/announce
 
 http://retracker.xxtor.com:80/announce
 
@@ -2076,9 +2076,9 @@ http://www.chouchou.club:8080/announce
 
 http://ch3oh.ru:6969/announce
 
-udp://tracker.army:6969/announce
-
 http://shubt.net:2710/announce
+
+udp://tracker.army:6969/announce
 
 http://montreal.nyap2p.com:8080/announce
 
