@@ -205,8 +205,8 @@ http://p2p.0g.cx:6969/announce
 http://shubt.net:2710/announce
 http://buny.uk:6969/announce
 udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
-udp://mikrotik2.draatman.net:6969/announce
 udp://www.torrent.eu.org:451/announce
+udp://mikrotik2.draatman.net:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 udp://jutone.com:6969/announce
 http://tracker.vraphim.com:6969/announce
@@ -233,13 +233,13 @@ udp://market-re.quest:6969/announce
 http://openbittorrent.com:80/announce
 http://tracker.h0me.cc:8880/announce
 udp://freedomalternative.com:6969/announce
-http://cn.pcfreetime.com:6969/announce
 http://canardscitrons.nohost.me:6969/announce
+http://cn.pcfreetime.com:6969/announce
 http://li2021-95.members.linode.com:6969/announce
 udp://tracker.edkj.club:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
-https://tracker.moeblog.cn:443/announce
 http://t.publictracker.xyz:6969/announce
+https://tracker.moeblog.cn:443/announce
 udp://tracker.btsync.gq:233/announce
 https://tracker.cangku.moe:443/announce
 udp://retracker.lanta-net.ru:2710/announce
@@ -255,9 +255,9 @@ http://wegkxfcivgx.chickenkiller.com:80/announce
 udp://pxnet.ru:6969/announce
 http://0205.uptm.ch:6969/announce
 udp://open.tracker.cl:1337/announce
+udp://tracker.publictracker.xyz:6969/announce
 http://frp.v2fy.com:8000/announce
 http://retracker.xxtor.com:80/announce
-udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.openbtba.com:6969/announce
 udp://stargrave.org:6969/announce
 udp://cloud.samtechnic.ir:6969/announce
