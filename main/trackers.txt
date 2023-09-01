@@ -754,9 +754,9 @@ udp://tracker.fnix.net:6969/announce
 
 http://bt.okmp3.ru:2710/announce
 
-udp://carr.codes:6969/announce
-
 udp://u4.trakx.crim.ist:1337/announce
+
+udp://carr.codes:6969/announce
 
 udp://tracker.sheesh.rip:6969/announce
 
@@ -768,17 +768,17 @@ udp://tamas3.ynh.fr:6969/announce
 
 http://shubt.net:2710/announce
 
-udp://tracker2.dler.com:80/announce
-
 udp://tracker.srv00.com:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
-http://www.chouchou.club:8080/announce
+udp://tracker2.dler.com:80/announce
 
 udp://tracker.theoks.net:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
+
+http://www.chouchou.club:8080/announce
 
 http://ch3oh.ru:6969/announce
 
@@ -796,23 +796,23 @@ udp://thinking.duckdns.org:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
-udp://bedro.cloud:6969/announce
-
 udp://tracker1.bt.moack.co.kr:80/announce
-
-udp://ts.populargamers.co.za:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
+udp://ts.populargamers.co.za:6969/announce
+
 udp://tracker-udp.gbitt.info:80/announce
+
+udp://bedro.cloud:6969/announce
 
 udp://tracker2.itzmx.com:6961/announce
 
 udp://tracker.swateam.org.uk:2710/announce
 
-https://tracker.cloudit.top:443/announce
-
 udp://www.torrent.eu.org:451/announce
+
+https://tracker.cloudit.top:443/announce
 
 udp://open.u-p.pw:6969/announce
 
@@ -820,11 +820,11 @@ udp://tracker.leech.ie:1337/announce
 
 udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 
-https://tracker.kuroy.me:443/announce
+https://www.peckservers.com:9443/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-https://www.peckservers.com:9443/announce
+https://tracker.kuroy.me:443/announce
 
 udp://explodie.org:6969/announce
 
@@ -896,9 +896,9 @@ udp://p4p.arenabg.com:1337/announce
 
 http://open-v6.demonoid.ch:6969/announce
 
-http://open.acgtracker.com:1096/announce
-
 http://openbittorrent.com:80/announce
+
+http://open.acgtracker.com:1096/announce
 
 udp://tracker3.itzmx.com:6961/announce
 
@@ -908,9 +908,9 @@ udp://tracker.farted.net:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
-https://tracker.jiesen.life:8443/announce
-
 http://t.publictracker.xyz:6969/announce
+
+https://tracker.jiesen.life:8443/announce
 
 http://147job.com:6969/announce
 
@@ -932,11 +932,11 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
-https://tr.ready4.icu:443/announce
-
 udp://retracker.lanta-net.ru:2710/announce
 
 http://tracker.pcfreetime.com:6969/announce
+
+https://tr.ready4.icu:443/announce
 
 https://tracker.cangku.moe:443/announce
 
@@ -958,15 +958,17 @@ http://tracker.yuelili.com:80/announce
 
 udp://open.8a.is:6969/announce
 
-https://tracker.moeblog.cn:443/announce
-
 http://wegkxfcivgx.chickenkiller.com:80/announce
+
+https://tracker.moeblog.cn:443/announce
 
 udp://pxnet.ru:6969/announce
 
 http://0205.uptm.ch:6969/announce
 
 udp://open.tracker.cl:1337/announce
+
+udp://lloria.fr:6969/announce
 
 udp://stargrave.org:6969/announce
 
@@ -1235,8 +1237,6 @@ http://appmeter.ru:6969/announce
 udp://tronml.cf:6969/announce
 
 udp://2simple.naiive.xyz:6969/announce
-
-udp://lloria.fr:6969/announce
 
 udp://rep-art.ynh.fr:6969/announce
 
@@ -2030,9 +2030,9 @@ udp://tracker.fnix.net:6969/announce
 
 http://bt.okmp3.ru:2710/announce
 
-udp://carr.codes:6969/announce
-
 udp://u4.trakx.crim.ist:1337/announce
+
+udp://carr.codes:6969/announce
 
 udp://tracker.sheesh.rip:6969/announce
 
@@ -2044,17 +2044,17 @@ udp://tamas3.ynh.fr:6969/announce
 
 http://shubt.net:2710/announce
 
-udp://tracker2.dler.com:80/announce
-
 udp://tracker.srv00.com:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
-http://www.chouchou.club:8080/announce
+udp://tracker2.dler.com:80/announce
 
 udp://tracker.theoks.net:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
+
+http://www.chouchou.club:8080/announce
 
 http://ch3oh.ru:6969/announce
 
@@ -2072,17 +2072,19 @@ udp://thinking.duckdns.org:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
-udp://bedro.cloud:6969/announce
-
 udp://tracker1.bt.moack.co.kr:80/announce
-
-udp://ts.populargamers.co.za:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
+udp://ts.populargamers.co.za:6969/announce
+
 udp://tracker-udp.gbitt.info:80/announce
 
+udp://bedro.cloud:6969/announce
+
 udp://tracker2.itzmx.com:6961/announce
+
+udp://tracker.swateam.org.uk:2710/announce
 
 http://tracker.gbitt.info/announce
 https://tracker.lilithraws.cf/announce
