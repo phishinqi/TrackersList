@@ -752,8 +752,6 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://mail.segso.net:6969/announce
 
-udp://tracker.0x7c0.com:6969/announce
-
 udp://open.stealth.si:80/announce
 
 udp://bt1.archive.org:6969/announce
@@ -761,6 +759,8 @@ udp://bt1.archive.org:6969/announce
 udp://1c.premierzal.ru:6969/announce
 
 udp://107.182.30.76.16clouds.com:6969/announce
+
+udp://tracker.0x7c0.com:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
@@ -802,9 +802,9 @@ http://montreal.nyap2p.com:8080/announce
 
 http://www.chouchou.club:8080/announce
 
-udp://new-line.net:6969/announce
-
 http://tracker.gbitt.info:80/announce
+
+udp://new-line.net:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -820,9 +820,9 @@ udp://public.publictracker.xyz:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-udp://ts.populargamers.co.za:6969/announce
-
 https://www.peckservers.com:9443/announce
+
+udp://ts.populargamers.co.za:6969/announce
 
 udp://tracker2.itzmx.com:6961/announce
 
@@ -868,9 +868,9 @@ http://tracker.gdp.pw:900/announce
 
 udp://wepzone.net:6969/announce
 
-https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
-
 http://tracker.h0me.cc:8880/announce
+
+https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 
 udp://tracker.openbittorrent.com:6969/announce
 
@@ -904,9 +904,9 @@ http://ipv6.govt.hu:6969/announce
 
 udp://ssb14.nohost.me:6969/announce
 
-udp://tracker.army:6969/announce
-
 http://ipv6.1337.cx:6969/announce
+
+udp://tracker.army:6969/announce
 
 udp://tracker3.itzmx.com:6961/announce
 
@@ -914,9 +914,9 @@ udp://p4p.arenabg.com:1337/announce
 
 http://openbittorrent.com:80/announce
 
-http://open-v6.demonoid.ch:6969/announce
-
 http://open.acgtracker.com:1096/announce
+
+http://open-v6.demonoid.ch:6969/announce
 
 http://t.publictracker.xyz:6969/announce
 
@@ -958,11 +958,11 @@ udp://retracker.lanta-net.ru:2710/announce
 
 udp://freedomalternative.com:6969/announce
 
-udp://open.demonii.com:1337/announce
-
 udp://tracker.zerobytes.xyz:1337/announce
 
 http://bt.endpot.com:80/announce
+
+udp://open.demonii.com:1337/announce
 
 udp://www.2600.com:6969/announce
 
@@ -2044,8 +2044,6 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://mail.segso.net:6969/announce
 
-udp://tracker.0x7c0.com:6969/announce
-
 udp://open.stealth.si:80/announce
 
 udp://bt1.archive.org:6969/announce
@@ -2053,6 +2051,8 @@ udp://bt1.archive.org:6969/announce
 udp://1c.premierzal.ru:6969/announce
 
 udp://107.182.30.76.16clouds.com:6969/announce
+
+udp://tracker.0x7c0.com:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
@@ -2094,9 +2094,9 @@ http://montreal.nyap2p.com:8080/announce
 
 http://www.chouchou.club:8080/announce
 
-udp://new-line.net:6969/announce
-
 http://tracker.gbitt.info:80/announce
+
+udp://new-line.net:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -2112,9 +2112,9 @@ udp://public.publictracker.xyz:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-udp://ts.populargamers.co.za:6969/announce
-
 https://www.peckservers.com:9443/announce
+
+udp://ts.populargamers.co.za:6969/announce
 
 http://tracker.gbitt.info/announce
 https://tracker.lilithraws.cf/announce
