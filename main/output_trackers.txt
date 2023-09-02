@@ -203,8 +203,8 @@ https://tracker.lilithraws.cf:443/announce
 https://tracker1.ctix.cn:443/announce
 http://bt.okmp3.ru:2710/announce
 http://shubt.net:2710/announce
-http://www.chouchou.club:8080/announce
 http://buny.uk:6969/announce
+http://www.chouchou.club:8080/announce
 udp://www.torrent.eu.org:451/announce
 udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
@@ -213,8 +213,8 @@ https://tracker.kuroy.me:443/announce
 udp://jutone.com:6969/announce
 udp://download.nerocloud.me:6969/announce
 udp://llideong.cn:6969/announce
-http://reisub.nsupdate.info:6969/announce
 http://tracker.vraphim.com:6969/announce
+http://reisub.nsupdate.info:6969/announce
 http://tracker.h0me.cc:8880/announce
 http://tracker.gdp.pw:900/announce
 udp://btt.service.gongt.me:43079/announce
@@ -222,10 +222,10 @@ https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/annou
 http://tracker.nartlof.com.br:6969/announce
 udp://black-bird.ynh.fr:6969/announce
 udp://tracker.ocnix.net:6969/announce
-udp://sx.xxtor.com:6969/announce
 udp://seedbay.net:2710/announce
-udp://mikrotik2.draatman.net:6969/announce
+udp://sx.xxtor.com:6969/announce
 udp://tracker.6.babico.name.tr:6969/announce
+udp://mikrotik2.draatman.net:6969/announce
 http://ipv6.govt.hu:6969/announce
 http://tracker.k.vu:6969/announce
 udp://ssb14.nohost.me:6969/announce
@@ -234,8 +234,8 @@ udp://tracker.army:6969/announce
 http://openbittorrent.com:80/announce
 http://open-v6.demonoid.ch:6969/announce
 http://t.publictracker.xyz:6969/announce
-udp://v2.iperson.xyz:6969/announce
 http://147job.com:6969/announce
+udp://v2.iperson.xyz:6969/announce
 udp://tracker.edkj.club:6969/announce
 udp://tracker.farted.net:6969/announce
 https://tracker.jiesen.life:8443/announce
