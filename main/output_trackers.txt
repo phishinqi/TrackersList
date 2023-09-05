@@ -14,7 +14,7 @@ http://montreal.nyap2p.com:8080/announce
 http://movies.zsw.ca:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.acgnxtracker.com:80/announce
-http://open.acgtracker.com:1096/announce
+http://open.tracker.ink:6969/announce
 http://p2p.0g.cx:6969/announce
 http://retracker.hotplug.ru:2710/announce
 http://share.camoe.cn:8080/announce
@@ -34,9 +34,8 @@ http://tracker.mywaifu.best:6969/announce
 http://tracker.opentrackr.org:1337/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
-http://tracker.sheesh.rip:6969/announce
 http://tracker.swateam.org.uk:2710/announce
-http://tracker1.bt.moack.co.kr:80/announce
+http://tracker2.dler.org:80/announce
 http://tracker2.itzmx.com:6961/announce
 http://tracker4.itzmx.com:2710/announce
 http://wepzone.net:6969/announce
@@ -120,7 +119,6 @@ udp://p4p.arenabg.com:1337/announce
 udp://private.anonseed.com:6969/announce
 udp://psyco.fr:6969/announce
 udp://public-tracker.cf:6969/announce
-udp://public.publictracker.xyz:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://run-2.publictracker.xyz:6969/announce
@@ -189,13 +187,14 @@ https://tracker2.ctix.cn:443/announce
 udp://opentracker.i2p.rocks:6969/announce
 http://tracker.openbittorrent.com:80/announce
 udp://explodie.org:6969/announce
-http://tracker2.dler.org:80/announce
+http://tracker1.bt.moack.co.kr:80/announce
 udp://carr.codes:6969/announce
 udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.leech.ie:1337/announce
+udp://public.publictracker.xyz:6969/announce
 http://tracker.skyts.net:6969/announce
-http://open.tracker.ink:6969/announce
 http://tracker1.itzmx.com:8080/announce
+http://tracker.sheesh.rip:6969/announce
 http://open.8a.is:6969/announce
 https://tracker1.ctix.cn:443/announce
 http://www.chouchou.club:8080/announce
@@ -224,6 +223,7 @@ http://147job.com:6969/announce
 udp://sx.xxtor.com:6969/announce
 udp://mikrotik2.draatman.net:6969/announce
 http://openbittorrent.com:80/announce
+http://open.acgtracker.com:1096/announce
 http://ipv6.govt.hu:6969/announce
 http://tracker.k.vu:6969/announce
 udp://v2.iperson.xyz:6969/announce
