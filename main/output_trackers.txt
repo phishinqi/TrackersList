@@ -7,15 +7,14 @@ http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
 http://[2a01:4f8:c012:8025::1]:8080/announce
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 http://bt.okmp3.ru:2710/announce
+http://buny.uk:6969/announce
 http://incine.ru:6969/announce
 http://montreal.nyap2p.com:8080/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.acgnxtracker.com:80/announce
-http://open.tracker.ink:6969/announce
 http://p2p.0g.cx:6969/announce
 http://retracker.hotplug.ru:2710/announce
 http://share.camoe.cn:8080/announce
-http://shubt.net:2710/announce
 http://t.acg.rip:6699/announce
 http://t.nyaatracker.com:80/announce
 http://torrentsmd.com:8080/announce
@@ -33,6 +32,7 @@ http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.sheesh.rip:6969/announce
 http://tracker.skyts.net:6969/announce
+http://tracker1.bt.moack.co.kr:80/announce
 http://tracker2.dler.org:80/announce
 http://tracker2.itzmx.com:6961/announce
 http://tracker4.itzmx.com:2710/announce
@@ -95,6 +95,7 @@ udp://fh2.cmp-gaming.com:6969/announce
 udp://free.publictracker.xyz:6969/announce
 udp://htz3.noho.st:6969/announce
 udp://ipv6.fuuuuuck.com:6969/announce
+udp://isk.richardsw.club:6969/announce
 udp://linfan.moe:6969/announce
 udp://lloria.fr:6969/announce
 udp://mail.artixlinux.org:6969/announce
@@ -129,7 +130,6 @@ udp://static.54.161.216.95.clients.your-server.de:6969/announce
 udp://su-data.com:6969/announce
 udp://t.133335.xyz:6969/announce
 udp://tamas3.ynh.fr:6969/announce
-udp://thinking.duckdns.org:6969/announce
 udp://thouvenin.cloud:6969/announce
 udp://tk1.trackerservers.com:8080/announce
 udp://tk1v6.trackerservers.com:8080/announce
@@ -151,6 +151,7 @@ udp://tracker.dler.org:6969/announce
 udp://tracker.dump.cl:6969/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.fnix.net:6969/announce
+udp://tracker.internetwarriors.net:1337/announce
 udp://tracker.moeking.me:6969/announce
 udp://tracker.openbittorrent.com:6969/announce
 udp://tracker.opentrackr.org:1337/announce
@@ -188,17 +189,17 @@ https://tracker2.ctix.cn:443/announce
 udp://opentracker.i2p.rocks:6969/announce
 http://tracker.openbittorrent.com:80/announce
 udp://explodie.org:6969/announce
-http://tracker1.bt.moack.co.kr:80/announce
-udp://isk.richardsw.club:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.leech.ie:1337/announce
 udp://carr.codes:6969/announce
 http://tracker.zerobytes.xyz:1337/announce
+udp://thinking.duckdns.org:6969/announce
+http://open.tracker.ink:6969/announce
 http://open.8a.is:6969/announce
 udp://tracker.publictracker.xyz:6969/announce
 http://tracker1.itzmx.com:8080/announce
 https://tracker1.ctix.cn:443/announce
-http://buny.uk:6969/announce
+http://shubt.net:2710/announce
 http://www.chouchou.club:8080/announce
 http://tracker.h0me.cc:8880/announce
 udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
@@ -858,7 +859,6 @@ http://141.144.224.250:6969/announce
 http://45.154.253.5/announce
 http://tracker.internetwarriors.net:1337/announce
 https://tracker.torrentsnows.com/announce
-udp://tracker.internetwarriors.net:1337/announce
 http://45.154.253.6/announce
 https://abir0dev.github.io:443/announce
 http://tracker.lintk.me:2710/announce
