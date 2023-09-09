@@ -216,8 +216,8 @@ udp://llideong.cn:6969/announce
 http://reisub.nsupdate.info:6969/announce
 udp://btt.service.gongt.me:43079/announce
 http://tracker.nartlof.com.br:6969/announce
-http://v6-tracker.0g.cx:6969/announce
 udp://black-bird.ynh.fr:6969/announce
+http://v6-tracker.0g.cx:6969/announce
 http://tracker.gdp.pw:900/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 udp://bedro.cloud:6969/announce
@@ -255,9 +255,9 @@ http://canardscitrons.nohost.me:6969/announce
 udp://pxnet.ru:6969/announce
 https://tracker.moeblog.cn:443/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
+udp://freedomalternative.com:6969/announce
 udp://market-re.quest:6969/announce
 http://0205.uptm.ch:6969/announce
-udp://freedomalternative.com:6969/announce
 udp://stargrave.org:6969/announce
 udp://cloud.samtechnic.ir:6969/announce
 http://region.nl1.privex.cc:6969/announce
