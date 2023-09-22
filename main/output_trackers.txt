@@ -204,9 +204,9 @@ udp://tracker.6.babico.name.tr:6969/announce
 udp://btt.service.gongt.me:43079/announce
 http://montreal.nyap2p.com:8080/announce
 udp://llideong.cn:6969/announce
-https://k.avc.cx:443/announce
 http://tracker.vraphim.com:6969/announce
 http://www.chouchou.club:8080/announce
+https://k.avc.cx:443/announce
 udp://soundmovie.ru:6969/announce
 http://reisub.nsupdate.info:6969/announce
 https://tracker.cloudit.top:443/announce
@@ -218,9 +218,9 @@ udp://tracker.breizh.pm:6969/announce
 http://cn.pcfreetime.com:6969/announce
 http://open.acgtracker.com:1096/announce
 udp://netmap.top:6969/announce
+udp://tr2.ysagin.top:2715/announce
 https://tracker1.ctix.cn:443/announce
 https://tracker2.ctix.cn:443/announce
-udp://tr2.ysagin.top:2715/announce
 udp://freedomalternative.com:6969/announce
 http://openbittorrent.com:80/announce
 udp://su-data.com:6969/announce
@@ -228,8 +228,8 @@ udp://tracker.ocnix.net:6969/announce
 udp://tracker.edkj.club:6969/announce
 http://rfc5746.mywaifu.best:6969/announce
 udp://tracker.btsync.gq:233/announce
-udp://anzix.net:6969/announce
 http://tracker.skyts.net:6969/announce
+udp://anzix.net:6969/announce
 udp://tracker.sheesh.rip:6969/announce
 udp://linfan.moe:6969/announce
 https://tracker.bangumi.zip:443/announce
@@ -245,12 +245,12 @@ https://tracker.moeblog.cn:443/announce
 http://region.nl1.privex.cc:6969/announce
 http://tracker.k.vu:6969/announce
 udp://public.publictracker.xyz:6969/announce
-udp://download.nerocloud.me:6969/announce
 http://smurfsoft.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
-udp://open.8a.is:6969/announce
-http://canardscitrons.nohost.me:6969/announce
+udp://download.nerocloud.me:6969/announce
 https://tracker.expli.top:443/announce
+http://canardscitrons.nohost.me:6969/announce
+udp://open.8a.is:6969/announce
 http://tracker.yuelili.com:80/announce
 http://0205.uptm.ch:6969/announce
 udp://stargrave.org:6969/announce
