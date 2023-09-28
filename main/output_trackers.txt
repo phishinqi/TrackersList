@@ -10,10 +10,10 @@ http://[2a01:4f8:c012:8025::1]:8080/announce
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 http://bt.endpot.com:80/announce
 http://bt.okmp3.ru:2710/announce
+http://buny.uk:6969/announce
 http://incine.ru:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.acgnxtracker.com:80/announce
-http://open.acgtracker.com:1096/announce
 http://retracker.hotplug.ru:2710/announce
 http://share.camoe.cn:8080/announce
 http://shubt.net:2710/announce
@@ -23,6 +23,7 @@ http://torrentsmd.com:8080/announce
 http://tracker.birkenwald.de:6969/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.dler.com:6969/announce
+http://tracker.dler.org:6969/announce
 http://tracker.electro-torrent.pl:80/announce
 http://tracker.files.fm:6969/announce
 http://tracker.gbitt.info:80/announce
@@ -30,7 +31,6 @@ http://tracker.h0me.cc:8880/announce
 http://tracker.ipv6tracker.org:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 http://tracker.mywaifu.best:6969/announce
-http://tracker.openbittorrent.com:80/announce
 http://tracker.opentrackr.org:1337/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
@@ -59,7 +59,6 @@ https://tracker.loligirl.cn:443/announce
 https://tracker.renfei.net:443/announce
 https://tracker.tamersunion.org:443/announce
 https://tracker1.520.jp:443/announce
-https://trackers.mlsub.net:443/announce
 https://www.peckservers.com:9443/announce
 udp://107.182.30.76.16clouds.com:6969/announce
 udp://119.28.71.45:8080/announce
@@ -111,6 +110,7 @@ udp://odd-hd.fr:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
 udp://open.demonii.com:1337/announce
 udp://open.dstud.io:6969/announce
+udp://open.free-tracker.ga:6969/announce
 udp://open.publictracker.xyz:6969/announce
 udp://open.stealth.si:80/announce
 udp://open.tracker.ink:6969/announce
@@ -141,7 +141,6 @@ udp://tracker.4.babico.name.tr:3131/announce
 udp://tracker.6.babico.name.tr:6969/announce
 udp://tracker.artixlinux.org:6969/announce
 udp://tracker.birkenwald.de:6969/announce
-udp://tracker.bittor.pw:1337/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.dler.com:6969/announce
@@ -182,19 +181,20 @@ udp://yahor.of.by:6969/announce
 ws://hub.bugout.link:80/announce
 wss://tracker.openwebtorrent.com:443/announceudp://tracker.opentrackr.org:1337/announce
 udp://opentracker.i2p.rocks:6969/announce
+http://tracker.openbittorrent.com:80/announce
 udp://explodie.org:6969/announce
-udp://open.free-tracker.ga:6969/announce
+http://open.acgtracker.com:1096/announce
+udp://tracker.bittor.pw:1337/announce
 udp://tracker.publictracker.xyz:6969/announce
 udp://carr.codes:6969/announce
-http://tracker.dler.org:6969/announce
 http://ch3oh.ru:6969/announce
 http://tracker1.itzmx.com:8080/announce
-http://buny.uk:6969/announce
+https://trackers.mlsub.net:443/announce
 http://p2p.0g.cx:6969/announce
 http://t.publictracker.xyz:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
-udp://jutone.com:6969/announce
 udp://black-bird.ynh.fr:6969/announce
+udp://jutone.com:6969/announce
 udp://tracker.cubonegro.lol:6969/announce
 udp://run.publictracker.xyz:6969/announce
 udp://btt.service.gongt.me:43079/announce
@@ -202,8 +202,8 @@ http://tracker.nartlof.com.br:6969/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.leech.ie:1337/announce
 udp://sabross.xyz:6969/announce
-http://tracker.vraphim.com:6969/announce
 http://v6-tracker.0g.cx:6969/announce
+http://tracker.vraphim.com:6969/announce
 http://montreal.nyap2p.com:8080/announce
 http://tracker.gdp.pw:900/announce
 http://www.chouchou.club:8080/announce
@@ -216,8 +216,8 @@ http://openbittorrent.com:80/announce
 http://reisub.nsupdate.info:6969/announce
 https://tracker.h3o2.me:443/announce
 http://cn.pcfreetime.com:6969/announce
-udp://soundmovie.ru:6969/announce
 https://tracker.cloudit.top:443/announce
+udp://soundmovie.ru:6969/announce
 https://k.avc.cx:443/announce
 http://tracker.k.vu:6969/announce
 udp://tracker.edkj.club:6969/announce
@@ -233,9 +233,9 @@ https://tracker2.ctix.cn:443/announce
 https://tracker.cangku.moe:443/announce
 udp://su-data.com:6969/announce
 udp://tracker.internetwarriors.net:1337/announce
-https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 udp://open.tracker.cl:1337/announce
 https://tracker.moeblog.cn:443/announce
+https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 http://tracker.pcfreetime.com:6969/announce
 http://canardscitrons.nohost.me:6969/announce
 https://tracker.expli.top:443/announce
