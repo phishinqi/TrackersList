@@ -610,6 +610,8 @@ udp://static.54.161.216.95.clients.your-server.de:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
+udp://private.anonseed.com:6969/announce
+
 https://www.peckservers.com:9443/announce
 
 https://trackers.mlsub.net:443/announce
@@ -662,8 +664,6 @@ https://tracker.tamersunion.org:443/announce
 
 udp://acxx.de:6969/announce
 
-udp://private.anonseed.com:6969/announce
-
 udp://tracker.fnix.net:6969/announce
 
 udp://open.stealth.si:80/announce
@@ -682,11 +682,11 @@ udp://107.182.30.76.16clouds.com:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
+udp://6ahddutb1ucc3cp.ru:6969/announce
+
 udp://open.dstud.io:6969/announce
 
 https://tracker.lilithraws.org:443/announce
-
-udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
@@ -728,8 +728,6 @@ udp://bt2.archive.org:6969/announce
 
 udp://opentracker.io:6969/announce
 
-udp://open.publictracker.xyz:6969/announce
-
 udp://new-line.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
@@ -737,6 +735,8 @@ udp://tracker.srv00.com:6969/announce
 http://tracker.bt4g.com:2095/announce
 
 udp://bt.ktrackers.com:6666/announce
+
+udp://open.publictracker.xyz:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
@@ -764,9 +764,9 @@ udp://wepzone.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
-udp://tracker.moeking.me:6969/announce
-
 udp://p2p.publictracker.xyz:6969/announce
+
+udp://tracker.moeking.me:6969/announce
 
 udp://black-bird.ynh.fr:6969/announce
 
@@ -774,9 +774,9 @@ udp://thinking.duckdns.org:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-udp://explodie.org:6969/announce
-
 http://t.publictracker.xyz:6969/announce
+
+udp://explodie.org:6969/announce
 
 udp://jutone.com:6969/announce
 
@@ -802,23 +802,23 @@ udp://tracker.publictracker.xyz:6969/announce
 
 https://tracker.imgoingto.icu:443/announce
 
-udp://btt.service.gongt.me:43079/announce
-
 udp://run.publictracker.xyz:6969/announce
+
+udp://btt.service.gongt.me:43079/announce
 
 http://tracker.k.vu:6969/announce
 
 udp://tracker.farted.net:6969/announce
 
-udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
-
 udp://tracker2.itzmx.com:6961/announce
 
 http://tracker.gdp.pw:900/announce
 
-http://tracker.nartlof.com.br:6969/announce
+udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 
 https://1337.abcvg.info:443/announce
+
+http://tracker.nartlof.com.br:6969/announce
 
 http://tracker.vraphim.com:6969/announce
 
@@ -880,9 +880,9 @@ https://tracker.cangku.moe:443/announce
 
 udp://vm3268418.24ssd.had.wf:6969/announce
 
-http://reisub.nsupdate.info:6969/announce
-
 http://open.acgtracker.com:1096/announce
+
+http://reisub.nsupdate.info:6969/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -898,9 +898,9 @@ http://tracker.pcfreetime.com:6969/announce
 
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 
-udp://tr2.ysagin.top:2715/announce
-
 udp://netmap.top:6969/announce
+
+udp://tr2.ysagin.top:2715/announce
 
 http://canardscitrons.nohost.me:6969/announce
 
@@ -1900,6 +1900,8 @@ udp://static.54.161.216.95.clients.your-server.de:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
+udp://private.anonseed.com:6969/announce
+
 https://www.peckservers.com:9443/announce
 
 https://trackers.mlsub.net:443/announce
@@ -1952,8 +1954,6 @@ https://tracker.tamersunion.org:443/announce
 
 udp://acxx.de:6969/announce
 
-udp://private.anonseed.com:6969/announce
-
 udp://tracker.fnix.net:6969/announce
 
 udp://open.stealth.si:80/announce
@@ -1972,11 +1972,11 @@ udp://107.182.30.76.16clouds.com:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
+udp://6ahddutb1ucc3cp.ru:6969/announce
+
 udp://open.dstud.io:6969/announce
 
 https://tracker.lilithraws.org:443/announce
-
-udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
@@ -2018,8 +2018,6 @@ udp://bt2.archive.org:6969/announce
 
 udp://opentracker.io:6969/announce
 
-udp://open.publictracker.xyz:6969/announce
-
 udp://new-line.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
@@ -2027,6 +2025,8 @@ udp://tracker.srv00.com:6969/announce
 http://tracker.bt4g.com:2095/announce
 
 udp://bt.ktrackers.com:6666/announce
+
+udp://open.publictracker.xyz:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
