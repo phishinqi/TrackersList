@@ -606,6 +606,8 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://free.publictracker.xyz:6969/announce
 
+https://tr.burnabyhighstar.com:443/announce
+
 http://tracker.mywaifu.best:6969/announce
 
 https://tracker.loligirl.cn:443/announce
@@ -666,11 +668,7 @@ http://bt.okmp3.ru:2710/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
-https://tr.burnabyhighstar.com:443/announce
-
 udp://epider.me:6969/announce
-
-udp://htz3.noho.st:6969/announce
 
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 
@@ -724,11 +722,13 @@ http://shubt.net:2710/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-udp://exodus.desync.com:6969/announce
+udp://htz3.noho.st:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
 udp://tk1v6.trackerservers.com:8080/announce
+
+udp://exodus.desync.com:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
@@ -764,21 +764,23 @@ http://v6-tracker.0g.cx:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
-
 udp://ns1.monolithindustries.com:6969/announce
+
+https://tracker.imgoingto.icu:443/announce
 
 http://incine.ru:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-https://tracker.imgoingto.icu:443/announce
+udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://wepzone.net:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-udp://www.torrent.eu.org:451/announce
+http://tracker.k.vu:6969/announce
+
+udp://tracker.farted.net:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
@@ -786,9 +788,7 @@ udp://black-bird.ynh.fr:6969/announce
 
 udp://thinking.duckdns.org:6969/announce
 
-http://tracker.k.vu:6969/announce
-
-udp://tracker.farted.net:6969/announce
+udp://www.torrent.eu.org:451/announce
 
 udp://explodie.org:6969/announce
 
@@ -804,9 +804,9 @@ https://t1.hloli.org:443/announce
 
 udp://v2.iperson.xyz:6969/announce
 
-udp://tracker.cubonegro.lol:6969/announce
-
 udp://tracker.breizh.pm:6969/announce
+
+udp://tracker.cubonegro.lol:6969/announce
 
 udp://open.u-p.pw:6969/announce
 
@@ -814,11 +814,11 @@ udp://tracker4.itzmx.com:2710/announce
 
 udp://open.publictracker.xyz:6969/announce
 
+http://smurfsoft.com:6969/announce
+
 http://ch3oh.ru:6969/announce
 
 udp://tracker.publictracker.xyz:6969/announce
-
-http://smurfsoft.com:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
 
@@ -888,11 +888,11 @@ udp://tracker.ocnix.net:6969/announce
 
 https://tracker.cangku.moe:443/announce
 
-udp://freedomalternative.com:6969/announce
-
 http://open.acgtracker.com:1096/announce
 
 https://tracker.kuroy.me:443/announce
+
+udp://freedomalternative.com:6969/announce
 
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 
@@ -902,15 +902,15 @@ https://tracker.h3o2.me:443/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
-udp://vm3268418.24ssd.had.wf:6969/announce
-
 http://bt.endpot.com:80/announce
 
-https://tracker.moeblog.cn:443/announce
+udp://vm3268418.24ssd.had.wf:6969/announce
+
+udp://fe.dealclub.de:6969/announce
 
 http://rfc5746.mywaifu.best:6969/announce
 
-udp://fe.dealclub.de:6969/announce
+https://tracker.moeblog.cn:443/announce
 
 udp://tr2.ysagin.top:2715/announce
 
@@ -1900,6 +1900,8 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://free.publictracker.xyz:6969/announce
 
+https://tr.burnabyhighstar.com:443/announce
+
 http://tracker.mywaifu.best:6969/announce
 
 https://tracker.loligirl.cn:443/announce
@@ -1960,11 +1962,7 @@ http://bt.okmp3.ru:2710/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
-https://tr.burnabyhighstar.com:443/announce
-
 udp://epider.me:6969/announce
-
-udp://htz3.noho.st:6969/announce
 
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 
@@ -2018,11 +2016,13 @@ http://shubt.net:2710/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-udp://exodus.desync.com:6969/announce
+udp://htz3.noho.st:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
 udp://tk1v6.trackerservers.com:8080/announce
+
+udp://exodus.desync.com:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
@@ -2058,13 +2058,15 @@ http://v6-tracker.0g.cx:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
-
 udp://ns1.monolithindustries.com:6969/announce
+
+https://tracker.imgoingto.icu:443/announce
 
 http://incine.ru:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
+
+udp://6ahddutb1ucc3cp.ru:6969/announce
 
 http://tracker.gbitt.info/announce
 https://tracker.lilithraws.cf/announce
