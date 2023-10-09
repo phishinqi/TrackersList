@@ -183,14 +183,11 @@ udp://z.paranoid.agency:6969/announce
 ws://hub.bugout.link:80/announce
 wss://tracker.openwebtorrent.com:443/announceudp://tracker.opentrackr.org:1337/announce
 udp://opentracker.i2p.rocks:6969/announce
-http://bt.endpot.com:80/announce
 udp://explodie.org:6969/announce
-udp://open.free-tracker.ga:6969/announce
+udp://tracker.dump.cl:6969/announce
 http://tracker2.dler.org:80/announce
 udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.leech.ie:1337/announce
-udp://tracker.auctor.tv:6969/announce
-udp://thinking.duckdns.org:6969/announce
 udp://carr.codes:6969/announce
 http://tracker.skyts.net:6969/announce
 http://tracker1.itzmx.com:8080/announce
@@ -199,9 +196,10 @@ http://p2p.0g.cx:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 udp://www.torrent.eu.org:451/announce
 udp://black-bird.ynh.fr:6969/announce
+udp://thinking.duckdns.org:6969/announce
+http://tracker.k.vu:6969/announce
 udp://tracker.6.babico.name.tr:6969/announce
 http://t.publictracker.xyz:6969/announce
-http://tracker.k.vu:6969/announce
 udp://jutone.com:6969/announce
 udp://tracker.breizh.pm:6969/announce
 udp://open.publictracker.xyz:6969/announce
@@ -230,10 +228,11 @@ https://tracker.cangku.moe:443/announce
 udp://freedomalternative.com:6969/announce
 http://open.acgtracker.com:1096/announce
 http://reisub.nsupdate.info:6969/announce
+https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 udp://vm3268418.24ssd.had.wf:6969/announce
 https://tracker.h3o2.me:443/announce
 http://tracker.pcfreetime.com:6969/announce
-https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
+http://bt.endpot.com:80/announce
 https://tracker.moeblog.cn:443/announce
 http://rfc5746.mywaifu.best:6969/announce
 udp://tr2.ysagin.top:2715/announce
@@ -623,6 +622,7 @@ http://fxtt.ru/announce
 https://tr.bangumi.moe:9696/announce
 http://93.158.213.92:1337/announce
 http://www.zone-torrent.net:80/announce.php
+udp://tracker.auctor.tv:6969/announce
 http://tracker.dler.com:6969/announce
 http://data-bg.net:80/announce.php
 http://open.acgnxtracker.com/announce
@@ -699,6 +699,7 @@ http://t.overflow.biz:6969/announce
 http://tracker.dmcomic.org:2710/announce
 http://tracker.tfile.me:80/announce
 udp://tracker.trackerfix.com:82/announce
+udp://open.free-tracker.ga:6969/announce
 http://retracker.ohys.net:80/announce
 http://www.tvnihon.com:6969/announce
 udp://shizzle.hammetjus.nl:6969/announce
