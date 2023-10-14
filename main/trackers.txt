@@ -714,13 +714,13 @@ udp://z.paranoid.agency:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
-udp://tamas3.ynh.fr:6969/announce
+udp://exodus.desync.com:6969/announce
 
-http://p2p.0g.cx:6969/announce
+udp://tamas3.ynh.fr:6969/announce
 
 https://www.peckservers.com:9443/announce
 
-udp://exodus.desync.com:6969/announce
+http://p2p.0g.cx:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -744,8 +744,6 @@ udp://bt1.archive.org:6969/announce
 
 https://tracker.imgoingto.icu:443/announce
 
-udp://city21.pk:6969/announce
-
 http://tracker.mywaifu.best:6969/announce
 
 udp://new-line.net:6969/announce
@@ -753,6 +751,8 @@ udp://new-line.net:6969/announce
 udp://carr.codes:6969/announce
 
 udp://bt2.archive.org:6969/announce
+
+udp://city21.pk:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
@@ -774,19 +774,19 @@ udp://tracker1.myporn.club:9337/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-http://tracker.k.vu:6969/announce
+https://t1.hloli.org:443/announce
 
 http://incine.ru:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-https://t1.hloli.org:443/announce
-
-udp://tracker.farted.net:6969/announce
+http://tracker.k.vu:6969/announce
 
 udp://thinking.duckdns.org:6969/announce
 
 udp://black-bird.ynh.fr:6969/announce
+
+udp://tracker.farted.net:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
@@ -826,13 +826,13 @@ udp://tracker2.itzmx.com:6961/announce
 
 udp://tracker.filemail.com:6969/announce
 
-udp://htz3.noho.st:6969/announce
-
 udp://ryjer.com:6969/announce
 
 http://tracker.nartlof.com.br:6969/announce
 
 https://1337.abcvg.info:443/announce
+
+udp://htz3.noho.st:6969/announce
 
 http://tracker.vraphim.com:6969/announce
 
@@ -844,15 +844,15 @@ udp://tracker.openbittorrent.com:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
 
+udp://seedbay.net:2710/announce
+
 udp://open.publictracker.xyz:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
-udp://seedbay.net:2710/announce
+udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.leech.ie:1337/announce
-
-udp://tracker.torrent.eu.org:451/announce
 
 http://montreal.nyap2p.com:8080/announce
 
@@ -860,9 +860,9 @@ udp://run-2.publictracker.xyz:6969/announce
 
 http://openbittorrent.com:80/announce
 
-http://www.chouchou.club:8080/announce
-
 udp://tracker.edkj.club:6969/announce
+
+http://www.chouchou.club:8080/announce
 
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 
@@ -918,11 +918,11 @@ http://tracker.yuelili.com:80/announce
 
 https://tracker.fr.eu.org:443/announce
 
-http://tk.trojangogogo.site:8989/announce
-
 https://tracker.moeblog.cn:443/announce
 
 https://tr.ready4.icu:443/announce
+
+http://tk.trojangogogo.site:8989/announce
 
 udp://tr2.ysagin.top:2715/announce
 
@@ -2010,13 +2010,13 @@ udp://z.paranoid.agency:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
-udp://tamas3.ynh.fr:6969/announce
+udp://exodus.desync.com:6969/announce
 
-http://p2p.0g.cx:6969/announce
+udp://tamas3.ynh.fr:6969/announce
 
 https://www.peckservers.com:9443/announce
 
-udp://exodus.desync.com:6969/announce
+http://p2p.0g.cx:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -2040,8 +2040,6 @@ udp://bt1.archive.org:6969/announce
 
 https://tracker.imgoingto.icu:443/announce
 
-udp://city21.pk:6969/announce
-
 http://tracker.mywaifu.best:6969/announce
 
 udp://new-line.net:6969/announce
@@ -2049,6 +2047,8 @@ udp://new-line.net:6969/announce
 udp://carr.codes:6969/announce
 
 udp://bt2.archive.org:6969/announce
+
+udp://city21.pk:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
@@ -2069,6 +2069,8 @@ udp://ns1.monolithindustries.com:6969/announce
 udp://tracker1.myporn.club:9337/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
+
+https://t1.hloli.org:443/announce
 
 http://tracker.gbitt.info/announce
 https://tracker.lilithraws.cf/announce
