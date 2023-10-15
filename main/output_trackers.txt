@@ -201,8 +201,8 @@ http://t.publictracker.xyz:6969/announce
 http://ch3oh.ru:6969/announce
 udp://tracker.6.babico.name.tr:6969/announce
 udp://tracker.breizh.pm:6969/announce
-http://tracker.k.vu:6969/announce
 udp://jutone.com:6969/announce
+http://tracker.k.vu:6969/announce
 udp://tracker.farted.net:6969/announce
 http://tracker.gdp.pw:900/announce
 udp://btt.service.gongt.me:43079/announce
@@ -210,8 +210,8 @@ http://tracker.nartlof.com.br:6969/announce
 http://tracker.vraphim.com:6969/announce
 udp://htz3.noho.st:6969/announce
 http://cn.pcfreetime.com:6969/announce
-udp://open.publictracker.xyz:6969/announce
 http://montreal.nyap2p.com:8080/announce
+udp://open.publictracker.xyz:6969/announce
 udp://tracker.leech.ie:1337/announce
 udp://tracker.edkj.club:6969/announce
 http://openbittorrent.com:80/announce
@@ -222,12 +222,12 @@ udp://tracker.netmap.top:6969/announce
 http://uraniumhexafluori.de:1919/announce
 udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 udp://tracker.btsync.gq:233/announce
-udp://tracker.ocnix.net:6969/announce
 https://tracker.cangku.moe:443/announce
-http://open.acgtracker.com:1096/announce
+udp://tracker.ocnix.net:6969/announce
 http://tracker.pcfreetime.com:6969/announce
-udp://ts.populargamers.co.za:6969/announce
+http://open.acgtracker.com:1096/announce
 udp://sabross.xyz:6969/announce
+udp://ts.populargamers.co.za:6969/announce
 https://tracker.h3o2.me:443/announce
 udp://freedomalternative.com:6969/announce
 http://canardscitrons.nohost.me:6969/announce
@@ -235,9 +235,9 @@ udp://tracker.zerobytes.xyz:1337/announce
 udp://netmap.top:6969/announce
 udp://open.tracker.cl:1337/announce
 http://tracker.yuelili.com:80/announce
+udp://tr2.ysagin.top:2715/announce
 https://tracker.moeblog.cn:443/announce
 https://tracker.fr.eu.org:443/announce
-udp://tr2.ysagin.top:2715/announce
 http://tk.trojangogogo.site:8989/announce
 http://0205.uptm.ch:6969/announce
 udp://tracker.teambelgium.net:6969/announce
