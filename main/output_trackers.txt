@@ -188,15 +188,13 @@ ws://hub.bugout.link:80/announce
 wss://tracker.openwebtorrent.com:443/announceudp://tracker.opentrackr.org:1337/announce
 udp://opentracker.i2p.rocks:6969/announce
 http://tracker.openbittorrent.com:80/announce
-https://tracker.renfei.net:443/announce
 udp://explodie.org:6969/announce
 udp://isk.richardsw.club:6969/announce
 http://tracker2.dler.org:80/announce
-http://open.tracker.ink:6969/announce
-udp://open.free-tracker.ga:6969/announce
-udp://carr.codes:6969/announce
 http://tracker.ipv6tracker.org:80/announce
 udp://tracker.publictracker.xyz:6969/announce
+udp://carr.codes:6969/announce
+http://open.tracker.ink:6969/announce
 http://x.paranoid.agency:6969/announce
 http://tracker1.itzmx.com:8080/announce
 http://p2p.0g.cx:6969/announce
@@ -220,8 +218,8 @@ udp://open.publictracker.xyz:6969/announce
 udp://tracker.leech.ie:1337/announce
 udp://tracker.edkj.club:6969/announce
 http://openbittorrent.com:80/announce
-https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 udp://llideong.cn:6969/announce
+https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 http://www.chouchou.club:8080/announce
 udp://tracker.netmap.top:6969/announce
 http://uraniumhexafluori.de:1919/announce
@@ -230,8 +228,8 @@ udp://tracker.btsync.gq:233/announce
 https://tracker.cangku.moe:443/announce
 http://tracker.pcfreetime.com:6969/announce
 udp://tracker.ocnix.net:6969/announce
-http://open.acgtracker.com:1096/announce
 udp://sabross.xyz:6969/announce
+http://open.acgtracker.com:1096/announce
 https://tracker.h3o2.me:443/announce
 udp://freedomalternative.com:6969/announce
 http://canardscitrons.nohost.me:6969/announce
@@ -694,6 +692,7 @@ http://t.overflow.biz:6969/announce
 http://tracker.dmcomic.org:2710/announce
 http://tracker.tfile.me:80/announce
 udp://tracker.trackerfix.com:82/announce
+udp://open.free-tracker.ga:6969/announce
 http://retracker.ohys.net:80/announce
 http://www.tvnihon.com:6969/announce
 udp://shizzle.hammetjus.nl:6969/announce
@@ -1185,6 +1184,7 @@ http://rotracker.ohys.net:80/announce
 http://ehtracker.org/1/announce
 http://171.104.111.14:6969/announce
 http://83.31.209.3:6969/announce
+https://tracker.renfei.net:443/announce
 http://104.244.77.14:1337/announce
 http://thetracker.org/announce
 http://83.31.199.157:6969/announce
