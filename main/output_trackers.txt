@@ -180,14 +180,10 @@ http://tracker.openbittorrent.com:80/announce
 udp://explodie.org:6969/announce
 http://tracker1.bt.moack.co.kr:80/announce
 udp://tracker.publictracker.xyz:6969/announce
-udp://tracker.bittor.pw:1337/announce
 udp://thinking.duckdns.org:6969/announce
-udp://isk.richardsw.club:6969/announce
-udp://freedomalternative.com:6969/announce
 udp://carr.codes:6969/announce
-http://ch3oh.ru:6969/announce
-udp://tracker.auctor.tv:6969/announce
 http://tracker1.itzmx.com:8080/announce
+http://ch3oh.ru:6969/announce
 http://p2p.0g.cx:6969/announce
 http://tracker.h0me.cc:8880/announce
 http://tracker.nartlof.com.br:6969/announce
@@ -216,8 +212,8 @@ udp://tr2.ysagin.top:2715/announce
 http://montreal.nyap2p.com:8080/announce
 https://tracker1.ctix.cn:443/announce
 http://smurfsoft.com:6969/announce
-http://tracker.k.vu:6969/announce
 http://www.chouchou.club:8080/announce
+http://tracker.k.vu:6969/announce
 udp://tracker.btsync.gq:233/announce
 udp://tracker.netmap.top:6969/announce
 http://tracker.skyts.net:6969/announce
@@ -227,8 +223,9 @@ http://tracker.pcfreetime.com:6969/announce
 udp://tracker.leech.ie:1337/announce
 udp://htz3.noho.st:6969/announce
 udp://city21.pk:6969/announce
-http://uraniumhexafluori.de:1919/announce
+udp://freedomalternative.com:6969/announce
 udp://mikrotik2.draatman.net:6969/announce
+http://uraniumhexafluori.de:1919/announce
 udp://y.t-1.org:6969/announce
 udp://x.hz.is:6969/announce
 https://tracker.moeblog.cn:443/announce
@@ -236,10 +233,9 @@ http://canardscitrons.nohost.me:6969/announce
 udp://tracker.ocnix.net:6969/announce
 http://bt.endpot.com:80/announce
 udp://tracker.zerobytes.xyz:1337/announce
-udp://touhou.kawaiiarts.com:6969/announce
 udp://tracker.iperson.xyz:6969/announce
+udp://touhou.kawaiiarts.com:6969/announce
 http://region.nl1.privex.cc:6969/announce
-udp://open.publictracker.xyz:6969/announce
 https://tracker.fr.eu.org:443/announce
 http://0205.uptm.ch:6969/announce
 udp://hz.is:3000/announce
@@ -276,6 +272,7 @@ udp://app.icon256.com:8000/announce
 http://rt.optizone.ru:80/announce
 http://tracker.loadbt.com:6969/announce
 https://tracker.iriseden.fr:443/announce
+udp://open.publictracker.xyz:6969/announce
 udp://tracker.lelux.fi:6969/announce
 udp://tracker.cortexlabs.ai:5008/announce
 https://danielcloud.ddns.net:443/announce
@@ -611,6 +608,7 @@ http://fxtt.ru/announce
 https://tr.bangumi.moe:9696/announce
 http://93.158.213.92:1337/announce
 http://www.zone-torrent.net:80/announce.php
+udp://tracker.auctor.tv:6969/announce
 udp://theodoric.fr:6969/announce
 http://data-bg.net:80/announce.php
 http://open.acgnxtracker.com/announce
@@ -1143,6 +1141,7 @@ udp://23.137.251.45:6969/announce
 udp://89.36.216.8:6969/announce
 http://opentracker.io:80/announce
 udp://185.181.60.155:80/announce
+udp://tracker.bittor.pw:1337/announce
 udp://tracker.cubonegro.xyz:6969/announce
 udp://156.234.201.18:80/announce
 udp://185.44.82.25:1337/announce
