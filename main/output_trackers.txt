@@ -201,8 +201,8 @@ http://t.publictracker.xyz:6969/announce
 udp://private.anonseed.com:6969/announce
 udp://btt.service.gongt.me:43079/announce
 http://tracker.nartlof.com.br:6969/announce
-http://tracker.gdp.pw:900/announce
 http://tracker.vraphim.com:6969/announce
+http://tracker.gdp.pw:900/announce
 https://bt.080609.xyz:443/announce
 http://bt.xcty.eu.org:2095/announce
 http://cn.pcfreetime.com:6969/announce
@@ -222,8 +222,8 @@ udp://lloria.fr:6969/announce
 http://smurfsoft.com:6969/announce
 http://www.chouchou.club:8080/announce
 http://tracker.skyts.net:6969/announce
-http://tracker.k.vu:6969/announce
 https://tracker.cangku.moe:443/announce
+http://tracker.k.vu:6969/announce
 http://tracker.pcfreetime.com:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
 udp://mikrotik2.draatman.net:6969/announce
@@ -232,15 +232,14 @@ udp://freedomalternative.com:6969/announce
 http://canardscitrons.nohost.me:6969/announce
 udp://y.t-1.org:6969/announce
 udp://x.hz.is:6969/announce
-udp://tracker.leech.ie:1337/announce
 http://bt.endpot.com:80/announce
+udp://tracker.leech.ie:1337/announce
 https://tracker.moeblog.cn:443/announce
-http://uraniumhexafluori.de:1919/announce
 udp://tracker.zerobytes.xyz:1337/announce
-udp://tracker.ocnix.net:6969/announce
+http://uraniumhexafluori.de:1919/announce
 udp://touhou.kawaiiarts.com:6969/announce
+udp://tracker.ocnix.net:6969/announce
 http://0205.uptm.ch:6969/announce
-udp://htz3.noho.st:6969/announce
 https://tracker.fr.eu.org:443/announce
 http://tk.trojangogogo.site:8989/announce
 udp://tracker.teambelgium.net:6969/announce
@@ -349,6 +348,7 @@ udp://ransan.tk:6969/announce
 udp://yahor.ftp.sh:6969/announce
 udp://yann5.hexanyn.fr:6969/announce
 udp://creative.7o7.cx:6969/announce
+udp://htz3.noho.st:6969/announce
 udp://dylan-park.com:6969/announce
 udp://mserver.link:6969/announce
 udp://srv5.digiboy.ir:6969/announce
