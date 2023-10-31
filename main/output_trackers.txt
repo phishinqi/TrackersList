@@ -196,8 +196,8 @@ http://p2p.0g.cx:6969/announce
 udp://jutone.com:6969/announce
 udp://tracker.breizh.pm:6969/announce
 udp://pirate.hz.is:1337/announce
-http://ipv4announce.sktorrent.eu:6969/announce
 udp://www.torrent.eu.org:451/announce
+http://ipv4announce.sktorrent.eu:6969/announce
 http://tracker.h0me.cc:8880/announce
 http://openwrt.lingyurouqing.xyz:6969/announce
 udp://llideong.cn:6969/announce
@@ -223,8 +223,8 @@ udp://tracker.netmap.top:6969/announce
 udp://mail.segso.net:6969/announce
 udp://tracker.btsync.gq:233/announce
 udp://lloria.fr:6969/announce
-http://www.chouchou.club:8080/announce
 http://smurfsoft.com:6969/announce
+http://www.chouchou.club:8080/announce
 http://tracker.skyts.net:6969/announce
 http://tracker.k.vu:6969/announce
 http://tracker.pcfreetime.com:6969/announce
