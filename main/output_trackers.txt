@@ -199,8 +199,8 @@ http://openwrt.lingyurouqing.xyz:6969/announce
 udp://llideong.cn:6969/announce
 http://t.publictracker.xyz:6969/announce
 http://tracker.h0me.cc:8880/announce
-udp://private.anonseed.com:6969/announce
 udp://btt.service.gongt.me:43079/announce
+udp://private.anonseed.com:6969/announce
 http://tracker.nartlof.com.br:6969/announce
 http://tracker.gdp.pw:900/announce
 http://tracker.vraphim.com:6969/announce
@@ -219,8 +219,8 @@ udp://tracker.netmap.top:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://tracker.btsync.gq:233/announce
 https://tracker.cangku.moe:443/announce
-udp://mail.segso.net:6969/announce
 http://smurfsoft.com:6969/announce
+udp://mail.segso.net:6969/announce
 http://www.chouchou.club:8080/announce
 udp://lloria.fr:6969/announce
 http://tracker.skyts.net:6969/announce
@@ -239,8 +239,8 @@ udp://tracker.zerobytes.xyz:1337/announce
 udp://touhou.kawaiiarts.com:6969/announce
 udp://tracker.ocnix.net:6969/announce
 http://uraniumhexafluori.de:1919/announce
-http://0205.uptm.ch:6969/announce
 https://tracker.fr.eu.org:443/announce
+http://0205.uptm.ch:6969/announce
 http://tk.trojangogogo.site:8989/announce
 udp://tracker.teambelgium.net:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
