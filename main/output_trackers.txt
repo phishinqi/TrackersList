@@ -195,8 +195,8 @@ http://tracker1.itzmx.com:8080/announce
 http://tracker.netmap.top:6969/announce
 https://tracker1.ctix.cn:443/announce
 http://openwrt.lingyurouqing.xyz:6969/announce
-udp://tracker.breizh.pm:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
+udp://tracker.breizh.pm:6969/announce
 udp://www.torrent.eu.org:451/announce
 http://ch3oh.ru:6969/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
@@ -209,16 +209,16 @@ udp://wepzone.net:6969/announce
 http://tracker.vraphim.com:6969/announce
 http://tracker.nartlof.com.br:6969/announce
 udp://tracker.iperson.xyz:6969/announce
-udp://p2p.publictracker.xyz:6969/announce
 udp://isk.richardsw.club:6969/announce
+udp://p2p.publictracker.xyz:6969/announce
 udp://public.publictracker.xyz:6969/announce
 http://smurfsoft.com:6969/announce
-http://open.acgtracker.com:1096/announce
 http://tracker.k.vu:6969/announce
+http://open.acgtracker.com:1096/announce
 http://openbittorrent.com:80/announce
 http://cn.pcfreetime.com:6969/announce
-https://tracker.cangku.moe:443/announce
 http://tracker.h0me.cc:8880/announce
+https://tracker.cangku.moe:443/announce
 udp://tracker.netmap.top:6969/announce
 http://tracker.pcfreetime.com:6969/announce
 https://bt.080609.xyz:443/announce
@@ -240,6 +240,7 @@ udp://touhou.kawaiiarts.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 http://0205.uptm.ch:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
+http://home.kray.pw:6969/announce
 udp://retracker.lanta-net.ru:2710/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
 udp://ipv6.tracker.harry.lu:80/announce
@@ -500,7 +501,6 @@ udp://npge.nprotect.com:6969/announce
 udp://open.8a.is:6969/announce
 udp://laszlo130.go.ro:6969/announce
 udp://dyndns.xionxiii.ovh:6969/announce
-http://home.kray.pw:6969/announce
 udp://globalwave.no-ip.org:6969/announce
 http://rfc5746.mywaifu.best:6969/announce
 udp://escalaenbernal.com:3074/announce
