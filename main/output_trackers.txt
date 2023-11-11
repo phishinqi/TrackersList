@@ -198,8 +198,8 @@ http://openwrt.lingyurouqing.xyz:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 udp://tracker.breizh.pm:6969/announce
 udp://www.torrent.eu.org:451/announce
-http://ch3oh.ru:6969/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+http://ch3oh.ru:6969/announce
 udp://btt.service.gongt.me:43079/announce
 udp://tk1v6.trackerservers.com:8080/announce
 http://open.va.wiki:900/announce
@@ -218,8 +218,8 @@ http://open.acgtracker.com:1096/announce
 http://openbittorrent.com:80/announce
 http://cn.pcfreetime.com:6969/announce
 http://tracker.h0me.cc:8880/announce
-https://tracker.cangku.moe:443/announce
 udp://tracker.netmap.top:6969/announce
+https://tracker.cangku.moe:443/announce
 http://tracker.pcfreetime.com:6969/announce
 https://bt.080609.xyz:443/announce
 http://bt.xcty.eu.org:2095/announce
