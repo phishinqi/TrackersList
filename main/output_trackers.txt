@@ -192,8 +192,8 @@ http://tracker.skyts.net:6969/announce
 http://tracker.qu.ax:6969/announce
 http://tracker1.itzmx.com:8080/announce
 http://tracker.netmap.top:6969/announce
-http://t.publictracker.xyz:6969/announce
 https://tracker1.ctix.cn:443/announce
+http://t.publictracker.xyz:6969/announce
 http://openwrt.lingyurouqing.xyz:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 udp://tracker.breizh.pm:6969/announce
@@ -224,11 +224,11 @@ udp://tracker.btsync.gq:233/announce
 https://bt.080609.xyz:443/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 http://bt.xcty.eu.org:2095/announce
-udp://private.anonseed.com:6969/announce
 http://montreal.nyap2p.com:8080/announce
+udp://private.anonseed.com:6969/announce
 udp://ts.populargamers.co.za:6969/announce
-https://tracker.cangku.moe:443/announce
 udp://tracker.teambelgium.net:6969/announce
+https://tracker.cangku.moe:443/announce
 http://www.chouchou.club:8080/announce
 udp://mikrotik2.draatman.net:6969/announce
 http://canardscitrons.nohost.me:6969/announce
