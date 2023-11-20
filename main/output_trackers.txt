@@ -204,8 +204,8 @@ http://ipv4announce.sktorrent.eu:6969/announce
 udp://www.torrent.eu.org:451/announce
 udp://tracker.breizh.pm:6969/announce
 udp://btt.service.gongt.me:43079/announce
-http://open.va.wiki:900/announce
 http://tracker.nartlof.com.br:6969/announce
+http://open.va.wiki:900/announce
 udp://bigfoot1942.sektori.org:6969/announce
 udp://jutone.com:6969/announce
 udp://tk1v6.trackerservers.com:8080/announce
@@ -213,8 +213,8 @@ http://tracker.vraphim.com:6969/announce
 udp://yahor.of.by:6969/announce
 udp://tracker.netmap.top:6969/announce
 http://cn.pcfreetime.com:6969/announce
-udp://llideong.cn:6969/announce
 udp://tracker.teambelgium.net:6969/announce
+udp://llideong.cn:6969/announce
 http://openbittorrent.com:80/announce
 https://tracker.cangku.moe:443/announce
 udp://pirate.hz.is:1337/announce
@@ -231,9 +231,8 @@ http://canardscitrons.nohost.me:6969/announce
 http://www.chouchou.club:8080/announce
 udp://mikrotik2.draatman.net:6969/announce
 https://tracker.moeblog.cn:443/announce
-udp://touhou.kawaiiarts.com:6969/announce
 udp://ftp.pet:2710/announce
-http://tracker.h0me.cc:8880/announce
+udp://touhou.kawaiiarts.com:6969/announce
 http://0205.uptm.ch:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://home.kray.pw:6969/announce
@@ -406,6 +405,7 @@ udp://leefafa.tk:6969/announce
 udp://rekcart.duckdns.org:15480/announce
 udp://www.zhaohu.love:6969/announce
 udp://buddyfly.top:6969/announce
+http://tracker.h0me.cc:8880/announce
 udp://h85-235-17-132.cust.a3fiber.se:6969/announce
 http://parag.rs:6969/announce
 udp://elementsbrowser.com:6969/announce
