@@ -224,14 +224,14 @@ udp://ftp.pet:2710/announce
 http://montreal.nyap2p.com:8080/announce
 udp://ts.populargamers.co.za:6969/announce
 http://tracker.pcfreetime.com:6969/announce
-http://open.acgtracker.com:1096/announce
 udp://freedomalternative.com:6969/announce
-udp://pirate.hz.is:1337/announce
+http://open.acgtracker.com:1096/announce
 http://bt.xcty.eu.org:2095/announce
 http://canardscitrons.nohost.me:6969/announce
+udp://pirate.hz.is:1337/announce
 udp://p2p.publictracker.xyz:6969/announce
-udp://public.publictracker.xyz:6969/announce
 udp://mikrotik2.draatman.net:6969/announce
+udp://public.publictracker.xyz:6969/announce
 https://tracker.moeblog.cn:443/announce
 http://www.chouchou.club:8080/announce
 udp://touhou.kawaiiarts.com:6969/announce
@@ -522,7 +522,7 @@ udp://x.hz.is:6969/announce
 udp://y.t-1.org:6969/announce
 udp://hz.is:3000/announce
 https://bt.080609.xyz:443/announce
-wss://tracker.openwebtorrent.com:443/announceudp://open.stealth.si:80/announce
+wss://tracker.openwebtorrent.com:443/announceudp://p4p.arenabg.com:1337/announce
 http://tracker.gbitt.info/announce
 https://tracker.lilithraws.cf/announce
 https://tracker1.520.jp/announce
