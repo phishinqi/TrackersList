@@ -12,8 +12,10 @@ http://bt.okmp3.ru:2710/announce
 http://bvarf.tracker.sh:2086/announce
 http://ch3oh.ru:6969/announce
 http://incine.ru:6969/announce
+http://movies.zsw.ca:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.acgnxtracker.com:80/announce
+http://open.acgtracker.com:1096/announce
 http://retracker.hotplug.ru:2710/announce
 http://share.camoe.cn:8080/announce
 http://smurfsoft.com:6969/announce
@@ -22,6 +24,7 @@ http://t.nyaatracker.com:80/announce
 http://torrentsmd.com:8080/announce
 http://tracker.birkenwald.de:6969/announce
 http://tracker.bt4g.com:2095/announce
+http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
 http://tracker.edkj.club:6969/announce
 http://tracker.electro-torrent.pl:80/announce
@@ -37,6 +40,7 @@ http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.rev.pm:6969/announce
 http://tracker1.bt.moack.co.kr:80/announce
+http://tracker2.dler.org:80/announce
 http://tracker2.itzmx.com:6961/announce
 http://tracker3.itzmx.com:6961/announce
 http://tracker4.itzmx.com:2710/announce
@@ -49,7 +53,6 @@ http://www.wareztorrent.com:80/announce
 https://1337.abcvg.info:443/announce
 https://t1.hloli.org:443/announce
 https://tr.burnabyhighstar.com:443/announce
-https://tr.ready4.icu:443/announce
 https://tracker.cloudit.top:443/announce
 https://tracker.gbitt.info:443/announce
 https://tracker.imgoingto.icu:443/announce
@@ -99,6 +102,7 @@ udp://fh2.cmp-gaming.com:6969/announce
 udp://free.publictracker.xyz:6969/announce
 udp://hz.is:1337/announce
 udp://ipv6.fuuuuuck.com:6969/announce
+udp://isk.richardsw.club:6969/announce
 udp://mail.artixlinux.org:6969/announce
 udp://moonburrow.club:6969/announce
 udp://movies.zsw.ca:6969/announce
@@ -109,7 +113,6 @@ udp://oh.fuuuuuck.com:6969/announce
 udp://open.demonii.com:1337/announce
 udp://open.dstud.io:6969/announce
 udp://open.stealth.si:80/announce
-udp://open.tracker.cl:1337/announce
 udp://open.tracker.ink:6969/announce
 udp://open.u-p.pw:6969/announce
 udp://opentor.org:2710/announce
@@ -138,6 +141,7 @@ udp://tracker.6.babico.name.tr:6969/announce
 udp://tracker.anima.nz:6969/announce
 udp://tracker.artixlinux.org:6969/announce
 udp://tracker.birkenwald.de:6969/announce
+udp://tracker.bittor.pw:1337/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cubonegro.lol:6969/announce
 udp://tracker.cyberia.is:6969/announce
@@ -170,6 +174,7 @@ udp://tracker2.dler.org:80/announce
 udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
+udp://ts.populargamers.co.za:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://u4.trakx.crim.ist:1337/announce
 udp://u6.trakx.crim.ist:1337/announce
@@ -182,13 +187,14 @@ udp://y.paranoid.agency:6969/announce
 wss://tracker.openwebtorrent.com:443/announceudp://tracker.opentrackr.org:1337/announce
 https://tracker2.ctix.cn:443/announce
 udp://opentracker.i2p.rocks:6969/announce
+udp://open.tracker.cl:1337/announce
 http://tracker.openbittorrent.com:80/announce
 udp://explodie.org:6969/announce
 udp://tracker.publictracker.xyz:6969/announce
 udp://thinking.duckdns.org:6969/announce
 udp://open.free-tracker.ga:6969/announce
 udp://carr.codes:6969/announce
-http://tracker2.dler.org:80/announce
+https://tr.ready4.icu:443/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 http://tracker1.itzmx.com:8080/announce
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
@@ -197,18 +203,17 @@ http://p2p.0g.cx:6969/announce
 udp://tracker.therarbg.to:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 http://openwrt.lingyurouqing.xyz:6969/announce
-udp://107.182.30.76.16clouds.com:6969/announce
 udp://www.torrent.eu.org:451/announce
+udp://107.182.30.76.16clouds.com:6969/announce
 udp://tracker.breizh.pm:6969/announce
 http://open.va.wiki:900/announce
 udp://btt.service.gongt.me:43079/announce
-http://t.publictracker.xyz:6969/announce
 https://tracker.cangku.moe:443/announce
+http://t.publictracker.xyz:6969/announce
 udp://jutone.com:6969/announce
 http://tracker.vraphim.com:6969/announce
 udp://tk1v6.trackerservers.com:8080/announce
 udp://mail.segso.net:6969/announce
-udp://isk.richardsw.club:6969/announce
 udp://bigfoot1942.sektori.org:6969/announce
 udp://tracker.netmap.top:6969/announce
 udp://yahor.of.by:6969/announce
@@ -220,17 +225,15 @@ udp://tracker.btsync.gq:233/announce
 http://cn.pcfreetime.com:6969/announce
 udp://tracker.trafficmgr.net:6969/announce
 udp://ftp.pet:2710/announce
-udp://ts.populargamers.co.za:6969/announce
 http://montreal.nyap2p.com:8080/announce
 http://tracker.pcfreetime.com:6969/announce
 http://bt.xcty.eu.org:2095/announce
 udp://freedomalternative.com:6969/announce
 http://canardscitrons.nohost.me:6969/announce
-http://open.acgtracker.com:1096/announce
 udp://mikrotik2.draatman.net:6969/announce
 https://tracker.moeblog.cn:443/announce
-udp://pirate.hz.is:1337/announce
 udp://p2p.publictracker.xyz:6969/announce
+udp://pirate.hz.is:1337/announce
 udp://public.publictracker.xyz:6969/announce
 http://www.chouchou.club:8080/announce
 udp://touhou.kawaiiarts.com:6969/announce
@@ -621,7 +624,6 @@ https://tr.bangumi.moe:9696/announce
 http://93.158.213.92:1337/announce
 http://www.zone-torrent.net:80/announce.php
 udp://tracker.auctor.tv:6969/announce
-http://tracker.dler.com:6969/announce
 udp://theodoric.fr:6969/announce
 http://data-bg.net:80/announce.php
 http://open.acgnxtracker.com/announce
@@ -809,7 +811,6 @@ http://torrents.linuxmint.com/announce.php
 http://announce.partis.si/announce
 http://proaudiotorrents.org/announce.php
 https://torrent.ubuntu.com/announce
-http://movies.zsw.ca:6969/announce
 http://torrent.ubuntu.com:6969/announce
 http://mvgforumtracker.mvgroup.org/tracker.php/announce
 http://blackz.ro/announce.php
@@ -1153,7 +1154,6 @@ udp://23.137.251.45:6969/announce
 udp://89.36.216.8:6969/announce
 http://opentracker.io:80/announce
 udp://185.181.60.155:80/announce
-udp://tracker.bittor.pw:1337/announce
 udp://tracker.cubonegro.xyz:6969/announce
 udp://156.234.201.18:80/announce
 udp://185.44.82.25:1337/announce
