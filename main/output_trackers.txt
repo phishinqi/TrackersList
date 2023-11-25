@@ -199,14 +199,15 @@ udp://www.torrent.eu.org:451/announce
 http://openwrt.lingyurouqing.xyz:6969/announce
 http://open.va.wiki:900/announce
 udp://tracker.breizh.pm:6969/announce
-udp://107.182.30.76.16clouds.com:6969/announce
 udp://btt.service.gongt.me:43079/announce
+udp://107.182.30.76.16clouds.com:6969/announce
 udp://jutone.com:6969/announce
 http://t.publictracker.xyz:6969/announce
-https://tracker.cangku.moe:443/announce
 http://tracker.vraphim.com:6969/announce
+https://tracker.cangku.moe:443/announce
 udp://mail.segso.net:6969/announce
 udp://tk1v6.trackerservers.com:8080/announce
+udp://bt.rer.lol:6969/announce
 udp://open.tracker.cl:1337/announce
 udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.netmap.top:6969/announce
@@ -220,8 +221,8 @@ udp://tracker.btsync.gq:233/announce
 udp://ftp.pet:2710/announce
 http://cn.pcfreetime.com:6969/announce
 udp://tracker.trafficmgr.net:6969/announce
-udp://ts.populargamers.co.za:6969/announce
 http://bt.xcty.eu.org:2095/announce
+udp://ts.populargamers.co.za:6969/announce
 https://bruisedfumblingmotion.sddsdsdsddsdss.repl.co:443/announce
 http://montreal.nyap2p.com:8080/announce
 http://tracker.pcfreetime.com:6969/announce
