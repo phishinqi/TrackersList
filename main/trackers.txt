@@ -24,6 +24,8 @@ http://ch3oh.ru:6969/announce
 
 http://incine.ru:6969/announce
 
+http://movies.zsw.ca:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
@@ -67,6 +69,8 @@ http://tracker.k.vu:6969/announce
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.openbittorrent.com:80/announce
+
+http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
 
@@ -198,6 +202,8 @@ udp://hz.is:1337/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
 
+udp://isk.richardsw.club:6969/announce
+
 udp://mail.artixlinux.org:6969/announce
 
 udp://moonburrow.club:6969/announce
@@ -215,8 +221,6 @@ udp://oh.fuuuuuck.com:6969/announce
 udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
-
-udp://open.free-tracker.ga:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -256,8 +260,6 @@ udp://su-data.com:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
-udp://thinking.duckdns.org:6969/announce
-
 udp://thouvenin.cloud:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
@@ -287,8 +289,6 @@ udp://tracker.cyberia.is:6969/announce
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
-
-udp://tracker.dump.cl:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
@@ -688,17 +688,11 @@ udp://tracker.cyberia.is:6969/announce
 
 https://tracker1.ctix.cn:443/announce
 
-udp://thouvenin.cloud:6969/announce
-
 https://t1.hloli.org:443/announce
 
 http://p2p.0g.cx:6969/announce
 
-udp://ns1.monolithindustries.com:6969/announce
-
 udp://tracker.0x7c0.com:6969/announce
-
-udp://tracker.anima.nz:6969/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
@@ -706,7 +700,13 @@ udp://tracker2.dler.com:80/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
+udp://thouvenin.cloud:6969/announce
+
+udp://ns1.monolithindustries.com:6969/announce
+
 udp://y.paranoid.agency:6969/announce
+
+udp://tracker.anima.nz:6969/announce
 
 udp://tracker2.itzmx.com:6961/announce
 
@@ -719,6 +719,8 @@ http://v6-tracker.0g.cx:6969/announce
 udp://tracker.t-rb.org:6969/announce
 
 udp://bt1.archive.org:6969/announce
+
+udp://moonburrow.club:6969/announce
 
 udp://tracker.4.babico.name.tr:3131/announce
 
@@ -734,21 +736,19 @@ http://smurfsoft.com:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-udp://moonburrow.club:6969/announce
-
 udp://tracker1.bt.moack.co.kr:80/announce
-
-udp://acxx.de:6969/announce
-
-udp://open.dstud.io:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
-udp://tracker.cubonegro.lol:6969/announce
+udp://acxx.de:6969/announce
+
+udp://tracker.therarbg.to:6969/announce
+
+udp://open.dstud.io:6969/announce
 
 udp://1c.premierzal.ru:6969/announce
 
-udp://tracker.therarbg.to:6969/announce
+udp://tracker.cubonegro.lol:6969/announce
 
 https://tracker.cloudit.top:443/announce
 
@@ -782,9 +782,9 @@ udp://6.pocketnet.app:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-udp://thinking.duckdns.org:6969/announce
-
 http://ipv4announce.sktorrent.eu:6969/announce
+
+udp://thinking.duckdns.org:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
@@ -792,29 +792,29 @@ udp://tracker.moeking.me:6969/announce
 
 udp://open.u-p.pw:6969/announce
 
-http://tracker.nartlof.com.br:6969/announce
-
 udp://www.torrent.eu.org:451/announce
 
 http://ch3oh.ru:6969/announce
 
-https://tracker.imgoingto.icu:443/announce
+http://tracker.nartlof.com.br:6969/announce
 
 http://openwrt.lingyurouqing.xyz:6969/announce
+
+https://tracker.imgoingto.icu:443/announce
 
 http://incine.ru:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
 
-http://open.va.wiki:900/announce
-
 https://tracker.jdx3.org:443/announce
+
+http://open.va.wiki:900/announce
 
 udp://explodie.org:6969/announce
 
-udp://tracker.breizh.pm:6969/announce
-
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
+udp://tracker.breizh.pm:6969/announce
 
 udp://jutone.com:6969/announce
 
@@ -856,19 +856,19 @@ udp://tracker.teambelgium.net:6969/announce
 
 http://openbittorrent.com:80/announce
 
+udp://bt.rer.lol:6969/announce
+
 udp://bigfoot1942.sektori.org:6969/announce
 
 udp://private.anonseed.com:6969/announce
-
-udp://bt.rer.lol:6969/announce
 
 udp://yahor.of.by:6969/announce
 
 udp://tracker.btsync.gq:233/announce
 
-http://tracker.skyts.net:6969/announce
-
 udp://ftp.pet:2710/announce
+
+http://tracker.skyts.net:6969/announce
 
 udp://llideong.cn:6969/announce
 
@@ -898,11 +898,11 @@ http://0205.uptm.ch:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
-udp://touhou.kawaiiarts.com:6969/announce
-
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://home.kray.pw:6969/announce
+
+udp://touhou.kawaiiarts.com:6969/announce
 
 http://t.nyaatracker.com:80/announce
 
@@ -1530,6 +1530,8 @@ http://ch3oh.ru:6969/announce
 
 http://incine.ru:6969/announce
 
+http://movies.zsw.ca:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
@@ -1573,6 +1575,8 @@ http://tracker.k.vu:6969/announce
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.openbittorrent.com:80/announce
+
+http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
 
@@ -1704,6 +1708,8 @@ udp://hz.is:1337/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
 
+udp://isk.richardsw.club:6969/announce
+
 udp://mail.artixlinux.org:6969/announce
 
 udp://moonburrow.club:6969/announce
@@ -1721,8 +1727,6 @@ udp://oh.fuuuuuck.com:6969/announce
 udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
-
-udp://open.free-tracker.ga:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -1762,8 +1766,6 @@ udp://su-data.com:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
-udp://thinking.duckdns.org:6969/announce
-
 udp://thouvenin.cloud:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
@@ -1793,8 +1795,6 @@ udp://tracker.cyberia.is:6969/announce
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
-
-udp://tracker.dump.cl:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
@@ -1976,17 +1976,11 @@ udp://tracker.cyberia.is:6969/announce
 
 https://tracker1.ctix.cn:443/announce
 
-udp://thouvenin.cloud:6969/announce
-
 https://t1.hloli.org:443/announce
 
 http://p2p.0g.cx:6969/announce
 
-udp://ns1.monolithindustries.com:6969/announce
-
 udp://tracker.0x7c0.com:6969/announce
-
-udp://tracker.anima.nz:6969/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
@@ -1994,7 +1988,13 @@ udp://tracker2.dler.com:80/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
+udp://thouvenin.cloud:6969/announce
+
+udp://ns1.monolithindustries.com:6969/announce
+
 udp://y.paranoid.agency:6969/announce
+
+udp://tracker.anima.nz:6969/announce
 
 udp://tracker2.itzmx.com:6961/announce
 
@@ -2007,6 +2007,8 @@ http://v6-tracker.0g.cx:6969/announce
 udp://tracker.t-rb.org:6969/announce
 
 udp://bt1.archive.org:6969/announce
+
+udp://moonburrow.club:6969/announce
 
 udp://tracker.4.babico.name.tr:3131/announce
 
@@ -2022,21 +2024,19 @@ http://smurfsoft.com:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-udp://moonburrow.club:6969/announce
-
 udp://tracker1.bt.moack.co.kr:80/announce
-
-udp://acxx.de:6969/announce
-
-udp://open.dstud.io:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
-udp://tracker.cubonegro.lol:6969/announce
+udp://acxx.de:6969/announce
+
+udp://tracker.therarbg.to:6969/announce
+
+udp://open.dstud.io:6969/announce
 
 udp://1c.premierzal.ru:6969/announce
 
-udp://tracker.therarbg.to:6969/announce
+udp://tracker.cubonegro.lol:6969/announce
 
 https://tracker.cloudit.top:443/announce
 
