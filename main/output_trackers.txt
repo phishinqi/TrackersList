@@ -199,12 +199,12 @@ udp://sanincode.com:6969/announce
 http://open.va.wiki:900/announce
 http://openwrt.lingyurouqing.xyz:6969/announce
 udp://jutone.com:6969/announce
-http://smurfsoft.com:6969/announce
 udp://tracker.breizh.pm:6969/announce
-udp://btt.service.gongt.me:43079/announce
+http://smurfsoft.com:6969/announce
 http://tracker.nartlof.com.br:6969/announce
-udp://thinking.duckdns.org:6969/announce
+udp://btt.service.gongt.me:43079/announce
 udp://bt.rer.lol:6969/announce
+udp://thinking.duckdns.org:6969/announce
 http://tracker.vraphim.com:6969/announce
 https://tracker.cangku.moe:443/announce
 udp://tk1v6.trackerservers.com:8080/announce
@@ -309,7 +309,6 @@ http://tracker.coppersurfer.site:2710/announce
 http://open-v6.demonoid.ch:6969/announce
 udp://chennuo.xyz:6969/announce
 udp://tracker.exorditech.com.tr:8000/announce
-udp://v.sakurapy.com:6969/announce
 http://tracker.logirl.moe:17052/announce
 udp://drsick.xyz:6969/announce
 http://open.nyap2p.com:8080/announce
