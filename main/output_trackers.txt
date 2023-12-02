@@ -193,15 +193,15 @@ http://p2p.0g.cx:6969/announce
 https://tracker1.ctix.cn:443/announce
 udp://tracker.iperson.xyz:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
-udp://www.torrent.eu.org:451/announce
 udp://jutone.com:6969/announce
+udp://www.torrent.eu.org:451/announce
 http://open.va.wiki:900/announce
 http://wg.mortis.me:6969/announce
 http://openwrt.lingyurouqing.xyz:6969/announce
 udp://tracker.breizh.pm:6969/announce
 udp://btt.service.gongt.me:43079/announce
-http://tracker.rev.pm:6969/announce
 http://tracker.nartlof.com.br:6969/announce
+http://tracker.rev.pm:6969/announce
 udp://bt.rer.lol:6969/announce
 udp://tracker.therarbg.to:6969/announce
 http://smurfsoft.com:6969/announce
@@ -230,8 +230,8 @@ http://rfc5746.mywaifu.best:6969/announce
 udp://tracker.trafficmgr.net:6969/announce
 http://canardscitrons.nohost.me:6969/announce
 udp://www.2600.com:6969/announce
-http://montreal.nyap2p.com:8080/announce
 https://tracker.moeblog.cn:443/announce
+http://montreal.nyap2p.com:8080/announce
 udp://mikrotik2.draatman.net:6969/announce
 http://0205.uptm.ch:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
