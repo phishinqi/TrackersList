@@ -195,10 +195,10 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 http://tracker1.itzmx.com:8080/announce
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 http://p2p.0g.cx:6969/announce
-http://ipv4announce.sktorrent.eu:6969/announce
 https://tracker2.ctix.cn:443/announce
 https://tracker1.ctix.cn:443/announce
 udp://jutone.com:6969/announce
+http://ipv4announce.sktorrent.eu:6969/announce
 udp://www.torrent.eu.org:451/announce
 udp://tracker.breizh.pm:6969/announce
 udp://bt.rer.lol:6969/announce
