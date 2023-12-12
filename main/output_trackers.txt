@@ -197,8 +197,8 @@ https://tracker2.ctix.cn:443/announce
 https://tracker1.ctix.cn:443/announce
 udp://jutone.com:6969/announce
 udp://www.torrent.eu.org:451/announce
-udp://public-tracker.cf:6969/announce
 http://openwrt.lingyurouqing.xyz:6969/announce
+udp://public-tracker.cf:6969/announce
 udp://tracker.breizh.pm:6969/announce
 udp://bt.rer.lol:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
@@ -214,8 +214,8 @@ http://tracker.k.vu:6969/announce
 udp://su-data.com:6969/announce
 udp://tracker.farted.net:6969/announce
 http://openbittorrent.com:80/announce
-http://wg.mortis.me:6969/announce
 http://cn.pcfreetime.com:6969/announce
+http://wg.mortis.me:6969/announce
 udp://tk1v6.trackerservers.com:8080/announce
 http://tracker.rev.pm:6969/announce
 udp://tracker.netmap.top:6969/announce
