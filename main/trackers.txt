@@ -578,8 +578,6 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://tracker.files.fm:6969/announce
-
 udp://tracker-udp.gbitt.info:80/announce
 
 http://open.acgnxtracker.com:80/announce
@@ -644,9 +642,9 @@ https://tracker.jdx3.org:443/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
-udp://retracker.lanta.me:2710/announce
-
 udp://tracker.dler.com:6969/announce
+
+http://tracker.files.fm:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
@@ -674,8 +672,6 @@ http://bvarf.tracker.sh:2086/announce
 
 udp://tracker.cyberia.is:6969/announce
 
-udp://opentracker.i2p.rocks:6969/announce
-
 udp://tracker2.dler.com:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
@@ -683,6 +679,8 @@ udp://tracker.0x7c0.com:6969/announce
 udp://y.paranoid.agency:6969/announce
 
 udp://exodus.desync.com:6969/announce
+
+udp://opentracker.i2p.rocks:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
@@ -692,11 +690,11 @@ https://t1.hloli.org:443/announce
 
 udp://moonburrow.club:6969/announce
 
+udp://t.overflow.biz:6969/announce
+
 udp://tracker.ccp.ovh:6969/announce
 
 udp://1c.premierzal.ru:6969/announce
-
-udp://t.overflow.biz:6969/announce
 
 udp://thouvenin.cloud:6969/announce
 
@@ -720,17 +718,17 @@ udp://tracker.theoks.net:6969/announce
 
 http://tracker.dump.cl:6969/announce
 
-udp://evan.im:6969/announce
-
 udp://tamas3.ynh.fr:6969/announce
 
-udp://tracker.cubonegro.lol:6969/announce
+udp://evan.im:6969/announce
 
 https://tracker.cloudit.top:443/announce
 
-udp://open.dstud.io:6969/announce
+udp://tracker.cubonegro.lol:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
+
+udp://open.dstud.io:6969/announce
 
 udp://acxx.de:6969/announce
 
@@ -740,9 +738,9 @@ udp://carr.codes:6969/announce
 
 udp://bt2.archive.org:6969/announce
 
-udp://black-bird.ynh.fr:6969/announce
-
 udp://epider.me:6969/announce
+
+udp://black-bird.ynh.fr:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
@@ -758,9 +756,11 @@ udp://jutone.com:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
-udp://bt.ktrackers.com:6666/announce
+udp://retracker.lanta.me:2710/announce
 
 udp://www.torrent.eu.org:451/announce
+
+udp://bt.ktrackers.com:6666/announce
 
 udp://open.u-p.pw:6969/announce
 
@@ -768,17 +768,17 @@ http://t.acg.rip:6699/announce
 
 http://openwrt.lingyurouqing.xyz:6969/announce
 
-udp://tracker.breizh.pm:6969/announce
-
 udp://tracker3.itzmx.com:6961/announce
 
 udp://bt.rer.lol:6969/announce
 
-http://incine.ru:6969/announce
+udp://tracker.breizh.pm:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://tracker.anima.nz:6969/announce
+
+http://incine.ru:6969/announce
 
 udp://public-tracker.cf:6969/announce
 
@@ -800,17 +800,17 @@ udp://tracker.iperson.xyz:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-udp://run-2.publictracker.xyz:6969/announce
-
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
+udp://run-2.publictracker.xyz:6969/announce
 
 udp://aarsen.me:6969/announce
 
-udp://free.publictracker.xyz:6969/announce
+udp://tracker4.itzmx.com:2710/announce
 
 udp://run.publictracker.xyz:6969/announce
 
-udp://tracker4.itzmx.com:2710/announce
+udp://free.publictracker.xyz:6969/announce
 
 https://tracker.imgoingto.icu:443/announce
 
@@ -864,13 +864,13 @@ http://tracker.skyts.net:6969/announce
 
 http://rfc5746.mywaifu.best:6969/announce
 
-udp://ftp.pet:2710/announce
-
 http://tracker.pcfreetime.com:6969/announce
 
-udp://ts.populargamers.co.za:6969/announce
+udp://ftp.pet:2710/announce
 
 udp://tracker.teambelgium.net:6969/announce
+
+udp://ts.populargamers.co.za:6969/announce
 
 http://bt.xcty.eu.org:2095/announce
 
@@ -887,8 +887,6 @@ udp://open.tracker.cl:1337/announce
 udp://mikrotik2.draatman.net:6969/announce
 
 http://0205.uptm.ch:6969/announce
-
-udp://mail.segso.net:6969/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
@@ -1416,6 +1414,8 @@ udp://c-71-227-163-17.hsd1.wa.comcast.net:6969/announce
 
 http://unknownsite.de:6969/announce
 
+udp://mail.segso.net:6969/announce
+
 udp://107.182.30.76.16clouds.com:6969/announce
 
 udp://vm3268418.24ssd.had.wf:6969/announce
@@ -1852,8 +1852,6 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://tracker.files.fm:6969/announce
-
 udp://tracker-udp.gbitt.info:80/announce
 
 http://open.acgnxtracker.com:80/announce
@@ -1918,9 +1916,9 @@ https://tracker.jdx3.org:443/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
-udp://retracker.lanta.me:2710/announce
-
 udp://tracker.dler.com:6969/announce
+
+http://tracker.files.fm:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
@@ -1948,8 +1946,6 @@ http://bvarf.tracker.sh:2086/announce
 
 udp://tracker.cyberia.is:6969/announce
 
-udp://opentracker.i2p.rocks:6969/announce
-
 udp://tracker2.dler.com:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
@@ -1957,6 +1953,8 @@ udp://tracker.0x7c0.com:6969/announce
 udp://y.paranoid.agency:6969/announce
 
 udp://exodus.desync.com:6969/announce
+
+udp://opentracker.i2p.rocks:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
@@ -1966,11 +1964,11 @@ https://t1.hloli.org:443/announce
 
 udp://moonburrow.club:6969/announce
 
+udp://t.overflow.biz:6969/announce
+
 udp://tracker.ccp.ovh:6969/announce
 
 udp://1c.premierzal.ru:6969/announce
-
-udp://t.overflow.biz:6969/announce
 
 udp://thouvenin.cloud:6969/announce
 
@@ -1994,17 +1992,17 @@ udp://tracker.theoks.net:6969/announce
 
 http://tracker.dump.cl:6969/announce
 
-udp://evan.im:6969/announce
-
 udp://tamas3.ynh.fr:6969/announce
 
-udp://tracker.cubonegro.lol:6969/announce
+udp://evan.im:6969/announce
 
 https://tracker.cloudit.top:443/announce
 
-udp://open.dstud.io:6969/announce
+udp://tracker.cubonegro.lol:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
+
+udp://open.dstud.io:6969/announce
 
 udp://acxx.de:6969/announce
 
@@ -2014,9 +2012,9 @@ udp://carr.codes:6969/announce
 
 udp://bt2.archive.org:6969/announce
 
-udp://black-bird.ynh.fr:6969/announce
-
 udp://epider.me:6969/announce
+
+udp://black-bird.ynh.fr:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
