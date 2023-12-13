@@ -204,8 +204,8 @@ udp://tracker.breizh.pm:6969/announce
 http://open.va.wiki:900/announce
 udp://public-tracker.cf:6969/announce
 http://tracker.nartlof.com.br:6969/announce
-udp://v2.iperson.xyz:6969/announce
 udp://tracker.iperson.xyz:6969/announce
+udp://v2.iperson.xyz:6969/announce
 udp://run-2.publictracker.xyz:6969/announce
 udp://aarsen.me:6969/announce
 udp://run.publictracker.xyz:6969/announce
@@ -218,8 +218,8 @@ udp://tracker.farted.net:6969/announce
 http://openbittorrent.com:80/announce
 http://cn.pcfreetime.com:6969/announce
 udp://tk1v6.trackerservers.com:8080/announce
-http://wg.mortis.me:6969/announce
 udp://tracker.netmap.top:6969/announce
+http://wg.mortis.me:6969/announce
 http://tracker.rev.pm:6969/announce
 udp://tracker.publictracker.xyz:6969/announce
 udp://llideong.cn:6969/announce
