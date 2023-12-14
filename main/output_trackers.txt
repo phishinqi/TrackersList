@@ -174,18 +174,14 @@ udp://wepzone.net:6969/announce
 udp://x.t-1.org:6969/announce
 udp://y.paranoid.agency:6969/announce
 udp://yahor.of.by:6969/announce
-wss://tracker.openwebtorrent.com:443/announcehttp://tracker.opentrackr.org:1337/announce
+wss://tracker.openwebtorrent.com:443/announceudp://tracker.opentrackr.org:1337/announce
 udp://opentracker.i2p.rocks:6969/announce
 http://tracker.openbittorrent.com:80/announce
-udp://tracker.bittor.pw:1337/announce
-udp://open.free-tracker.ga:6969/announce
 udp://explodie.org:6969/announce
 http://tracker1.bt.moack.co.kr:80/announce
-udp://tracker.dump.cl:6969/announce
+udp://open.free-tracker.ga:6969/announce
 udp://carr.codes:6969/announce
 http://open.acgtracker.com:1096/announce
-udp://x.paranoid.agency:6969/announce
-udp://ts.populargamers.co.za:6969/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 http://tracker1.itzmx.com:8080/announce
 http://incine.ru:6969/announce
@@ -201,8 +197,8 @@ http://t.acg.rip:6699/announce
 udp://bt.rer.lol:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 http://open.va.wiki:900/announce
-https://tracker.jdx3.org:443/announce
 http://tracker.nartlof.com.br:6969/announce
+https://tracker.jdx3.org:443/announce
 udp://tracker.breizh.pm:6969/announce
 udp://public-tracker.cf:6969/announce
 http://tracker.vraphim.com:6969/announce
@@ -220,8 +216,8 @@ udp://tracker.farted.net:6969/announce
 udp://tracker.netmap.top:6969/announce
 http://wg.mortis.me:6969/announce
 https://tracker.cangku.moe:443/announce
-http://tracker.rev.pm:6969/announce
 udp://llideong.cn:6969/announce
+http://tracker.rev.pm:6969/announce
 udp://tracker.btsync.gq:233/announce
 udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.teambelgium.net:6969/announce
@@ -229,9 +225,10 @@ http://tracker.skyts.net:6969/announce
 http://tracker.pcfreetime.com:6969/announce
 http://rfc5746.mywaifu.best:6969/announce
 http://smurfsoft.com:6969/announce
+udp://ts.populargamers.co.za:6969/announce
 udp://ftp.pet:2710/announce
-http://bt.xcty.eu.org:2095/announce
 http://canardscitrons.nohost.me:6969/announce
+http://bt.xcty.eu.org:2095/announce
 https://tracker.moeblog.cn:443/announce
 udp://www.2600.com:6969/announce
 udp://open.tracker.cl:1337/announce
@@ -516,6 +513,7 @@ udp://bigfoot1942.sektori.org:6969/announce
 https://k.avc.cx:443/announce
 https://tracker.h3o2.me:443/announce
 udp://z.paranoid.agency:6969/announce
+udp://x.paranoid.agency:6969/announce
 http://retracker.211.ru:80/announce
 https://tracker.fr.eu.org:443/announce
 http://tk.trojangogogo.site:8989/announce
@@ -527,7 +525,6 @@ udp://pirate.hz.is:1337/announce
 https://bt.080609.xyz:443/announce
 udp://tracker.trafficmgr.net:6969/announce
 https://bruisedfumblingmotion.sddsdsdsddsdss.repl.co:443/announce
-wss://tracker.openwebtorrent.com:443/announceudp://tracker.opentrackr.org:1337/announce
 http://tracker.gbitt.info/announce
 https://tracker.lilithraws.cf/announce
 https://tracker1.520.jp/announce
@@ -1159,6 +1156,7 @@ udp://23.137.251.45:6969/announce
 udp://89.36.216.8:6969/announce
 http://opentracker.io:80/announce
 udp://185.181.60.155:80/announce
+udp://tracker.bittor.pw:1337/announce
 udp://tracker.cubonegro.xyz:6969/announce
 udp://156.234.201.18:80/announce
 udp://185.44.82.25:1337/announce
