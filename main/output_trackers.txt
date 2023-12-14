@@ -203,8 +203,8 @@ udp://bt.rer.lol:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 https://tracker.jdx3.org:443/announce
 http://open.va.wiki:900/announce
-udp://tracker.breizh.pm:6969/announce
 http://tracker.nartlof.com.br:6969/announce
+udp://tracker.breizh.pm:6969/announce
 udp://public-tracker.cf:6969/announce
 udp://tracker.iperson.xyz:6969/announce
 udp://v2.iperson.xyz:6969/announce
@@ -221,10 +221,10 @@ udp://tk1v6.trackerservers.com:8080/announce
 udp://tracker.netmap.top:6969/announce
 http://wg.mortis.me:6969/announce
 http://tracker.rev.pm:6969/announce
-udp://llideong.cn:6969/announce
 https://tracker.cangku.moe:443/announce
-udp://tracker.publictracker.xyz:6969/announce
+udp://llideong.cn:6969/announce
 udp://tracker.btsync.gq:233/announce
+udp://tracker.publictracker.xyz:6969/announce
 http://tracker.skyts.net:6969/announce
 http://tracker.pcfreetime.com:6969/announce
 http://rfc5746.mywaifu.best:6969/announce
