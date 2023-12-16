@@ -652,6 +652,8 @@ udp://private.anonseed.com:6969/announce
 
 udp://ns1.monolithindustries.com:6969/announce
 
+udp://y.paranoid.agency:6969/announce
+
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker2.dler.com:80/announce
@@ -670,8 +672,6 @@ http://bvarf.tracker.sh:2086/announce
 
 udp://tracker.t-rb.org:6969/announce
 
-udp://y.paranoid.agency:6969/announce
-
 udp://exodus.desync.com:6969/announce
 
 udp://opentracker.i2p.rocks:6969/announce
@@ -684,15 +684,17 @@ https://tracker1.520.jp:443/announce
 
 https://t1.hloli.org:443/announce
 
+udp://retracker.lanta.me:2710/announce
+
 udp://thouvenin.cloud:6969/announce
 
 udp://wepzone.net:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
-udp://retracker.lanta.me:2710/announce
-
 udp://tracker.mirrorbay.org:6969/announce
+
+http://tracker.bt4g.com:2095/announce
 
 http://ch3oh.ru:6969/announce
 
@@ -701,8 +703,6 @@ udp://1c.premierzal.ru:6969/announce
 udp://sabross.xyz:6969/announce
 
 udp://tracker2.itzmx.com:6961/announce
-
-http://tracker.bt4g.com:2095/announce
 
 udp://moonburrow.club:6969/announce
 
@@ -766,17 +766,17 @@ udp://www.torrent.eu.org:451/announce
 
 udp://open.u-p.pw:6969/announce
 
-udp://static.54.161.216.95.clients.your-server.de:6969/announce
-
 http://openwrt.lingyurouqing.xyz:6969/announce
+
+udp://static.54.161.216.95.clients.your-server.de:6969/announce
 
 http://t.acg.rip:6699/announce
 
 udp://tracker.anima.nz:6969/announce
 
-udp://bt.rer.lol:6969/announce
-
 http://ipv4announce.sktorrent.eu:6969/announce
+
+udp://bt.rer.lol:6969/announce
 
 http://open.va.wiki:900/announce
 
@@ -804,13 +804,13 @@ http://tracker.vraphim.com:6969/announce
 
 udp://public-tracker.cf:6969/announce
 
-https://tracker.jdx3.org:443/announce
+udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
-udp://tracker.openbittorrent.com:6969/announce
-
 udp://v2.iperson.xyz:6969/announce
+
+https://tracker.jdx3.org:443/announce
 
 udp://isk.richardsw.club:6969/announce
 
@@ -830,13 +830,13 @@ udp://thinking.duckdns.org:6969/announce
 
 udp://yahor.of.by:6969/announce
 
-udp://tracker.birkenwald.de:6969/announce
-
 http://openbittorrent.com:80/announce
 
-http://cn.pcfreetime.com:6969/announce
+udp://tracker.birkenwald.de:6969/announce
 
 http://open.acgtracker.com:1096/announce
+
+http://cn.pcfreetime.com:6969/announce
 
 http://tracker.k.vu:6969/announce
 
@@ -852,15 +852,15 @@ https://tracker.cangku.moe:443/announce
 
 udp://llideong.cn:6969/announce
 
+udp://tracker.teambelgium.net:6969/announce
+
 http://wg.mortis.me:6969/announce
 
 udp://tracker.btsync.gq:233/announce
 
-udp://tracker.teambelgium.net:6969/announce
+udp://tracker.publictracker.xyz:6969/announce
 
 http://tracker.rev.pm:6969/announce
-
-udp://tracker.publictracker.xyz:6969/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -1930,6 +1930,8 @@ udp://private.anonseed.com:6969/announce
 
 udp://ns1.monolithindustries.com:6969/announce
 
+udp://y.paranoid.agency:6969/announce
+
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker2.dler.com:80/announce
@@ -1948,8 +1950,6 @@ http://bvarf.tracker.sh:2086/announce
 
 udp://tracker.t-rb.org:6969/announce
 
-udp://y.paranoid.agency:6969/announce
-
 udp://exodus.desync.com:6969/announce
 
 udp://opentracker.i2p.rocks:6969/announce
@@ -1962,15 +1962,17 @@ https://tracker1.520.jp:443/announce
 
 https://t1.hloli.org:443/announce
 
+udp://retracker.lanta.me:2710/announce
+
 udp://thouvenin.cloud:6969/announce
 
 udp://wepzone.net:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
-udp://retracker.lanta.me:2710/announce
-
 udp://tracker.mirrorbay.org:6969/announce
+
+http://tracker.bt4g.com:2095/announce
 
 http://ch3oh.ru:6969/announce
 
@@ -1979,8 +1981,6 @@ udp://1c.premierzal.ru:6969/announce
 udp://sabross.xyz:6969/announce
 
 udp://tracker2.itzmx.com:6961/announce
-
-http://tracker.bt4g.com:2095/announce
 
 udp://moonburrow.club:6969/announce
 
