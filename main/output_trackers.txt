@@ -231,8 +231,8 @@ udp://ts.populargamers.co.za:6969/announce
 http://smurfsoft.com:6969/announce
 http://canardscitrons.nohost.me:6969/announce
 udp://www.2600.com:6969/announce
-udp://ftp.pet:2710/announce
 udp://freedomalternative.com:6969/announce
+udp://ftp.pet:2710/announce
 udp://open.tracker.cl:1337/announce
 http://bt.xcty.eu.org:2095/announce
 udp://mikrotik2.draatman.net:6969/announce
