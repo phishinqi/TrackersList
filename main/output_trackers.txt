@@ -193,8 +193,8 @@ https://tracker2.ctix.cn:443/announce
 https://tracker1.ctix.cn:443/announce
 http://openwrt.lingyurouqing.xyz:6969/announce
 udp://jutone.com:6969/announce
-udp://open.xxtor.com:3074/announce
 http://ipv4announce.sktorrent.eu:6969/announce
+udp://open.xxtor.com:3074/announce
 udp://bt.rer.lol:6969/announce
 http://open.va.wiki:900/announce
 http://tracker.vraphim.com:6969/announce
@@ -210,13 +210,13 @@ udp://tracker.iperson.xyz:6969/announce
 udp://tracker.netmap.top:6969/announce
 udp://run.publictracker.xyz:6969/announce
 udp://run-2.publictracker.xyz:6969/announce
-udp://aarsen.me:6969/announce
 udp://tk1v6.trackerservers.com:8080/announce
+udp://aarsen.me:6969/announce
 udp://llideong.cn:6969/announce
 udp://tracker.btsync.gq:233/announce
+https://tracker.cangku.moe:443/announce
 http://tracker.k.vu:6969/announce
 http://tracker.skyts.net:6969/announce
-https://tracker.cangku.moe:443/announce
 http://rfc5746.mywaifu.best:6969/announce
 udp://btt.service.gongt.me:43079/announce
 http://tracker.pcfreetime.com:6969/announce
