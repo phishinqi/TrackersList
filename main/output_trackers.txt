@@ -226,13 +226,13 @@ udp://tracker.publictracker.xyz:6969/announce
 udp://su-data.com:6969/announce
 https://tracker.moeblog.cn:443/announce
 udp://freedomalternative.com:6969/announce
-http://wg.mortis.me:6969/announce
 udp://ts.populargamers.co.za:6969/announce
-https://tracker.jdx3.org:443/announce
+http://wg.mortis.me:6969/announce
 http://canardscitrons.nohost.me:6969/announce
+https://tracker.jdx3.org:443/announce
 http://tracker.rev.pm:6969/announce
-udp://www.2600.com:6969/announce
 udp://open.tracker.cl:1337/announce
+udp://www.2600.com:6969/announce
 udp://mikrotik2.draatman.net:6969/announce
 http://0205.uptm.ch:6969/announce
 http://smurfsoft.com:6969/announce
