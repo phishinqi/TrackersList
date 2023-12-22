@@ -189,9 +189,9 @@ http://openwrt.lingyurouqing.xyz:6969/announce
 https://tracker2.ctix.cn:443/announce
 https://tracker1.ctix.cn:443/announce
 udp://jutone.com:6969/announce
-udp://tracker.6.babico.name.tr:6969/announce
-udp://private.anonseed.com:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
+udp://private.anonseed.com:6969/announce
+udp://tracker.6.babico.name.tr:6969/announce
 http://open.va.wiki:900/announce
 udp://bt.rer.lol:6969/announce
 udp://open.xxtor.com:3074/announce
@@ -205,8 +205,8 @@ http://cn.pcfreetime.com:6969/announce
 http://openbittorrent.com:80/announce
 udp://tracker.netmap.top:6969/announce
 udp://btt.service.gongt.me:43079/announce
-udp://public-tracker.cf:6969/announce
 udp://tracker.iperson.xyz:6969/announce
+udp://public-tracker.cf:6969/announce
 udp://tk1v6.trackerservers.com:8080/announce
 https://tracker.cangku.moe:443/announce
 udp://run.publictracker.xyz:6969/announce
