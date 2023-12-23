@@ -186,8 +186,8 @@ http://p2p.0g.cx:6969/announce
 udp://t.overflow.biz:6969/announce
 https://tracker2.ctix.cn:443/announce
 https://tracker1.ctix.cn:443/announce
-http://openwrt.lingyurouqing.xyz:6969/announce
 udp://jutone.com:6969/announce
+http://openwrt.lingyurouqing.xyz:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 http://open.va.wiki:900/announce
 http://ipv4announce.sktorrent.eu:6969/announce
@@ -195,8 +195,8 @@ udp://bt.rer.lol:6969/announce
 udp://tracker.6.babico.name.tr:6969/announce
 udp://tracker.4.babico.name.tr:3131/announce
 udp://private.anonseed.com:6969/announce
-udp://open.xxtor.com:3074/announce
 http://tracker.vraphim.com:6969/announce
+udp://open.xxtor.com:3074/announce
 https://tracker.imgoingto.icu:443/announce
 udp://tracker.teambelgium.net:6969/announce
 udp://tracker.breizh.pm:6969/announce
@@ -211,8 +211,8 @@ udp://tracker.iperson.xyz:6969/announce
 udp://public-tracker.cf:6969/announce
 udp://tracker.btsync.gq:233/announce
 udp://run.publictracker.xyz:6969/announce
-udp://run-2.publictracker.xyz:6969/announce
 http://tracker.skyts.net:6969/announce
+udp://run-2.publictracker.xyz:6969/announce
 udp://llideong.cn:6969/announce
 udp://aarsen.me:6969/announce
 http://tracker.pcfreetime.com:6969/announce
@@ -229,7 +229,6 @@ http://0205.uptm.ch:6969/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://open.tracker.cl:1337/announce
 http://smurfsoft.com:6969/announce
-udp://su-data.com:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://home.kray.pw:6969/announce
 udp://retracker.lanta-net.ru:2710/announce
@@ -471,6 +470,7 @@ udp://pxnet.ru:6969/announce
 udp://city21.pk:6969/announce
 udp://axell24.ru:6969/announce
 udp://dex.email:6969/announce
+udp://su-data.com:6969/announce
 http://li2021-95.members.linode.com:6969/announce
 http://wg.mortis.me:6969/announce
 udp://c-71-227-163-17.hsd1.wa.comcast.net:6969/announce
