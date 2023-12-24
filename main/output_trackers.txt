@@ -199,9 +199,9 @@ udp://private.anonseed.com:6969/announce
 http://tracker.vraphim.com:6969/announce
 udp://open.xxtor.com:3074/announce
 udp://tracker.teambelgium.net:6969/announce
+udp://btt.service.gongt.me:43079/announce
 http://cn.pcfreetime.com:6969/announce
 udp://tracker.breizh.pm:6969/announce
-udp://btt.service.gongt.me:43079/announce
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 http://openbittorrent.com:80/announce
 udp://tracker.netmap.top:6969/announce
@@ -218,14 +218,14 @@ http://tracker.pcfreetime.com:6969/announce
 udp://aarsen.me:6969/announce
 https://tracker.moeblog.cn:443/announce
 http://rfc5746.mywaifu.best:6969/announce
-http://tracker.k.vu:6969/announce
 udp://freedomalternative.com:6969/announce
+http://tracker.k.vu:6969/announce
 http://canardscitrons.nohost.me:6969/announce
 udp://ts.populargamers.co.za:6969/announce
 udp://tracker.publictracker.xyz:6969/announce
-udp://tracker.farted.net:6969/announce
 http://bt.xcty.eu.org:2095/announce
 http://0205.uptm.ch:6969/announce
+udp://tracker.farted.net:6969/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://open.tracker.cl:1337/announce
 http://smurfsoft.com:6969/announce
