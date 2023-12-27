@@ -191,9 +191,9 @@ http://openwrt.lingyurouqing.xyz:6969/announce
 http://open.va.wiki:900/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 udp://bt.rer.lol:6969/announce
-udp://epider.me:6969/announce
 udp://btt.service.gongt.me:43079/announce
 udp://tracker.teambelgium.net:6969/announce
+udp://epider.me:6969/announce
 http://tracker.vraphim.com:6969/announce
 udp://tracker.6.babico.name.tr:6969/announce
 udp://tracker.4.babico.name.tr:3131/announce
@@ -219,8 +219,8 @@ http://canardscitrons.nohost.me:6969/announce
 http://rfc5746.mywaifu.best:6969/announce
 udp://run-2.publictracker.xyz:6969/announce
 udp://ts.populargamers.co.za:6969/announce
-udp://aarsen.me:6969/announce
 http://bt.xcty.eu.org:2095/announce
+udp://aarsen.me:6969/announce
 http://0205.uptm.ch:6969/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://open.tracker.cl:1337/announce
