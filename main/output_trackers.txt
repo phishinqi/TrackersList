@@ -30,7 +30,6 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.nartlof.com.br:6969/announce
-http://tracker.opentrackr.org:1337/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 http://tracker2.dler.org:80/announce
@@ -121,7 +120,6 @@ udp://ryjer.com:6969/announce
 udp://sabross.xyz:6969/announce
 udp://t.overflow.biz:6969/announce
 udp://tamas3.ynh.fr:6969/announce
-udp://thinking.duckdns.org:6969/announce
 udp://tk1.trackerservers.com:8080/announce
 udp://torrents.artixlinux.org:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
@@ -170,9 +168,11 @@ udp://x.t-1.org:6969/announce
 udp://y.paranoid.agency:6969/announce
 udp://yahor.of.by:6969/announce
 wss://tracker.openwebtorrent.com:443/announceudp://tracker.opentrackr.org:1337/announce
+http://tracker.opentrackr.org:1337/announce
 udp://opentracker.i2p.rocks:6969/announce
 udp://explodie.org:6969/announce
 http://tracker1.bt.moack.co.kr:80/announce
+udp://thinking.duckdns.org:6969/announce
 udp://carr.codes:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
 udp://thouvenin.cloud:6969/announce
@@ -189,8 +189,8 @@ udp://jutone.com:6969/announce
 http://openwrt.lingyurouqing.xyz:6969/announce
 http://open.va.wiki:900/announce
 udp://btt.service.gongt.me:43079/announce
-http://ipv4announce.sktorrent.eu:6969/announce
 udp://tracker.teambelgium.net:6969/announce
+http://ipv4announce.sktorrent.eu:6969/announce
 udp://bt.rer.lol:6969/announce
 udp://epider.me:6969/announce
 http://tracker.vraphim.com:6969/announce
