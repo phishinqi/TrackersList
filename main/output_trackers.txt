@@ -184,8 +184,8 @@ https://tracker2.ctix.cn:443/announce
 https://tracker1.ctix.cn:443/announce
 udp://t.overflow.biz:6969/announce
 udp://jutone.com:6969/announce
-udp://tracker.skynetcloud.site:6969/announce
 http://openwrt.lingyurouqing.xyz:6969/announce
+udp://tracker.skynetcloud.site:6969/announce
 udp://btt.service.gongt.me:43079/announce
 udp://tracker.teambelgium.net:6969/announce
 http://open.va.wiki:900/announce
@@ -212,8 +212,8 @@ udp://tracker.btsync.gq:233/announce
 http://tracker.skyts.net:6969/announce
 udp://freedomalternative.com:6969/announce
 https://tracker.moeblog.cn:443/announce
-udp://tracker.iperson.xyz:6969/announce
 http://canardscitrons.nohost.me:6969/announce
+udp://tracker.iperson.xyz:6969/announce
 udp://llideong.cn:6969/announce
 udp://public-tracker.cf:6969/announce
 udp://run.publictracker.xyz:6969/announce
@@ -331,7 +331,6 @@ http://drteam.rocks:6969/announce
 udp://keke.re:6969/announce
 http://t1.chfs.ch:6969/announce
 http://ns331480.ip-37-187-121.eu:6969/announce
-udp://tronml.cf:6969/announce
 udp://2simple.naiive.xyz:6969/announce
 udp://lloria.fr:6969/announce
 udp://rep-art.ynh.fr:6969/announce
