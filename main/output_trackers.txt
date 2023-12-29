@@ -187,8 +187,8 @@ https://tracker2.ctix.cn:443/announce
 https://tracker1.ctix.cn:443/announce
 udp://t.overflow.biz:6969/announce
 udp://jutone.com:6969/announce
-udp://btt.service.gongt.me:43079/announce
 http://openwrt.lingyurouqing.xyz:6969/announce
+udp://btt.service.gongt.me:43079/announce
 udp://tracker.teambelgium.net:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
 http://open.va.wiki:900/announce
@@ -218,8 +218,8 @@ udp://tracker.iperson.xyz:6969/announce
 udp://llideong.cn:6969/announce
 udp://public-tracker.cf:6969/announce
 http://bt.xcty.eu.org:2095/announce
-udp://run.publictracker.xyz:6969/announce
 udp://ts.populargamers.co.za:6969/announce
+udp://run.publictracker.xyz:6969/announce
 http://0205.uptm.ch:6969/announce
 http://rfc5746.mywaifu.best:6969/announce
 udp://mikrotik2.draatman.net:6969/announce
