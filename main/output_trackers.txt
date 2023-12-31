@@ -202,8 +202,8 @@ udp://sanincode.com:6969/announce
 udp://tracker.6.babico.name.tr:6969/announce
 udp://tracker.4.babico.name.tr:3131/announce
 udp://private.anonseed.com:6969/announce
-http://openbittorrent.com:80/announce
 udp://tracker.netmap.top:6969/announce
+http://openbittorrent.com:80/announce
 http://incine.ru:6969/announce
 udp://open.xxtor.com:3074/announce
 https://tracker.cangku.moe:443/announce
@@ -219,7 +219,6 @@ http://bt.xcty.eu.org:2095/announce
 udp://run.publictracker.xyz:6969/announce
 udp://ts.populargamers.co.za:6969/announce
 udp://llideong.cn:6969/announce
-udp://tracker.iperson.xyz:6969/announce
 http://0205.uptm.ch:6969/announce
 udp://mikrotik2.draatman.net:6969/announce
 http://smurfsoft.com:6969/announce
@@ -433,6 +432,7 @@ http://web.open-tracker.cf:6969/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 http://tracker.swifte.space:2710/announce
 http://connect.swifte.space:2710/announce
+udp://tracker.iperson.xyz:6969/announce
 udp://tracker.yangxiaoguozi.cn:6969/announce
 https://tracker.jiesen.life:8443/announce
 http://tracker3.ctix.cn:2095/announce
