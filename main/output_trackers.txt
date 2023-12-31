@@ -200,8 +200,8 @@ udp://tracker.breizh.pm:6969/announce
 udp://sanincode.com:6969/announce
 udp://tracker.6.babico.name.tr:6969/announce
 udp://tracker.4.babico.name.tr:3131/announce
-udp://tracker.netmap.top:6969/announce
 http://openbittorrent.com:80/announce
+udp://tracker.netmap.top:6969/announce
 udp://private.anonseed.com:6969/announce
 http://incine.ru:6969/announce
 https://tracker.cangku.moe:443/announce
@@ -218,9 +218,9 @@ http://bt.xcty.eu.org:2095/announce
 udp://run.publictracker.xyz:6969/announce
 udp://ts.populargamers.co.za:6969/announce
 http://0205.uptm.ch:6969/announce
-udp://llideong.cn:6969/announce
 udp://mikrotik2.draatman.net:6969/announce
 http://smurfsoft.com:6969/announce
+udp://llideong.cn:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://tracker.enitin.xyz:80/announce
 http://home.kray.pw:6969/announce
