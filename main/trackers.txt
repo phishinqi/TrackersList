@@ -1,5 +1,3 @@
-http://00.alarmasqueretaro.com:443/announce
-
 http://1337.abcvg.info:80/announce
 
 http://207.241.226.111:6969/announce
@@ -40,8 +38,6 @@ http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
 
-http://t.overflow.biz:6969/announce
-
 http://torrentsmd.com:8080/announce
 
 http://tracker.birkenwald.de:6969/announce
@@ -66,15 +62,9 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.nartlof.com.br:6969/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.opentrackr.org:1337/announce
 
-http://tracker.qu.ax:6969/announce
-
 http://tracker.renfei.net:8080/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -254,6 +244,8 @@ udp://t.overflow.biz:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
+udp://thinking.duckdns.org:6969/announce
+
 udp://thouvenin.cloud:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
@@ -337,6 +329,8 @@ udp://u4.trakx.crim.ist:1337/announce
 udp://u6.trakx.crim.ist:1337/announce
 
 udp://uploads.gamecoast.net:6969/announce
+
+udp://wepzone.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
@@ -592,8 +586,6 @@ https://tracker.yemekyedim.com:443/announce
 
 udp://api.alarmasqueretaro.com:3074/announce
 
-http://00.alarmasqueretaro.com:443/announce
-
 udp://tracker.cyberia.is:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
@@ -736,15 +728,15 @@ udp://bt.ktrackers.com:6666/announce
 
 udp://tracker.moeking.me:6969/announce
 
-udp://tracker.teambelgium.net:6969/announce
-
-udp://tracker.torrust-demo.com:6969/announce
-
 https://1337.abcvg.info:443/announce
 
 http://openwrt.lingyurouqing.xyz:6969/announce
 
+udp://tracker.torrust-demo.com:6969/announce
+
 udp://explodie.org:6969/announce
+
+udp://tracker.teambelgium.net:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
@@ -754,6 +746,8 @@ http://t.acg.rip:6699/announce
 
 http://open.va.wiki:900/announce
 
+http://00.alarmasqueretaro.com:443/announce
+
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://bt.rer.lol:6969/announce
@@ -762,11 +756,11 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
-udp://tracker.skynetcloud.site:6969/announce
-
 http://cn.pcfreetime.com:6969/announce
 
 http://tracker.vraphim.com:6969/announce
+
+udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
@@ -784,11 +778,11 @@ udp://tracker.breizh.pm:6969/announce
 
 udp://ryjer.com:6969/announce
 
-udp://sanincode.com:6969/announce
-
 udp://tracker.netmap.top:6969/announce
 
 http://openbittorrent.com:80/announce
+
+udp://sanincode.com:6969/announce
 
 udp://tracker.6.babico.name.tr:6969/announce
 
@@ -810,13 +804,13 @@ udp://tk1v6.trackerservers.com:8080/announce
 
 udp://su-data.com:6969/announce
 
-udp://tracker.btsync.gq:233/announce
-
 udp://tracker.qu.ax:6969/announce
 
-udp://static.54.161.216.95.clients.your-server.de:6969/announce
+udp://tracker.btsync.gq:233/announce
 
 http://tracker.skyts.net:6969/announce
+
+udp://static.54.161.216.95.clients.your-server.de:6969/announce
 
 udp://freedomalternative.com:6969/announce
 
@@ -828,21 +822,19 @@ http://bt.xcty.eu.org:2095/announce
 
 udp://run.publictracker.xyz:6969/announce
 
-http://0205.uptm.ch:6969/announce
-
 http://147job.com:6969/announce
 
-udp://ts.populargamers.co.za:6969/announce
-
 http://tracker.enitin.xyz:80/announce
+
+http://0205.uptm.ch:6969/announce
+
+udp://ts.populargamers.co.za:6969/announce
 
 http://smurfsoft.com:6969/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://home.kray.pw:6969/announce
-
-udp://mikrotik2.draatman.net:6969/announce
 
 http://t.nyaatracker.com:80/announce
 
@@ -1380,6 +1372,8 @@ udp://tracker.sheesh.rip:6969/announce
 
 http://retracker.xxtor.com:80/announce
 
+udp://mikrotik2.draatman.net:6969/announce
+
 udp://tr2.ysagin.top:2715/announce
 
 udp://bigfoot1942.sektori.org:6969/announce
@@ -1419,8 +1413,6 @@ http://tracker.rev.pm:6969/announce
 https://bruisedfumblingmotion.sddsdsdsddsdss.repl.co:443/announce
 
 https://tracker.jdx3.org:443/announce
-
-http://00.alarmasqueretaro.com:443/announce
 
 http://1337.abcvg.info:80/announce
 
@@ -1462,8 +1454,6 @@ http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
 
-http://t.overflow.biz:6969/announce
-
 http://torrentsmd.com:8080/announce
 
 http://tracker.birkenwald.de:6969/announce
@@ -1488,15 +1478,9 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.nartlof.com.br:6969/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.opentrackr.org:1337/announce
 
-http://tracker.qu.ax:6969/announce
-
 http://tracker.renfei.net:8080/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -1676,6 +1660,8 @@ udp://t.overflow.biz:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
+udp://thinking.duckdns.org:6969/announce
+
 udp://thouvenin.cloud:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
@@ -1760,6 +1746,8 @@ udp://u6.trakx.crim.ist:1337/announce
 
 udp://uploads.gamecoast.net:6969/announce
 
+udp://wepzone.net:6969/announce
+
 udp://www.torrent.eu.org:451/announce
 
 udp://x.t-1.org:6969/announce
@@ -1811,8 +1799,6 @@ udp://y.paranoid.agency:6969/announce
 https://tracker.yemekyedim.com:443/announce
 
 udp://api.alarmasqueretaro.com:3074/announce
-
-http://00.alarmasqueretaro.com:443/announce
 
 udp://tracker.cyberia.is:6969/announce
 
