@@ -207,8 +207,8 @@ udp://sanincode.com:6969/announce
 http://tracker.pcfreetime.com:6969/announce
 udp://tracker.6.babico.name.tr:6969/announce
 udp://tracker.4.babico.name.tr:3131/announce
-http://00.alarmasqueretaro.com:443/announce
 udp://private.anonseed.com:6969/announce
+http://00.alarmasqueretaro.com:443/announce
 udp://tk1v6.trackerservers.com:8080/announce
 udp://open.xxtor.com:3074/announce
 https://tracker.cangku.moe:443/announce
