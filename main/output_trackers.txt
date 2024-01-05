@@ -193,8 +193,8 @@ http://ipv4announce.sktorrent.eu:6969/announce
 http://open.va.wiki:900/announce
 udp://bt.rer.lol:6969/announce
 udp://tracker.torrust-demo.com:6969/announce
-udp://tracker.teambelgium.net:6969/announce
 http://tracker.vraphim.com:6969/announce
+udp://tracker.teambelgium.net:6969/announce
 http://cn.pcfreetime.com:6969/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
@@ -213,8 +213,8 @@ udp://tk1v6.trackerservers.com:8080/announce
 http://147job.com:6969/announce
 https://tracker.cangku.moe:443/announce
 udp://open.xxtor.com:3074/announce
-http://canardscitrons.nohost.me:6969/announce
 http://rfc5746.mywaifu.best:6969/announce
+http://canardscitrons.nohost.me:6969/announce
 udp://tracker.btsync.gq:233/announce
 udp://freedomalternative.com:6969/announce
 http://tracker.enitin.xyz:80/announce
