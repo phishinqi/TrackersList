@@ -6,8 +6,6 @@ http://207.241.231.226:6969/announce
 
 http://46.17.46.112:8080/announce
 
-http://49.12.76.8:8080/announce
-
 http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
 
 http://[2a00:b700:1::3:1dc]:8080/announce
@@ -30,8 +28,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://retracker.hotplug.ru:2710/announce
 
 http://share.camoe.cn:8080/announce
@@ -39,8 +35,6 @@ http://share.camoe.cn:8080/announce
 http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
-
-http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -66,15 +60,13 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.nartlof.com.br:6969/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
-
-http://tracker.skyts.net:6969/announce
-
-http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -676,19 +668,19 @@ udp://bt1.archive.org:6969/announce
 
 http://tracker.nartlof.com.br:6969/announce
 
+udp://evan.im:6969/announce
+
 http://tracker1.itzmx.com:8080/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
-udp://evan.im:6969/announce
+https://tracker.cloudit.top:443/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-https://tracker.cloudit.top:443/announce
+http://ch3oh.ru:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
-
-http://ch3oh.ru:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -710,13 +702,13 @@ udp://bt2.archive.org:6969/announce
 
 udp://tracker3.itzmx.com:6961/announce
 
-udp://tracker.anima.nz:6969/announce
+udp://jutone.com:6969/announce
 
-http://ipv6.rer.lol:6969/announce
+udp://tracker.anima.nz:6969/announce
 
 udp://black-bird.ynh.fr:6969/announce
 
-udp://jutone.com:6969/announce
+http://ipv6.rer.lol:6969/announce
 
 udp://6.pocketnet.app:6969/announce
 
@@ -738,13 +730,13 @@ udp://tracker.moeking.me:6969/announce
 
 udp://btt.service.gongt.me:43079/announce
 
-udp://retracker.hotplug.ru:2710/announce
-
-udp://carr.codes:6969/announce
-
 http://openwrt.lingyurouqing.xyz:6969/announce
 
 udp://bt.rer.lol:6969/announce
+
+udp://retracker.hotplug.ru:2710/announce
+
+udp://carr.codes:6969/announce
 
 http://t.acg.rip:6699/announce
 
@@ -784,19 +776,19 @@ udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker.netmap.top:6969/announce
 
-udp://tracker.skynetcloud.site:6969/announce
-
 udp://epider.me:6969/announce
 
-udp://yahor.of.by:6969/announce
+udp://tracker.skynetcloud.site:6969/announce
 
 udp://su-data.com:6969/announce
 
-udp://tracker.torrust-demo.com:6969/announce
+udp://yahor.of.by:6969/announce
+
+udp://tracker.qu.ax:6969/announce
 
 http://openbittorrent.com:80/announce
 
-udp://tracker.qu.ax:6969/announce
+udp://tracker.torrust-demo.com:6969/announce
 
 udp://thouvenin.cloud:6969/announce
 
@@ -818,9 +810,9 @@ udp://tracker.4.babico.name.tr:3131/announce
 
 http://00.alarmasqueretaro.com:443/announce
 
-udp://tk1v6.trackerservers.com:8080/announce
-
 https://tracker.cangku.moe:443/announce
+
+udp://tk1v6.trackerservers.com:8080/announce
 
 udp://private.anonseed.com:6969/announce
 
@@ -832,13 +824,13 @@ http://canardscitrons.nohost.me:6969/announce
 
 udp://freedomalternative.com:6969/announce
 
+https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
+
 udp://tracker.btsync.gq:233/announce
 
 http://bt.xcty.eu.org:2095/announce
 
 udp://open.xxtor.com:3074/announce
-
-https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 
 https://tracker.moeblog.cn:443/announce
 
@@ -1432,8 +1424,6 @@ http://207.241.231.226:6969/announce
 
 http://46.17.46.112:8080/announce
 
-http://49.12.76.8:8080/announce
-
 http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
 
 http://[2a00:b700:1::3:1dc]:8080/announce
@@ -1456,8 +1446,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://retracker.hotplug.ru:2710/announce
 
 http://share.camoe.cn:8080/announce
@@ -1465,8 +1453,6 @@ http://share.camoe.cn:8080/announce
 http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
-
-http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -1492,15 +1478,13 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.nartlof.com.br:6969/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
-
-http://tracker.skyts.net:6969/announce
-
-http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -1896,19 +1880,19 @@ udp://bt1.archive.org:6969/announce
 
 http://tracker.nartlof.com.br:6969/announce
 
+udp://evan.im:6969/announce
+
 http://tracker1.itzmx.com:8080/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
-udp://evan.im:6969/announce
+https://tracker.cloudit.top:443/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-https://tracker.cloudit.top:443/announce
+http://ch3oh.ru:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
-
-http://ch3oh.ru:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -1930,13 +1914,13 @@ udp://bt2.archive.org:6969/announce
 
 udp://tracker3.itzmx.com:6961/announce
 
-udp://tracker.anima.nz:6969/announce
+udp://jutone.com:6969/announce
 
-http://ipv6.rer.lol:6969/announce
+udp://tracker.anima.nz:6969/announce
 
 udp://black-bird.ynh.fr:6969/announce
 
-udp://jutone.com:6969/announce
+http://ipv6.rer.lol:6969/announce
 
 udp://6.pocketnet.app:6969/announce
 
