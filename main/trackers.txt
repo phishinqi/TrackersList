@@ -628,8 +628,6 @@ https://tracker1.520.jp:443/announce
 
 http://p2p.0g.cx:6969/announce
 
-https://www.peckservers.com:9443/announce
-
 udp://oh.fuuuuuck.com:6969/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
@@ -643,6 +641,8 @@ udp://uploads.gamecoast.net:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 
 https://t1.hloli.org:443/announce
+
+https://www.peckservers.com:9443/announce
 
 http://v6-tracker.0g.cx:6969/announce
 
@@ -674,9 +674,9 @@ udp://moonburrow.club:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
-udp://tracker.t-rb.org:6969/announce
-
 udp://api.alarmasqueretaro.com:3074/announce
+
+udp://tracker.t-rb.org:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
@@ -688,11 +688,11 @@ udp://open.dstud.io:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
+udp://tracker.vds.nz:6969/announce
+
 udp://acxx.de:6969/announce
 
 udp://6.pocketnet.app:6969/announce
-
-udp://tracker.vds.nz:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
@@ -712,9 +712,9 @@ http://tracker1.itzmx.com:8080/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
-http://tracker.mywaifu.best:6969/announce
-
 udp://evan.im:6969/announce
+
+http://tracker.mywaifu.best:6969/announce
 
 https://tracker.cloudit.top:443/announce
 
@@ -726,13 +726,13 @@ udp://wepzone.net:6969/announce
 
 udp://jutone.com:6969/announce
 
-udp://tracker3.itzmx.com:6961/announce
-
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 udp://open.xxtor.com:3074/announce
 
+udp://tracker3.itzmx.com:6961/announce
+
 udp://black-bird.ynh.fr:6969/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://thinking.duckdns.org:6969/announce
 
@@ -744,9 +744,9 @@ udp://tracker.therarbg.to:6969/announce
 
 http://ipv6.rer.lol:6969/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
-
 udp://tracker1.myporn.club:9337/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker.anima.nz:6969/announce
 
@@ -766,9 +766,9 @@ http://open.acgtracker.com:1096/announce
 
 https://1337.abcvg.info:443/announce
 
-https://tracker2.ctix.cn:443/announce
-
 udp://tracker.breizh.pm:6969/announce
+
+https://tracker2.ctix.cn:443/announce
 
 https://tracker1.ctix.cn:443/announce
 
@@ -794,23 +794,23 @@ udp://tracker4.itzmx.com:2710/announce
 
 https://tracker.cangku.moe:443/announce
 
-udp://tracker2.itzmx.com:6961/announce
-
 udp://epider.me:6969/announce
 
-http://open.tracker.ink:6969/announce
+udp://tracker2.itzmx.com:6961/announce
 
 udp://tracker.theoks.net:6969/announce
 
-http://open.va.wiki:900/announce
+http://open.tracker.ink:6969/announce
 
-http://00.alarmasqueretaro.com:443/announce
+http://open.va.wiki:900/announce
 
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 
-https://tracker.imgoingto.icu:443/announce
+http://00.alarmasqueretaro.com:443/announce
 
 udp://btt.service.gongt.me:43079/announce
+
+https://tracker.imgoingto.icu:443/announce
 
 udp://tracker.openbittorrent.com:6969/announce
 
@@ -842,9 +842,9 @@ http://wg.mortis.me:6969/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
-udp://tracker.teambelgium.net:6969/announce
-
 http://cn.pcfreetime.com:6969/announce
+
+udp://tracker.teambelgium.net:6969/announce
 
 udp://thouvenin.cloud:6969/announce
 
@@ -1866,8 +1866,6 @@ https://tracker1.520.jp:443/announce
 
 http://p2p.0g.cx:6969/announce
 
-https://www.peckservers.com:9443/announce
-
 udp://oh.fuuuuuck.com:6969/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
@@ -1881,6 +1879,8 @@ udp://uploads.gamecoast.net:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 
 https://t1.hloli.org:443/announce
+
+https://www.peckservers.com:9443/announce
 
 http://v6-tracker.0g.cx:6969/announce
 
@@ -1912,9 +1912,9 @@ udp://moonburrow.club:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
-udp://tracker.t-rb.org:6969/announce
-
 udp://api.alarmasqueretaro.com:3074/announce
+
+udp://tracker.t-rb.org:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
@@ -1926,11 +1926,11 @@ udp://open.dstud.io:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
+udp://tracker.vds.nz:6969/announce
+
 udp://acxx.de:6969/announce
 
 udp://6.pocketnet.app:6969/announce
-
-udp://tracker.vds.nz:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
@@ -1950,9 +1950,9 @@ http://tracker1.itzmx.com:8080/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
-http://tracker.mywaifu.best:6969/announce
-
 udp://evan.im:6969/announce
+
+http://tracker.mywaifu.best:6969/announce
 
 https://tracker.cloudit.top:443/announce
 
@@ -1964,13 +1964,13 @@ udp://wepzone.net:6969/announce
 
 udp://jutone.com:6969/announce
 
-udp://tracker3.itzmx.com:6961/announce
-
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 udp://open.xxtor.com:3074/announce
 
+udp://tracker3.itzmx.com:6961/announce
+
 udp://black-bird.ynh.fr:6969/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://thinking.duckdns.org:6969/announce
 
