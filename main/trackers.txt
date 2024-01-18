@@ -676,7 +676,7 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://moonburrow.club:6969/announce
 
-http://uraniumhexafluori.de:1919/announce
+udp://tracker.qu.ax:6969/announce
 
 udp://tracker.t-rb.org:6969/announce
 
@@ -690,8 +690,6 @@ udp://bt1.archive.org:6969/announce
 
 udp://open.dstud.io:6969/announce
 
-udp://tracker.qu.ax:6969/announce
-
 udp://www.torrent.eu.org:451/announce
 
 udp://r.l5.ca:6969/announce
@@ -701,6 +699,8 @@ udp://acxx.de:6969/announce
 udp://6.pocketnet.app:6969/announce
 
 udp://tracker.vds.nz:6969/announce
+
+http://uraniumhexafluori.de:1919/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
@@ -734,9 +734,9 @@ udp://tracker3.itzmx.com:6961/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-udp://black-bird.ynh.fr:6969/announce
-
 udp://open.xxtor.com:3074/announce
+
+udp://black-bird.ynh.fr:6969/announce
 
 udp://thinking.duckdns.org:6969/announce
 
@@ -756,19 +756,17 @@ udp://tracker.anima.nz:6969/announce
 
 udp://1c.premierzal.ru:6969/announce
 
-udp://bt.rer.lol:6969/announce
+http://t.acg.rip:6699/announce
 
 http://openwrt.lingyurouqing.xyz:6969/announce
 
+udp://bt.rer.lol:6969/announce
+
 udp://t.overflow.biz:6969/announce
-
-http://t.acg.rip:6699/announce
-
-https://tracker2.ctix.cn:443/announce
 
 udp://tracker2.dler.com:80/announce
 
-https://tracker1.ctix.cn:443/announce
+https://tracker2.ctix.cn:443/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -776,21 +774,23 @@ https://1337.abcvg.info:443/announce
 
 udp://tracker.breizh.pm:6969/announce
 
+https://tracker1.ctix.cn:443/announce
+
 udp://tracker.moeking.me:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
-udp://open.u-p.pw:6969/announce
-
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
+udp://open.u-p.pw:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
 http://147job.com:6969/announce
 
-udp://p4p.arenabg.com:1337/announce
-
 http://tracker.vraphim.com:6969/announce
+
+udp://p4p.arenabg.com:1337/announce
 
 udp://ryjer.com:6969/announce
 
@@ -806,9 +806,9 @@ http://open.tracker.ink:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
-https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
-
 http://open.va.wiki:900/announce
+
+https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 
 http://00.alarmasqueretaro.com:443/announce
 
@@ -818,9 +818,9 @@ udp://btt.service.gongt.me:43079/announce
 
 udp://tracker.openbittorrent.com:6969/announce
 
-udp://tracker.netmap.top:6969/announce
-
 http://rfc5746.mywaifu.best:6969/announce
+
+udp://tracker.netmap.top:6969/announce
 
 http://tracker.cubicview.site:80/announce
 
@@ -838,9 +838,9 @@ udp://yahor.of.by:6969/announce
 
 http://bt.xcty.eu.org:2095/announce
 
-udp://tracker.ccp.ovh:6969/announce
-
 http://tracker.skyts.net:6969/announce
+
+udp://tracker.ccp.ovh:6969/announce
 
 http://wg.mortis.me:6969/announce
 
@@ -850,13 +850,13 @@ udp://tracker.teambelgium.net:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
-udp://sabross.xyz:6969/announce
-
 udp://thouvenin.cloud:6969/announce
 
 udp://freedomalternative.com:6969/announce
 
 http://canardscitrons.nohost.me:6969/announce
+
+udp://sabross.xyz:6969/announce
 
 https://fbiagent.cyou:443/announce
 
@@ -991,8 +991,6 @@ udp://run-2.publictracker.xyz:6969/announce
 https://tr.abiir.top:443/announce
 
 http://t.publictracker.xyz:6969/announce
-
-https://tracker.quix.cf:443/announce
 
 udp://xxx.xxtor.com:3074/announce
 
@@ -1920,7 +1918,7 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://moonburrow.club:6969/announce
 
-http://uraniumhexafluori.de:1919/announce
+udp://tracker.qu.ax:6969/announce
 
 udp://tracker.t-rb.org:6969/announce
 
@@ -1934,8 +1932,6 @@ udp://bt1.archive.org:6969/announce
 
 udp://open.dstud.io:6969/announce
 
-udp://tracker.qu.ax:6969/announce
-
 udp://www.torrent.eu.org:451/announce
 
 udp://r.l5.ca:6969/announce
@@ -1945,6 +1941,8 @@ udp://acxx.de:6969/announce
 udp://6.pocketnet.app:6969/announce
 
 udp://tracker.vds.nz:6969/announce
+
+http://uraniumhexafluori.de:1919/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
@@ -1978,9 +1976,9 @@ udp://tracker3.itzmx.com:6961/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-udp://black-bird.ynh.fr:6969/announce
-
 udp://open.xxtor.com:3074/announce
+
+udp://black-bird.ynh.fr:6969/announce
 
 udp://thinking.duckdns.org:6969/announce
 
