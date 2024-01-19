@@ -26,6 +26,8 @@ http://ch3oh.ru:6969/announce
 
 http://ipv6.rer.lol:6969/announce
 
+http://movies.zsw.ca:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
@@ -67,6 +69,10 @@ http://tracker.opentrackr.org:1337/announce
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
+
+http://tracker.skyts.net:6969/announce
+
+http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -275,6 +281,8 @@ udp://tracker.artixlinux.org:6969/announce
 udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
+
+udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker.cubonegro.lol:6969/announce
 
@@ -652,8 +660,6 @@ udp://tracker.therarbg.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
-https://tracker.jdx3.org:443/announce
-
 udp://tracker.mirrorbay.org:6969/announce
 
 https://tr.qfruiti.com:443/announce
@@ -671,6 +677,8 @@ udp://tracker.cyberia.is:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://moonburrow.club:6969/announce
+
+https://tracker.jdx3.org:443/announce
 
 udp://tracker.qu.ax:6969/announce
 
@@ -700,9 +708,9 @@ http://uraniumhexafluori.de:1919/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
-udp://u4.trakx.crim.ist:1337/announce
-
 udp://r.l5.ca:6969/announce
+
+udp://u4.trakx.crim.ist:1337/announce
 
 http://ch3oh.ru:6969/announce
 
@@ -724,9 +732,9 @@ udp://tracker.srv00.com:6969/announce
 
 udp://wepzone.net:6969/announce
 
-udp://jutone.com:6969/announce
-
 udp://open.xxtor.com:3074/announce
+
+udp://jutone.com:6969/announce
 
 udp://tracker3.itzmx.com:6961/announce
 
@@ -786,13 +794,13 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 http://tracker.vraphim.com:6969/announce
 
-udp://p4p.arenabg.com:1337/announce
-
 udp://ryjer.com:6969/announce
 
-udp://tracker4.itzmx.com:2710/announce
+udp://p4p.arenabg.com:1337/announce
 
 https://tracker.cangku.moe:443/announce
+
+udp://tracker4.itzmx.com:2710/announce
 
 udp://epider.me:6969/announce
 
@@ -848,13 +856,13 @@ udp://tracker.teambelgium.net:6969/announce
 
 udp://thouvenin.cloud:6969/announce
 
-udp://freedomalternative.com:6969/announce
-
 http://canardscitrons.nohost.me:6969/announce
 
-udp://sabross.xyz:6969/announce
+udp://freedomalternative.com:6969/announce
 
 https://fbiagent.cyou:443/announce
+
+udp://sabross.xyz:6969/announce
 
 udp://tk1v6.trackerservers.com:8080/announce
 
@@ -1470,6 +1478,8 @@ http://ch3oh.ru:6969/announce
 
 http://ipv6.rer.lol:6969/announce
 
+http://movies.zsw.ca:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
@@ -1511,6 +1521,10 @@ http://tracker.opentrackr.org:1337/announce
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
+
+http://tracker.skyts.net:6969/announce
+
+http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -1720,6 +1734,8 @@ udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
+udp://tracker.ccp.ovh:6969/announce
+
 udp://tracker.cubonegro.lol:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
@@ -1890,8 +1906,6 @@ udp://tracker.therarbg.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
-https://tracker.jdx3.org:443/announce
-
 udp://tracker.mirrorbay.org:6969/announce
 
 https://tr.qfruiti.com:443/announce
@@ -1909,6 +1923,8 @@ udp://tracker.cyberia.is:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://moonburrow.club:6969/announce
+
+https://tracker.jdx3.org:443/announce
 
 udp://tracker.qu.ax:6969/announce
 
@@ -1938,9 +1954,9 @@ http://uraniumhexafluori.de:1919/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
-udp://u4.trakx.crim.ist:1337/announce
-
 udp://r.l5.ca:6969/announce
+
+udp://u4.trakx.crim.ist:1337/announce
 
 http://ch3oh.ru:6969/announce
 
@@ -1962,9 +1978,9 @@ udp://tracker.srv00.com:6969/announce
 
 udp://wepzone.net:6969/announce
 
-udp://jutone.com:6969/announce
-
 udp://open.xxtor.com:3074/announce
+
+udp://jutone.com:6969/announce
 
 udp://tracker3.itzmx.com:6961/announce
 
