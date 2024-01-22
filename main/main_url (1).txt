@@ -1,8 +1,8 @@
 https://trackerslist.com/all.txt
 https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all.txt
 https://newtrackon.com/api/all
-https://newtrackon.com/api/stable
 https://cf.trackerslist.com/all.txt
+https://newtrackon.com/api/stable
 https://cdn.jsdelivr.net/gh/DeSireFire/animeTrackerList/AT_all.txt
 https://gitee.com/harvey520/www.yaozuopan.top/raw/master/blacklist.txt
 http://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt
