@@ -226,8 +226,8 @@ https://bot.ponomar-sibir.ru:443/announce
 http://region.nl1.privex.cc:6969/announce
 https://fbiagent.cyou:443/announce
 https://tracker.moeblog.cn:443/announce
-udp://run.publictracker.xyz:6969/announce
 http://isk.richardsw.club:6969/announce
+udp://run.publictracker.xyz:6969/announce
 udp://tk.cubicview.site:80/announce
 http://0205.uptm.ch:6969/announce
 udp://tracker.4.babico.name.tr:3131/announce
