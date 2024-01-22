@@ -14,7 +14,7 @@ if os.path.exists(url_path):
     print("--------------------")
 else:
     print("文件不存在！正在创建中......")
-    main_url = "https://raw.githubusercontent.com/phishinqi/phishinqi.github.io/main/assets/txt/trackers_url.txt"
+    main_url = "https://raw.githubusercontent.com/Sereinfy/TrackersList/main/main/main_url.txt"
     wget.download(main_url, "./main_url.txt")
     #os.mkdir(url_path)
     print("OK!")
@@ -33,9 +33,9 @@ print("URL列表：", result)
 print("--------------------")
 
 
-#打印網頁至trackers.txt
+#打印网页至trackers.txt
 file_path = os.getcwd()
-#print("當前文件路徑：", file_path)
+#print("当前文件路径：", file_path)
 path = file_path + '\\trackers.txt'
 print("正在输出trackers至trackers.txt")
 if os.path.exists(path):
@@ -56,8 +56,8 @@ else:
 
 
 
-#打開網頁
-#print("正在嘗試獲取trackers......")
+#打开网页
+#print("正在尝试获取trackers......")
 trackers_list = []
 for url_line in open("./main_url.txt"):
     print(url_line)
