@@ -618,8 +618,6 @@ udp://tracker.torrust-demo.com:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
 
-https://tr.qfruiti.in:443/announce
-
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
 https://shahidrazi.online:443/announce
@@ -641,6 +639,8 @@ udp://ns1.monolithindustries.com:6969/announce
 udp://tracker.0x7c0.com:6969/announce
 
 https://tr.qfruiti.com:443/announce
+
+https://tr.qfruiti.in:443/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -700,13 +700,13 @@ udp://acxx.de:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
-http://uraniumhexafluori.de:1919/announce
-
 http://tracker1.itzmx.com:8080/announce
 
 udp://6.pocketnet.app:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+http://uraniumhexafluori.de:1919/announce
 
 udp://new-line.net:6969/announce
 
@@ -800,9 +800,9 @@ udp://tracker.theoks.net:6969/announce
 
 udp://tracker2.itzmx.com:6961/announce
 
-udp://p4p.arenabg.com:1337/announce
-
 http://open.tracker.ink:6969/announce
+
+udp://p4p.arenabg.com:1337/announce
 
 udp://btt.service.gongt.me:43079/announce
 
@@ -860,9 +860,9 @@ https://fbiagent.cyou:443/announce
 
 https://tracker.moeblog.cn:443/announce
 
-udp://run.publictracker.xyz:6969/announce
-
 http://isk.richardsw.club:6969/announce
+
+udp://run.publictracker.xyz:6969/announce
 
 udp://tk.cubicview.site:80/announce
 
@@ -1860,8 +1860,6 @@ udp://tracker.torrust-demo.com:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
 
-https://tr.qfruiti.in:443/announce
-
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
 https://shahidrazi.online:443/announce
@@ -1883,6 +1881,8 @@ udp://ns1.monolithindustries.com:6969/announce
 udp://tracker.0x7c0.com:6969/announce
 
 https://tr.qfruiti.com:443/announce
+
+https://tr.qfruiti.in:443/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -1942,13 +1942,13 @@ udp://acxx.de:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
-http://uraniumhexafluori.de:1919/announce
-
 http://tracker1.itzmx.com:8080/announce
 
 udp://6.pocketnet.app:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+http://uraniumhexafluori.de:1919/announce
 
 udp://new-line.net:6969/announce
 
