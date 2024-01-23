@@ -26,13 +26,16 @@ jobs:
           python PyTrackers.py
         working-directory: ./main
       
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v4
-        
-      - uses: actions/upload-artifact@v3
+      - name: Commit Changes
+        id: commit
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          name: my-artifact
-          path: |
-            ./main/trackers.txt
-            ./main/output_trackers.txt
-          retention-days: 1
+          commit_message: 🚀 CI Updated
+
+      - name: GitHub Push
+        if: steps.commit.outputs.changes_detected == 'true'
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{secrets.GITHUB_TOKEN}}
+          branch: ${{github.ref}}
+
