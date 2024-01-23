@@ -626,6 +626,8 @@ udp://tracker.dler.com:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
+udp://opentracker.i2p.rocks:6969/announce
+
 https://tracker1.520.jp:443/announce
 
 https://t1.hloli.org:443/announce
@@ -639,8 +641,6 @@ https://tr.qfruiti.com:443/announce
 https://tr.qfruiti.in:443/announce
 
 udp://tracker-udp.gbitt.info:80/announce
-
-udp://opentracker.i2p.rocks:6969/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -664,11 +664,11 @@ udp://tracker.tryhackx.org:6969/announce
 
 http://bvarf.tracker.sh:2086/announce
 
+udp://open.dstud.io:6969/announce
+
 https://tracker.jdx3.org:443/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
-
-udp://open.dstud.io:6969/announce
 
 udp://moonburrow.club:6969/announce
 
@@ -682,9 +682,9 @@ udp://bt1.archive.org:6969/announce
 
 udp://api.alarmasqueretaro.com:3074/announce
 
-udp://tracker.t-rb.org:6969/announce
-
 udp://u6.trakx.crim.ist:1337/announce
+
+udp://tracker.t-rb.org:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
@@ -782,9 +782,9 @@ udp://open.u-p.pw:6969/announce
 
 http://tracker.nartlof.com.br:6969/announce
 
-udp://r.l5.ca:6969/announce
-
 http://ipv4announce.sktorrent.eu:6969/announce
+
+udp://r.l5.ca:6969/announce
 
 http://tracker.vraphim.com:6969/announce
 
@@ -798,9 +798,9 @@ https://tracker2.ctix.cn:443/announce
 
 udp://btt.service.gongt.me:43079/announce
 
-http://open.tracker.ink:6969/announce
-
 udp://tracker2.itzmx.com:6961/announce
+
+http://open.tracker.ink:6969/announce
 
 https://tracker1.ctix.cn:443/announce
 
@@ -846,9 +846,9 @@ udp://retracker.hotplug.ru:2710/announce
 
 udp://carr.codes:6969/announce
 
-http://cn.pcfreetime.com:6969/announce
-
 udp://thouvenin.cloud:6969/announce
+
+http://cn.pcfreetime.com:6969/announce
 
 http://region.nl1.privex.cc:6969/announce
 
@@ -1866,6 +1866,8 @@ udp://tracker.dler.com:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
+udp://opentracker.i2p.rocks:6969/announce
+
 https://tracker1.520.jp:443/announce
 
 https://t1.hloli.org:443/announce
@@ -1879,8 +1881,6 @@ https://tr.qfruiti.com:443/announce
 https://tr.qfruiti.in:443/announce
 
 udp://tracker-udp.gbitt.info:80/announce
-
-udp://opentracker.i2p.rocks:6969/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -1904,11 +1904,11 @@ udp://tracker.tryhackx.org:6969/announce
 
 http://bvarf.tracker.sh:2086/announce
 
+udp://open.dstud.io:6969/announce
+
 https://tracker.jdx3.org:443/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
-
-udp://open.dstud.io:6969/announce
 
 udp://moonburrow.club:6969/announce
 
@@ -1922,9 +1922,9 @@ udp://bt1.archive.org:6969/announce
 
 udp://api.alarmasqueretaro.com:3074/announce
 
-udp://tracker.t-rb.org:6969/announce
-
 udp://u6.trakx.crim.ist:1337/announce
+
+udp://tracker.t-rb.org:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
