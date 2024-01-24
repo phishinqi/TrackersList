@@ -660,7 +660,7 @@ http://bvarf.tracker.sh:2086/announce
 
 udp://tracker.cyberia.is:6969/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
+udp://epider.me:6969/announce
 
 udp://moonburrow.club:6969/announce
 
@@ -669,6 +669,8 @@ udp://retracker.lanta.me:2710/announce
 udp://exodus.desync.com:6969/announce
 
 udp://bt1.archive.org:6969/announce
+
+udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
@@ -681,8 +683,6 @@ udp://tracker.t-rb.org:6969/announce
 udp://tracker.vds.nz:6969/announce
 
 udp://www.torrent.eu.org:451/announce
-
-udp://epider.me:6969/announce
 
 udp://acxx.de:6969/announce
 
@@ -698,17 +698,17 @@ http://tracker1.itzmx.com:8080/announce
 
 udp://6.pocketnet.app:6969/announce
 
-udp://evan.im:6969/announce
-
 udp://tk1.trackerservers.com:8080/announce
 
+udp://evan.im:6969/announce
+
 https://tracker.cloudit.top:443/announce
+
+udp://explodie.org:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
 http://ch3oh.ru:6969/announce
-
-udp://explodie.org:6969/announce
 
 udp://wepzone.net:6969/announce
 
@@ -722,15 +722,15 @@ udp://bt2.archive.org:6969/announce
 
 udp://thinking.duckdns.org:6969/announce
 
+http://ipv6.rer.lol:6969/announce
+
+http://t.acg.rip:6699/announce
+
 udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://new-line.net:6969/announce
 
-http://ipv6.rer.lol:6969/announce
-
 http://uraniumhexafluori.de:1919/announce
-
-http://t.acg.rip:6699/announce
 
 udp://black-bird.ynh.fr:6969/announce
 
@@ -772,9 +772,9 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 http://tracker.vraphim.com:6969/announce
 
-http://tracker.nartlof.com.br:6969/announce
-
 udp://btt.service.gongt.me:43079/announce
+
+http://tracker.nartlof.com.br:6969/announce
 
 http://open.va.wiki:900/announce
 
@@ -786,13 +786,13 @@ udp://r.l5.ca:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
-udp://tracker2.itzmx.com:6961/announce
-
 http://open.tracker.ink:6969/announce
 
-https://tracker2.ctix.cn:443/announce
+udp://tracker2.itzmx.com:6961/announce
 
 http://rfc5746.mywaifu.best:6969/announce
+
+https://tracker2.ctix.cn:443/announce
 
 https://tracker1.ctix.cn:443/announce
 
@@ -818,15 +818,15 @@ udp://tracker.jamesthebard.net:6969/announce
 
 http://tracker.skyts.net:6969/announce
 
-http://tracker.cubicview.site:80/announce
-
 http://bt.xcty.eu.org:2095/announce
+
+http://tracker.cubicview.site:80/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
-http://wg.mortis.me:6969/announce
-
 udp://p2p.publictracker.xyz:6969/announce
+
+http://wg.mortis.me:6969/announce
 
 udp://yahor.of.by:6969/announce
 
@@ -838,9 +838,9 @@ http://region.nl1.privex.cc:6969/announce
 
 udp://thouvenin.cloud:6969/announce
 
-udp://retracker.hotplug.ru:2710/announce
-
 http://cn.pcfreetime.com:6969/announce
+
+udp://retracker.hotplug.ru:2710/announce
 
 udp://carr.codes:6969/announce
 
@@ -1886,7 +1886,7 @@ http://bvarf.tracker.sh:2086/announce
 
 udp://tracker.cyberia.is:6969/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
+udp://epider.me:6969/announce
 
 udp://moonburrow.club:6969/announce
 
@@ -1895,6 +1895,8 @@ udp://retracker.lanta.me:2710/announce
 udp://exodus.desync.com:6969/announce
 
 udp://bt1.archive.org:6969/announce
+
+udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
@@ -1907,8 +1909,6 @@ udp://tracker.t-rb.org:6969/announce
 udp://tracker.vds.nz:6969/announce
 
 udp://www.torrent.eu.org:451/announce
-
-udp://epider.me:6969/announce
 
 udp://acxx.de:6969/announce
 
@@ -1924,17 +1924,17 @@ http://tracker1.itzmx.com:8080/announce
 
 udp://6.pocketnet.app:6969/announce
 
-udp://evan.im:6969/announce
-
 udp://tk1.trackerservers.com:8080/announce
 
+udp://evan.im:6969/announce
+
 https://tracker.cloudit.top:443/announce
+
+udp://explodie.org:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
 http://ch3oh.ru:6969/announce
-
-udp://explodie.org:6969/announce
 
 udp://wepzone.net:6969/announce
 
@@ -1948,15 +1948,15 @@ udp://bt2.archive.org:6969/announce
 
 udp://thinking.duckdns.org:6969/announce
 
+http://ipv6.rer.lol:6969/announce
+
+http://t.acg.rip:6699/announce
+
 udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://new-line.net:6969/announce
 
-http://ipv6.rer.lol:6969/announce
-
 http://uraniumhexafluori.de:1919/announce
-
-http://t.acg.rip:6699/announce
 
 http://tracker.gbitt.info/announce
 https://tracker.lilithraws.cf/announce
