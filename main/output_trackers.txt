@@ -22,7 +22,7 @@ http://t.nyaatracker.com:80/announce
 http://torrentsmd.com:8080/announce
 http://tracker.birkenwald.de:6969/announce
 http://tracker.bt4g.com:2095/announce
-http://tracker.dler.com:6969/announce
+http://tracker.dler.org:6969/announce
 http://tracker.edkj.club:6969/announce
 http://tracker.electro-torrent.pl:80/announce
 http://tracker.files.fm:6969/announce
@@ -178,7 +178,6 @@ http://tracker.openbittorrent.com:80/announce
 udp://explodie.org:6969/announce
 http://tracker.skyts.net:6969/announce
 udp://thinking.duckdns.org:6969/announce
-http://tracker.dler.org:6969/announce
 http://t.overflow.biz:6969/announce
 http://open.acgtracker.com:1096/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
@@ -196,15 +195,15 @@ http://147job.com:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 http://tracker.vraphim.com:6969/announce
 udp://btt.service.gongt.me:43079/announce
-http://tracker.nartlof.com.br:6969/announce
 http://open.va.wiki:900/announce
+http://tracker.nartlof.com.br:6969/announce
 https://tracker.cangku.moe:443/announce
 udp://r.l5.ca:6969/announce
 http://open.tracker.ink:6969/announce
 http://rfc5746.mywaifu.best:6969/announce
 https://tracker2.ctix.cn:443/announce
-https://tracker1.ctix.cn:443/announce
 udp://tracker.netmap.top:6969/announce
+https://tracker1.ctix.cn:443/announce
 udp://tracker.openbittorrent.com:6969/announce
 http://tracker.enitin.xyz:80/announce
 http://openbittorrent.com:80/announce
@@ -222,8 +221,8 @@ http://canardscitrons.nohost.me:6969/announce
 http://region.nl1.privex.cc:6969/announce
 udp://thouvenin.cloud:6969/announce
 http://cn.pcfreetime.com:6969/announce
-udp://carr.codes:6969/announce
 https://fbiagent.cyou:443/announce
+udp://carr.codes:6969/announce
 https://tracker.moeblog.cn:443/announce
 http://isk.richardsw.club:6969/announce
 udp://run.publictracker.xyz:6969/announce
@@ -605,6 +604,7 @@ http://fxtt.ru/announce
 https://tr.bangumi.moe:9696/announce
 http://93.158.213.92:1337/announce
 http://www.zone-torrent.net:80/announce.php
+http://tracker.dler.com:6969/announce
 udp://theodoric.fr:6969/announce
 http://data-bg.net:80/announce.php
 http://open.acgnxtracker.com/announce
