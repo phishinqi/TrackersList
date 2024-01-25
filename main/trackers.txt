@@ -692,11 +692,11 @@ udp://api.alarmasqueretaro.com:3074/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://tracker.qu.ax:6969/announce
-
 udp://tracker.t-rb.org:6969/announce
 
 udp://tracker.vds.nz:6969/announce
+
+udp://tracker.qu.ax:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
@@ -734,11 +734,11 @@ udp://tracker.therarbg.to:6969/announce
 
 udp://jutone.com:6969/announce
 
+http://t.acg.rip:6699/announce
+
 udp://tracker3.itzmx.com:6961/announce
 
 udp://bt2.archive.org:6969/announce
-
-http://t.acg.rip:6699/announce
 
 udp://thinking.duckdns.org:6969/announce
 
@@ -746,29 +746,29 @@ http://ipv6.rer.lol:6969/announce
 
 udp://new-line.net:6969/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 http://uraniumhexafluori.de:1919/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://tracker1.myporn.club:9337/announce
 
 udp://black-bird.ynh.fr:6969/announce
 
-https://tracker.gcrreen.xyz:443/announce
-
 udp://tracker.anima.nz:6969/announce
+
+https://tracker.gcrreen.xyz:443/announce
 
 http://openwrt.lingyurouqing.xyz:6969/announce
 
-udp://bt.rer.lol:6969/announce
-
 udp://t.overflow.biz:6969/announce
+
+udp://bt.rer.lol:6969/announce
 
 udp://1c.premierzal.ru:6969/announce
 
-udp://bt.ktrackers.com:6666/announce
-
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
+udp://bt.ktrackers.com:6666/announce
 
 udp://tracker2.dler.com:80/announce
 
@@ -824,9 +824,9 @@ https://tracker1.ctix.cn:443/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-https://tracker.imgoingto.icu:443/announce
-
 http://openbittorrent.com:80/announce
+
+https://tracker.imgoingto.icu:443/announce
 
 https://bot.ponomar-sibir.ru:443/announce
 
@@ -838,11 +838,11 @@ http://tracker.skyts.net:6969/announce
 
 http://bt.xcty.eu.org:2095/announce
 
+udp://p2p.publictracker.xyz:6969/announce
+
 http://tracker.cubicview.site:80/announce
 
 udp://tracker.jamesthebard.net:6969/announce
-
-udp://p2p.publictracker.xyz:6969/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
@@ -864,11 +864,11 @@ https://fbiagent.cyou:443/announce
 
 https://tracker.moeblog.cn:443/announce
 
-udp://retracker.hotplug.ru:2710/announce
-
 udp://open.tracker.cl:1337/announce
 
 http://isk.richardsw.club:6969/announce
+
+udp://retracker.hotplug.ru:2710/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
@@ -1930,11 +1930,11 @@ udp://api.alarmasqueretaro.com:3074/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://tracker.qu.ax:6969/announce
-
 udp://tracker.t-rb.org:6969/announce
 
 udp://tracker.vds.nz:6969/announce
+
+udp://tracker.qu.ax:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
@@ -1972,11 +1972,11 @@ udp://tracker.therarbg.to:6969/announce
 
 udp://jutone.com:6969/announce
 
+http://t.acg.rip:6699/announce
+
 udp://tracker3.itzmx.com:6961/announce
 
 udp://bt2.archive.org:6969/announce
-
-http://t.acg.rip:6699/announce
 
 udp://thinking.duckdns.org:6969/announce
 
@@ -1984,9 +1984,11 @@ http://ipv6.rer.lol:6969/announce
 
 udp://new-line.net:6969/announce
 
+http://uraniumhexafluori.de:1919/announce
+
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-http://uraniumhexafluori.de:1919/announce
+udp://tracker1.myporn.club:9337/announce
 
 http://tracker.gbitt.info/announce
 https://tracker.lilithraws.cf/announce
