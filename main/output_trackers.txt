@@ -200,12 +200,12 @@ http://open.va.wiki:900/announce
 http://147job.com:6969/announce
 http://tracker.nartlof.com.br:6969/announce
 https://tracker.cangku.moe:443/announce
-udp://tracker.netmap.top:6969/announce
 http://tracker.enitin.xyz:80/announce
+udp://tracker.netmap.top:6969/announce
 udp://r.l5.ca:6969/announce
-http://rfc5746.mywaifu.best:6969/announce
-udp://tracker.openbittorrent.com:6969/announce
 https://bot.ponomar-sibir.ru:443/announce
+udp://tracker.openbittorrent.com:6969/announce
+http://rfc5746.mywaifu.best:6969/announce
 https://tracker2.ctix.cn:443/announce
 https://tracker1.ctix.cn:443/announce
 http://openbittorrent.com:80/announce
@@ -223,8 +223,8 @@ http://region.nl1.privex.cc:6969/announce
 udp://thouvenin.cloud:6969/announce
 http://cn.pcfreetime.com:6969/announce
 https://fbiagent.cyou:443/announce
-https://tracker.moeblog.cn:443/announce
 udp://open.tracker.cl:1337/announce
+https://tracker.moeblog.cn:443/announce
 http://isk.richardsw.club:6969/announce
 http://tracker.pcfreetime.com:6969/announce
 udp://run.publictracker.xyz:6969/announce
