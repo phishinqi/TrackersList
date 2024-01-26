@@ -199,14 +199,14 @@ udp://tracker.breizh.pm:6969/announce
 udp://btt.service.gongt.me:43079/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 http://tracker.vraphim.com:6969/announce
-http://147job.com:6969/announce
 http://open.va.wiki:900/announce
+http://147job.com:6969/announce
 http://tracker.nartlof.com.br:6969/announce
 https://tracker.cangku.moe:443/announce
 udp://r.l5.ca:6969/announce
 udp://tracker.netmap.top:6969/announce
-http://rfc5746.mywaifu.best:6969/announce
 http://tracker.enitin.xyz:80/announce
+http://rfc5746.mywaifu.best:6969/announce
 https://tracker2.ctix.cn:443/announce
 https://tracker1.ctix.cn:443/announce
 https://bot.ponomar-sibir.ru:443/announce
@@ -275,7 +275,6 @@ udp://ipv6.tracker.monitorit4.me:6969/announce
 https://tracker.nodetopia.xyz:443/announce
 udp://jeremylee.sh:6969/announce
 http://reisub.nsupdate.info:6969/announce
-udp://tracker.skyts.cn:6969/announce
 udp://bubu.mapfactor.com:6969/announce
 udp://torrentclub.space:6969/announce
 http://bt.endpot.com:80/announce
