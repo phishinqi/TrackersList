@@ -191,8 +191,8 @@ http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 http://p2p.0g.cx:6969/announce
 udp://t.overflow.biz:6969/announce
 udp://black-bird.ynh.fr:6969/announce
-http://openwrt.lingyurouqing.xyz:6969/announce
 udp://bt.rer.lol:6969/announce
+http://openwrt.lingyurouqing.xyz:6969/announce
 udp://tracker2.dler.com:80/announce
 udp://tracker.breizh.pm:6969/announce
 udp://btt.service.gongt.me:43079/announce
@@ -212,12 +212,12 @@ https://bot.ponomar-sibir.ru:443/announce
 https://tracker1.ctix.cn:443/announce
 http://openbittorrent.com:80/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
-http://00.alarmasqueretaro.com:443/announce
 udp://p2p.publictracker.xyz:6969/announce
+http://00.alarmasqueretaro.com:443/announce
 http://bt.xcty.eu.org:2095/announce
 http://tracker.cubicview.site:80/announce
-udp://tracker.jamesthebard.net:6969/announce
 http://wg.mortis.me:6969/announce
+udp://tracker.jamesthebard.net:6969/announce
 udp://yahor.of.by:6969/announce
 udp://freedomalternative.com:6969/announce
 http://canardscitrons.nohost.me:6969/announce
