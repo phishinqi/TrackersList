@@ -34,7 +34,6 @@ http://tracker.mywaifu.best:6969/announce
 http://tracker.opentrackr.org:1337/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
-http://tracker2.dler.org:80/announce
 http://tracker2.itzmx.com:6961/announce
 http://tracker3.itzmx.com:6961/announce
 http://tracker4.itzmx.com:2710/announce
@@ -182,6 +181,7 @@ wss://tracker.openwebtorrent.com:443/announceudp://tracker.opentrackr.org:1337/a
 http://tracker.openbittorrent.com:80/announce
 http://tracker.skyts.net:6969/announce
 http://open.tracker.ink:6969/announce
+http://tracker2.dler.org:80/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 http://tracker.dler.org:6969/announce
 http://t.overflow.biz:6969/announce
@@ -197,8 +197,8 @@ udp://tracker.breizh.pm:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://acxx.de:6969/announce
 http://open.va.wiki:900/announce
-http://ipv4announce.sktorrent.eu:6969/announce
 http://tracker.vraphim.com:6969/announce
+http://ipv4announce.sktorrent.eu:6969/announce
 https://bot.ponomar-sibir.ru:443/announce
 udp://btt.service.gongt.me:43079/announce
 https://tracker.jdx3.org:443/announce
@@ -206,8 +206,8 @@ https://tracker.cangku.moe:443/announce
 http://tracker.enitin.xyz:80/announce
 http://147job.com:6969/announce
 udp://tracker.netmap.top:6969/announce
-http://tracker.nartlof.com.br:6969/announce
 http://rfc5746.mywaifu.best:6969/announce
+http://tracker.nartlof.com.br:6969/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 http://openbittorrent.com:80/announce
 https://tracker.imgoingto.icu:443/announce
@@ -230,9 +230,9 @@ https://tracker.moeblog.cn:443/announce
 http://isk.richardsw.club:6969/announce
 http://0205.uptm.ch:6969/announce
 udp://tk.cubicview.site:80/announce
-udp://run.publictracker.xyz:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 udp://public.publictracker.xyz:6969/announce
+udp://run.publictracker.xyz:6969/announce
 http://home.kray.pw:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
 udp://retracker.lanta-net.ru:2710/announce
