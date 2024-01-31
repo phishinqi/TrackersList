@@ -196,14 +196,14 @@ udp://tracker.cyberia.is:6969/announce
 udp://black-bird.ynh.fr:6969/announce
 udp://tracker2.dler.com:80/announce
 http://openwrt.lingyurouqing.xyz:6969/announce
-udp://tracker.vds.nz:6969/announce
 udp://tracker.breizh.pm:6969/announce
+udp://tracker.vds.nz:6969/announce
 https://bot.ponomar-sibir.ru:443/announce
 http://open.va.wiki:900/announce
 http://tracker.vraphim.com:6969/announce
-udp://ipv4.rer.lol:2710/announce
-http://ipv4announce.sktorrent.eu:6969/announce
 https://tracker.cangku.moe:443/announce
+http://ipv4announce.sktorrent.eu:6969/announce
+udp://ipv4.rer.lol:2710/announce
 udp://acxx.de:6969/announce
 http://tracker.enitin.xyz:80/announce
 udp://tracker.netmap.top:6969/announce
