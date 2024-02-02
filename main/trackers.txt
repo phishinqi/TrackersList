@@ -682,6 +682,8 @@ udp://tracker.mirrorbay.org:6969/announce
 
 http://ipv6.rer.lol:6969/announce
 
+udp://www.torrent.eu.org:451/announce
+
 udp://tracker.cyberia.is:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
@@ -691,8 +693,6 @@ http://tracker.mywaifu.best:6969/announce
 udp://su-data.com:6969/announce
 
 udp://api.alarmasqueretaro.com:3074/announce
-
-udp://www.torrent.eu.org:451/announce
 
 udp://bt1.archive.org:6969/announce
 
@@ -750,21 +750,21 @@ udp://tracker3.itzmx.com:6961/announce
 
 udp://bt2.archive.org:6969/announce
 
+udp://tracker2.dler.com:80/announce
+
 udp://tracker.anima.nz:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 udp://tracker-udp.gbitt.info:80/announce
 
-udp://jutone.com:6969/announce
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://new-line.net:6969/announce
 
-udp://tracker.therarbg.to:6969/announce
+udp://jutone.com:6969/announce
 
-udp://tracker2.dler.com:80/announce
+udp://tracker.therarbg.to:6969/announce
 
 udp://bt.rer.lol:6969/announce
 
@@ -788,19 +788,19 @@ https://1337.abcvg.info:443/announce
 
 udp://tracker.breizh.pm:6969/announce
 
-https://tracker.cangku.moe:443/announce
-
 udp://ryjer.com:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
+
+https://tracker.cangku.moe:443/announce
 
 udp://open.u-p.pw:6969/announce
 
 http://open.va.wiki:900/announce
 
-udp://tracker.vds.nz:6969/announce
-
 http://tracker.vraphim.com:6969/announce
+
+udp://tracker.vds.nz:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
@@ -818,9 +818,9 @@ udp://tracker.netmap.top:6969/announce
 
 udp://acxx.de:6969/announce
 
-http://open.tracker.ink:6969/announce
-
 udp://p2p.publictracker.xyz:6969/announce
+
+http://open.tracker.ink:6969/announce
 
 udp://r.l5.ca:6969/announce
 
@@ -832,11 +832,11 @@ udp://btt.service.gongt.me:43079/announce
 
 http://rfc5746.mywaifu.best:6969/announce
 
-http://147job.com:6969/announce
+http://openbittorrent.com:80/announce
 
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 
-http://openbittorrent.com:80/announce
+http://147job.com:6969/announce
 
 https://tracker.imgoingto.icu:443/announce
 
@@ -850,11 +850,11 @@ http://incine.ru:6969/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
-https://tracker.jdx3.org:443/announce
-
 http://wg.mortis.me:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
+
+https://tracker.jdx3.org:443/announce
 
 https://tracker1.ctix.cn:443/announce
 
@@ -881,6 +881,8 @@ http://0205.uptm.ch:6969/announce
 udp://tk.cubicview.site:80/announce
 
 udp://public.publictracker.xyz:6969/announce
+
+http://region.nl1.privex.cc:6969/announce
 
 http://home.kray.pw:6969/announce
 
@@ -1319,8 +1321,6 @@ udp://nullzone.fr:6969/announce
 udp://ssb14.nohost.me:6969/announce
 
 http://thitgaluoc.dynu.net:6969/announce
-
-http://region.nl1.privex.cc:6969/announce
 
 udp://dmitrynegoda.com:6969/announce
 
@@ -1926,6 +1926,8 @@ udp://tracker.mirrorbay.org:6969/announce
 
 http://ipv6.rer.lol:6969/announce
 
+udp://www.torrent.eu.org:451/announce
+
 udp://tracker.cyberia.is:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
@@ -1935,8 +1937,6 @@ http://tracker.mywaifu.best:6969/announce
 udp://su-data.com:6969/announce
 
 udp://api.alarmasqueretaro.com:3074/announce
-
-udp://www.torrent.eu.org:451/announce
 
 udp://bt1.archive.org:6969/announce
 
@@ -1994,25 +1994,23 @@ udp://tracker3.itzmx.com:6961/announce
 
 udp://bt2.archive.org:6969/announce
 
+udp://tracker2.dler.com:80/announce
+
 udp://tracker.anima.nz:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 udp://tracker-udp.gbitt.info:80/announce
 
-udp://jutone.com:6969/announce
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://new-line.net:6969/announce
 
+udp://jutone.com:6969/announce
+
 udp://tracker.therarbg.to:6969/announce
 
-udp://tracker2.dler.com:80/announce
-
 udp://bt.rer.lol:6969/announce
-
-udp://black-bird.ynh.fr:6969/announce
 
 http://tracker.gbitt.info/announce
 https://tracker.lilithraws.cf/announce
