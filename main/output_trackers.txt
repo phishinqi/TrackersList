@@ -200,9 +200,9 @@ udp://tracker.breizh.pm:6969/announce
 http://open.va.wiki:900/announce
 http://tracker.vraphim.com:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
-https://tracker.cangku.moe:443/announce
 udp://tracker.vds.nz:6969/announce
 http://tracker.enitin.xyz:80/announce
+https://tracker.cangku.moe:443/announce
 udp://tracker.netmap.top:6969/announce
 udp://ipv4.rer.lol:2710/announce
 udp://p2p.publictracker.xyz:6969/announce
@@ -227,7 +227,6 @@ http://cn.pcfreetime.com:6969/announce
 https://tracker.moeblog.cn:443/announce
 udp://thouvenin.cloud:6969/announce
 http://0205.uptm.ch:6969/announce
-http://bt.xcty.eu.org:2095/announce
 udp://tk.cubicview.site:80/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 udp://public.publictracker.xyz:6969/announce
@@ -488,6 +487,7 @@ udp://x.paranoid.agency:6969/announce
 http://retracker.211.ru:80/announce
 https://tracker.fr.eu.org:443/announce
 http://tk.trojangogogo.site:8989/announce
+http://bt.xcty.eu.org:2095/announce
 udp://touhou.kawaiiarts.com:6969/announce
 udp://x.hz.is:6969/announce
 udp://x.t-1.org:6969/announce
