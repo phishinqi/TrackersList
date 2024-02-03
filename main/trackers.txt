@@ -42,6 +42,8 @@ http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
 
+http://t.overflow.biz:6969/announce
+
 http://torrentsmd.com:8080/announce
 
 http://tracker.birkenwald.de:6969/announce
@@ -49,6 +51,8 @@ http://tracker.birkenwald.de:6969/announce
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.com:6969/announce
+
+http://tracker.dler.org:6969/announce
 
 http://tracker.edkj.club:6969/announce
 
@@ -178,6 +182,8 @@ udp://aegir.sexy:6969/announce
 
 udp://api.alarmasqueretaro.com:3074/announce
 
+udp://black-bird.ynh.fr:6969/announce
+
 udp://bt.ktrackers.com:6666/announce
 
 udp://bt1.archive.org:6969/announce
@@ -228,8 +234,6 @@ udp://open.dstud.io:6969/announce
 
 udp://open.stealth.si:80/announce
 
-udp://open.tracker.cl:1337/announce
-
 udp://open.tracker.ink:6969/announce
 
 udp://open.u-p.pw:6969/announce
@@ -258,7 +262,11 @@ udp://ryjer.com:6969/announce
 
 udp://su-data.com:6969/announce
 
+udp://t.overflow.biz:6969/announce
+
 udp://tamas3.ynh.fr:6969/announce
+
+udp://thinking.duckdns.org:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
@@ -578,6 +586,8 @@ udp://tracker.dler.com:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
+udp://tracker2.dler.com:80/announce
+
 udp://movies.zsw.ca:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
@@ -668,8 +678,6 @@ http://t.acg.rip:6699/announce
 
 udp://tracker.filemail.com:6969/announce
 
-udp://tracker2.dler.com:80/announce
-
 udp://tracker.mirrorbay.org:6969/announce
 
 http://ipv6.rer.lol:6969/announce
@@ -696,6 +704,8 @@ udp://exodus.desync.com:6969/announce
 
 https://tracker.lilithraws.cf:443/announce
 
+udp://thinking.duckdns.org:6969/announce
+
 udp://tracker.t-rb.org:6969/announce
 
 https://tracker.lilithraws.org:443/announce
@@ -703,8 +713,6 @@ https://tracker.lilithraws.org:443/announce
 udp://1c.premierzal.ru:6969/announce
 
 udp://explodie.org:6969/announce
-
-udp://thinking.duckdns.org:6969/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
@@ -714,9 +722,9 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
-udp://6.pocketnet.app:6969/announce
-
 udp://tamas3.ynh.fr:6969/announce
+
+udp://6.pocketnet.app:6969/announce
 
 udp://evan.im:6969/announce
 
@@ -792,29 +800,29 @@ http://tracker.vraphim.com:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-udp://tracker.vds.nz:6969/announce
-
 http://tracker.enitin.xyz:80/announce
 
-https://tracker.cangku.moe:443/announce
+udp://tracker.vds.nz:6969/announce
 
 udp://tracker4.itzmx.com:2710/announce
+
+https://tracker.cangku.moe:443/announce
 
 http://open.acgtracker.com:1096/announce
 
 udp://tracker.netmap.top:6969/announce
 
-udp://tracker.theoks.net:6969/announce
-
 udp://ipv4.rer.lol:2710/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
 udp://acxx.de:6969/announce
 
-udp://r.l5.ca:6969/announce
-
 udp://btt.service.gongt.me:43079/announce
+
+udp://r.l5.ca:6969/announce
 
 http://open.tracker.ink:6969/announce
 
@@ -848,9 +856,9 @@ http://tracker.cubicview.site:80/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-https://tracker1.ctix.cn:443/announce
-
 http://canardscitrons.nohost.me:6969/announce
+
+https://tracker1.ctix.cn:443/announce
 
 udp://freedomalternative.com:6969/announce
 
@@ -1488,6 +1496,8 @@ http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
 
+http://t.overflow.biz:6969/announce
+
 http://torrentsmd.com:8080/announce
 
 http://tracker.birkenwald.de:6969/announce
@@ -1495,6 +1505,8 @@ http://tracker.birkenwald.de:6969/announce
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.com:6969/announce
+
+http://tracker.dler.org:6969/announce
 
 http://tracker.edkj.club:6969/announce
 
@@ -1624,6 +1636,8 @@ udp://aegir.sexy:6969/announce
 
 udp://api.alarmasqueretaro.com:3074/announce
 
+udp://black-bird.ynh.fr:6969/announce
+
 udp://bt.ktrackers.com:6666/announce
 
 udp://bt1.archive.org:6969/announce
@@ -1674,8 +1688,6 @@ udp://open.dstud.io:6969/announce
 
 udp://open.stealth.si:80/announce
 
-udp://open.tracker.cl:1337/announce
-
 udp://open.tracker.ink:6969/announce
 
 udp://open.u-p.pw:6969/announce
@@ -1704,7 +1716,11 @@ udp://ryjer.com:6969/announce
 
 udp://su-data.com:6969/announce
 
+udp://t.overflow.biz:6969/announce
+
 udp://tamas3.ynh.fr:6969/announce
+
+udp://thinking.duckdns.org:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
@@ -1806,6 +1822,8 @@ udp://tracker.dler.com:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
+udp://tracker2.dler.com:80/announce
+
 udp://movies.zsw.ca:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
@@ -1896,8 +1914,6 @@ http://t.acg.rip:6699/announce
 
 udp://tracker.filemail.com:6969/announce
 
-udp://tracker2.dler.com:80/announce
-
 udp://tracker.mirrorbay.org:6969/announce
 
 http://ipv6.rer.lol:6969/announce
@@ -1924,6 +1940,8 @@ udp://exodus.desync.com:6969/announce
 
 https://tracker.lilithraws.cf:443/announce
 
+udp://thinking.duckdns.org:6969/announce
+
 udp://tracker.t-rb.org:6969/announce
 
 https://tracker.lilithraws.org:443/announce
@@ -1931,8 +1949,6 @@ https://tracker.lilithraws.org:443/announce
 udp://1c.premierzal.ru:6969/announce
 
 udp://explodie.org:6969/announce
-
-udp://thinking.duckdns.org:6969/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
@@ -1942,9 +1958,9 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
-udp://6.pocketnet.app:6969/announce
-
 udp://tamas3.ynh.fr:6969/announce
+
+udp://6.pocketnet.app:6969/announce
 
 udp://evan.im:6969/announce
 
