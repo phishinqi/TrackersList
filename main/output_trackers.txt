@@ -196,8 +196,8 @@ http://p2p.0g.cx:6969/announce
 udp://t.overflow.biz:6969/announce
 udp://bt.rer.lol:6969/announce
 udp://jutone.com:6969/announce
-http://openwrt.lingyurouqing.xyz:6969/announce
 udp://tracker.breizh.pm:6969/announce
+http://openwrt.lingyurouqing.xyz:6969/announce
 http://open.va.wiki:900/announce
 http://tracker.vraphim.com:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
@@ -206,8 +206,8 @@ udp://tracker.vds.nz:6969/announce
 udp://ipv4.rer.lol:2710/announce
 udp://tracker.netmap.top:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
-https://tracker.cangku.moe:443/announce
 udp://btt.service.gongt.me:43079/announce
+https://tracker.cangku.moe:443/announce
 udp://acxx.de:6969/announce
 http://rfc5746.mywaifu.best:6969/announce
 http://openbittorrent.com:80/announce
@@ -216,10 +216,10 @@ http://147job.com:6969/announce
 http://tracker.nartlof.com.br:6969/announce
 http://incine.ru:6969/announce
 udp://tracker.ccp.ovh:6969/announce
-https://tracker2.ctix.cn:443/announce
-http://wg.mortis.me:6969/announce
 http://tracker.cubicview.site:80/announce
+https://tracker2.ctix.cn:443/announce
 http://canardscitrons.nohost.me:6969/announce
+http://wg.mortis.me:6969/announce
 https://tracker1.ctix.cn:443/announce
 http://tracker.pcfreetime.com:6969/announce
 http://cn.pcfreetime.com:6969/announce
