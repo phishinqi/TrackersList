@@ -196,8 +196,8 @@ udp://open.u-p.pw:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 http://tracker.vraphim.com:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
-http://openwrt.lingyurouqing.xyz:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
+http://openwrt.lingyurouqing.xyz:6969/announce
 udp://ipv4.rer.lol:2710/announce
 udp://tracker.vds.nz:6969/announce
 udp://btt.service.gongt.me:43079/announce
@@ -209,8 +209,8 @@ http://rfc5746.mywaifu.best:6969/announce
 http://openbittorrent.com:80/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 http://147job.com:6969/announce
-http://tracker.nartlof.com.br:6969/announce
 http://incine.ru:6969/announce
+http://tracker.nartlof.com.br:6969/announce
 udp://tracker.ccp.ovh:6969/announce
 http://tracker.pcfreetime.com:6969/announce
 http://canardscitrons.nohost.me:6969/announce
@@ -220,9 +220,9 @@ udp://tracker.jamesthebard.net:6969/announce
 https://tracker2.ctix.cn:443/announce
 http://wg.mortis.me:6969/announce
 http://cn.pcfreetime.com:6969/announce
+http://region.nl1.privex.cc:6969/announce
 https://tracker.moeblog.cn:443/announce
 http://0205.uptm.ch:6969/announce
-http://region.nl1.privex.cc:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 udp://public.publictracker.xyz:6969/announce
 http://home.kray.pw:6969/announce
