@@ -193,8 +193,8 @@ udp://bt.rer.lol:6969/announce
 udp://jutone.com:6969/announce
 udp://t.overflow.biz:6969/announce
 http://tracker.enitin.xyz:80/announce
-udp://tracker.breizh.pm:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
+udp://tracker.breizh.pm:6969/announce
 udp://btt.service.gongt.me:43079/announce
 http://open.va.wiki:900/announce
 udp://ipv4.rer.lol:2710/announce
