@@ -190,9 +190,9 @@ http://p2p.0g.cx:6969/announce
 udp://pirate.t-1.org:1337/announce
 udp://bt.rer.lol:6969/announce
 udp://jutone.com:6969/announce
-udp://thinking.duckdns.org:6969/announce
-udp://t.overflow.biz:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
+udp://t.overflow.biz:6969/announce
+udp://thinking.duckdns.org:6969/announce
 http://tracker.enitin.xyz:80/announce
 udp://tracker.breizh.pm:6969/announce
 udp://btt.service.gongt.me:43079/announce
@@ -208,9 +208,9 @@ https://tracker.cangku.moe:443/announce
 udp://tracker.openbittorrent.com:6969/announce
 udp://r.l5.ca:6969/announce
 http://openbittorrent.com:80/announce
+https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 http://rfc5746.mywaifu.best:6969/announce
 udp://acxx.de:6969/announce
-https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 http://incine.ru:6969/announce
 http://tracker.pcfreetime.com:6969/announce
 udp://tracker.jamesthebard.net:6969/announce
@@ -222,8 +222,8 @@ http://tracker.nartlof.com.br:6969/announce
 http://cn.pcfreetime.com:6969/announce
 http://region.nl1.privex.cc:6969/announce
 https://tracker.moeblog.cn:443/announce
-http://bt.xcty.eu.org:2095/announce
 http://0205.uptm.ch:6969/announce
+http://bt.xcty.eu.org:2095/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 udp://public.publictracker.xyz:6969/announce
 http://home.kray.pw:6969/announce
