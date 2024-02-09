@@ -187,12 +187,12 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 http://tracker1.itzmx.com:8080/announce
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 http://p2p.0g.cx:6969/announce
+http://tracker.enitin.xyz:80/announce
 udp://bt.rer.lol:6969/announce
 udp://jutone.com:6969/announce
-http://tracker.enitin.xyz:80/announce
 udp://t.overflow.biz:6969/announce
-udp://tracker.breizh.pm:6969/announce
 http://open.va.wiki:900/announce
+udp://tracker.breizh.pm:6969/announce
 udp://thinking.duckdns.org:6969/announce
 udp://ipv4.rer.lol:2710/announce
 udp://btt.service.gongt.me:43079/announce
@@ -219,8 +219,8 @@ http://tracker.cubicview.site:80/announce
 http://147job.com:6969/announce
 udp://freedomalternative.com:6969/announce
 http://tracker.nartlof.com.br:6969/announce
-http://cn.pcfreetime.com:6969/announce
 http://region.nl1.privex.cc:6969/announce
+http://cn.pcfreetime.com:6969/announce
 https://tracker.moeblog.cn:443/announce
 http://0205.uptm.ch:6969/announce
 http://bt.xcty.eu.org:2095/announce
