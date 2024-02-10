@@ -211,8 +211,8 @@ udp://r.l5.ca:6969/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 http://openbittorrent.com:80/announce
 http://rfc5746.mywaifu.best:6969/announce
-udp://acxx.de:6969/announce
 udp://tracker.jamesthebard.net:6969/announce
+udp://acxx.de:6969/announce
 http://incine.ru:6969/announce
 http://tracker.pcfreetime.com:6969/announce
 udp://tracker.ccp.ovh:6969/announce
