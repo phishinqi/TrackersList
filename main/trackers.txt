@@ -666,6 +666,8 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
+udp://p2p.publictracker.xyz:6969/announce
+
 udp://retracker.lanta.me:2710/announce
 
 udp://u4.trakx.crim.ist:1337/announce
@@ -688,15 +690,13 @@ udp://tracker.torrust-demo.com:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
 
+udp://tracker.qu.ax:6969/announce
+
 udp://evan.im:6969/announce
 
 http://v6-tracker.0g.cx:6969/announce
 
-udp://tracker.qu.ax:6969/announce
-
 udp://tk1.trackerservers.com:8080/announce
-
-udp://p2p.publictracker.xyz:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
@@ -704,11 +704,11 @@ https://tracker.lilithraws.cf:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
-http://p2p.0g.cx:6969/announce
-
 udp://tracker.moeking.me:6969/announce
 
 udp://wepzone.net:6969/announce
+
+http://p2p.0g.cx:6969/announce
 
 udp://open.dstud.io:6969/announce
 
@@ -724,11 +724,9 @@ udp://tracker3.itzmx.com:6961/announce
 
 udp://new-line.net:6969/announce
 
-udp://1c.premierzal.ru:6969/announce
-
 udp://pirate.t-1.org:1337/announce
 
-https://bot.ponomar-sibir.ru:443/announce
+udp://1c.premierzal.ru:6969/announce
 
 udp://bt2.archive.org:6969/announce
 
@@ -746,17 +744,19 @@ udp://tracker1.myporn.club:9337/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-https://tr.burnabyhighstar.com:443/announce
-
 udp://t.overflow.biz:6969/announce
 
+https://bot.ponomar-sibir.ru:443/announce
+
 http://uraniumhexafluori.de:1919/announce
+
+https://tr.burnabyhighstar.com:443/announce
+
+http://ch3oh.ru:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
 udp://tracker-udp.gbitt.info:80/announce
-
-http://ch3oh.ru:6969/announce
 
 http://open.va.wiki:900/announce
 
@@ -768,13 +768,13 @@ udp://ryjer.com:6969/announce
 
 udp://thinking.duckdns.org:6969/announce
 
-udp://tracker.anima.nz:6969/announce
-
 udp://ipv4.rer.lol:2710/announce
 
-udp://btt.service.gongt.me:43079/announce
+udp://tracker.anima.nz:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
+
+udp://btt.service.gongt.me:43079/announce
 
 http://tracker.vraphim.com:6969/announce
 
@@ -792,19 +792,19 @@ udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker.vds.nz:6969/announce
 
+https://tracker.imgoingto.icu:443/announce
+
 http://openwrt.lingyurouqing.xyz:6969/announce
 
-https://tracker.imgoingto.icu:443/announce
+https://yolo.liberbear.com:443/announce
 
 http://open.tracker.ink:6969/announce
 
 https://tracker.cangku.moe:443/announce
 
-https://yolo.liberbear.com:443/announce
+udp://tracker2.itzmx.com:6961/announce
 
 udp://tracker.theoks.net:6969/announce
-
-udp://tracker2.itzmx.com:6961/announce
 
 udp://tracker.openbittorrent.com:6969/announce
 
@@ -818,13 +818,13 @@ http://tracker.skyts.net:6969/announce
 
 http://rfc5746.mywaifu.best:6969/announce
 
-udp://acxx.de:6969/announce
-
 udp://tracker.jamesthebard.net:6969/announce
 
-http://incine.ru:6969/announce
+udp://acxx.de:6969/announce
 
 udp://open.tracker.cl:1337/announce
+
+http://incine.ru:6969/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
@@ -1882,6 +1882,8 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
+udp://p2p.publictracker.xyz:6969/announce
+
 udp://retracker.lanta.me:2710/announce
 
 udp://u4.trakx.crim.ist:1337/announce
@@ -1904,15 +1906,13 @@ udp://tracker.torrust-demo.com:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
 
+udp://tracker.qu.ax:6969/announce
+
 udp://evan.im:6969/announce
 
 http://v6-tracker.0g.cx:6969/announce
 
-udp://tracker.qu.ax:6969/announce
-
 udp://tk1.trackerservers.com:8080/announce
-
-udp://p2p.publictracker.xyz:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
@@ -1920,11 +1920,11 @@ https://tracker.lilithraws.cf:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
-http://p2p.0g.cx:6969/announce
-
 udp://tracker.moeking.me:6969/announce
 
 udp://wepzone.net:6969/announce
+
+http://p2p.0g.cx:6969/announce
 
 udp://open.dstud.io:6969/announce
 
@@ -1940,15 +1940,15 @@ udp://tracker3.itzmx.com:6961/announce
 
 udp://new-line.net:6969/announce
 
-udp://1c.premierzal.ru:6969/announce
-
 udp://pirate.t-1.org:1337/announce
 
-https://bot.ponomar-sibir.ru:443/announce
+udp://1c.premierzal.ru:6969/announce
 
 udp://bt2.archive.org:6969/announce
 
 udp://black-bird.ynh.fr:6969/announce
+
+http://tracker.enitin.xyz:80/announce
 
 http://tracker.gbitt.info/announce
 https://tracker.lilithraws.cf/announce
