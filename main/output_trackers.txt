@@ -222,7 +222,6 @@ http://tracker.cubicview.site:80/announce
 http://cn.pcfreetime.com:6969/announce
 http://0205.uptm.ch:6969/announce
 http://bt.xcty.eu.org:2095/announce
-http://147job.com:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 udp://public.publictracker.xyz:6969/announce
 http://home.kray.pw:6969/announce
@@ -294,6 +293,7 @@ http://widemus.de:6969/announce
 http://mail.lakameraobscura.com:6969/announce
 http://download01.championsofregnum.com:6969/announce
 http://debuz.com:6969/announce
+http://147job.com:6969/announce
 udp://kokodayo.site:6969/announce
 udp://thouvenin.cloud:6969/announce
 udp://ben.kerbertools.xyz:6969/announce
