@@ -219,13 +219,13 @@ http://tracker.pcfreetime.com:6969/announce
 http://incine.ru:6969/announce
 http://openbittorrent.com:80/announce
 http://wg.mortis.me:6969/announce
-http://rfc5746.mywaifu.best:6969/announce
 udp://tracker.ccp.ovh:6969/announce
+http://rfc5746.mywaifu.best:6969/announce
 http://region.nl1.privex.cc:6969/announce
 udp://freedomalternative.com:6969/announce
 http://tracker.cubicview.site:80/announce
-http://bt.xcty.eu.org:2095/announce
 http://isk.richardsw.club:6969/announce
+http://bt.xcty.eu.org:2095/announce
 udp://acxx.de:6969/announce
 http://0205.uptm.ch:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
