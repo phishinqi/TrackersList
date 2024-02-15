@@ -185,20 +185,17 @@ udp://www.torrent.eu.org:451/announce
 udp://y.paranoid.agency:6969/announce
 wss://tracker.openwebtorrent.com:443/announceudp://tracker.opentrackr.org:1337/announce
 udp://explodie.org:6969/announce
-http://open.acgtracker.com:1096/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-https://tracker.netmap.top:8443/announce
-https://tracker.ipfsscan.io:443/announce
-http://tracker.netmap.top:6969/announce
+http://open.acgtracker.com:1096/announce
 http://ch3oh.ru:6969/announce
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 http://tracker1.itzmx.com:8080/announce
 http://p2p.0g.cx:6969/announce
-http://tracker.enitin.xyz:80/announce
 udp://jutone.com:6969/announce
-http://open.va.wiki:900/announce
+http://tracker.enitin.xyz:80/announce
 udp://uploads.gamecoast.net:6969/announce
 udp://t.overflow.biz:6969/announce
+http://open.va.wiki:900/announce
 udp://tracker.breizh.pm:6969/announce
 http://tracker.vraphim.com:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
@@ -213,8 +210,8 @@ udp://tracker.jamesthebard.net:6969/announce
 http://openwrt.lingyurouqing.xyz:6969/announce
 udp://tracker.openbittorrent.com:6969/announce
 udp://r.l5.ca:6969/announce
-https://bot.ponomar-sibir.ru:443/announce
 http://canardscitrons.nohost.me:6969/announce
+https://bot.ponomar-sibir.ru:443/announce
 http://cn.pcfreetime.com:6969/announce
 http://tracker.pcfreetime.com:6969/announce
 http://incine.ru:6969/announce
@@ -225,6 +222,7 @@ http://rfc5746.mywaifu.best:6969/announce
 http://region.nl1.privex.cc:6969/announce
 udp://freedomalternative.com:6969/announce
 http://tracker.cubicview.site:80/announce
+https://tracker.ipfsscan.io:443/announce
 http://isk.richardsw.club:6969/announce
 http://bt.xcty.eu.org:2095/announce
 udp://acxx.de:6969/announce
@@ -1307,6 +1305,7 @@ https://tracker.bt4g.com/announce
 http://tracker.ccc.de/announce
 https://tracker.monikadesign.uk/announce/a46be21ab845cc0d534d06fea801f95a
 http://www.shnflac.net/announce.php
+http://tracker.netmap.top:6969/announce
 https://k.avc.cx:443/announce.php
 http://torrent.nwps.ws:80/announce
 http://bt.dl1234.com/announce
@@ -1317,6 +1316,7 @@ http://tracker.sbsub.com:2710/announce
 https://tracker.vectahosting.eu/announce
 http://torrent.nwps.ws/announce
 https://k.avc.cx/announce.php
+https://tracker.netmap.top:8443/announce
 https://bt.nfshost.com/announce
 http://tracker1.torrentino.com/announce
 http://bobbialbano.com:6969/announce
