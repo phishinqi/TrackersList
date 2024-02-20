@@ -648,11 +648,11 @@ udp://martin-gebhardt.eu:25/announce
 
 udp://epider.me:6969/announce
 
-udp://www.torrent.eu.org:451/announce
-
 http://bt.okmp3.ru:2710/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
+
+udp://www.torrent.eu.org:451/announce
 
 https://t1.hloli.org:443/announce
 
@@ -690,9 +690,9 @@ udp://tracker.cubonegro.lol:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
-udp://tracker.edkj.club:6969/announce
-
 udp://6.pocketnet.app:6969/announce
+
+udp://tracker.edkj.club:6969/announce
 
 http://v6-tracker.0g.cx:6969/announce
 
@@ -708,13 +708,13 @@ udp://pirate.t-1.org:1337/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://tracker.qu.ax:6969/announce
-
 udp://tracker.filemail.com:6969/announce
 
-udp://evan.im:6969/announce
+udp://tracker.qu.ax:6969/announce
 
 http://p2p.0g.cx:6969/announce
+
+udp://evan.im:6969/announce
 
 https://tracker.cloudit.top:443/announce
 
@@ -758,19 +758,19 @@ http://ch3oh.ru:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
-https://yolo.liberbear.com:443/announce
-
 udp://tracker.anima.nz:6969/announce
 
 https://tracker.cangku.moe:443/announce
 
-https://tracker.3moredays.com:443/announce
+https://yolo.liberbear.com:443/announce
 
-http://tracker.enitin.xyz:80/announce
+https://tracker.3moredays.com:443/announce
 
 http://tracker.vraphim.com:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
+
+http://tracker.enitin.xyz:80/announce
 
 udp://tracker.vds.nz:6969/announce
 
@@ -782,21 +782,21 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 http://torrent.hificode.in:6969/announce
 
-https://tracker.imgoingto.icu:443/announce
-
 udp://tracker.jamesthebard.net:6969/announce
+
+https://tracker.imgoingto.icu:443/announce
 
 udp://y.paranoid.agency:6969/announce
 
 https://1337.abcvg.info:443/announce
+
+udp://open.tracker.cl:1337/announce
 
 http://tracker.gbitt.info:80/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
-
-udp://open.tracker.cl:1337/announce
 
 udp://btt.service.gongt.me:43079/announce
 
@@ -834,31 +834,31 @@ udp://r.l5.ca:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
-http://openwrt.lingyurouqing.xyz:6969/announce
-
-http://open.va.wiki:900/announce
-
 udp://p4p.arenabg.com:1337/announce
 
+http://openwrt.lingyurouqing.xyz:6969/announce
+
 udp://tracker.ccp.ovh:6969/announce
+
+http://open.va.wiki:900/announce
 
 udp://tracker.openbittorrent.com:6969/announce
 
 udp://freedomalternative.com:6969/announce
 
-udp://tracker.theoks.net:6969/announce
-
 http://bt.xcty.eu.org:2095/announce
 
-http://cn.pcfreetime.com:6969/announce
-
-http://tracker.pcfreetime.com:6969/announce
+udp://tracker.theoks.net:6969/announce
 
 http://openbittorrent.com:80/announce
 
 http://tracker.cubicview.site:80/announce
 
+http://cn.pcfreetime.com:6969/announce
+
 http://incine.ru:6969/announce
+
+http://tracker.pcfreetime.com:6969/announce
 
 https://tracker.moeblog.cn:443/announce
 
@@ -1858,11 +1858,11 @@ udp://martin-gebhardt.eu:25/announce
 
 udp://epider.me:6969/announce
 
-udp://www.torrent.eu.org:451/announce
-
 http://bt.okmp3.ru:2710/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
+
+udp://www.torrent.eu.org:451/announce
 
 https://t1.hloli.org:443/announce
 
@@ -1900,9 +1900,9 @@ udp://tracker.cubonegro.lol:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
-udp://tracker.edkj.club:6969/announce
-
 udp://6.pocketnet.app:6969/announce
+
+udp://tracker.edkj.club:6969/announce
 
 http://v6-tracker.0g.cx:6969/announce
 
@@ -1918,13 +1918,13 @@ udp://pirate.t-1.org:1337/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://tracker.qu.ax:6969/announce
-
 udp://tracker.filemail.com:6969/announce
 
-udp://evan.im:6969/announce
+udp://tracker.qu.ax:6969/announce
 
 http://p2p.0g.cx:6969/announce
+
+udp://evan.im:6969/announce
 
 https://tracker.cloudit.top:443/announce
 
@@ -1941,10 +1941,6 @@ udp://tracker.therarbg.to:6969/announce
 udp://wepzone.net:6969/announce
 
 udp://bt2.archive.org:6969/announce
-
-udp://jutone.com:6969/announce
-
-udp://bt.rer.lol:6969/announce
 
 http://tracker.gbitt.info/announce
 https://tracker.lilithraws.cf/announce
