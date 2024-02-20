@@ -197,8 +197,8 @@ udp://p2p.publictracker.xyz:6969/announce
 udp://t.overflow.biz:6969/announce
 udp://tracker.breizh.pm:6969/announce
 https://tracker.cangku.moe:443/announce
-http://tracker.enitin.xyz:80/announce
 https://tracker.3moredays.com:443/announce
+http://tracker.enitin.xyz:80/announce
 http://tracker.vraphim.com:6969/announce
 udp://tracker.vds.nz:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
@@ -218,8 +218,8 @@ http://isk.richardsw.club:6969/announce
 udp://r.l5.ca:6969/announce
 http://open.va.wiki:900/announce
 http://openwrt.lingyurouqing.xyz:6969/announce
-udp://tracker.openbittorrent.com:6969/announce
 udp://tracker.ccp.ovh:6969/announce
+udp://tracker.openbittorrent.com:6969/announce
 http://cn.pcfreetime.com:6969/announce
 http://tracker.pcfreetime.com:6969/announce
 http://bt.xcty.eu.org:2095/announce
@@ -230,7 +230,6 @@ https://tracker.moeblog.cn:443/announce
 http://region.nl1.privex.cc:6969/announce
 http://0205.uptm.ch:6969/announce
 udp://public.publictracker.xyz:6969/announce
-http://rfc5746.mywaifu.best:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://home.kray.pw:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
@@ -464,6 +463,7 @@ udp://open.8a.is:6969/announce
 udp://laszlo130.go.ro:6969/announce
 udp://dyndns.xionxiii.ovh:6969/announce
 udp://globalwave.no-ip.org:6969/announce
+http://rfc5746.mywaifu.best:6969/announce
 udp://escalaenbernal.com:3074/announce
 https://tracker.bangumi.zip:443/announce
 http://tracker.gdp.pw:900/announce
