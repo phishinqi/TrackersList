@@ -182,8 +182,8 @@ udp://bt.rer.lol:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 https://tracker.cangku.moe:443/announce
 udp://t.overflow.biz:6969/announce
-udp://tracker.breizh.pm:6969/announce
 udp://tracker.vds.nz:6969/announce
+udp://tracker.breizh.pm:6969/announce
 https://tracker.3moredays.com:443/announce
 udp://tracker.jamesthebard.net:6969/announce
 http://tracker.vraphim.com:6969/announce
@@ -206,11 +206,11 @@ udp://r.l5.ca:6969/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://freedomalternative.com:6969/announce
 http://bt.xcty.eu.org:2095/announce
-http://openwrt.lingyurouqing.xyz:6969/announce
 udp://tracker.openbittorrent.com:6969/announce
+http://openwrt.lingyurouqing.xyz:6969/announce
 http://tracker.cubicview.site:80/announce
-http://tracker.pcfreetime.com:6969/announce
 udp://sabross.xyz:6969/announce
+http://tracker.pcfreetime.com:6969/announce
 http://cn.pcfreetime.com:6969/announce
 http://openbittorrent.com:80/announce
 https://tracker.moeblog.cn:443/announce
