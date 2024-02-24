@@ -181,8 +181,8 @@ http://tracker1.itzmx.com:8080/announce
 http://p2p.0g.cx:6969/announce
 udp://tracker.jamesthebard.net:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
-https://tracker.cangku.moe:443/announce
 udp://t.overflow.biz:6969/announce
+https://tracker.cangku.moe:443/announce
 udp://tracker.breizh.pm:6969/announce
 https://tracker.3moredays.com:443/announce
 http://tracker.vraphim.com:6969/announce
@@ -196,8 +196,8 @@ udp://uploads.gamecoast.net:6969/announce
 udp://tracker.netmap.top:6969/announce
 https://tracker.lilithraws.cf:443/announce
 http://wg.mortis.me:6969/announce
-udp://thinking.duckdns.org:6969/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
+udp://thinking.duckdns.org:6969/announce
 udp://sabross.xyz:6969/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://r.l5.ca:6969/announce
