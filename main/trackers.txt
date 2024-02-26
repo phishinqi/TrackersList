@@ -564,6 +564,8 @@ udp://movies.zsw.ca:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
+udp://open.xxtor.com:3074/announce
+
 https://tracker1.520.jp:443/announce
 
 https://tracker.tamersunion.org:443/announce
@@ -602,8 +604,6 @@ udp://tracker.dler.com:6969/announce
 
 http://bt.okmp3.ru:2710/announce
 
-udp://open.xxtor.com:3074/announce
-
 https://tracker.loligirl.cn:443/announce
 
 udp://tracker.tryhackx.org:6969/announce
@@ -634,6 +634,8 @@ udp://explodie.org:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
+udp://tracker.torrust-demo.com:6969/announce
+
 udp://tracker.opentrackr.org:1337/announce
 
 udp://moonburrow.club:6969/announce
@@ -641,8 +643,6 @@ udp://moonburrow.club:6969/announce
 udp://www.torrent.eu.org:451/announce
 
 https://t1.hloli.org:443/announce
-
-udp://tracker.torrust-demo.com:6969/announce
 
 http://ipv6.rer.lol:6969/announce
 
@@ -672,9 +672,9 @@ http://v6-tracker.0g.cx:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
-udp://evan.im:6969/announce
-
 http://tracker1.itzmx.com:8080/announce
+
+udp://evan.im:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
@@ -692,11 +692,11 @@ http://open.acgtracker.com:1096/announce
 
 udp://black-bird.ynh.fr:6969/announce
 
-udp://opentracker.i2p.rocks:6969/announce
+udp://tracker.vds.nz:6969/announce
 
 http://p2p.0g.cx:6969/announce
 
-udp://tracker.vds.nz:6969/announce
+udp://opentracker.i2p.rocks:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
@@ -730,13 +730,13 @@ udp://bt2.archive.org:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
-udp://pirate.t-1.org:1337/announce
-
 udp://wepzone.net:6969/announce
 
 https://tracker.cangku.moe:443/announce
 
 udp://tracker1.myporn.club:9337/announce
+
+udp://pirate.t-1.org:1337/announce
 
 https://tracker.3moredays.com:443/announce
 
@@ -744,9 +744,9 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://tracker.breizh.pm:6969/announce
 
-udp://su-data.com:6969/announce
-
 udp://tracker.anima.nz:6969/announce
+
+udp://su-data.com:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
@@ -782,9 +782,9 @@ http://open.tracker.ink:6969/announce
 
 https://1337.abcvg.info:443/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
-
 http://torrent.hificode.in:6969/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 https://tracker.ipfsscan.io:443/announce
 
@@ -836,11 +836,9 @@ https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.moeblog.cn:443/announce
 
-http://tracker.cubicview.site:80/announce
-
 http://0205.uptm.ch:6969/announce
 
-udp://tracker.openbittorrent.com:6969/announce
+http://tracker.cubicview.site:80/announce
 
 udp://public.publictracker.xyz:6969/announce
 
@@ -915,6 +913,8 @@ udp://tracker.altrosky.nl:6969/announce
 https://tracker.cyber-hub.net:443/announce
 
 udp://app.icon256.com:8000/announce
+
+udp://tracker.openbittorrent.com:6969/announce
 
 udp://free.publictracker.xyz:6969/announce
 
@@ -1760,6 +1760,8 @@ udp://movies.zsw.ca:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
+udp://open.xxtor.com:3074/announce
+
 https://tracker1.520.jp:443/announce
 
 https://tracker.tamersunion.org:443/announce
@@ -1798,8 +1800,6 @@ udp://tracker.dler.com:6969/announce
 
 http://bt.okmp3.ru:2710/announce
 
-udp://open.xxtor.com:3074/announce
-
 https://tracker.loligirl.cn:443/announce
 
 udp://tracker.tryhackx.org:6969/announce
@@ -1830,6 +1830,8 @@ udp://explodie.org:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
+udp://tracker.torrust-demo.com:6969/announce
+
 udp://tracker.opentrackr.org:1337/announce
 
 udp://moonburrow.club:6969/announce
@@ -1837,8 +1839,6 @@ udp://moonburrow.club:6969/announce
 udp://www.torrent.eu.org:451/announce
 
 https://t1.hloli.org:443/announce
-
-udp://tracker.torrust-demo.com:6969/announce
 
 http://ipv6.rer.lol:6969/announce
 
@@ -1868,9 +1868,9 @@ http://v6-tracker.0g.cx:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
-udp://evan.im:6969/announce
-
 http://tracker1.itzmx.com:8080/announce
+
+udp://evan.im:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
@@ -1888,11 +1888,11 @@ http://open.acgtracker.com:1096/announce
 
 udp://black-bird.ynh.fr:6969/announce
 
-udp://opentracker.i2p.rocks:6969/announce
+udp://tracker.vds.nz:6969/announce
 
 http://p2p.0g.cx:6969/announce
 
-udp://tracker.vds.nz:6969/announce
+udp://opentracker.i2p.rocks:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
