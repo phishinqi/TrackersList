@@ -210,7 +210,6 @@ https://tracker.moeblog.cn:443/announce
 http://0205.uptm.ch:6969/announce
 udp://public.publictracker.xyz:6969/announce
 http://region.nl1.privex.cc:6969/announce
-http://tracker.cubicview.site:80/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://home.kray.pw:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
@@ -485,6 +484,7 @@ http://00.alarmasqueretaro.com:443/announce
 udp://tracker.hentai.gg:6969/announce
 https://fbiagent.cyou:443/announce
 udp://tracker.dev-null.rocks:6969/announce
+http://tracker.cubicview.site:80/announce
 udp://tk.cubicview.site:80/announce
 https://bot.ponomar-sibir.ru:443/announce
 wss://tracker.openwebtorrent.com:443/announcehttp://tracker.ipv6tracker.ru:80/announce
