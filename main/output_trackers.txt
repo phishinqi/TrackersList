@@ -185,8 +185,8 @@ https://tracker.3moredays.com:443/announce
 http://tracker.vraphim.com:6969/announce
 udp://btt.service.gongt.me:43079/announce
 http://ipv4announce.sktorrent.eu:6969/announce
-http://tracker.enitin.xyz:80/announce
 http://torrent.hificode.in:6969/announce
+http://tracker.enitin.xyz:80/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 http://isk.richardsw.club:6969/announce
 http://canardscitrons.nohost.me:6969/announce
@@ -199,8 +199,8 @@ https://tracker.lilithraws.cf:443/announce
 http://openwrt.lingyurouqing.xyz:6969/announce
 http://tracker.pcfreetime.com:6969/announce
 udp://tracker.ccp.ovh:6969/announce
-udp://thinking.duckdns.org:6969/announce
 http://bt.xcty.eu.org:2095/announce
+udp://thinking.duckdns.org:6969/announce
 http://cn.pcfreetime.com:6969/announce
 udp://freedomalternative.com:6969/announce
 udp://r.l5.ca:6969/announce
