@@ -184,8 +184,8 @@ http://p2p.0g.cx:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 https://tracker.cangku.moe:443/announce
 udp://tracker.breizh.pm:6969/announce
-udp://btt.service.gongt.me:43079/announce
 http://tracker.vraphim.com:6969/announce
+udp://btt.service.gongt.me:43079/announce
 https://tracker.3moredays.com:443/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 http://torrent.hificode.in:6969/announce
@@ -199,8 +199,8 @@ udp://sabross.xyz:6969/announce
 udp://tracker.netmap.top:6969/announce
 udp://uploads.gamecoast.net:6969/announce
 http://openwrt.lingyurouqing.xyz:6969/announce
-https://tracker.lilithraws.cf:443/announce
 http://tracker.pcfreetime.com:6969/announce
+https://tracker.lilithraws.cf:443/announce
 udp://tracker.ccp.ovh:6969/announce
 http://bt.xcty.eu.org:2095/announce
 http://cn.pcfreetime.com:6969/announce
