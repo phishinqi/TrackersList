@@ -185,8 +185,8 @@ udp://tracker.breizh.pm:6969/announce
 https://tracker.cangku.moe:443/announce
 http://tracker.vraphim.com:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
-https://tracker.3moredays.com:443/announce
 http://torrent.hificode.in:6969/announce
+https://tracker.3moredays.com:443/announce
 udp://tracker-udp.gbitt.info:80/announce
 http://tracker.enitin.xyz:80/announce
 udp://tracker1.bt.moack.co.kr:80/announce
@@ -194,8 +194,8 @@ http://isk.richardsw.club:6969/announce
 http://canardscitrons.nohost.me:6969/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 udp://sabross.xyz:6969/announce
-udp://y.paranoid.agency:6969/announce
 http://openwrt.lingyurouqing.xyz:6969/announce
+udp://y.paranoid.agency:6969/announce
 udp://tracker.netmap.top:6969/announce
 udp://uploads.gamecoast.net:6969/announce
 http://tracker.pcfreetime.com:6969/announce
@@ -206,8 +206,8 @@ http://cn.pcfreetime.com:6969/announce
 https://tracker.lilithraws.cf:443/announce
 udp://tracker.teambelgium.net:6969/announce
 https://tracker.moeblog.cn:443/announce
-udp://thinking.duckdns.org:6969/announce
 http://0205.uptm.ch:6969/announce
+udp://thinking.duckdns.org:6969/announce
 udp://public.publictracker.xyz:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://home.kray.pw:6969/announce
