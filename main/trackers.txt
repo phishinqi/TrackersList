@@ -614,27 +614,27 @@ udp://tracker.moeking.me:6969/announce
 
 udp://explodie.org:6969/announce
 
+https://t1.hloli.org:443/announce
+
 udp://moonburrow.club:6969/announce
 
-https://t1.hloli.org:443/announce
+http://v6-tracker.0g.cx:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
 http://ipv6.rer.lol:6969/announce
 
-udp://bt1.archive.org:6969/announce
-
 https://tracker.lilithraws.org:443/announce
 
-http://v6-tracker.0g.cx:6969/announce
+udp://bt1.archive.org:6969/announce
 
 udp://ns1.monolithindustries.com:6969/announce
+
+http://p2p.0g.cx:6969/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
-
-http://p2p.0g.cx:6969/announce
 
 udp://retracker.lanta.me:2710/announce
 
@@ -656,13 +656,13 @@ http://tracker1.itzmx.com:8080/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
+udp://new-line.net:6969/announce
+
 udp://tk1.trackerservers.com:8080/announce
 
 udp://jutone.com:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
-
-udp://new-line.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
@@ -702,9 +702,9 @@ udp://tracker.qu.ax:6969/announce
 
 https://tracker.gcrreen.xyz:443/announce
 
-udp://ryjer.com:6969/announce
-
 udp://bt.rer.lol:6969/announce
+
+udp://ryjer.com:6969/announce
 
 udp://btt.service.gongt.me:43079/announce
 
@@ -724,9 +724,9 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://tracker.breizh.pm:6969/announce
 
-udp://tracker.anima.nz:6969/announce
-
 udp://su-data.com:6969/announce
+
+udp://tracker.anima.nz:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
@@ -736,17 +736,17 @@ http://ch3oh.ru:6969/announce
 
 http://tracker.vraphim.com:6969/announce
 
-https://yolo.liberbear.com:443/announce
+https://tracker.ipfsscan.io:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
-https://tracker.cangku.moe:443/announce
-
-https://tracker.ipfsscan.io:443/announce
+https://yolo.liberbear.com:443/announce
 
 udp://bt.ktrackers.com:6666/announce
 
 udp://open.u-p.pw:6969/announce
+
+https://tracker.cangku.moe:443/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
@@ -770,9 +770,9 @@ http://tracker.enitin.xyz:80/announce
 
 https://1337.abcvg.info:443/announce
 
-http://canardscitrons.nohost.me:6969/announce
-
 http://isk.richardsw.club:6969/announce
+
+http://canardscitrons.nohost.me:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -782,9 +782,9 @@ udp://sabross.xyz:6969/announce
 
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 
-http://wg.mortis.me:6969/announce
-
 http://openwrt.lingyurouqing.xyz:6969/announce
+
+http://wg.mortis.me:6969/announce
 
 udp://y.paranoid.agency:6969/announce
 
@@ -817,8 +817,6 @@ https://tracker.moeblog.cn:443/announce
 http://0205.uptm.ch:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
-
-udp://thinking.duckdns.org:6969/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
@@ -991,6 +989,8 @@ udp://astrr.ru:6969/announce
 udp://aarsen.me:6969/announce
 
 udp://admin.52ywp.com:6969/announce
+
+udp://thinking.duckdns.org:6969/announce
 
 udp://cutscloud.duckdns.org:6969/announce
 
@@ -1790,27 +1790,27 @@ udp://tracker.moeking.me:6969/announce
 
 udp://explodie.org:6969/announce
 
+https://t1.hloli.org:443/announce
+
 udp://moonburrow.club:6969/announce
 
-https://t1.hloli.org:443/announce
+http://v6-tracker.0g.cx:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
 http://ipv6.rer.lol:6969/announce
 
-udp://bt1.archive.org:6969/announce
-
 https://tracker.lilithraws.org:443/announce
 
-http://v6-tracker.0g.cx:6969/announce
+udp://bt1.archive.org:6969/announce
 
 udp://ns1.monolithindustries.com:6969/announce
+
+http://p2p.0g.cx:6969/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
-
-http://p2p.0g.cx:6969/announce
 
 udp://retracker.lanta.me:2710/announce
 
@@ -1832,13 +1832,13 @@ http://tracker1.itzmx.com:8080/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
+udp://new-line.net:6969/announce
+
 udp://tk1.trackerservers.com:8080/announce
 
 udp://jutone.com:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
-
-udp://new-line.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
@@ -1878,9 +1878,9 @@ udp://tracker.qu.ax:6969/announce
 
 https://tracker.gcrreen.xyz:443/announce
 
-udp://ryjer.com:6969/announce
-
 udp://bt.rer.lol:6969/announce
+
+udp://ryjer.com:6969/announce
 
 http://tracker.gbitt.info/announce
 https://tracker.lilithraws.cf/announce
