@@ -190,8 +190,8 @@ udp://tracker.breizh.pm:6969/announce
 http://tracker.vraphim.com:6969/announce
 https://tracker.cangku.moe:443/announce
 http://torrent.hificode.in:6969/announce
-http://ipv4announce.sktorrent.eu:6969/announce
 https://tracker.3moredays.com:443/announce
+http://ipv4announce.sktorrent.eu:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 http://tracker.enitin.xyz:80/announce
