@@ -28,11 +28,11 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://retracker.hotplug.ru:2710/announce
 
 http://t.acg.rip:6699/announce
-
-http://t.overflow.biz:6969/announce
 
 http://tk.greedland.net:80/announce
 
@@ -42,6 +42,8 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.com:6969/announce
 
+http://tracker.dler.org:6969/announce
+
 http://tracker.edkj.club:6969/announce
 
 http://tracker.electro-torrent.pl:80/announce
@@ -50,13 +52,23 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
+http://tracker.ipv6tracker.org:80/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.netmap.top:6969/announce
+
 http://tracker.opentrackr.org:1337/announce
 
+http://tracker.qu.ax:6969/announce
+
 http://tracker.renfei.net:8080/announce
+
+http://tracker.skyts.net:6969/announce
+
+http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -64,7 +76,11 @@ http://tracker3.itzmx.com:6961/announce
 
 http://tracker4.itzmx.com:2710/announce
 
+http://uraniumhexafluori.de:1919/announce
+
 http://v6-tracker.0g.cx:6969/announce
+
+http://wepzone.net:6969/announce
 
 http://wg.mortis.me:6969/announce
 
@@ -96,8 +112,6 @@ https://tracker.gbitt.info:443/announce
 
 https://tracker.gcrreen.xyz:443/announce
 
-https://tracker.imgoingto.icu:443/announce
-
 https://tracker.ipfsscan.io:443/announce
 
 https://tracker.kuroy.me:443/announce
@@ -105,6 +119,8 @@ https://tracker.kuroy.me:443/announce
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
+
+https://tracker.netmap.top:8443/announce
 
 https://tracker.renfei.net:443/announce
 
@@ -178,11 +194,11 @@ udp://fh2.cmp-gaming.com:6969/announce
 
 udp://free.publictracker.xyz:6969/announce
 
+udp://freedomalternative.com:6969/announce
+
 udp://ipv4.rer.lol:2710/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
-
-udp://isk.richardsw.club:6969/announce
 
 udp://jutone.com:6969/announce
 
@@ -214,8 +230,6 @@ udp://open.tracker.ink:6969/announce
 
 udp://open.u-p.pw:6969/announce
 
-udp://open.xxtor.com:3074/announce
-
 udp://opentor.org:2710/announce
 
 udp://opentracker.i2p.rocks:6969/announce
@@ -226,10 +240,6 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://pirate.t-1.org:1337/announce
 
-udp://public.tracker.vraphim.com:6969/announce
-
-udp://r.l5.ca:6969/announce
-
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta.me:2710/announce
@@ -239,6 +249,8 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 udp://ryjer.com:6969/announce
 
 udp://su-data.com:6969/announce
+
+udp://t.overflow.biz:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
@@ -253,6 +265,8 @@ udp://tracker.anima.nz:6969/announce
 udp://tracker.artixlinux.org:6969/announce
 
 udp://tracker.auctor.tv:6969/announce
+
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.cubonegro.lol:6969/announce
 
@@ -572,8 +586,6 @@ udp://api.alarmasqueretaro.com:3074/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
-https://tr.qfruiti.in:443/announce
-
 udp://tracker.picotorrent.one:6969/announce
 
 https://track3r.site:443/announce
@@ -589,6 +601,8 @@ https://www.peckservers.com:9443/announce
 http://bvarf.tracker.sh:2086/announce
 
 https://tr.qfruiti.com:443/announce
+
+https://tr.qfruiti.in:443/announce
 
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
@@ -724,9 +738,9 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://tracker.breizh.pm:6969/announce
 
-udp://su-data.com:6969/announce
-
 udp://tracker.anima.nz:6969/announce
+
+udp://su-data.com:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
@@ -746,9 +760,9 @@ udp://bt.ktrackers.com:6666/announce
 
 udp://open.u-p.pw:6969/announce
 
-https://tracker.cangku.moe:443/announce
-
 udp://tracker4.itzmx.com:2710/announce
+
+https://tracker.cangku.moe:443/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -798,9 +812,9 @@ udp://tracker.theoks.net:6969/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
-udp://uploads.gamecoast.net:6969/announce
-
 udp://freedomalternative.com:6969/announce
+
+udp://uploads.gamecoast.net:6969/announce
 
 http://bt.xcty.eu.org:2095/announce
 
@@ -1408,11 +1422,11 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://retracker.hotplug.ru:2710/announce
 
 http://t.acg.rip:6699/announce
-
-http://t.overflow.biz:6969/announce
 
 http://tk.greedland.net:80/announce
 
@@ -1422,6 +1436,8 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.com:6969/announce
 
+http://tracker.dler.org:6969/announce
+
 http://tracker.edkj.club:6969/announce
 
 http://tracker.electro-torrent.pl:80/announce
@@ -1430,13 +1446,23 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
+http://tracker.ipv6tracker.org:80/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.netmap.top:6969/announce
+
 http://tracker.opentrackr.org:1337/announce
 
+http://tracker.qu.ax:6969/announce
+
 http://tracker.renfei.net:8080/announce
+
+http://tracker.skyts.net:6969/announce
+
+http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -1444,7 +1470,11 @@ http://tracker3.itzmx.com:6961/announce
 
 http://tracker4.itzmx.com:2710/announce
 
+http://uraniumhexafluori.de:1919/announce
+
 http://v6-tracker.0g.cx:6969/announce
+
+http://wepzone.net:6969/announce
 
 http://wg.mortis.me:6969/announce
 
@@ -1476,8 +1506,6 @@ https://tracker.gbitt.info:443/announce
 
 https://tracker.gcrreen.xyz:443/announce
 
-https://tracker.imgoingto.icu:443/announce
-
 https://tracker.ipfsscan.io:443/announce
 
 https://tracker.kuroy.me:443/announce
@@ -1485,6 +1513,8 @@ https://tracker.kuroy.me:443/announce
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
+
+https://tracker.netmap.top:8443/announce
 
 https://tracker.renfei.net:443/announce
 
@@ -1558,11 +1588,11 @@ udp://fh2.cmp-gaming.com:6969/announce
 
 udp://free.publictracker.xyz:6969/announce
 
+udp://freedomalternative.com:6969/announce
+
 udp://ipv4.rer.lol:2710/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
-
-udp://isk.richardsw.club:6969/announce
 
 udp://jutone.com:6969/announce
 
@@ -1594,8 +1624,6 @@ udp://open.tracker.ink:6969/announce
 
 udp://open.u-p.pw:6969/announce
 
-udp://open.xxtor.com:3074/announce
-
 udp://opentor.org:2710/announce
 
 udp://opentracker.i2p.rocks:6969/announce
@@ -1606,10 +1634,6 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://pirate.t-1.org:1337/announce
 
-udp://public.tracker.vraphim.com:6969/announce
-
-udp://r.l5.ca:6969/announce
-
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta.me:2710/announce
@@ -1619,6 +1643,8 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 udp://ryjer.com:6969/announce
 
 udp://su-data.com:6969/announce
+
+udp://t.overflow.biz:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
@@ -1633,6 +1659,8 @@ udp://tracker.anima.nz:6969/announce
 udp://tracker.artixlinux.org:6969/announce
 
 udp://tracker.auctor.tv:6969/announce
+
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.cubonegro.lol:6969/announce
 
@@ -1748,8 +1776,6 @@ udp://api.alarmasqueretaro.com:3074/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
-https://tr.qfruiti.in:443/announce
-
 udp://tracker.picotorrent.one:6969/announce
 
 https://track3r.site:443/announce
@@ -1765,6 +1791,8 @@ https://www.peckservers.com:9443/announce
 http://bvarf.tracker.sh:2086/announce
 
 https://tr.qfruiti.com:443/announce
+
+https://tr.qfruiti.in:443/announce
 
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
