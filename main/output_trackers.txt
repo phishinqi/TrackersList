@@ -192,10 +192,10 @@ http://ipv4announce.sktorrent.eu:6969/announce
 udp://sabross.xyz:6969/announce
 http://openwrt.lingyurouqing.xyz:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
+https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 http://canardscitrons.nohost.me:6969/announce
 http://tracker.skyts.net:6969/announce
 http://isk.richardsw.club:6969/announce
-https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 http://wg.mortis.me:6969/announce
 http://tracker.enitin.xyz:80/announce
 https://tracker.cangku.moe:443/announce
@@ -206,11 +206,11 @@ http://bt.xcty.eu.org:2095/announce
 http://tracker.pcfreetime.com:6969/announce
 http://cn.pcfreetime.com:6969/announce
 https://tracker.moeblog.cn:443/announce
-udp://tracker.netmap.top:6969/announce
 udp://private.anonseed.com:6969/announce
 http://0205.uptm.ch:6969/announce
-udp://public.publictracker.xyz:6969/announce
+udp://tracker.netmap.top:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
+udp://public.publictracker.xyz:6969/announce
 http://home.kray.pw:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
 http://t.nyaatracker.com:80/announce
