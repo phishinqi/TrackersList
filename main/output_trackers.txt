@@ -175,8 +175,8 @@ http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 http://tracker1.itzmx.com:8080/announce
 http://p2p.0g.cx:6969/announce
 udp://t.overflow.biz:6969/announce
-udp://bt.rer.lol:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
+udp://bt.rer.lol:6969/announce
 udp://tracker.vds.nz:6969/announce
 udp://tracker.breizh.pm:6969/announce
 udp://btt.service.gongt.me:43079/announce
@@ -201,10 +201,10 @@ udp://tracker.draatman.uk:6969/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://freedomalternative.com:6969/announce
 http://tracker.pcfreetime.com:6969/announce
-http://bt.xcty.eu.org:2095/announce
 http://cn.pcfreetime.com:6969/announce
 udp://r.l5.ca:6969/announce
 https://tracker.moeblog.cn:443/announce
+http://bt.xcty.eu.org:2095/announce
 udp://private.anonseed.com:6969/announce
 http://0205.uptm.ch:6969/announce
 udp://tracker.netmap.top:6969/announce
