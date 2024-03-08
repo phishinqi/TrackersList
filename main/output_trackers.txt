@@ -179,8 +179,8 @@ udp://tracker.vds.nz:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://tracker.breizh.pm:6969/announce
 udp://btt.service.gongt.me:43079/announce
-udp://api.alarmasqueretaro.com:3074/announce
 http://tracker.vraphim.com:6969/announce
+udp://api.alarmasqueretaro.com:3074/announce
 https://tracker.3moredays.com:443/announce
 http://torrent.hificode.in:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
@@ -189,8 +189,8 @@ http://open.tracker.ink:6969/announce
 udp://sabross.xyz:6969/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 http://canardscitrons.nohost.me:6969/announce
-http://tracker.skyts.net:6969/announce
 https://tracker.cangku.moe:443/announce
+http://tracker.skyts.net:6969/announce
 http://wg.mortis.me:6969/announce
 http://isk.richardsw.club:6969/announce
 http://tracker.enitin.xyz:80/announce
