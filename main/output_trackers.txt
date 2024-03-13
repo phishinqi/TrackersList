@@ -21,7 +21,6 @@ http://tinfoil.space:6969/announce
 http://tk.greedland.net:80/announce
 http://torrentsmd.com:8080/announce
 http://tracker.bt4g.com:2095/announce
-http://tracker.dler.com:6969/announce
 http://tracker.edkj.club:6969/announce
 http://tracker.electro-torrent.pl:80/announce
 http://tracker.files.fm:6969/announce
@@ -583,6 +582,7 @@ http://fxtt.ru/announce
 https://tr.bangumi.moe:9696/announce
 http://93.158.213.92:1337/announce
 http://www.zone-torrent.net:80/announce.php
+http://tracker.dler.com:6969/announce
 udp://theodoric.fr:6969/announce
 http://data-bg.net:80/announce.php
 http://open.acgnxtracker.com/announce
