@@ -624,9 +624,9 @@ udp://bt1.archive.org:6969/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
-https://tr.qfruiti.in:443/announce
-
 udp://u6.trakx.crim.ist:1337/announce
+
+https://tr.qfruiti.in:443/announce
 
 udp://tracker.t-rb.org:6969/announce
 
@@ -654,11 +654,11 @@ udp://tracker.cubonegro.lol:6969/announce
 
 udp://6.pocketnet.app:6969/announce
 
+https://track3r.site:443/announce
+
 udp://tamas3.ynh.fr:6969/announce
 
 udp://evan.im:6969/announce
-
-https://track3r.site:443/announce
 
 udp://1c.premierzal.ru:6969/announce
 
@@ -674,9 +674,9 @@ udp://open.demonii.com:1337/announce
 
 http://tracker1.itzmx.com:8080/announce
 
-udp://open.dstud.io:6969/announce
-
 udp://pirate.t-1.org:1337/announce
+
+udp://open.dstud.io:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
@@ -728,17 +728,17 @@ http://v6-tracker.0g.cx:6969/announce
 
 udp://wepzone.net:6969/announce
 
-http://p2p.0g.cx:6969/announce
-
 http://tracker.vraphim.com:6969/announce
+
+http://tracker.torrentuje.me:2710/announce
+
+http://p2p.0g.cx:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
 http://tracker.gbitt.info:80/announce
 
 https://tracker.imgoingto.icu:443/announce
-
-http://tracker.torrentuje.me:2710/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -774,23 +774,23 @@ udp://sabross.xyz:6969/announce
 
 udp://api.alarmasqueretaro.com:3074/announce
 
-udp://retracker.hotplug.ru:2710/announce
-
 http://open.tracker.ink:6969/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
+udp://retracker.hotplug.ru:2710/announce
 
 https://tracker.cangku.moe:443/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker.skyts.net:6969/announce
 
 http://canardscitrons.nohost.me:6969/announce
 
+https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
+
 udp://tracker.teambelgium.net:6969/announce
 
 http://wg.mortis.me:6969/announce
-
-https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 
 udp://tracker.theoks.net:6969/announce
 
@@ -1802,9 +1802,9 @@ udp://bt1.archive.org:6969/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
-https://tr.qfruiti.in:443/announce
-
 udp://u6.trakx.crim.ist:1337/announce
+
+https://tr.qfruiti.in:443/announce
 
 udp://tracker.t-rb.org:6969/announce
 
@@ -1832,11 +1832,11 @@ udp://tracker.cubonegro.lol:6969/announce
 
 udp://6.pocketnet.app:6969/announce
 
+https://track3r.site:443/announce
+
 udp://tamas3.ynh.fr:6969/announce
 
 udp://evan.im:6969/announce
-
-https://track3r.site:443/announce
 
 udp://1c.premierzal.ru:6969/announce
 
@@ -1852,9 +1852,9 @@ udp://open.demonii.com:1337/announce
 
 http://tracker1.itzmx.com:8080/announce
 
-udp://open.dstud.io:6969/announce
-
 udp://pirate.t-1.org:1337/announce
+
+udp://open.dstud.io:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
