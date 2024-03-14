@@ -12,6 +12,7 @@ http://bt.okmp3.ru:2710/announce
 http://bvarf.tracker.sh:2086/announce
 http://ch3oh.ru:6969/announce
 http://ipv6.rer.lol:6969/announce
+http://movies.zsw.ca:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.acgnxtracker.com:80/announce
 http://retracker.hotplug.ru:2710/announce
@@ -21,7 +22,6 @@ http://tk.greedland.net:80/announce
 http://torrentsmd.com:8080/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.dler.com:6969/announce
-http://tracker.dler.org:6969/announce
 http://tracker.edkj.club:6969/announce
 http://tracker.electro-torrent.pl:80/announce
 http://tracker.files.fm:6969/announce
@@ -122,7 +122,6 @@ udp://ryjer.com:6969/announce
 udp://tamas3.ynh.fr:6969/announce
 udp://tk1.trackerservers.com:8080/announce
 udp://torrents.artixlinux.org:6969/announce
-udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://tracker.anima.nz:6969/announce
 udp://tracker.artixlinux.org:6969/announce
@@ -162,13 +161,15 @@ udp://u6.trakx.crim.ist:1337/announce
 udp://wepzone.net:6969/announce
 udp://www.torrent.eu.org:451/announce
 wss://tracker.openwebtorrent.com:443/announceudp://tracker.opentrackr.org:1337/announce
+udp://tracker-udp.gbitt.info:80/announce
 udp://explodie.org:6969/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+http://tracker.dler.org:6969/announce
 http://open.acgtracker.com:1096/announce
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 http://tracker1.itzmx.com:8080/announce
-udp://black-bird.ynh.fr:6969/announce
 http://retracker.seven-sky.net:80/announce
+udp://black-bird.ynh.fr:6969/announce
 udp://bt.rer.lol:6969/announce
 udp://tracker.vds.nz:6969/announce
 http://tracker.torrentuje.me:2710/announce
@@ -186,10 +187,10 @@ udp://bt.ktrackers.com:6666/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 http://openwrt.lingyurouqing.xyz:6969/announce
 http://torrent.hificode.in:6969/announce
-udp://sabross.xyz:6969/announce
-udp://tracker1.bt.moack.co.kr:80/announce
-http://open.tracker.ink:6969/announce
 https://tracker.cangku.moe:443/announce
+udp://tracker1.bt.moack.co.kr:80/announce
+udp://sabross.xyz:6969/announce
+http://open.tracker.ink:6969/announce
 udp://api.alarmasqueretaro.com:3074/announce
 http://tracker.skyts.net:6969/announce
 http://canardscitrons.nohost.me:6969/announce
@@ -480,7 +481,6 @@ udp://tracker.dev-null.rocks:6969/announce
 http://tracker.cubicview.site:80/announce
 udp://tk.cubicview.site:80/announce
 https://bot.ponomar-sibir.ru:443/announce
-http://movies.zsw.ca:6969/announce
 wss://tracker.openwebtorrent.com:443/announcehttp://t.acg.rip:6699/announce
 http://tracker.gbitt.info/announce
 https://tracker.lilithraws.cf/announce
