@@ -178,15 +178,15 @@ http://tracker.vraphim.com:6969/announce
 https://tracker.3moredays.com:443/announce
 udp://su-data.com:6969/announce
 http://v6-tracker.0g.cx:6969/announce
-http://p2p.0g.cx:6969/announce
 udp://btt.service.gongt.me:43079/announce
+http://p2p.0g.cx:6969/announce
 udp://t.overflow.biz:6969/announce
 udp://tracker.mirrorbay.org:6969/announce
 udp://bt.ktrackers.com:6666/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 http://openwrt.lingyurouqing.xyz:6969/announce
-udp://sabross.xyz:6969/announce
 http://torrent.hificode.in:6969/announce
+udp://sabross.xyz:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 http://open.tracker.ink:6969/announce
 https://tracker.cangku.moe:443/announce
