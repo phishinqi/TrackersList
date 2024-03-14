@@ -480,6 +480,7 @@ udp://tracker.dev-null.rocks:6969/announce
 http://tracker.cubicview.site:80/announce
 udp://tk.cubicview.site:80/announce
 https://bot.ponomar-sibir.ru:443/announce
+http://movies.zsw.ca:6969/announce
 wss://tracker.openwebtorrent.com:443/announcehttp://t.acg.rip:6699/announce
 http://tracker.gbitt.info/announce
 https://tracker.lilithraws.cf/announce
@@ -769,7 +770,6 @@ http://torrents.linuxmint.com/announce.php
 http://announce.partis.si/announce
 http://proaudiotorrents.org/announce.php
 https://torrent.ubuntu.com/announce
-http://movies.zsw.ca:6969/announce
 http://torrent.ubuntu.com:6969/announce
 http://mvgforumtracker.mvgroup.org/tracker.php/announce
 http://blackz.ro/announce.php
