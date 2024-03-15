@@ -177,8 +177,8 @@ http://tracker1.itzmx.com:8080/announce
 http://retracker.seven-sky.net:80/announce
 udp://black-bird.ynh.fr:6969/announce
 udp://bt.rer.lol:6969/announce
-udp://tracker.vds.nz:6969/announce
 http://tracker.torrentuje.me:2710/announce
+udp://tracker.vds.nz:6969/announce
 udp://tracker.breizh.pm:6969/announce
 http://tracker.vraphim.com:6969/announce
 udp://open.tracker.cl:1337/announce
