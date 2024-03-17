@@ -32,8 +32,6 @@ http://retracker.hotplug.ru:2710/announce
 
 http://t.acg.rip:6699/announce
 
-http://t1.aag.moe:17715/announce
-
 http://tinfoil.space:6969/announce
 
 http://tk.greedland.net:80/announce
@@ -69,6 +67,8 @@ http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 
 http://tracker.torrentuje.me:2710/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -596,13 +596,13 @@ https://t1.hloli.org:443/announce
 
 udp://opentracker.io:6969/announce
 
-udp://ns1.monolithindustries.com:6969/announce
-
 udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://tracker.therarbg.com:6969/announce
 
 udp://exodus.desync.com:6969/announce
+
+udp://ns1.monolithindustries.com:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
@@ -646,11 +646,11 @@ udp://retracker.lanta.me:2710/announce
 
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
-udp://tracker.torrust-demo.com:6969/announce
-
 https://shahidrazi.online:443/announce
 
 udp://tracker.cubonegro.lol:6969/announce
+
+udp://tracker.torrust-demo.com:6969/announce
 
 https://track3r.site:443/announce
 
@@ -680,9 +680,9 @@ udp://jutone.com:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
 
-https://tracker.loligirl.cn:443/announce
-
 udp://tracker.qu.ax:6969/announce
+
+https://tracker.loligirl.cn:443/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -702,13 +702,11 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-http://t1.aag.moe:17715/announce
-
 udp://open.xxtor.com:3074/announce
 
-udp://opentracker.i2p.rocks:6969/announce
-
 udp://bt2.archive.org:6969/announce
+
+udp://opentracker.i2p.rocks:6969/announce
 
 udp://black-bird.ynh.fr:6969/announce
 
@@ -726,11 +724,13 @@ udp://tracker.edkj.club:6969/announce
 
 udp://tracker.anima.nz:6969/announce
 
-http://retracker.seven-sky.net:80/announce
-
 udp://tracker.breizh.pm:6969/announce
 
+http://t1.aag.moe:17715/announce
+
 udp://ipv4.rer.lol:2710/announce
+
+http://retracker.seven-sky.net:80/announce
 
 https://tracker.ipfsscan.io:443/announce
 
@@ -738,9 +738,9 @@ udp://wepzone.net:6969/announce
 
 http://tracker.vraphim.com:6969/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 http://ch3oh.ru:6969/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 http://tracker.gbitt.info:80/announce
 
@@ -764,23 +764,23 @@ https://yolo.liberbear.com:443/announce
 
 udp://su-data.com:6969/announce
 
-udp://p4p.arenabg.com:1337/announce
-
 udp://bt.ktrackers.com:6666/announce
+
+udp://p4p.arenabg.com:1337/announce
 
 http://v6-tracker.0g.cx:6969/announce
 
-http://p2p.0g.cx:6969/announce
-
 http://ipv4announce.sktorrent.eu:6969/announce
+
+http://p2p.0g.cx:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
 http://torrent.hificode.in:6969/announce
 
-udp://tracker.mirrorbay.org:6969/announce
-
 udp://tracker1.bt.moack.co.kr:80/announce
+
+udp://tracker.mirrorbay.org:6969/announce
 
 http://openwrt.lingyurouqing.xyz:6969/announce
 
@@ -792,13 +792,13 @@ http://tracker.skyts.net:6969/announce
 
 http://canardscitrons.nohost.me:6969/announce
 
-udp://sabross.xyz:6969/announce
-
 udp://tracker.theoks.net:6969/announce
 
-udp://api.alarmasqueretaro.com:3074/announce
+udp://sabross.xyz:6969/announce
 
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
+
+udp://api.alarmasqueretaro.com:3074/announce
 
 udp://tracker.teambelgium.net:6969/announce
 
@@ -830,9 +830,9 @@ udp://ts.populargamers.co.za:6969/announce
 
 udp://tracker2.itzmx.com:6961/announce
 
-udp://tracker.draatman.uk:6969/announce
-
 udp://r.l5.ca:6969/announce
+
+udp://tracker.draatman.uk:6969/announce
 
 udp://private.anonseed.com:6969/announce
 
@@ -1426,8 +1426,6 @@ http://retracker.hotplug.ru:2710/announce
 
 http://t.acg.rip:6699/announce
 
-http://t1.aag.moe:17715/announce
-
 http://tinfoil.space:6969/announce
 
 http://tk.greedland.net:80/announce
@@ -1463,6 +1461,8 @@ http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 
 http://tracker.torrentuje.me:2710/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -1784,13 +1784,13 @@ https://t1.hloli.org:443/announce
 
 udp://opentracker.io:6969/announce
 
-udp://ns1.monolithindustries.com:6969/announce
-
 udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://tracker.therarbg.com:6969/announce
 
 udp://exodus.desync.com:6969/announce
+
+udp://ns1.monolithindustries.com:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
@@ -1834,11 +1834,11 @@ udp://retracker.lanta.me:2710/announce
 
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
-udp://tracker.torrust-demo.com:6969/announce
-
 https://shahidrazi.online:443/announce
 
 udp://tracker.cubonegro.lol:6969/announce
+
+udp://tracker.torrust-demo.com:6969/announce
 
 https://track3r.site:443/announce
 
@@ -1868,9 +1868,9 @@ udp://jutone.com:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
 
-https://tracker.loligirl.cn:443/announce
-
 udp://tracker.qu.ax:6969/announce
+
+https://tracker.loligirl.cn:443/announce
 
 udp://open.demonii.com:1337/announce
 
