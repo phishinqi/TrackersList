@@ -184,8 +184,8 @@ udp://tracker.breizh.pm:6969/announce
 http://tracker.vraphim.com:6969/announce
 https://tracker.3moredays.com:443/announce
 udp://btt.service.gongt.me:43079/announce
-udp://su-data.com:6969/announce
 https://bt.ptlsp.com:443/announce
+udp://su-data.com:6969/announce
 http://v6-tracker.0g.cx:6969/announce
 http://p2p.0g.cx:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
