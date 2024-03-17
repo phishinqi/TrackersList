@@ -197,8 +197,8 @@ http://open.tracker.ink:6969/announce
 https://tracker.cangku.moe:443/announce
 http://tracker.skyts.net:6969/announce
 http://canardscitrons.nohost.me:6969/announce
-udp://sabross.xyz:6969/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
+udp://sabross.xyz:6969/announce
 udp://api.alarmasqueretaro.com:3074/announce
 udp://tracker.teambelgium.net:6969/announce
 http://wg.mortis.me:6969/announce
@@ -207,8 +207,8 @@ http://cn.pcfreetime.com:6969/announce
 http://tracker.enitin.xyz:80/announce
 udp://tracker.ccp.ovh:6969/announce
 http://isk.richardsw.club:6969/announce
-udp://oscar.reyesleon.xyz:6969/announce
 http://tracker.h0me.cc:8880/announce
+udp://oscar.reyesleon.xyz:6969/announce
 udp://freedomalternative.com:6969/announce
 udp://r.l5.ca:6969/announce
 udp://tracker.draatman.uk:6969/announce
