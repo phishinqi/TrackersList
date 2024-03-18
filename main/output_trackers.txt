@@ -214,8 +214,9 @@ udp://r.l5.ca:6969/announce
 udp://tracker.draatman.uk:6969/announce
 udp://private.anonseed.com:6969/announce
 http://0205.uptm.ch:6969/announce
-http://tracker.pcfreetime.com:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
+http://tracker.pcfreetime.com:6969/announce
+udp://run.publictracker.xyz:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
 http://t.nyaatracker.com:80/announce
 udp://retracker.lanta-net.ru:2710/announce
@@ -265,7 +266,6 @@ udp://torrentclub.space:6969/announce
 http://bt.endpot.com:80/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://tracker.lyretain.site:2710/announce
-udp://run.publictracker.xyz:6969/announce
 udp://run-2.publictracker.xyz:6969/announce
 https://tr.abiir.top:443/announce
 http://t.publictracker.xyz:6969/announce
