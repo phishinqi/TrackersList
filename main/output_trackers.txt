@@ -194,15 +194,15 @@ https://tracker.3moredays.com:443/announce
 http://tracker.torrentuje.me:2710/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 http://retracker.seven-sky.net:80/announce
-udp://t.overflow.biz:6969/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 https://tracker.cangku.moe:443/announce
+udp://t.overflow.biz:6969/announce
 http://p2p.0g.cx:6969/announce
 http://canardscitrons.nohost.me:6969/announce
 http://v6-tracker.0g.cx:6969/announce
 http://torrent.hificode.in:6969/announce
-http://openwrt.lingyurouqing.xyz:6969/announce
 udp://open.publictracker.xyz:6969/announce
+http://openwrt.lingyurouqing.xyz:6969/announce
 udp://tracker.mirrorbay.org:6969/announce
 udp://tracker.teambelgium.net:6969/announce
 http://wg.mortis.me:6969/announce
@@ -212,8 +212,8 @@ http://isk.richardsw.club:6969/announce
 https://tr.aag.moe:443/announce
 udp://oscar.reyesleon.xyz:6969/announce
 udp://sabross.xyz:6969/announce
-udp://api.alarmasqueretaro.com:3074/announce
 http://cn.pcfreetime.com:6969/announce
+udp://api.alarmasqueretaro.com:3074/announce
 udp://ts.populargamers.co.za:6969/announce
 udp://r.l5.ca:6969/announce
 http://tracker.enitin.xyz:80/announce
@@ -221,7 +221,6 @@ udp://freedomalternative.com:6969/announce
 http://tracker.k.vu:6969/announce
 udp://tracker.draatman.uk:6969/announce
 udp://private.anonseed.com:6969/announce
-http://uraniumhexafluori.de:1919/announce
 http://0205.uptm.ch:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://tracker.pcfreetime.com:6969/announce
@@ -281,6 +280,7 @@ udp://ipv6.69.mu:6969/announce
 http://i-p-v-6.tk:6969/announce
 udp://zecircle.xyz:6969/announce
 https://tracker1.ctix.cn:443/announce
+http://uraniumhexafluori.de:1919/announce
 http://tracker.coppersurfer.site:2710/announce
 http://open-v6.demonoid.ch:6969/announce
 http://open.nyap2p.com:8080/announce
