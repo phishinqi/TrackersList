@@ -184,8 +184,8 @@ http://t1.aag.moe:17715/announce
 http://tracker.vraphim.com:6969/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 https://tracker.cangku.moe:443/announce
-https://tracker.gcrreen.xyz:443/announce
 udp://btt.service.gongt.me:43079/announce
+https://tracker.gcrreen.xyz:443/announce
 https://tracker.3moredays.com:443/announce
 udp://tracker.cubonegro.lol:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
@@ -219,8 +219,8 @@ udp://tracker.mirrorbay.org:6969/announce
 udp://tracker.teambelgium.net:6969/announce
 https://tr.ready4.icu:443/announce
 http://0205.uptm.ch:6969/announce
-http://wg.mortis.me:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
+http://wg.mortis.me:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
 http://t.nyaatracker.com:80/announce
 udp://retracker.lanta-net.ru:2710/announce
