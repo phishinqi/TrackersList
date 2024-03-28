@@ -178,8 +178,8 @@ udp://black-bird.ynh.fr:6969/announce
 udp://tracker.open-data.network:8888/announce
 udp://tracker.breizh.pm:6969/announce
 http://t1.aag.moe:17715/announce
-udp://6.pocketnet.app:6969/announce
 udp://bt.rer.lol:6969/announce
+udp://6.pocketnet.app:6969/announce
 http://tracker.vraphim.com:6969/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 https://tracker.cangku.moe:443/announce
@@ -192,8 +192,8 @@ udp://open.tracker.cl:1337/announce
 udp://t.overflow.biz:6969/announce
 http://tracker.skyts.net:6969/announce
 http://open.tracker.ink:6969/announce
-http://tracker.torrentuje.me:2710/announce
 udp://open.publictracker.xyz:6969/announce
+http://tracker.torrentuje.me:2710/announce
 http://p2p.0g.cx:6969/announce
 udp://tracker.theoks.net:6969/announce
 http://retracker.seven-sky.net:80/announce
@@ -213,12 +213,11 @@ udp://r.l5.ca:6969/announce
 http://torrent.hificode.in:6969/announce
 http://tracker.pcfreetime.com:6969/announce
 udp://freedomalternative.com:6969/announce
-http://openwrt.lingyurouqing.xyz:6969/announce
 http://0205.uptm.ch:6969/announce
 https://tr.ready4.icu:443/announce
+http://openwrt.lingyurouqing.xyz:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
-udp://tracker.mirrorbay.org:6969/announce
 http://t.nyaatracker.com:80/announce
 udp://retracker.lanta-net.ru:2710/announce
 udp://tracker.swateam.org.uk:2710/announce
@@ -476,6 +475,7 @@ udp://tracker.trafficmgr.net:6969/announce
 http://tracker.rev.pm:6969/announce
 https://bruisedfumblingmotion.sddsdsdsddsdss.repl.co:443/announce
 https://tracker.jdx3.org:443/announce
+udp://tracker.mirrorbay.org:6969/announce
 udp://api.alarmasqueretaro.com:3074/announce
 http://00.alarmasqueretaro.com:443/announce
 udp://tracker.hentai.gg:6969/announce
