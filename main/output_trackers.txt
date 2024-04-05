@@ -208,9 +208,9 @@ http://isk.richardsw.club:6969/announce
 udp://oscar.reyesleon.xyz:6969/announce
 http://cn.pcfreetime.com:6969/announce
 http://tracker.pcfreetime.com:6969/announce
-http://retracker.seven-sky.net:80/announce
 udp://ts.populargamers.co.za:6969/announce
 udp://r.l5.ca:6969/announce
+http://retracker.seven-sky.net:80/announce
 https://tr.aag.moe:443/announce
 http://0205.uptm.ch:6969/announce
 https://tr.ready4.icu:443/announce
