@@ -634,8 +634,6 @@ udp://tracker.srv00.com:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
-udp://tracker.torrust-demo.com:6969/announce
-
 udp://retracker.lanta.me:2710/announce
 
 http://tracker.ipv6tracker.ru:80/announce
@@ -646,23 +644,25 @@ udp://tracker.t-rb.org:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
-http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
+udp://p2p.publictracker.xyz:6969/announce
 
-udp://d40969.acod.regrucolo.ru:6969/announce
+udp://tracker.torrust-demo.com:6969/announce
+
+http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
 http://tracker.bt4g.com:2095/announce
 
-https://shahidrazi.online:443/announce
+udp://d40969.acod.regrucolo.ru:6969/announce
 
-udp://p2p.publictracker.xyz:6969/announce
+https://shahidrazi.online:443/announce
 
 udp://tracker.therarbg.to:6969/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
-udp://u4.trakx.crim.ist:1337/announce
-
 http://tr.kxmp.cf:80/announce
+
+udp://u4.trakx.crim.ist:1337/announce
 
 https://tracker.lilithraws.org:443/announce
 
@@ -694,9 +694,9 @@ https://tracker.loligirl.cn:443/announce
 
 udp://new-line.net:6969/announce
 
-udp://tracker.therarbg.com:6969/announce
-
 udp://jutone.com:6969/announce
+
+udp://tracker.therarbg.com:6969/announce
 
 udp://black-bird.ynh.fr:6969/announce
 
@@ -734,9 +734,9 @@ udp://tracker.edkj.club:6969/announce
 
 http://t1.aag.moe:17715/announce
 
-http://ch3oh.ru:6969/announce
-
 udp://tracker.anima.nz:6969/announce
+
+http://ch3oh.ru:6969/announce
 
 udp://bt.rer.lol:6969/announce
 
@@ -754,9 +754,9 @@ udp://free.publictracker.xyz:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
-http://tracker.vraphim.com:6969/announce
-
 udp://public.publictracker.xyz:6969/announce
+
+http://tracker.vraphim.com:6969/announce
 
 udp://tracker.cubonegro.org:1337/announce
 
@@ -798,13 +798,13 @@ udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://6.pocketnet.app:6969/announce
 
-https://tracker.gcrreen.xyz:443/announce
-
 udp://bubu.mapfactor.com:6969/announce
 
-udp://tracker.theoks.net:6969/announce
+https://tracker.gcrreen.xyz:443/announce
 
 udp://open.tracker.cl:1337/announce
+
+udp://tracker.theoks.net:6969/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -826,25 +826,25 @@ http://tracker.h0me.cc:8880/announce
 
 http://tracker.torrentuje.me:2710/announce
 
-http://isk.richardsw.club:6969/announce
-
 udp://tracker.ccp.ovh:6969/announce
+
+http://isk.richardsw.club:6969/announce
 
 udp://oscar.reyesleon.xyz:6969/announce
 
-udp://p4p.arenabg.com:1337/announce
+http://cn.pcfreetime.com:6969/announce
 
 https://1337.abcvg.info:443/announce
 
-http://cn.pcfreetime.com:6969/announce
+udp://p4p.arenabg.com:1337/announce
 
 http://tracker.pcfreetime.com:6969/announce
-
-http://retracker.seven-sky.net:80/announce
 
 udp://ts.populargamers.co.za:6969/announce
 
 udp://r.l5.ca:6969/announce
+
+http://retracker.seven-sky.net:80/announce
 
 udp://tracker2.itzmx.com:6961/announce
 
@@ -1834,8 +1834,6 @@ udp://tracker.srv00.com:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
-udp://tracker.torrust-demo.com:6969/announce
-
 udp://retracker.lanta.me:2710/announce
 
 http://tracker.ipv6tracker.ru:80/announce
@@ -1846,23 +1844,25 @@ udp://tracker.t-rb.org:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
-http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
+udp://p2p.publictracker.xyz:6969/announce
 
-udp://d40969.acod.regrucolo.ru:6969/announce
+udp://tracker.torrust-demo.com:6969/announce
+
+http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
 http://tracker.bt4g.com:2095/announce
 
-https://shahidrazi.online:443/announce
+udp://d40969.acod.regrucolo.ru:6969/announce
 
-udp://p2p.publictracker.xyz:6969/announce
+https://shahidrazi.online:443/announce
 
 udp://tracker.therarbg.to:6969/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
-udp://u4.trakx.crim.ist:1337/announce
-
 http://tr.kxmp.cf:80/announce
+
+udp://u4.trakx.crim.ist:1337/announce
 
 https://tracker.lilithraws.org:443/announce
 
@@ -1894,9 +1894,9 @@ https://tracker.loligirl.cn:443/announce
 
 udp://new-line.net:6969/announce
 
-udp://tracker.therarbg.com:6969/announce
-
 udp://jutone.com:6969/announce
+
+udp://tracker.therarbg.com:6969/announce
 
 udp://black-bird.ynh.fr:6969/announce
 
