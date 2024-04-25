@@ -172,8 +172,8 @@ http://tr.kxmp.cf:80/announce
 http://p2p.0g.cx:6969/announce
 udp://tracker.darkness.services:6969/announce
 udp://seedpeer.net:6969/announce
-http://t.acg.rip:6699/announce
 udp://ttr.croco.net:6969/announce
+http://t.acg.rip:6699/announce
 udp://black-bird.ynh.fr:6969/announce
 https://bt.ptlsp.com:443/announce
 udp://bt.rer.lol:6969/announce
@@ -193,8 +193,8 @@ https://tracker1.ctix.cn:443/announce
 https://tracker2.ctix.cn:443/announce
 udp://btt.service.gongt.me:43079/announce
 udp://aarsen.me:6969/announce
-udp://ns1.monolithindustries.com:6969/announce
 udp://t.overflow.biz:6969/announce
+udp://ns1.monolithindustries.com:6969/announce
 https://yolo.liberbear.com:443/announce
 http://canardscitrons.nohost.me:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
@@ -206,9 +206,9 @@ udp://open.tracker.cl:1337/announce
 http://tinfoil.space:6969/announce
 udp://freedomalternative.com:6969/announce
 udp://opentracker.i2p.rocks:6969/announce
-udp://open.dstud.io:6969/announce
 https://tracker.moeblog.cn:443/announce
 http://bjlt.zhuqiy.eu.org:6666/announce
+udp://open.dstud.io:6969/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 http://tracker.zhuqiy.eu.org:36107/announce
 udp://hbsy.zhuqiy.eu.org:6666/announce
