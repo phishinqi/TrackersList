@@ -169,9 +169,9 @@ https://www.peckservers.com:9443/announce
 http://p2p.0g.cx:6969/announce
 udp://seedpeer.net:6969/announce
 udp://black-bird.ynh.fr:6969/announce
-udp://tracker.cubonegro.org:1337/announce
-http://t.acg.rip:6699/announce
 udp://open-tracker.demonoid.ch:6969/announce
+http://t.acg.rip:6699/announce
+udp://tracker.cubonegro.org:1337/announce
 http://open-v6.demonoid.ch:6969/announce
 udp://bt.rer.lol:6969/announce
 https://tracker.cangku.moe:443/announce
@@ -187,9 +187,9 @@ http://isk.richardsw.club:6969/announce
 https://tracker1.ctix.cn:443/announce
 https://tracker2.ctix.cn:443/announce
 udp://btt.service.gongt.me:43079/announce
-udp://tracker.torrust-demo.com:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://t.overflow.biz:6969/announce
+udp://tracker.torrust-demo.com:6969/announce
 http://canardscitrons.nohost.me:6969/announce
 udp://aarsen.me:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
@@ -221,7 +221,6 @@ http://tracker-zhuqiy.dgj055.icu:80/announce
 http://0205.uptm.ch:6969/announce
 http://cn.pcfreetime.com:6969/announce
 https://tr.ready4.icu:443/announce
-udp://open.dstud.io:6969/announce
 http://tracker.pcfreetime.com:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
@@ -268,6 +267,7 @@ udp://mirror.aptus.co.tz:6969/announce
 udp://tracker.lyretain.site:2710/announce
 https://tr.abiir.top:443/announce
 http://t.publictracker.xyz:6969/announce
+udp://open.dstud.io:6969/announce
 udp://xxx.xxtor.com:3074/announce
 udp://open.4ever.tk:6969/announce
 http://ipv6.govt.hu:6969/announce
