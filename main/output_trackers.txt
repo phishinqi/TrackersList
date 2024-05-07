@@ -184,8 +184,8 @@ http://canardscitrons.nohost.me:6969/announce
 https://tracker2.ctix.cn:443/announce
 http://p2p.0g.cx:6969/announce
 http://isk.richardsw.club:6969/announce
-udp://btt.service.gongt.me:43079/announce
 udp://black-bird.ynh.fr:6969/announce
+udp://btt.service.gongt.me:43079/announce
 https://torrent.opiums.eu:443/announce
 udp://tracker.breizh.pm:6969/announce
 https://t.peer-exchange.download:443/announce
@@ -193,13 +193,13 @@ udp://tracker.torrust-demo.com:6969/announce
 http://t.acg.rip:6699/announce
 http://tracker.vraphim.com:6969/announce
 udp://t.overflow.biz:6969/announce
+udp://tracker.open-data.network:8888/announce
 https://torrent.tracker.durukanbal.com:443/announce
-https://www.peckservers.com:9443/announce
 udp://ttr.croco.net:6969/announce
 udp://oscar.reyesleon.xyz:6969/announce
+https://www.peckservers.com:9443/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 https://shahidrazi.online:443/announce
-udp://tracker.open-data.network:8888/announce
 https://tr.qfruiti.com:443/announce
 https://track3r.site:443/announce
 udp://tracker.cubonegro.org:1337/announce
@@ -213,8 +213,8 @@ http://open.tracker.ink:6969/announce
 https://tracker.3moredays.com:443/announce
 udp://tracker.draatman.uk:6969/announce
 udp://mikrotik2.draatman.net:6969/announce
-http://tracker.uraniumhexafluori.de:80/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
+http://tracker.uraniumhexafluori.de:80/announce
 udp://freedomalternative.com:6969/announce
 http://tracker.guguan.000.pe:80/announce
 http://tracker.pcfreetime.com:6969/announce
@@ -341,7 +341,6 @@ udp://tracker.pimpmyworld.to:6969/announce
 udp://ftp.pet:2710/announce
 udp://dns.xxtor.com:53/announce
 udp://sx.xxtor.com:6969/announce
-udp://tracker.novaopcj.eu.org:6969/announce
 udp://chouchou.top:8080/announce
 http://tracker.enitin.xyz:80/announce
 http://dn42.smrsh.net:6969/announce
