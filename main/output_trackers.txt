@@ -205,8 +205,8 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://tracker.vds.nz:6969/announce
 udp://tracker.leena.network:6969/announce
 https://t1.hloli.org:443/announce
-http://tracker.h0me.cc:8880/announce
 udp://tracker1.bt.moack.co.kr:80/announce
+http://tracker.h0me.cc:8880/announce
 udp://public.demonoid.ch:6969/announce
 udp://tracker.birkenwald.de:6969/announce
 udp://tracker-us.silksa.co.za:6969/announce
@@ -217,8 +217,8 @@ https://tr.qfruiti.com:443/announce
 https://shahidrazi.online:443/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 https://track3r.site:443/announce
-udp://tracker.open-data.network:8888/announce
 https://tracker.bulao.ren:443/announce
+udp://tracker.open-data.network:8888/announce
 https://socket.onvo.me:443/announce
 https://tracker.3moredays.com:443/announce
 http://region.nl1.privex.cc:6969/announce
