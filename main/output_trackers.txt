@@ -178,15 +178,15 @@ http://canardscitrons.nohost.me:6969/announce
 https://tracker2.ctix.cn:443/announce
 http://isk.richardsw.club:6969/announce
 http://p2p.0g.cx:6969/announce
-udp://black-bird.ynh.fr:6969/announce
 udp://tracker.draatman.uk:6969/announce
+udp://black-bird.ynh.fr:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://btt.service.gongt.me:43079/announce
 https://torrent.opiums.eu:443/announce
 udp://oscar.reyesleon.xyz:6969/announce
+udp://mikrotik2.draatman.net:6969/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://bt.rer.lol:6969/announce
-udp://mikrotik2.draatman.net:6969/announce
 https://t.peer-exchange.download:443/announce
 https://tracker.cangku.moe:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
@@ -199,8 +199,8 @@ http://t.acg.rip:6699/announce
 https://trackers.run:443/announce
 udp://tracker.publictracker.xyz:6969/announce
 udp://lulz.vpndb.org:3000/announce
-udp://api.boletera.org:3074/announce
 udp://tracker.birkenwald.de:6969/announce
+udp://api.boletera.org:3074/announce
 http://tracker.h0me.cc:8880/announce
 udp://run-2.publictracker.xyz:6969/announce
 udp://tracker.leena.network:6969/announce
@@ -217,9 +217,8 @@ udp://freedomalternative.com:6969/announce
 https://tracker.moeblog.cn:443/announce
 http://cn.pcfreetime.com:6969/announce
 http://0205.uptm.ch:6969/announce
-https://tr.ready4.icu:443/announce
 http://region.nl1.privex.cc:6969/announce
-http://tracker.zhuqiy.dgj055.icu:80/announce
+https://tr.ready4.icu:443/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 udp://dyndns.xionxiii.ovh:6969/announce
 https://bt.080609.xyz:443/announce
@@ -476,6 +475,7 @@ udp://tcq.zhuqiy.eu.org:25091/announce
 http://tracker-rh.zhuqiy.eu.org:80/announce
 udp://trl-zhuqiy.dgj055.icu:6969/announce
 udp://tracker-cn.zhuqiy.eu.org:6969/announce
+http://tracker.zhuqiy.dgj055.icu:80/announce
 https://tr-rh-zhuqiy.dgj055.icu:443/announce
 https://tr-zhuqiy-1.dgj055.icu:443/announce
 https://tr-zhuqiy-2.dgj055.icu:443/announce
