@@ -198,12 +198,12 @@ udp://tracker.therarbg.com:6969/announce
 udp://tracker.ccp.ovh:6969/announce
 https://tracker.midnightprogrammer.net:443/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
-http://thetracker.org:80/announce
 http://tracker.skyts.net:6969/announce
+http://thetracker.org:80/announce
 udp://free.publictracker.xyz:6969/announce
 http://tracker.guguan.000.pe:80/announce
-https://tracker.expli.top:443/announce
 udp://www.2600.com:6969/announce
+https://tracker.expli.top:443/announce
 udp://black-bird.ynh.fr:6969/announce
 udp://tracker.vds.nz:6969/announce
 https://tracker.moeblog.cn:443/announce
@@ -240,7 +240,6 @@ udp://tracker.leech.ie:1337/announce
 udp://public.publictracker.xyz:6969/announce
 udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.altrosky.nl:6969/announce
-https://tracker.cyber-hub.net:443/announce
 https://tracker.lilithraws.cf:443/announce
 udp://tracker.openbittorrent.com:6969/announce
 udp://tracker.lelux.fi:6969/announce
@@ -303,7 +302,6 @@ http://parag.rs:6969/announce
 udp://f1sh.de:6969/announce
 udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 udp://soundmovie.ru:6969/announce
-udp://94-227-232-84.access.telenet.be:6969/announce
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 udp://carr.codes:6969/announce
 udp://tracker.openbtba.com:6969/announce
@@ -322,7 +320,6 @@ udp://dht.bt251.com:6969/announce
 udp://bedro.cloud:6969/announce
 http://504e163a.host.njalla.net:6969/announce
 udp://private.anonseed.com:6969/announce
-udp://eccologic.net:6969/announce
 http://107.189.10.20.sslip.io:7777/announce
 udp://freedom.1776.ga:6969/announce
 http://v6-tracker.0g.cx:6969/announce
@@ -906,6 +903,7 @@ https://cernet-tracker.appspot.com/announce
 http://www.yqzuji.com/announce
 http://tracker.publictorrent.net/announce
 https://tracker.opentracker.se/announce
+https://tracker.cyber-hub.net:443/announce
 http://rstracker.ohys.net/announce
 udp://aaa.army:8866/announce
 http://aaa.army:8866/announce
@@ -1031,6 +1029,7 @@ http://97.117.102.248:9000/announce
 http://207.246.118.100:6961/announce
 http://83.6.208.20:6969/announce
 http://171.104.226.221:6969/announce
+udp://94-227-232-84.access.telenet.be:6969/announce
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
 http://tracker.yoshi210.com:6969/announce
 https://tracker.cangku.moe/announce
