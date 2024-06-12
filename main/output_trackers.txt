@@ -159,14 +159,14 @@ http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 http://tracker1.itzmx.com:8080/announce
 http://bt.okmp3.ru:2710/announce
 udp://t.overflow.biz:6969/announce
+udp://open-tracker.demonoid.ch:6969/announce
 http://p2p.0g.cx:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
-udp://open-tracker.demonoid.ch:6969/announce
 udp://bt.rer.lol:6969/announce
 https://t.peer-exchange.download:443/announce
 http://tracker.k.vu:6969/announce
-udp://tracker.cubonegro.org:1337/announce
 udp://tracker.torrust-demo.com:6969/announce
+udp://tracker.cubonegro.org:1337/announce
 https://torrent.tracker.durukanbal.com:443/announce
 http://t.acg.rip:6699/announce
 http://tracker.vraphim.com:6969/announce
@@ -180,8 +180,8 @@ udp://tracker-us.silksa.co.za:6969/announce
 udp://btt.service.gongt.me:43079/announce
 http://tracker.h0me.cc:8880/announce
 udp://open.tracker.cl:1337/announce
-http://tracker-zhuqiy.dgj055.icu:80/announce
 http://canardscitrons.nohost.me:6969/announce
+http://tracker-zhuqiy.dgj055.icu:80/announce
 https://bt.ptlsp.com:443/announce
 udp://tracker.picotorrent.one:6969/announce
 http://tor.rev.pm:6969/announce
@@ -191,8 +191,8 @@ http://tracker.rev.pm:6969/announce
 udp://mikrotik2.draatman.net:6969/announce
 http://open.acgnxtracker.com:80/announce
 udp://tracker.theoks.net:6969/announce
-https://threads.canofsocks.com:443/announce
 udp://tracker.ccp.ovh:6969/announce
+https://threads.canofsocks.com:443/announce
 http://tracker2.itzmx.com:6961/announce
 udp://tracker.therarbg.com:6969/announce
 http://tracker.skyts.net:6969/announce
@@ -208,7 +208,6 @@ http://rfc5746.mywaifu.best:6969/announce
 http://tracker.pcfreetime.com:6969/announce
 http://0205.uptm.ch:6969/announce
 http://cn.pcfreetime.com:6969/announce
-https://tracker.expli.top:443/announce
 http://region.nl1.privex.cc:6969/announce
 udp://dyndns.xionxiii.ovh:6969/announce
 https://bt.080609.xyz:443/announce
@@ -286,6 +285,7 @@ udp://rep-art.ynh.fr:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://laze.cc:6969/announce
 udp://tracker.6.babico.name.tr:6969/announce
+https://tracker.expli.top:443/announce
 udp://tracker.joybomb.tw:6969/announce
 http://tracker.sakurato.art:23333/announce
 udp://tracker.tcp.exchange:6969/announce
