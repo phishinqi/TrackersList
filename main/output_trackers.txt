@@ -169,8 +169,8 @@ http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 http://tracker1.itzmx.com:8080/announce
 http://isk.richardsw.club:6969/announce
 udp://t.overflow.biz:6969/announce
-http://tracker.ipv6tracker.ru:80/announce
 http://p2p.0g.cx:6969/announce
+http://tracker.ipv6tracker.ru:80/announce
 udp://bt.rer.lol:6969/announce
 udp://tracker.cubonegro.org:1337/announce
 https://t.peer-exchange.download:443/announce
@@ -192,11 +192,11 @@ http://tracker-zhuqiy.dgj055.icu:80/announce
 udp://open.tracker.cl:1337/announce
 https://bt.ptlsp.com:443/announce
 http://canardscitrons.nohost.me:6969/announce
-https://threads.canofsocks.com:443/announce
 udp://tracker.picotorrent.one:6969/announce
 http://tor.rev.pm:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
+https://threads.canofsocks.com:443/announce
 udp://mikrotik2.draatman.net:6969/announce
 http://tracker.rev.pm:6969/announce
 http://open.acgnxtracker.com:80/announce
@@ -205,8 +205,8 @@ http://tracker.skyts.net:6969/announce
 https://tracker.midnightprogrammer.net:443/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 http://tracker.guguan.000.pe:80/announce
-udp://www.2600.com:6969/announce
 http://thetracker.org:80/announce
+udp://www.2600.com:6969/announce
 udp://tracker.vds.nz:6969/announce
 https://tracker.moeblog.cn:443/announce
 https://tracker.expli.top:443/announce
