@@ -198,8 +198,8 @@ https://threads.canofsocks.com:443/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://tracker.ccp.ovh:6969/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
-http://tracker.skyts.net:6969/announce
 http://tracker.guguan.000.pe:80/announce
+http://tracker.skyts.net:6969/announce
 udp://tracker.therarbg.com:6969/announce
 udp://free.publictracker.xyz:6969/announce
 https://tracker.midnightprogrammer.net:443/announce
