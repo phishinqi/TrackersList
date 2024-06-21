@@ -176,8 +176,8 @@ http://t.acg.rip:6699/announce
 udp://bt.rer.lol:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
 https://tracker2.ctix.cn:443/announce
-udp://t.overflow.biz:6969/announce
 https://tracker1.ctix.cn:443/announce
+udp://t.overflow.biz:6969/announce
 http://tracker.vraphim.com:6969/announce
 https://torrust.canofsocks.com:443/announce
 https://threads.canofsocks.com:443/announce
@@ -208,10 +208,10 @@ udp://tracker.therarbg.com:6969/announce
 https://tracker.moeblog.cn:443/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 http://tracker.pcfreetime.com:6969/announce
-udp://tracker.picotorrent.one:6969/announce
 https://tr.ready4.icu:443/announce
-udp://www.2600.com:6969/announce
+udp://tracker.picotorrent.one:6969/announce
 http://0205.uptm.ch:6969/announce
+udp://www.2600.com:6969/announce
 http://region.nl1.privex.cc:6969/announce
 udp://dyndns.xionxiii.ovh:6969/announce
 https://bt.080609.xyz:443/announce
