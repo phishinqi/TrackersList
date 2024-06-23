@@ -197,8 +197,8 @@ http://thetracker.org:80/announce
 udp://open.tracker.cl:1337/announce
 http://tracker.guguan.000.pe:80/announce
 http://open.acgnxtracker.com:80/announce
-https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 http://tracker.rev.pm:6969/announce
+https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 http://tracker.skyts.net:6969/announce
 http://tor.rev.pm:6969/announce
 http://fosstorrents.com:6969/announce
