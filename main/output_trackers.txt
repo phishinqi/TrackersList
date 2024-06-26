@@ -173,10 +173,10 @@ https://tracker2.ctix.cn:443/announce
 https://tracker1.ctix.cn:443/announce
 udp://tk1.trackerservers.com:8080/announce
 http://p2p.0g.cx:6969/announce
-http://open.acgtracker.com:1096/announce
 http://t.acg.rip:6699/announce
-https://torrent.tracker.durukanbal.com:443/announce
+http://open.acgtracker.com:1096/announce
 udp://tracker.torrust-demo.com:6969/announce
+https://torrent.tracker.durukanbal.com:443/announce
 udp://bt.rer.lol:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 udp://t.overflow.biz:6969/announce
@@ -192,12 +192,12 @@ udp://tracker1.bt.moack.co.kr:80/announce
 udp://mikrotik2.draatman.net:6969/announce
 http://thetracker.org:80/announce
 udp://tracker.cubonegro.org:1337/announce
-https://torrent.opiums.eu:443/announce
 udp://tracker.ccp.ovh:6969/announce
+https://torrent.opiums.eu:443/announce
 http://tracker.guguan.000.pe:80/announce
 udp://free.publictracker.xyz:6969/announce
-https://bt.ptlsp.com:443/announce
 http://tracker.skyts.net:6969/announce
+https://bt.ptlsp.com:443/announce
 http://fosstorrents.com:6969/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 http://open.acgnxtracker.com:80/announce
@@ -209,7 +209,6 @@ http://cn.pcfreetime.com:6969/announce
 https://t1.hloli.org:443/announce
 http://0205.uptm.ch:6969/announce
 https://tr.ready4.icu:443/announce
-http://tracker.rev.pm:6969/announce
 https://tracker.madtia.cc:443/announce
 http://region.nl1.privex.cc:6969/announce
 udp://dyndns.xionxiii.ovh:6969/announce
@@ -425,6 +424,7 @@ http://openwrt.lingyurouqing.xyz:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.anima.nz:6969/announce
 udp://tracker.trafficmgr.net:6969/announce
+http://tracker.rev.pm:6969/announce
 https://bruisedfumblingmotion.sddsdsdsddsdss.repl.co:443/announce
 https://tracker.jdx3.org:443/announce
 udp://tracker.mirrorbay.org:6969/announce
