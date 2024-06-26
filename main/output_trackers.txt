@@ -179,9 +179,9 @@ https://torrent.tracker.durukanbal.com:443/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://bt.rer.lol:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
-https://threads.canofsocks.com:443/announce
 udp://t.overflow.biz:6969/announce
 http://tracker.vraphim.com:6969/announce
+https://threads.canofsocks.com:443/announce
 https://tracker.imgoingto.icu:443/announce
 https://tracker.cangku.moe:443/announce
 https://torrust.canofsocks.com:443/announce
@@ -198,8 +198,8 @@ http://tracker.guguan.000.pe:80/announce
 https://bt.ptlsp.com:443/announce
 udp://free.publictracker.xyz:6969/announce
 http://tracker.skyts.net:6969/announce
-https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 http://fosstorrents.com:6969/announce
+https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 http://open.acgnxtracker.com:80/announce
 udp://open.tracker.cl:1337/announce
 udp://tracker.therarbg.com:6969/announce
@@ -210,6 +210,7 @@ http://tracker.rev.pm:6969/announce
 http://0205.uptm.ch:6969/announce
 https://tr.ready4.icu:443/announce
 https://tracker.madtia.cc:443/announce
+https://t1.hloli.org:443/announce
 http://region.nl1.privex.cc:6969/announce
 udp://dyndns.xionxiii.ovh:6969/announce
 https://bt.080609.xyz:443/announce
@@ -304,7 +305,6 @@ udp://soundmovie.ru:6969/announce
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 udp://carr.codes:6969/announce
 udp://tracker.openbtba.com:6969/announce
-https://t1.hloli.org:443/announce
 udp://tracker.pimpmyworld.to:6969/announce
 udp://ftp.pet:2710/announce
 udp://dns.xxtor.com:53/announce
