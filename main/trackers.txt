@@ -544,8 +544,6 @@ udp://tracker.skynetcloud.site:6969/announce
 
 https://tracker.yemekyedim.com:443/announce
 
-udp://amigacity.xyz:6969/announce
-
 udp://exodus.desync.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
@@ -559,6 +557,8 @@ https://trackers.mlsub.net:443/announce
 http://tracker1.itzmx.com:8080/announce
 
 udp://tracker.fnix.net:6969/announce
+
+udp://amigacity.xyz:6969/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -594,6 +594,10 @@ udp://tracker.tryhackx.org:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
+udp://tracker.darkness.services:6969/announce
+
+udp://www.torrent.eu.org:451/announce
+
 udp://tracker.breizh.pm:6969/announce
 
 udp://open.dstud.io:6969/announce
@@ -608,19 +612,15 @@ udp://martin-gebhardt.eu:25/announce
 
 udp://seedpeer.net:6969/announce
 
-udp://tracker.darkness.services:6969/announce
-
-udp://www.torrent.eu.org:451/announce
-
 udp://tk2.trackerservers.com:8080/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
 
 http://bvarf.tracker.sh:2086/announce
 
-udp://opentracker.io:6969/announce
-
 udp://tracker.gmi.gd:6969/announce
+
+udp://opentracker.io:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
@@ -728,9 +728,9 @@ udp://inferno.demonoid.is:3391/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-udp://tracker.deadorbit.nl:6969/announce
-
 http://ch3oh.ru:6969/announce
+
+udp://tracker.deadorbit.nl:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
@@ -744,15 +744,15 @@ http://tracker.vraphim.com:6969/announce
 
 https://tracker.loligirl.cn:443/announce
 
-http://tracker.k.vu:6969/announce
-
 udp://tracker.edkj.club:6969/announce
+
+http://tracker.k.vu:6969/announce
 
 https://tracker.imgoingto.icu:443/announce
 
-udp://t.overflow.biz:6969/announce
-
 http://t1.aag.moe:17715/announce
+
+udp://t.overflow.biz:6969/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
@@ -774,9 +774,9 @@ http://canardscitrons.nohost.me:6969/announce
 
 http://tracker2.itzmx.com:6961/announce
 
-https://torrust.canofsocks.com:443/announce
-
 http://thetracker.org:80/announce
+
+https://torrust.canofsocks.com:443/announce
 
 https://t1.hloli.org:443/announce
 
@@ -800,9 +800,9 @@ http://fosstorrents.com:6969/announce
 
 https://tracker.moeblog.cn:443/announce
 
-http://tracker.pcfreetime.com:6969/announce
-
 http://cn.pcfreetime.com:6969/announce
+
+http://tracker.pcfreetime.com:6969/announce
 
 https://torrent.opiums.eu:443/announce
 
@@ -811,6 +811,8 @@ udp://tracker.cubonegro.org:1337/announce
 http://open.acgnxtracker.com:80/announce
 
 http://0205.uptm.ch:6969/announce
+
+udp://tracker.vds.nz:6969/announce
 
 https://tr.ready4.icu:443/announce
 
@@ -823,8 +825,6 @@ udp://dyndns.xionxiii.ovh:6969/announce
 udp://tracker.therarbg.com:6969/announce
 
 https://bt.080609.xyz:443/announce
-
-udp://tracker.vds.nz:6969/announce
 
 http://t.nyaatracker.com:80/announce
 
@@ -1694,8 +1694,6 @@ udp://tracker.skynetcloud.site:6969/announce
 
 https://tracker.yemekyedim.com:443/announce
 
-udp://amigacity.xyz:6969/announce
-
 udp://exodus.desync.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
@@ -1709,6 +1707,8 @@ https://trackers.mlsub.net:443/announce
 http://tracker1.itzmx.com:8080/announce
 
 udp://tracker.fnix.net:6969/announce
+
+udp://amigacity.xyz:6969/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -1744,6 +1744,10 @@ udp://tracker.tryhackx.org:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
+udp://tracker.darkness.services:6969/announce
+
+udp://www.torrent.eu.org:451/announce
+
 udp://tracker.breizh.pm:6969/announce
 
 udp://open.dstud.io:6969/announce
@@ -1758,19 +1762,15 @@ udp://martin-gebhardt.eu:25/announce
 
 udp://seedpeer.net:6969/announce
 
-udp://tracker.darkness.services:6969/announce
-
-udp://www.torrent.eu.org:451/announce
-
 udp://tk2.trackerservers.com:8080/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
 
 http://bvarf.tracker.sh:2086/announce
 
-udp://opentracker.io:6969/announce
-
 udp://tracker.gmi.gd:6969/announce
+
+udp://opentracker.io:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
