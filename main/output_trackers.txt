@@ -198,10 +198,10 @@ http://tracker.guguan.000.pe:80/announce
 http://tracker.skyts.net:6969/announce
 udp://tracker.therarbg.com:6969/announce
 https://torrust.canofsocks.com:443/announce
-http://tracker.pcfreetime.com:6969/announce
 https://tracker.moeblog.cn:443/announce
-http://cn.pcfreetime.com:6969/announce
+http://tracker.pcfreetime.com:6969/announce
 http://tracker.enitin.xyz:80/announce
+http://cn.pcfreetime.com:6969/announce
 http://fosstorrents.com:6969/announce
 http://0205.uptm.ch:6969/announce
 https://tr.ready4.icu:443/announce
