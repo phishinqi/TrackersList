@@ -180,10 +180,10 @@ udp://bt.rer.lol:6969/announce
 http://tracker.vraphim.com:6969/announce
 udp://t.overflow.biz:6969/announce
 udp://tracker.silksa.co.za:6969/announce
+https://threads.canofsocks.com:443/announce
+udp://btt.service.gongt.me:43079/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
-udp://btt.service.gongt.me:43079/announce
-https://threads.canofsocks.com:443/announce
 http://tracker.h0me.cc:8880/announce
 https://tracker.cangku.moe:443/announce
 udp://tracker1.bt.moack.co.kr:80/announce
@@ -204,8 +204,8 @@ http://tracker.pcfreetime.com:6969/announce
 http://tracker.enitin.xyz:80/announce
 http://cn.pcfreetime.com:6969/announce
 http://0205.uptm.ch:6969/announce
-http://fosstorrents.com:6969/announce
 https://tr.ready4.icu:443/announce
+http://fosstorrents.com:6969/announce
 https://tracker.madtia.cc:443/announce
 http://region.nl1.privex.cc:6969/announce
 udp://lopatins.ru:5972/announce
@@ -240,7 +240,6 @@ udp://tracker.altrosky.nl:6969/announce
 https://tracker.lilithraws.cf:443/announce
 udp://tracker.openbittorrent.com:6969/announce
 udp://tracker.lelux.fi:6969/announce
-http://fxtt.ru:80/announce
 udp://open.tracker.cl:1337/announce
 udp://tracker.bitsearch.to:1337/announce
 udp://ipv6.tracker.monitorit4.me:6969/announce
@@ -653,6 +652,7 @@ http://bt1.xxxxbt.cc:6969/announce
 http://opentracker.xyz:80/announce
 udp://yahor.ftp.sh:6969/announce
 https://opentracker.xyz/announce
+http://fxtt.ru:80/announce
 udp://yann5.hexanyn.fr:6969/announce
 https://opentracker.xyz:443/announce
 udp://rutorrent.frontline-mod.com:6969/announce
