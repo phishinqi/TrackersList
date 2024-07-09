@@ -540,6 +540,8 @@ https://tracker.lilithraws.org:443/announce
 
 https://tracker.yemekyedim.com:443/announce
 
+udp://tracker.draatman.uk:6969/announce
+
 udp://amigacity.xyz:6969/announce
 
 udp://mikrotik2.draatman.net:6969/announce
@@ -550,13 +552,13 @@ http://bt.okmp3.ru:2710/announce
 
 udp://tracker.fnix.net:6969/announce
 
-udp://tracker.draatman.uk:6969/announce
-
 udp://bt1.archive.org:6969/announce
 
 udp://oh.fuuuuuck.com:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
+
+udp://open.publictracker.xyz:6969/announce
 
 udp://moonburrow.club:6969/announce
 
@@ -574,6 +576,8 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
 
+udp://open.demonoid.ch:6969/announce
+
 https://tracker.gcrenwp.top:443/announce
 
 https://pybittrack.retiolus.net:443/announce
@@ -582,23 +586,19 @@ udp://u6.trakx.crim.ist:1337/announce
 
 udp://retracker.lanta.me:2710/announce
 
-udp://open.demonoid.ch:6969/announce
-
 udp://tk2v6.trackerservers.com:8080/announce
-
-udp://open.publictracker.xyz:6969/announce
 
 udp://epider.me:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
-
-https://www.peckservers.com:9443/announce
 
 udp://www.torrent.eu.org:451/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://open.dstud.io:6969/announce
+
+https://www.peckservers.com:9443/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
@@ -620,9 +620,9 @@ udp://tracker.birkenwald.de:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
 
-http://tracker.dump.cl:6969/announce
-
 udp://open-tracker.demonoid.ch:6969/announce
+
+http://tracker.dump.cl:6969/announce
 
 udp://wepzone.net:6969/announce
 
@@ -688,11 +688,11 @@ http://open.acgtracker.com:1096/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
+https://t1.hloli.org:443/announce
+
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
-
-https://t1.hloli.org:443/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -722,15 +722,15 @@ udp://t.overflow.biz:6969/announce
 
 udp://tracker.silksa.co.za:6969/announce
 
-udp://d40969.acod.regrucolo.ru:6969/announce
-
-udp://tracker.skynetcloud.site:6969/announce
+https://threads.canofsocks.com:443/announce
 
 udp://tracker.edkj.club:6969/announce
 
 udp://btt.service.gongt.me:43079/announce
 
-https://threads.canofsocks.com:443/announce
+udp://d40969.acod.regrucolo.ru:6969/announce
+
+udp://tracker.skynetcloud.site:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
@@ -742,9 +742,9 @@ http://tracker.h0me.cc:8880/announce
 
 http://tracker.gbitt.info:80/announce
 
-https://tracker.cangku.moe:443/announce
-
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
+https://tracker.cangku.moe:443/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -762,11 +762,11 @@ udp://tracker.farted.net:6969/announce
 
 http://tracker.k.vu:6969/announce
 
-https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
+udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
-udp://tracker.ccp.ovh:6969/announce
+https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 
 http://open.tracker.ink:6969/announce
 
@@ -794,9 +794,9 @@ http://cn.pcfreetime.com:6969/announce
 
 http://0205.uptm.ch:6969/announce
 
-http://fosstorrents.com:6969/announce
-
 https://tr.ready4.icu:443/announce
+
+http://fosstorrents.com:6969/announce
 
 https://tracker.madtia.cc:443/announce
 
@@ -869,8 +869,6 @@ https://tracker.lilithraws.cf:443/announce
 udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.lelux.fi:6969/announce
-
-http://fxtt.ru:80/announce
 
 udp://open.tracker.cl:1337/announce
 
@@ -1680,6 +1678,8 @@ https://tracker.lilithraws.org:443/announce
 
 https://tracker.yemekyedim.com:443/announce
 
+udp://tracker.draatman.uk:6969/announce
+
 udp://amigacity.xyz:6969/announce
 
 udp://mikrotik2.draatman.net:6969/announce
@@ -1690,13 +1690,13 @@ http://bt.okmp3.ru:2710/announce
 
 udp://tracker.fnix.net:6969/announce
 
-udp://tracker.draatman.uk:6969/announce
-
 udp://bt1.archive.org:6969/announce
 
 udp://oh.fuuuuuck.com:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
+
+udp://open.publictracker.xyz:6969/announce
 
 udp://moonburrow.club:6969/announce
 
@@ -1714,6 +1714,8 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
 
+udp://open.demonoid.ch:6969/announce
+
 https://tracker.gcrenwp.top:443/announce
 
 https://pybittrack.retiolus.net:443/announce
@@ -1722,23 +1724,19 @@ udp://u6.trakx.crim.ist:1337/announce
 
 udp://retracker.lanta.me:2710/announce
 
-udp://open.demonoid.ch:6969/announce
-
 udp://tk2v6.trackerservers.com:8080/announce
-
-udp://open.publictracker.xyz:6969/announce
 
 udp://epider.me:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
-
-https://www.peckservers.com:9443/announce
 
 udp://www.torrent.eu.org:451/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://open.dstud.io:6969/announce
+
+https://www.peckservers.com:9443/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
@@ -1760,9 +1758,9 @@ udp://tracker.birkenwald.de:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
 
-http://tracker.dump.cl:6969/announce
-
 udp://open-tracker.demonoid.ch:6969/announce
+
+http://tracker.dump.cl:6969/announce
 
 udp://wepzone.net:6969/announce
 
