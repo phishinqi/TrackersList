@@ -182,8 +182,8 @@ udp://bt.rer.lol:6969/announce
 http://t.acg.rip:6699/announce
 http://tracker.vraphim.com:6969/announce
 udp://btt.service.gongt.me:43079/announce
-https://threads.canofsocks.com:443/announce
 udp://t.overflow.biz:6969/announce
+https://threads.canofsocks.com:443/announce
 http://tracker.h0me.cc:8880/announce
 udp://tracker.silksa.co.za:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
