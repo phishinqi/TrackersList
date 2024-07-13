@@ -178,9 +178,9 @@ http://ipv4announce.sktorrent.eu:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://bt.rer.lol:6969/announce
 https://tracker1.ctix.cn:443/announce
+udp://bandito.byterunner.io:6969/announce
 https://tracker2.ctix.cn:443/announce
 http://tracker.vraphim.com:6969/announce
-udp://bandito.byterunner.io:6969/announce
 https://threads.canofsocks.com:443/announce
 udp://t.overflow.biz:6969/announce
 http://t.acg.rip:6699/announce
@@ -190,8 +190,8 @@ udp://tracker.silksa.co.za:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
 http://thetracker.org:80/announce
-udp://tracker-udp.gbitt.info:80/announce
 udp://tracker1.bt.moack.co.kr:80/announce
+udp://tracker-udp.gbitt.info:80/announce
 https://tracker.cangku.moe:443/announce
 udp://tracker.vds.nz:6969/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
@@ -210,7 +210,6 @@ http://region.nl1.privex.cc:6969/announce
 udp://lopatins.ru:5972/announce
 udp://dyndns.xionxiii.ovh:6969/announce
 https://bt.080609.xyz:443/announce
-https://tracker.madtia.cc:443/announce
 http://t.nyaatracker.com:80/announce
 udp://retracker.lanta-net.ru:2710/announce
 udp://tracker.swateam.org.uk:2710/announce
@@ -290,7 +289,6 @@ http://tracker.sakurato.art:23333/announce
 udp://tracker.tcp.exchange:6969/announce
 udp://tracker.jonaslsa.com:6969/announce
 udp://slicie.icon256.com:8000/announce
-https://voxhost.fr:443/announce
 udp://download.nerocloud.me:6969/announce
 udp://bt.plc.mx:3074/announce
 http://parag.rs:6969/announce
@@ -470,6 +468,7 @@ https://tracker.bulao.ren:443/announce
 http://tor.rev.pm:6969/announce
 https://tracker.midnightprogrammer.net:443/announce
 https://torrust.canofsocks.com:443/announce
+https://tracker.madtia.cc:443/announce
 wss://tracker.openwebtorrent.com:443/announcehttp://tracker.bt4g.com:2095/announce
 http://tracker.gbitt.info/announce
 https://tracker.lilithraws.cf/announce
@@ -1057,6 +1056,7 @@ http://211.75.29.254:6969/announce
 http://97.117.75.139:9000/announce
 http://201.42.214.55:6969/announce
 http://83.6.234.75:6969/announce
+https://voxhost.fr:443/announce
 http://171.104.110.21:6969/announce
 https://tracker.pterclub.com/announce
 http://tracker.btzero.net:8080/announce
