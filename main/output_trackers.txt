@@ -168,8 +168,8 @@ udp://tk1.trackerservers.com:8080/announce
 http://p2p.0g.cx:6969/announce
 udp://tracker.breizh.pm:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
-udp://open-tracker.demonoid.ch:6969/announce
 udp://tracker.qu.ax:6969/announce
+udp://open-tracker.demonoid.ch:6969/announce
 http://open-v6.demonoid.ch:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 udp://btt.service.gongt.me:43079/announce
@@ -179,15 +179,15 @@ udp://bandito.byterunner.io:6969/announce
 https://tracker1.ctix.cn:443/announce
 http://tracker.vraphim.com:6969/announce
 https://tracker2.ctix.cn:443/announce
-udp://t.overflow.biz:6969/announce
 https://threads.canofsocks.com:443/announce
+udp://t.overflow.biz:6969/announce
 http://t.acg.rip:6699/announce
 http://tracker.h0me.cc:8880/announce
 https://tracker.imgoingto.icu:443/announce
 udp://tracker.silksa.co.za:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
-udp://tracker.skynetcloud.site:6969/announce
 http://thetracker.org:80/announce
+udp://tracker.skynetcloud.site:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker-udp.gbitt.info:80/announce
 https://tracker.cangku.moe:443/announce
@@ -195,8 +195,8 @@ http://canardscitrons.nohost.me:6969/announce
 udp://tracker.vds.nz:6969/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 http://tracker.guguan.000.pe:80/announce
-udp://tracker.farted.net:6969/announce
 http://tracker.enitin.xyz:80/announce
+udp://tracker.farted.net:6969/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 udp://free.publictracker.xyz:6969/announce
 http://open.tracker.ink:6969/announce
@@ -246,7 +246,6 @@ udp://ipv6.tracker.monitorit4.me:6969/announce
 https://tr.burnabyhighstar.com:443/announce
 udp://open.xxtor.com:3074/announce
 http://reisub.nsupdate.info:6969/announce
-udp://torrentclub.space:6969/announce
 http://bt.endpot.com:80/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://tracker.lyretain.site:2710/announce
@@ -470,7 +469,7 @@ http://tor.rev.pm:6969/announce
 https://tracker.midnightprogrammer.net:443/announce
 https://torrust.canofsocks.com:443/announce
 https://tracker.madtia.cc:443/announce
-wss://tracker.openwebtorrent.com:443/announcehttp://tracker.bt4g.com:2095/announce
+wss://tracker.openwebtorrent.com:443/announceudp://z.mercax.com:53/announce
 http://tracker.gbitt.info/announce
 https://tracker.lilithraws.cf/announce
 https://tracker1.520.jp/announce
@@ -1176,6 +1175,7 @@ http://83.31.190.19:6969/announce
 http://45.154.253.10/announce
 http://171.104.111.201:6969/announce
 http://83.31.211.243:6969/announce
+udp://torrentclub.space:6969/announce
 https://nyaa.tracker.wf:7777/announce
 http://rotracker.ohys.net:80/announce
 http://ehtracker.org/1/announce
