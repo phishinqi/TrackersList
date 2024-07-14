@@ -202,7 +202,8 @@ udp://u.peer-exchange.download:6969/announce
 
 udp://wepzone.net:6969/announce
 
-wss://tracker.openwebtorrent.com:443/announcehttp://tracker.opentrackr.org:1337/announce
+wss://tracker.openwebtorrent.com:443/announce
+http://tracker.opentrackr.org:1337/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
@@ -400,6 +401,7 @@ http://bvarf.tracker.sh:2086/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
+
 udp://z.mercax.com:53/announce
 
 udp://tracker.torrent.eu.org:451/announce
@@ -542,9 +544,9 @@ udp://odd-hd.fr:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-udp://tracker-us.silksa.co.za:6969/announce
-
 udp://tracker.cyberia.is:6969/announce
+
+udp://tracker-us.silksa.co.za:6969/announce
 
 udp://u.peer-exchange.download:6969/announce
 
@@ -648,9 +650,9 @@ udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker3.itzmx.com:6961/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
-
 http://tracker.gbitt.info:80/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
@@ -1230,6 +1232,7 @@ https://torrust.canofsocks.com:443/announce
 
 https://tracker.madtia.cc:443/announce
 
+
 http://1337.abcvg.info:80/announce
 
 http://bvarf.tracker.sh:2086/announce
@@ -1434,7 +1437,8 @@ udp://u.peer-exchange.download:6969/announce
 
 udp://wepzone.net:6969/announce
 
-wss://tracker.openwebtorrent.com:443/announceudp://z.mercax.com:53/announce
+wss://tracker.openwebtorrent.com:443/announce
+udp://z.mercax.com:53/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
@@ -1576,9 +1580,9 @@ udp://odd-hd.fr:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-udp://tracker-us.silksa.co.za:6969/announce
-
 udp://tracker.cyberia.is:6969/announce
+
+udp://tracker-us.silksa.co.za:6969/announce
 
 udp://u.peer-exchange.download:6969/announce
 
@@ -1597,6 +1601,7 @@ udp://ryjer.com:6969/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker.darkness.services:6969/announce
+
 
 http://tracker.gbitt.info/announce
 https://tracker.lilithraws.cf/announce
@@ -2689,6 +2694,7 @@ https://tracker.yemekyedim.com:443/announce
 http://tracker1.torrentino.com/announce
 http://bobbialbano.com:6969/announce
 https://bt.beatrice-raws.org/announce
+
 http://tracker1.itzmx.com:8080/announce
 http://tracker2.itzmx.com:6961/announce
 http://tracker3.itzmx.com:6961/announce
@@ -2727,3 +2733,4 @@ udp://tracker.opentrackr.org:1337/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
+
