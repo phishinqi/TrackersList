@@ -1,14 +1,12 @@
-#增加了main_url的判断
 # coding=utf-8
 import urllib.request
 import os
 import wget
 
-
-
+# 获取当前文件路径并检查 main_url.txt
 url_file_path = os.getcwd()
 print("当前文件路径：", url_file_path)
-url_path = url_file_path + '\\main_url.txt'
+url_path = os.path.join(url_file_path, 'main_url.txt')
 if os.path.exists(url_path):
     print("OK!")
     print("--------------------")
@@ -16,12 +14,10 @@ else:
     print("文件不存在！正在创建中......")
     main_url = "https://raw.githubusercontent.com/phishinqi/phishinqi.github.io/main/assets/txt/trackers_url.txt"
     wget.download(main_url, "./main_url.txt")
-    #os.mkdir(url_path)
     print("OK!")
     print("--------------------")
 
-
-
+# 读取 main_url.txt 文件内容并输出 URL 列表
 print("读取URL中......")
 result = []
 with open('main_url.txt', 'r') as f:
@@ -32,45 +28,38 @@ print("OK!")
 print("URL列表：", result)
 print("--------------------")
 
-
-#打印網頁至trackers.txt
+# 检查并创建 trackers.txt 文件
 file_path = os.getcwd()
-#print("當前文件路徑：", file_path)
-path = file_path + '\\trackers.txt'
+path = os.path.join(file_path, 'trackers.txt')
 print("正在输出trackers至trackers.txt")
 if os.path.exists(path):
     print("文件存在！正在删除原始内容......")
-    with open("./trackers.txt", 'r+') as files:
+    with open(path, 'r+') as files:
         files.truncate(0)
     print("OK!")
     print("--------------------")
 else:
     print("文件不存在！正在创建中......")
-    file_trackers = open('./trackers.txt','w')
-    #os.mkdir(path)
+    with open(path, 'w') as file_trackers:
+        pass
     print("OK!")
     print("--------------------")
 
-#file = open('./trackers.txt', 'w')
-#file.write(html)
-
-
-
-#打開網頁
-#print("正在嘗試獲取trackers......")
+# 读取 main_url.txt 中的 URL 并写入 trackers.txt
 trackers_list = []
 for url_line in open("./main_url.txt"):
+    url_line = url_line.strip()  # 去除空白行
+    if not url_line:
+        continue
     print(url_line)
     try:
-        #html = urllib.request.urlopen(url_line).read().decode()
         headers ={'User-Agent':'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36'}
-        req = urllib.request.Request(url=url_line,headers=headers)
+        req = urllib.request.Request(url=url_line, headers=headers)
         res = urllib.request.urlopen(req)
         html = res.read().decode('utf-8')
         trackers_list.append(html)
-        #print(trackers_list)
-        with open('./trackers.txt', 'a') as f:
-            f.writelines(html)
+        with open(path, 'a') as f:
+            f.writelines(html + '\n')
             print("OK!")
         try:
             os.remove(url_path)
@@ -78,23 +67,21 @@ for url_line in open("./main_url.txt"):
             print(e)
         else:
             print("File is deleted successfully")
-    except:
+    except Exception as e:
+        print(e)
         continue
-#print(html)
 
-
-
-def remove_duplicates():
+# 去除 trackers.txt 文件中的重复行，并在行与行之间添加空白行
+def remove_duplicates_and_add_blank_lines():
     print("--------------------")
     print("正在准备去重中...")
-    f_read=open(r'./trackers.txt','r')     #将需要去除重复值的txt文本重命名text.txt
-    f_write=open(r'./output_trackers.txt','w')  #去除重复值之后，生成新的txt文本 --“去除重复值后的文本.txt”
-    data=set()
-    for a in [a.strip('\n') for a in list(f_read)]:
-        if a not in data:
-            f_write.write(a+'\n')
-            data.add(a)
-    f_read.close()
-    f_write.close()
+    with open('./trackers.txt', 'r') as f_read, open('./output_trackers.txt', 'w') as f_write:
+        data = set()
+        for line in f_read:
+            stripped_line = line.strip()
+            if stripped_line and stripped_line not in data:
+                f_write.write(stripped_line + '\n\n')  # 添加空白行
+                data.add(stripped_line)
     print("OK!")
-remove_duplicates()
+
+remove_duplicates_and_add_blank_lines()
