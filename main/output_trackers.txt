@@ -324,9 +324,9 @@ http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
-https://pybittrack.retiolus.net:443/announce
-
 http://tracker.dump.cl:6969/announce
+
+https://pybittrack.retiolus.net:443/announce
 
 udp://tracker.cyberia.is:6969/announce
 
@@ -344,17 +344,17 @@ udp://bandito.byterunner.io:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
+udp://bt.rer.lol:6969/announce
+
 udp://open-tracker.demonoid.ch:6969/announce
 
 http://open-v6.demonoid.ch:6969/announce
 
-udp://bt.rer.lol:6969/announce
-
 http://tracker.ipv6tracker.ru:80/announce
 
-https://threads.canofsocks.com:443/announce
-
 udp://t.overflow.biz:6969/announce
+
+https://threads.canofsocks.com:443/announce
 
 http://tracker.vraphim.com:6969/announce
 
@@ -394,9 +394,9 @@ http://tracker.enitin.xyz:80/announce
 
 http://tracker.guguan.000.pe:80/announce
 
-http://tracker-zhuqiy.dgj055.icu:80/announce
-
 udp://tracker.farted.net:6969/announce
+
+http://tracker-zhuqiy.dgj055.icu:80/announce
 
 udp://free.publictracker.xyz:6969/announce
 
@@ -404,13 +404,13 @@ http://tracker.skyts.net:6969/announce
 
 http://open.tracker.ink:6969/announce
 
-https://tracker.moeblog.cn:443/announce
-
 http://tracker.pcfreetime.com:6969/announce
 
-http://tracker.k.vu:6969/announce
+https://tracker.moeblog.cn:443/announce
 
 http://cn.pcfreetime.com:6969/announce
+
+http://tracker.k.vu:6969/announce
 
 http://0205.uptm.ch:6969/announce
 
