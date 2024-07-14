@@ -8,6 +8,9 @@
 * https://github.com/XIU2/TrackersListCollection
 * https://github.com/DeSireFire/animeTrackerList
 
+#注意
+**本項目過於臃腫，可能並不適合絕大部分人**
+感謝您發現本項目，但我更希望您能夠修改我的代碼讓他變得不像這樣臃腫
 
 # 如何使用
 使用下面兩個鏈接即可：
