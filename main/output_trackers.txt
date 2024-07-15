@@ -320,9 +320,9 @@ udp://tk2v6.trackerservers.com:8080/announce
 
 http://tracker.dump.cl:6969/announce
 
-http://isk.richardsw.club:6969/announce
-
 https://t.peer-exchange.download:443/announce
+
+http://isk.richardsw.club:6969/announce
 
 http://p2p.0g.cx:6969/announce
 
@@ -334,9 +334,9 @@ http://open.acgtracker.com:1096/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
-udp://tracker.qu.ax:6969/announce
-
 udp://bandito.byterunner.io:6969/announce
+
+udp://tracker.qu.ax:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
@@ -346,21 +346,21 @@ udp://t.overflow.biz:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-https://threads.canofsocks.com:443/announce
-
-udp://open-tracker.demonoid.ch:6969/announce
-
 http://open-v6.demonoid.ch:6969/announce
 
+https://threads.canofsocks.com:443/announce
+
 http://tracker.vraphim.com:6969/announce
+
+udp://open-tracker.demonoid.ch:6969/announce
 
 http://t.acg.rip:6699/announce
 
 https://tracker1.ctix.cn:443/announce
 
-https://tracker2.ctix.cn:443/announce
-
 udp://btt.service.gongt.me:43079/announce
+
+https://tracker2.ctix.cn:443/announce
 
 http://tracker.h0me.cc:8880/announce
 
@@ -370,9 +370,9 @@ http://thetracker.org:80/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-udp://tracker.silksa.co.za:6969/announce
-
 udp://tracker1.bt.moack.co.kr:80/announce
+
+udp://tracker.silksa.co.za:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
@@ -382,9 +382,9 @@ udp://tracker.skynetcloud.site:6969/announce
 
 https://tracker.cangku.moe:443/announce
 
-udp://tracker-udp.gbitt.info:80/announce
-
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
+
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.vds.nz:6969/announce
 
@@ -394,9 +394,9 @@ http://tracker.guguan.000.pe:80/announce
 
 udp://free.publictracker.xyz:6969/announce
 
-udp://tracker.farted.net:6969/announce
-
 http://tracker-zhuqiy.dgj055.icu:80/announce
+
+udp://tracker.farted.net:6969/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -410,11 +410,11 @@ http://cn.pcfreetime.com:6969/announce
 
 http://0205.uptm.ch:6969/announce
 
-http://tracker.k.vu:6969/announce
-
 https://tr.ready4.icu:443/announce
 
 http://region.nl1.privex.cc:6969/announce
+
+udp://yahor.of.by:6969/announce
 
 udp://lopatins.ru:5972/announce
 
@@ -499,6 +499,8 @@ udp://run-2.publictracker.xyz:6969/announce
 http://t.publictracker.xyz:6969/announce
 
 udp://open.4ever.tk:6969/announce
+
+http://tracker.k.vu:6969/announce
 
 http://ipv6.govt.hu:6969/announce
 
@@ -731,8 +733,6 @@ udp://mail.segso.net:6969/announce
 udp://107.182.30.76.16clouds.com:6969/announce
 
 udp://ts.populargamers.co.za:6969/announce
-
-udp://yahor.of.by:6969/announce
 
 udp://6.pocketnet.app:6969/announce
 
