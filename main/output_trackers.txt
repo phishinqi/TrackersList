@@ -344,9 +344,9 @@ udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 
-udp://tracker-us.silksa.co.za:6969/announce
-
 udp://bandito.byterunner.io:6969/announce
+
+udp://tracker-us.silksa.co.za:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
@@ -384,9 +384,9 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-udp://tracker.silksa.co.za:6969/announce
-
 http://canardscitrons.nohost.me:6969/announce
+
+udp://tracker.silksa.co.za:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
@@ -410,13 +410,13 @@ http://tracker.skyts.net:6969/announce
 
 udp://tracker.farted.net:6969/announce
 
-http://open.tracker.ink:6969/announce
-
 http://tracker.pcfreetime.com:6969/announce
 
-http://tracker-zhuqiy.dgj055.icu:80/announce
+http://open.tracker.ink:6969/announce
 
 https://tracker.moeblog.cn:443/announce
+
+http://tracker-zhuqiy.dgj055.icu:80/announce
 
 http://cn.pcfreetime.com:6969/announce
 
