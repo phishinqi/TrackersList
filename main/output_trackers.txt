@@ -340,11 +340,11 @@ udp://tk1.trackerservers.com:8080/announce
 
 udp://tracker.breizh.pm:6969/announce
 
-udp://mikrotik2.draatman.net:6969/announce
-
 udp://tracker.torrust-demo.com:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
+
+udp://mikrotik2.draatman.net:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
@@ -352,9 +352,9 @@ udp://tracker-us.silksa.co.za:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-udp://bt.rer.lol:6969/announce
-
 udp://t.overflow.biz:6969/announce
+
+udp://bt.rer.lol:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -380,19 +380,19 @@ https://tracker.imgoingto.icu:443/announce
 
 http://thetracker.org:80/announce
 
-udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
 udp://tracker1.bt.moack.co.kr:80/announce
+
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://tracker.silksa.co.za:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
-udp://tracker.skynetcloud.site:6969/announce
+https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 
 https://tracker.cangku.moe:443/announce
 
-https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
+udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.vds.nz:6969/announce
 
@@ -410,9 +410,9 @@ http://tracker.pcfreetime.com:6969/announce
 
 http://open.tracker.ink:6969/announce
 
-udp://tracker.farted.net:6969/announce
-
 https://tracker.moeblog.cn:443/announce
+
+udp://tracker.farted.net:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
