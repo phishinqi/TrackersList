@@ -346,15 +346,15 @@ http://p2p.0g.cx:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
-udp://tracker.breizh.pm:6969/announce
-
 udp://tracker.torrust-demo.com:6969/announce
+
+udp://tracker.breizh.pm:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
 
-udp://mikrotik2.draatman.net:6969/announce
-
 https://torrent.tracker.durukanbal.com:443/announce
+
+udp://mikrotik2.draatman.net:6969/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 
@@ -390,9 +390,9 @@ udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker.silksa.co.za:6969/announce
 
-udp://d40969.acod.regrucolo.ru:6969/announce
-
 udp://tracker.theoks.net:6969/announce
+
+udp://d40969.acod.regrucolo.ru:6969/announce
 
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 
@@ -2940,8 +2940,6 @@ udp://147job.com:6969/announce
 
 udp://anidex.moe:6969/announce
 
-udp://bt1.xxxxbt.cc:6969/announce
-
 udp://bttracker.debian.org:6969/announce
 
 udp://buny.uk:6969/announce
@@ -2994,8 +2992,6 @@ udp://parag.rs:6969/announce
 
 udp://region.nl1.privex.cc:6969/announce
 
-udp://reisub.nsupdate.info:6969/announce
-
 udp://rfc5746.mywaifu.best:6969/announce
 
 udp://shogiroom.com:6969/announce
@@ -3031,8 +3027,6 @@ udp://tracker.nartlof.com.br:6969/announce
 udp://tracker.pcfreetime.com:6969/announce
 
 udp://tracker.vanitycore.co:6969/announce
-
-udp://tracker.vraphim.com:6969/announce
 
 udp://tracker.vrpnet.org:6969/announce
 
@@ -3231,4 +3225,10 @@ udp://89.213.174.212:6969/announce
 udp://89.47.160.50:6969/announce
 
 udp://96.126.98.54:6969/announce
+
+udp://bt1.xxxxbt.cc:6969/announce
+
+udp://reisub.nsupdate.info:6969/announce
+
+udp://tracker.vraphim.com:6969/announce
 
