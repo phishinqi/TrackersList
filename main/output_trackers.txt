@@ -344,17 +344,17 @@ udp://tracker.torrust-demo.com:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
+https://tracker.amelia.fun:443/announce
+
 http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
-https://tracker.amelia.fun:443/announce
-
 udp://bt.rer.lol:6969/announce
 
-http://tracker.vraphim.com:6969/announce
-
 udp://btt.service.gongt.me:43079/announce
+
+http://tracker.vraphim.com:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -372,9 +372,9 @@ https://tracker1.ctix.cn:443/announce
 
 http://tracker.h0me.cc:8880/announce
 
-https://tracker2.ctix.cn:443/announce
-
 udp://tracker1.bt.moack.co.kr:80/announce
+
+https://tracker2.ctix.cn:443/announce
 
 https://tracker.cangku.moe:443/announce
 
