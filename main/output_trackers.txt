@@ -314,15 +314,23 @@ udp://z.mercax.com:53/announce
 
 wss://tracker.openwebtorrent.com:443/announce
 
-udp://open.u-p.pw:6969/announce
-
 udp://explodie.org:6969/announce
 
-udp://tracker.bittor.pw:1337/announce
+udp://tracker.dump.cl:6969/announce
+
+udp://open.u-p.pw:6969/announce
+
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://tracker1.itzmx.com:8080/announce
 
 http://ch3oh.ru:6969/announce
+
+http://canardscitrons.nohost.me:6969/announce
+
+http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
+http://tracker.ykat.xyz:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
@@ -338,11 +346,11 @@ udp://tracker.breizh.pm:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-udp://tracker.draatman.uk:6969/announce
-
 udp://tracker.torrust-demo.com:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
+
+udp://tracker.draatman.uk:6969/announce
 
 udp://bt.rer.lol:6969/announce
 
@@ -366,11 +374,7 @@ http://open-v6.demonoid.ch:6969/announce
 
 udp://open-tracker.demonoid.ch:6969/announce
 
-udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
 https://tracker1.ctix.cn:443/announce
-
-http://canardscitrons.nohost.me:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
@@ -384,9 +388,9 @@ https://tracker.imgoingto.icu:443/announce
 
 https://tracker2.ctix.cn:443/announce
 
-udp://bubu.mapfactor.com:6969/announce
-
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
+
+udp://bubu.mapfactor.com:6969/announce
 
 udp://tracker.vds.nz:6969/announce
 
@@ -394,9 +398,9 @@ http://tracker.guguan.000.pe:80/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
-udp://tracker.silksa.co.za:6969/announce
-
 udp://free.publictracker.xyz:6969/announce
+
+udp://tracker.silksa.co.za:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
@@ -408,11 +412,11 @@ http://open.tracker.ink:6969/announce
 
 udp://tracker.skynetcloud.site:6969/announce
 
+udp://tracker-udp.gbitt.info:80/announce
+
 https://tracker.moeblog.cn:443/announce
 
 udp://yahor.of.by:6969/announce
-
-udp://tracker-udp.gbitt.info:80/announce
 
 udp://freedomalternative.com:6969/announce
 
@@ -2280,6 +2284,8 @@ http://opentracker.io:80/announce
 
 udp://185.181.60.155:80/announce
 
+udp://tracker.bittor.pw:1337/announce
+
 udp://tracker.cubonegro.xyz:6969/announce
 
 udp://156.234.201.18:80/announce
@@ -2990,6 +2996,8 @@ udp://mixfiend.com:6969/announce
 
 udp://open.stealth.si:6969/announce
 
+udp://p2p.0g.cx:6969/announce
+
 udp://parag.rs:6969/announce
 
 udp://region.nl1.privex.cc:6969/announce
@@ -3026,11 +3034,13 @@ udp://tracker.nartlof.com.br:6969/announce
 
 udp://tracker.pcfreetime.com:6969/announce
 
+udp://tracker.vanitycore.co:6969/announce
+
 udp://tracker.vrpnet.org:6969/announce
 
-udp://tracker.xiaoduola.xyz:6969/announce
-
 udp://tracker.ygsub.com:6969/announce
+
+udp://tracker.yoshi210.com:6969/announce
 
 udp://ulfbrueggemann.no-ip.org:6969/announce
 
@@ -3207,4 +3217,6 @@ udp://89.47.160.50:6969/announce
 udp://91.216.110.53:451/announce
 
 udp://96.126.98.54:6969/announce
+
+udp://tracker.xiaoduola.xyz:6969/announce
 
