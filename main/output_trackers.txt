@@ -372,21 +372,21 @@ https://threads.canofsocks.com:443/announce
 
 udp://tracker.theoks.net:6969/announce
 
+http://tracker.enitin.xyz:80/announce
+
 udp://open-tracker.demonoid.ch:6969/announce
 
 http://open-v6.demonoid.ch:6969/announce
-
-http://tracker.enitin.xyz:80/announce
 
 https://tracker1.ctix.cn:443/announce
 
 http://tracker.h0me.cc:8880/announce
 
-http://tracker.ykat.xyz:6969/announce
-
 http://thetracker.org:80/announce
 
 https://tracker.imgoingto.icu:443/announce
+
+http://tracker.ykat.xyz:6969/announce
 
 https://tracker2.ctix.cn:443/announce
 
@@ -402,17 +402,15 @@ udp://free.publictracker.xyz:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
+udp://tracker-udp.gbitt.info:80/announce
+
 http://tracker.skyts.net:6969/announce
 
 udp://tracker.silksa.co.za:6969/announce
 
-udp://tracker-udp.gbitt.info:80/announce
-
 udp://d40969.acod.regrucolo.ru:6969/announce
 
 http://open.tracker.ink:6969/announce
-
-udp://bubu.mapfactor.com:6969/announce
 
 https://tracker.moeblog.cn:443/announce
 
@@ -499,6 +497,8 @@ udp://ipv6.tracker.monitorit4.me:6969/announce
 udp://open.xxtor.com:3074/announce
 
 http://reisub.nsupdate.info:6969/announce
+
+udp://bubu.mapfactor.com:6969/announce
 
 http://bt.endpot.com:80/announce
 
@@ -3008,6 +3008,8 @@ udp://shogiroom.com:6969/announce
 
 udp://smurfsoft.com:6969/announce
 
+udp://t.jaekr.sh:6969/announce
+
 udp://torrent.fedoraproject.org:6969/announce
 
 udp://torrent.hificode.in:6969/announce
@@ -3034,13 +3036,13 @@ udp://tracker.nartlof.com.br:6969/announce
 
 udp://tracker.pcfreetime.com:6969/announce
 
-udp://tracker.vanitycore.co:6969/announce
-
 udp://tracker.vrpnet.org:6969/announce
+
+udp://tracker.xiaoduola.xyz:6969/announce
 
 udp://tracker.ygsub.com:6969/announce
 
-udp://tracker.yoshi210.com:6969/announce
+udp://tracker.ykat.xyz:6969/announce
 
 udp://ulfbrueggemann.no-ip.org:6969/announce
 
@@ -3205,4 +3207,8 @@ udp://89.213.174.212:6969/announce
 udp://89.47.160.50:6969/announce
 
 udp://96.126.98.54:6969/announce
+
+udp://tracker.vanitycore.co:6969/announce
+
+udp://tracker.yoshi210.com:6969/announce
 
