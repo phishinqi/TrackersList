@@ -346,9 +346,9 @@ udp://martin-gebhardt.eu:25/announce
 
 udp://tracker.draatman.uk:6969/announce
 
-http://p2p.0g.cx:6969/announce
-
 http://tracker.vraphim.com:6969/announce
+
+http://p2p.0g.cx:6969/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -368,11 +368,11 @@ udp://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker.enitin.xyz:80/announce
 
+http://tracker-zhuqiy.dgj055.icu:80/announce
+
 udp://open-tracker.demonoid.ch:6969/announce
 
 http://open-v6.demonoid.ch:6969/announce
-
-http://tracker-zhuqiy.dgj055.icu:80/announce
 
 http://thetracker.org:80/announce
 
@@ -408,13 +408,13 @@ https://tracker.moeblog.cn:443/announce
 
 udp://yahor.of.by:6969/announce
 
-udp://tracker.silksa.co.za:6969/announce
-
 udp://freedomalternative.com:6969/announce
 
-udp://d40969.acod.regrucolo.ru:6969/announce
+udp://tracker.silksa.co.za:6969/announce
 
 http://0205.uptm.ch:6969/announce
+
+udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://lopatins.ru:5972/announce
 
@@ -2682,6 +2682,8 @@ http://big-boss-tracker.net:80/announce
 
 http://bithq.org:80/announce
 
+http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
 http://blackz.ro:80/announce
 
 http://bluebird-hd.org:80/announce
@@ -2946,8 +2948,6 @@ udp://bt1.xxxxbt.cc:6969/announce
 
 udp://bttracker.debian.org:6969/announce
 
-udp://buny.uk:6969/announce
-
 udp://canardscitrons.nohost.me:6969/announce
 
 udp://caramelo.ddns.net:8000/announce
@@ -2961,12 +2961,6 @@ udp://debuz.com:6969/announce
 udp://fosstorrents.com:6969/announce
 
 udp://home.kray.pw:6969/announce
-
-udp://home.yxgz.club:6969/announce
-
-udp://hzzwly.gq:6969/announce
-
-udp://i-p-v-6.tk:6969/announce
 
 udp://ipv4.tracker.harry.lu:6969/announce
 
@@ -3038,7 +3032,7 @@ udp://tracker.xiaoduola.xyz:6969/announce
 
 udp://tracker.ygsub.com:6969/announce
 
-udp://tracker.ykat.xyz:6969/announce
+udp://tracker.yoshi210.com:6969/announce
 
 udp://ulfbrueggemann.no-ip.org:6969/announce
 
@@ -3213,4 +3207,14 @@ udp://89.47.160.50:6969/announce
 udp://91.216.110.53:451/announce
 
 udp://96.126.98.54:6969/announce
+
+udp://buny.uk:6969/announce
+
+udp://home.yxgz.club:6969/announce
+
+udp://hzzwly.gq:6969/announce
+
+udp://i-p-v-6.tk:6969/announce
+
+udp://tracker.ykat.xyz:6969/announce
 
