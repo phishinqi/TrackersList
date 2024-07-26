@@ -340,11 +340,11 @@ udp://t.overflow.biz:6969/announce
 
 https://tracker1.520.jp:443/announce
 
+udp://tracker.torrust-demo.com:6969/announce
+
 udp://btt.service.gongt.me:43079/announce
 
 udp://tk1.trackerservers.com:8080/announce
-
-udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 
@@ -358,15 +358,15 @@ https://t1.hloli.org:443/announce
 
 udp://martin-gebhardt.eu:25/announce
 
-udp://tracker.draatman.uk:6969/announce
-
 http://tracker.vraphim.com:6969/announce
+
+udp://tracker.draatman.uk:6969/announce
 
 http://p2p.0g.cx:6969/announce
 
-http://tracker.ipv6tracker.ru:80/announce
-
 http://t.acg.rip:6699/announce
+
+http://tracker.ipv6tracker.ru:80/announce
 
 https://tracker.cangku.moe:443/announce
 
@@ -392,9 +392,9 @@ https://tracker1.ctix.cn:443/announce
 
 http://tracker.guguan.000.pe:80/announce
 
-https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
-
 https://tracker2.ctix.cn:443/announce
+
+https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -410,9 +410,9 @@ http://tracker.skyts.net:6969/announce
 
 http://open.tracker.ink:6969/announce
 
-https://tracker.moeblog.cn:443/announce
-
 http://tracker.k.vu:6969/announce
+
+https://tracker.moeblog.cn:443/announce
 
 udp://yahor.of.by:6969/announce
 
@@ -2962,6 +2962,12 @@ udp://fosstorrents.com:6969/announce
 
 udp://home.kray.pw:6969/announce
 
+udp://home.yxgz.club:6969/announce
+
+udp://hzzwly.gq:6969/announce
+
+udp://i-p-v-6.tk:6969/announce
+
 udp://ipv4.tracker.harry.lu:6969/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
@@ -2987,8 +2993,6 @@ udp://mixfiend.com:6969/announce
 udp://open.stealth.si:6969/announce
 
 udp://opentor.org:2710/announce
-
-udp://p2p.0g.cx:6969/announce
 
 udp://parag.rs:6969/announce
 
@@ -3027,6 +3031,10 @@ udp://tracker.mywaifu.best:6969/announce
 udp://tracker.nartlof.com.br:6969/announce
 
 udp://tracker.pcfreetime.com:6969/announce
+
+udp://tracker.vanitycore.co:6969/announce
+
+udp://tracker.vraphim.com:6969/announce
 
 udp://tracker.vrpnet.org:6969/announce
 
@@ -3199,4 +3207,6 @@ udp://89.110.76.229:6969/announce
 udp://89.213.174.212:6969/announce
 
 udp://96.126.98.54:6969/announce
+
+udp://p2p.0g.cx:6969/announce
 
