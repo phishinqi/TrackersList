@@ -364,9 +364,9 @@ http://t.acg.rip:6699/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-https://tracker.cangku.moe:443/announce
-
 https://threads.canofsocks.com:443/announce
+
+https://tracker.cangku.moe:443/announce
 
 udp://mikrotik2.draatman.net:6969/announce
 
@@ -406,9 +406,9 @@ http://cn.pcfreetime.com:6969/announce
 
 http://tracker.skyts.net:6969/announce
 
-http://open.tracker.ink:6969/announce
-
 http://tracker.k.vu:6969/announce
+
+http://open.tracker.ink:6969/announce
 
 https://tracker.moeblog.cn:443/announce
 
