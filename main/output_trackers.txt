@@ -350,9 +350,9 @@ udp://bt.rer.lol:6969/announce
 
 https://www.peckservers.com:9443/announce
 
-https://t1.hloli.org:443/announce
-
 http://tracker.vraphim.com:6969/announce
+
+https://t1.hloli.org:443/announce
 
 udp://martin-gebhardt.eu:25/announce
 
@@ -396,9 +396,9 @@ https://tracker2.ctix.cn:443/announce
 
 udp://tracker.vds.nz:6969/announce
 
-http://cn.pcfreetime.com:6969/announce
-
 http://tracker.k.vu:6969/announce
+
+http://cn.pcfreetime.com:6969/announce
 
 http://tracker.ykat.xyz:6969/announce
 
