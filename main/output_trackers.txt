@@ -318,15 +318,15 @@ http://open.acgtracker.com:1096/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-udp://btt.service.gongt.me:43079/announce
-
 udp://tk1.trackerservers.com:8080/announce
-
-udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 
+udp://tracker.torrust-demo.com:6969/announce
+
 https://torrent.tracker.durukanbal.com:443/announce
+
+udp://btt.service.gongt.me:43079/announce
 
 udp://bt.rer.lol:6969/announce
 
@@ -336,11 +336,11 @@ udp://tracker.qu.ax:6969/announce
 
 https://www.peckservers.com:9443/announce
 
-udp://z.mercax.com:53/announce
+udp://martin-gebhardt.eu:25/announce
 
 https://t1.hloli.org:443/announce
 
-udp://martin-gebhardt.eu:25/announce
+udp://z.mercax.com:53/announce
 
 udp://tracker.draatman.uk:6969/announce
 
@@ -378,35 +378,35 @@ https://tracker.imgoingto.icu:443/announce
 
 udp://open-tracker.demonoid.ch:6969/announce
 
-http://open-v6.demonoid.ch:6969/announce
-
 https://tracker1.ctix.cn:443/announce
+
+http://open-v6.demonoid.ch:6969/announce
 
 http://tracker.k.vu:6969/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
-https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
-
 http://cn.pcfreetime.com:6969/announce
 
 udp://free.publictracker.xyz:6969/announce
 
+https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
+
 http://tracker.skyts.net:6969/announce
 
-https://tracker2.ctix.cn:443/announce
+udp://freedomalternative.com:6969/announce
 
 http://tracker.ykat.xyz:6969/announce
 
-udp://freedomalternative.com:6969/announce
+https://tracker2.ctix.cn:443/announce
 
 http://open.tracker.ink:6969/announce
 
 https://tracker.moeblog.cn:443/announce
 
-http://region.nl1.privex.cc:6969/announce
-
 udp://yahor.of.by:6969/announce
+
+http://region.nl1.privex.cc:6969/announce
 
 https://tr.ready4.icu:443/announce
 
