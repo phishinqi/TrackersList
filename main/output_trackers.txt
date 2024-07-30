@@ -350,23 +350,23 @@ http://tracker.vraphim.com:6969/announce
 
 https://www.peckservers.com:9443/announce
 
-https://t1.hloli.org:443/announce
-
 http://t.acg.rip:6699/announce
+
+https://t1.hloli.org:443/announce
 
 udp://tracker.draatman.uk:6969/announce
 
-http://p2p.0g.cx:6969/announce
-
 https://threads.canofsocks.com:443/announce
 
-http://tracker.ipv6tracker.ru:80/announce
+http://p2p.0g.cx:6969/announce
 
 http://tracker.enitin.xyz:80/announce
 
-udp://z.mercax.com:53/announce
+http://tracker.ipv6tracker.ru:80/announce
 
 http://canardscitrons.nohost.me:6969/announce
+
+udp://z.mercax.com:53/announce
 
 http://thetracker.org:80/announce
 
@@ -384,11 +384,11 @@ http://tracker.guguan.000.pe:80/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
+http://cn.pcfreetime.com:6969/announce
+
 https://tracker.imgoingto.icu:443/announce
 
 http://tracker.h0me.cc:8880/announce
-
-http://cn.pcfreetime.com:6969/announce
 
 https://tracker1.ctix.cn:443/announce
 
@@ -400,9 +400,9 @@ udp://free.publictracker.xyz:6969/announce
 
 http://tracker.skyts.net:6969/announce
 
-https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
-
 http://tracker.ykat.xyz:6969/announce
+
+https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 
 http://open.tracker.ink:6969/announce
 
@@ -2944,11 +2944,7 @@ udp://147job.com:6969/announce
 
 udp://anidex.moe:6969/announce
 
-udp://bt1.xxxxbt.cc:6969/announce
-
 udp://bttracker.debian.org:6969/announce
-
-udp://buny.uk:6969/announce
 
 udp://canardscitrons.nohost.me:6969/announce
 
@@ -2961,14 +2957,6 @@ udp://cn.pcfreetime.com:6969/announce
 udp://debuz.com:6969/announce
 
 udp://fosstorrents.com:6969/announce
-
-udp://home.kray.pw:6969/announce
-
-udp://home.yxgz.club:6969/announce
-
-udp://hzzwly.gq:6969/announce
-
-udp://i-p-v-6.tk:6969/announce
 
 udp://ipv4.tracker.harry.lu:6969/announce
 
@@ -3006,8 +2994,6 @@ udp://shogiroom.com:6969/announce
 
 udp://smurfsoft.com:6969/announce
 
-udp://t.jaekr.sh:6969/announce
-
 udp://torrent.fedoraproject.org:6969/announce
 
 udp://torrent.hificode.in:6969/announce
@@ -3028,13 +3014,13 @@ udp://tracker.files.fm:6969/announce
 
 udp://tracker.kali.org:6969/announce
 
-udp://tracker.moxing.party:6969/announce
-
 udp://tracker.mywaifu.best:6969/announce
 
 udp://tracker.nartlof.com.br:6969/announce
 
 udp://tracker.pcfreetime.com:6969/announce
+
+udp://tracker.vanitycore.co:6969/announce
 
 udp://tracker.vraphim.com:6969/announce
 
@@ -3055,8 +3041,6 @@ udp://wg.mortis.me:6969/announce
 udp://widemus.de:6969/announce
 
 udp://www.nartlof.com.br:6969/announce
-
-udp://www.tvnihon.com:6969/announce
 
 ws://tracker.files.fm:7072/announce
 
@@ -3219,4 +3203,22 @@ udp://89.213.174.212:6969/announce
 udp://89.234.156.205:451/announce
 
 udp://96.126.98.54:6969/announce
+
+udp://bt1.xxxxbt.cc:6969/announce
+
+udp://buny.uk:6969/announce
+
+udp://home.kray.pw:6969/announce
+
+udp://home.yxgz.club:6969/announce
+
+udp://hzzwly.gq:6969/announce
+
+udp://i-p-v-6.tk:6969/announce
+
+udp://t.jaekr.sh:6969/announce
+
+udp://tracker.moxing.party:6969/announce
+
+udp://www.tvnihon.com:6969/announce
 
