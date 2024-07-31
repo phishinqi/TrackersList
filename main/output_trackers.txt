@@ -302,9 +302,9 @@ wss://tracker.openwebtorrent.com:443/announce
 
 http://tracker.opentrackr.org:1337/announce
 
-udp://explodie.org:6969/announce
-
 udp://tracker-udp.gbitt.info:80/announce
+
+udp://explodie.org:6969/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
 
@@ -312,13 +312,7 @@ udp://bt1.archive.org:6969/announce
 
 http://tr.kxmp.cf:80/announce
 
-udp://public.tracker.vraphim.com:6969/announce
-
 http://t.overflow.biz:6969/announce
-
-udp://tracker.vds.nz:6969/announce
-
-udp://fh2.cmp-gaming.com:6969/announce
 
 udp://concen.org:6969/announce
 
@@ -329,6 +323,8 @@ http://tracker1.itzmx.com:8080/announce
 http://canardscitrons.nohost.me:6969/announce
 
 http://bvarf.tracker.sh:2086/announce
+
+http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://tracker.dump.cl:6969/announce
 
@@ -372,9 +368,9 @@ http://thetracker.org:80/announce
 
 https://tracker.cangku.moe:443/announce
 
-http://tracker.gbitt.info:80/announce
-
 http://tracker.k.vu:6969/announce
+
+http://tracker.gbitt.info:80/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 
@@ -385,6 +381,8 @@ http://tracker.pcfreetime.com:6969/announce
 http://tracker.guguan.000.pe:80/announce
 
 http://cn.pcfreetime.com:6969/announce
+
+udp://tracker.vds.nz:6969/announce
 
 https://tracker.imgoingto.icu:443/announce
 
@@ -400,11 +398,11 @@ https://tracker1.ctix.cn:443/announce
 
 udp://open-tracker.demonoid.ch:6969/announce
 
-http://open-v6.demonoid.ch:6969/announce
-
 http://tracker.ykat.xyz:6969/announce
 
 http://open.tracker.ink:6969/announce
+
+http://open-v6.demonoid.ch:6969/announce
 
 https://tracker.moeblog.cn:443/announce
 
@@ -1356,6 +1354,8 @@ udp://ben.kerbertools.xyz:6969/announce
 
 https://t.quic.ws:443/announce
 
+udp://fh2.cmp-gaming.com:6969/announce
+
 http://bluebird-hd.org:80/announce.php
 
 https://tracker.bt-hash.com/announce
@@ -1473,6 +1473,8 @@ http://34.89.30.59:2710/announce
 http://212.6.3.67/announce
 
 http://185.70.187.79:6969/announce
+
+udp://public.tracker.vraphim.com:6969/announce
 
 http://185.185.40.95:6969/announce
 
@@ -2683,8 +2685,6 @@ http://anisource.spb.ru:80/announce
 http://big-boss-tracker.net:80/announce
 
 http://bithq.org:80/announce
-
-http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://blackz.ro:80/announce
 
