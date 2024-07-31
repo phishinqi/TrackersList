@@ -410,9 +410,9 @@ udp://yahor.of.by:6969/announce
 
 http://region.nl1.privex.cc:6969/announce
 
-https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
-
 http://0205.uptm.ch:6969/announce
+
+https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 
 udp://lopatins.ru:5972/announce
 
