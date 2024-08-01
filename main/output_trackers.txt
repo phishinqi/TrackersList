@@ -358,9 +358,9 @@ https://tracker.amelia.fun:443/announce
 
 http://t.acg.rip:6699/announce
 
-http://tracker.enitin.xyz:80/announce
-
 https://threads.canofsocks.com:443/announce
+
+http://tracker.enitin.xyz:80/announce
 
 udp://tracker.draatman.uk:6969/announce
 
@@ -376,13 +376,13 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
-https://tracker.cangku.moe:443/announce
-
 udp://tracker-us.silksa.co.za:6969/announce
 
-udp://mikrotik2.draatman.net:6969/announce
-
 http://tracker.pcfreetime.com:6969/announce
+
+https://tracker.cangku.moe:443/announce
+
+udp://mikrotik2.draatman.net:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
@@ -400,9 +400,9 @@ http://tracker.skyts.net:6969/announce
 
 http://tracker.ykat.xyz:6969/announce
 
-https://tracker1.ctix.cn:443/announce
-
 http://open.tracker.ink:6969/announce
+
+https://tracker1.ctix.cn:443/announce
 
 https://tracker.moeblog.cn:443/announce
 
@@ -412,9 +412,9 @@ http://region.nl1.privex.cc:6969/announce
 
 udp://open-tracker.demonoid.ch:6969/announce
 
-http://open-v6.demonoid.ch:6969/announce
-
 http://0205.uptm.ch:6969/announce
+
+http://open-v6.demonoid.ch:6969/announce
 
 udp://lopatins.ru:5972/announce
 
@@ -573,8 +573,6 @@ https://tracker.expli.top:443/announce
 udp://tracker.joybomb.tw:6969/announce
 
 http://tracker.sakurato.art:23333/announce
-
-udp://tracker.tcp.exchange:6969/announce
 
 udp://tracker.jonaslsa.com:6969/announce
 
@@ -1133,6 +1131,8 @@ https://opentracker.i2p.rocks:443/announce
 https://trakx.herokuapp.com:443/announce
 
 https://trakx.herokuapp.com/announce
+
+udp://tracker.tcp.exchange:6969/announce
 
 http://bt.ali213.net:8000/announce
 
@@ -2946,8 +2946,6 @@ udp://147job.com:6969/announce
 
 udp://anidex.moe:6969/announce
 
-udp://bt1.xxxxbt.cc:6969/announce
-
 udp://bttracker.debian.org:6969/announce
 
 udp://buny.uk:6969/announce
@@ -2996,6 +2994,8 @@ udp://mixfiend.com:6969/announce
 
 udp://open.stealth.si:6969/announce
 
+udp://p2p.0g.cx:6969/announce
+
 udp://parag.rs:6969/announce
 
 udp://region.nl1.privex.cc:6969/announce
@@ -3005,6 +3005,8 @@ udp://rfc5746.mywaifu.best:6969/announce
 udp://shogiroom.com:6969/announce
 
 udp://smurfsoft.com:6969/announce
+
+udp://t.jaekr.sh:6969/announce
 
 udp://torrent.fedoraproject.org:6969/announce
 
@@ -3041,6 +3043,8 @@ udp://tracker.vrpnet.org:6969/announce
 udp://tracker.xiaoduola.xyz:6969/announce
 
 udp://tracker.ygsub.com:6969/announce
+
+udp://tracker.yoshi210.com:6969/announce
 
 udp://ulfbrueggemann.no-ip.org:6969/announce
 
@@ -3219,6 +3223,8 @@ udp://89.213.174.212:6969/announce
 udp://91.216.110.53:451/announce
 
 udp://96.126.98.54:6969/announce
+
+udp://bt1.xxxxbt.cc:6969/announce
 
 http://open.nyaatorrents.info:6544/announce
 
