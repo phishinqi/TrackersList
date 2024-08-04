@@ -368,11 +368,11 @@ http://p2p.0g.cx:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
-https://tracker.amelia.fun:443/announce
-
 http://tracker.pcfreetime.com:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
+
+https://tracker.amelia.fun:443/announce
 
 https://t1.hloli.org:443/announce
 
@@ -403,6 +403,8 @@ http://region.nl1.privex.cc:6969/announce
 http://0205.uptm.ch:6969/announce
 
 https://tr.ready4.icu:443/announce
+
+http://smurfsoft.com:6969/announce
 
 udp://lopatins.ru:5972/announce
 
@@ -691,8 +693,6 @@ udp://dmitrynegoda.com:6969/announce
 udp://netmap.top:6969/announce
 
 udp://ns1.monolithindustries.com:6969/announce
-
-http://smurfsoft.com:6969/announce
 
 udp://public-tracker.cf:6969/announce
 
