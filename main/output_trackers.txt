@@ -292,29 +292,21 @@ udp://z.mercax.com:53/announce
 
 wss://tracker.openwebtorrent.com:443/announce
 
-udp://open.tracker.cl:1337/announce
-
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://explodie.org:6969/announce
 
-udp://tracker.dump.cl:6969/announce
-
-udp://open.free-tracker.ga:6969/announce
-
-http://tracker.dler.org:6969/announce
-
 udp://tracker.farted.net:6969/announce
 
-udp://tracker.dler.org:6969/announce
-
-https://tracker.imgoingto.icu:443/announce
-
-udp://tracker.vds.nz:6969/announce
+http://tracker.dler.org:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://tracker1.itzmx.com:8080/announce
+
+http://canardscitrons.nohost.me:6969/announce
+
+http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://isk.richardsw.club:6969/announce
 
@@ -326,11 +318,11 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
+https://torrent.tracker.durukanbal.com:443/announce
+
 udp://ipv6.fuuuuuck.com:6969/announce
 
 udp://oh.fuuuuuck.com:6969/announce
-
-https://torrent.tracker.durukanbal.com:443/announce
 
 udp://tracker.t-1.org:6969/announce
 
@@ -343,6 +335,8 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 http://tracker.vraphim.com:6969/announce
 
 https://tracker.loligirl.cn:443/announce
+
+udp://open.tracker.cl:1337/announce
 
 https://threads.canofsocks.com:443/announce
 
@@ -358,15 +352,15 @@ http://tracker.phoenix.lol:80/announce
 
 http://tracker.k.vu:6969/announce
 
-http://canardscitrons.nohost.me:6969/announce
-
 http://tracker.ipv6tracker.ru:80/announce
 
 https://tracker.cangku.moe:443/announce
 
+http://thetracker.org:80/announce
+
 udp://tracker.draatman.uk:6969/announce
 
-http://thetracker.org:80/announce
+udp://tracker.vds.nz:6969/announce
 
 https://tracker.amelia.fun:443/announce
 
@@ -382,11 +376,13 @@ http://cn.pcfreetime.com:6969/announce
 
 http://tracker.guguan.000.pe:80/announce
 
+https://tracker.imgoingto.icu:443/announce
+
 udp://tracker-us.silksa.co.za:6969/announce
 
-udp://mikrotik2.draatman.net:6969/announce
-
 udp://freedomalternative.com:6969/announce
+
+udp://mikrotik2.draatman.net:6969/announce
 
 udp://free.publictracker.xyz:6969/announce
 
@@ -1040,6 +1036,8 @@ https://w.wwwww.wtf/announce
 
 https://carbon-bonsai-621.appspot.com/announce
 
+udp://tracker.dler.org:6969/announce
+
 https://cernet-tracker.appspot.com:443/announce
 
 udp://960303.xyz:6969/announce
@@ -1319,6 +1317,8 @@ http://tracker.dmcomic.org:2710/announce
 http://tracker.tfile.me:80/announce
 
 udp://tracker.trackerfix.com:82/announce
+
+udp://open.free-tracker.ga:6969/announce
 
 http://retracker.ohys.net:80/announce
 
@@ -3015,6 +3015,8 @@ udp://torrents.hikarinokiseki.com:6969/announce
 udp://torrenttracker.nwc.acsalaska.net:6969/announce
 
 udp://tracker.doko.moe:6969/announce
+
+udp://tracker.dump.cl:6969/announce
 
 udp://tracker.etree.org:6969/announce
 
