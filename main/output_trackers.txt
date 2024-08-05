@@ -314,13 +314,13 @@ udp://tracker.torrust-demo.com:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
-udp://tracker1.t-1.org:6969/announce
-
 https://torrent.tracker.durukanbal.com:443/announce
 
-http://ipv4announce.sktorrent.eu:6969/announce
+udp://tracker1.t-1.org:6969/announce
 
 udp://btt.service.gongt.me:43079/announce
+
+http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://tracker.t-1.org:6969/announce
 
@@ -360,15 +360,15 @@ udp://tracker.vds.nz:6969/announce
 
 http://thetracker.org:80/announce
 
-https://tracker.cangku.moe:443/announce
-
 http://cn.pcfreetime.com:6969/announce
 
 udp://tracker.draatman.uk:6969/announce
 
-http://tracker.pcfreetime.com:6969/announce
-
 http://tracker.gbitt.info:80/announce
+
+https://tracker.cangku.moe:443/announce
+
+http://tracker.pcfreetime.com:6969/announce
 
 http://p2p.0g.cx:6969/announce
 
@@ -382,11 +382,11 @@ udp://tracker-us.silksa.co.za:6969/announce
 
 udp://freedomalternative.com:6969/announce
 
-https://tracker.amelia.fun:443/announce
-
 http://tracker.skyts.net:6969/announce
 
 udp://free.publictracker.xyz:6969/announce
+
+https://tracker.amelia.fun:443/announce
 
 http://smurfsoft.com:6969/announce
 
@@ -401,8 +401,6 @@ udp://yahor.of.by:6969/announce
 http://region.nl1.privex.cc:6969/announce
 
 http://0205.uptm.ch:6969/announce
-
-udp://mikrotik2.draatman.net:6969/announce
 
 https://tr.ready4.icu:443/announce
 
@@ -765,6 +763,8 @@ http://tracker.yuelili.com:80/announce
 udp://tracker.sheesh.rip:6969/announce
 
 http://retracker.xxtor.com:80/announce
+
+udp://mikrotik2.draatman.net:6969/announce
 
 http://tracker.nartlof.com.br:6969/announce
 
