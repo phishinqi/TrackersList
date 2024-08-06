@@ -28,13 +28,13 @@ http://retracker.x2k.ru:80/announce
 
 http://t1.aag.moe:17715/announce
 
+http://tk.greedland.net:80/announce
+
 http://torrentsmd.com:8080/announce
 
 http://tr.kxmp.cf:80/announce
 
 http://tracker.bt4g.com:2095/announce
-
-http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
@@ -75,6 +75,8 @@ https://pybittrack.retiolus.net:443/announce
 https://retracker2.x2k.ru:443/announce
 
 https://t.peer-exchange.download:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -296,21 +298,15 @@ udp://explodie.org:6969/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
 
-udp://bt.ktrackers.com:6666/announce
-
-https://tracker.renfei.net:443/announce
-
-http://tracker.renfei.net:8080/announce
-
 http://t.overflow.biz:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-https://tracker-zhuqiy.dgj055.icu:443/announce
-
 http://tracker1.itzmx.com:8080/announce
 
-http://tracker-zhuqiy.dgj055.icu:80/announce
+http://canardscitrons.nohost.me:6969/announce
+
+http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -328,6 +324,8 @@ udp://tracker1.t-1.org:6969/announce
 
 udp://btt.service.gongt.me:43079/announce
 
+http://tracker.renfei.net:8080/announce
+
 udp://tracker.t-1.org:6969/announce
 
 udp://bt.rer.lol:6969/announce
@@ -338,7 +336,11 @@ udp://oh.fuuuuuck.com:6969/announce
 
 http://tracker.vraphim.com:6969/announce
 
+udp://bt.ktrackers.com:6666/announce
+
 udp://6ahddutb1ucc3cp.ru:6969/announce
+
+http://tracker-zhuqiy.dgj055.icu:80/announce
 
 https://tracker.loligirl.cn:443/announce
 
@@ -356,8 +358,6 @@ udp://tracker.therarbg.com:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
-http://canardscitrons.nohost.me:6969/announce
-
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.phoenix.lol:80/announce
@@ -372,11 +372,11 @@ http://tracker.gbitt.info:80/announce
 
 udp://tracker.draatman.uk:6969/announce
 
+http://tracker.guguan.000.pe:80/announce
+
 https://tracker.cangku.moe:443/announce
 
 http://p2p.0g.cx:6969/announce
-
-http://tracker.guguan.000.pe:80/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
@@ -386,11 +386,11 @@ udp://tracker-us.silksa.co.za:6969/announce
 
 https://t1.hloli.org:443/announce
 
+http://smurfsoft.com:6969/announce
+
 http://tracker.skyts.net:6969/announce
 
 udp://free.publictracker.xyz:6969/announce
-
-http://smurfsoft.com:6969/announce
 
 http://open.tracker.ink:6969/announce
 
@@ -399,8 +399,6 @@ https://tracker.moeblog.cn:443/announce
 http://tracker.ykat.xyz:6969/announce
 
 udp://yahor.of.by:6969/announce
-
-https://tracker.amelia.fun:443/announce
 
 http://region.nl1.privex.cc:6969/announce
 
@@ -934,6 +932,8 @@ https://torrust.canofsocks.com:443/announce
 
 https://tracker.madtia.cc:443/announce
 
+https://tracker.amelia.fun:443/announce
+
 http://tracker.gbitt.info/announce
 
 https://tracker.lilithraws.cf/announce
@@ -981,8 +981,6 @@ http://tracker.anirena.com/announce
 https://tracker.kuroy.me/announce
 
 http://tracker.anirena.com:80/announce
-
-https://tr.abir.ga:443/announce
 
 https://tracker.tamersunion.org/announce
 
@@ -1143,6 +1141,8 @@ http://93.158.213.92:1337/announce
 http://www.zone-torrent.net:80/announce.php
 
 udp://tracker.auctor.tv:6969/announce
+
+http://tracker.dler.com:6969/announce
 
 udp://theodoric.fr:6969/announce
 
@@ -2366,6 +2366,8 @@ http://171.104.111.14:6969/announce
 
 http://83.31.209.3:6969/announce
 
+https://tracker.renfei.net:443/announce
+
 http://104.244.77.14:1337/announce
 
 http://thetracker.org/announce
@@ -2686,8 +2688,6 @@ http://big-boss-tracker.net:80/announce
 
 http://bithq.org:80/announce
 
-http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
 http://blackz.ro:80/announce
 
 http://bluebird-hd.org:80/announce
@@ -2751,8 +2751,6 @@ http://t2.leech.ie:80/announce
 http://t3.leech.ie:80/announce
 
 http://tk.cubicview.site:80/announce
-
-http://tk.greedland.net:80/announce
 
 http://tk1.trackerservers.com:8080/announce
 
@@ -3131,6 +3129,8 @@ https://gwp2-v19.rinet.ru/announce
 https://o-unkusrx.cloud.okteto.net/announce
 
 https://tr.kxmp.cf/announce
+
+https://tracker-zhuqiy.dgj055.icu:443/announce
 
 https://tracker.quix.cf/announce
 
