@@ -338,9 +338,9 @@ udp://tracker1.t-1.org:6969/announce
 
 http://tracker.k.vu:6969/announce
 
-http://cn.pcfreetime.com:6969/announce
-
 udp://retracker.lanta.me:2710/announce
+
+http://cn.pcfreetime.com:6969/announce
 
 udp://tracker3.t-1.org:6969/announce
 
@@ -384,9 +384,9 @@ udp://tracker.qu.ax:6969/announce
 
 udp://freedomalternative.com:6969/announce
 
-http://tracker.gbitt.info:80/announce
-
 udp://free.publictracker.xyz:6969/announce
+
+http://tracker.gbitt.info:80/announce
 
 https://tracker.moeblog.cn:443/announce
 
