@@ -300,19 +300,11 @@ http://tracker1.bt.moack.co.kr:80/announce
 
 http://tr.kxmp.cf:80/announce
 
-udp://bt.ktrackers.com:6666/announce
-
-udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
-http://tracker.qu.ax:6969/announce
-
 http://t.overflow.biz:6969/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://tracker1.itzmx.com:8080/announce
-
-http://canardscitrons.nohost.me:6969/announce
 
 http://bt.okmp3.ru:2710/announce
 
@@ -330,13 +322,15 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 http://tracker.enitin.xyz:80/announce
 
+http://tracker.vraphim.com:6969/announce
+
 https://threads.canofsocks.com:443/announce
 
 udp://wepzone.net:6969/announce
 
-http://tracker.vraphim.com:6969/announce
-
 http://tracker.k.vu:6969/announce
+
+udp://bt.ktrackers.com:6666/announce
 
 udp://tracker1.t-1.org:6969/announce
 
@@ -344,11 +338,11 @@ udp://tracker-us.silksa.co.za:6969/announce
 
 udp://retracker.lanta.me:2710/announce
 
+http://smurfsoft.com:6969/announce
+
 https://tracker.loligirl.cn:443/announce
 
 udp://tracker3.t-1.org:6969/announce
-
-http://smurfsoft.com:6969/announce
 
 udp://tracker.t-1.org:6969/announce
 
@@ -358,15 +352,19 @@ http://cn.pcfreetime.com:6969/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
 
+http://canardscitrons.nohost.me:6969/announce
+
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://oh.fuuuuuck.com:6969/announce
 
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
 udp://tracker.vds.nz:6969/announce
 
-https://tracker.cangku.moe:443/announce
-
 udp://6ahddutb1ucc3cp.ru:6969/announce
+
+https://tracker.cangku.moe:443/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
@@ -374,25 +372,25 @@ http://tracker.guguan.000.pe:80/announce
 
 http://thetracker.org:80/announce
 
-https://t.peer-exchange.download:443/announce
+http://tracker.ipv6tracker.ru:80/announce
 
 udp://tracker.therarbg.com:6969/announce
 
-http://tracker.ipv6tracker.ru:80/announce
+https://t.peer-exchange.download:443/announce
 
 http://tracker.phoenix.lol:80/announce
 
 udp://freedomalternative.com:6969/announce
 
-udp://tracker.qu.ax:6969/announce
-
 udp://free.publictracker.xyz:6969/announce
+
+udp://tracker.qu.ax:6969/announce
 
 https://tracker.moeblog.cn:443/announce
 
-http://tracker.gbitt.info:80/announce
-
 http://tracker.skyts.net:6969/announce
+
+http://tracker.gbitt.info:80/announce
 
 http://open.tracker.ink:6969/announce
 
@@ -2159,6 +2157,8 @@ http://ipv4.tracker.harry.lu:80/announce
 http://bigfoot1942.sektori.org:6969/announce
 
 https://tracker.tvgc.win/announce
+
+http://tracker.qu.ax:6969/announce
 
 http://171.104.111.250:6969/announce
 
