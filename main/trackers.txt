@@ -492,6 +492,8 @@ https://tracker.yemekyedim.com:443/announce
 
 http://ipv6.rer.lol:6969/announce
 
+udp://seedpeer.net:6969/announce
+
 https://pybittrack.retiolus.net:443/announce
 
 https://retracker2.x2k.ru:443/announce
@@ -510,8 +512,6 @@ https://trackers.mlsub.net:443/announce
 
 http://tracker1.itzmx.com:8080/announce
 
-udp://seedpeer.net:6969/announce
-
 https://tracker.gcrenwp.top:443/announce
 
 http://retracker.x2k.ru:80/announce
@@ -526,11 +526,11 @@ udp://evan.im:6969/announce
 
 udp://tracker.skynetcloud.site:6969/announce
 
-udp://tracker.gmi.gd:6969/announce
-
 udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
+
+udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
@@ -646,9 +646,9 @@ http://ch3oh.ru:6969/announce
 
 https://threads.canofsocks.com:443/announce
 
-udp://wepzone.net:6969/announce
-
 http://tracker.renfei.net:8080/announce
+
+udp://wepzone.net:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
@@ -656,9 +656,9 @@ http://tracker-zhuqiy.dgj055.icu:80/announce
 
 http://tracker.vraphim.com:6969/announce
 
-http://tracker.enitin.xyz:80/announce
-
 udp://martin-gebhardt.eu:25/announce
+
+http://tracker.enitin.xyz:80/announce
 
 udp://open.u-p.pw:6969/announce
 
@@ -684,11 +684,11 @@ udp://bt.ktrackers.com:6666/announce
 
 http://tracker.k.vu:6969/announce
 
-http://cn.pcfreetime.com:6969/announce
+udp://tracker.farted.net:6969/announce
 
 udp://retracker.lanta.me:2710/announce
 
-udp://tracker.farted.net:6969/announce
+http://cn.pcfreetime.com:6969/announce
 
 udp://tracker3.t-1.org:6969/announce
 
@@ -742,9 +742,9 @@ udp://freedomalternative.com:6969/announce
 
 udp://tracker3.itzmx.com:6961/announce
 
-http://tracker.gbitt.info:80/announce
-
 udp://free.publictracker.xyz:6969/announce
+
+http://tracker.gbitt.info:80/announce
 
 https://tracker.moeblog.cn:443/announce
 
@@ -1315,6 +1315,8 @@ https://tracker.yemekyedim.com:443/announce
 
 http://ipv6.rer.lol:6969/announce
 
+udp://seedpeer.net:6969/announce
+
 https://pybittrack.retiolus.net:443/announce
 
 https://retracker2.x2k.ru:443/announce
@@ -1333,8 +1335,6 @@ https://trackers.mlsub.net:443/announce
 
 http://tracker1.itzmx.com:8080/announce
 
-udp://seedpeer.net:6969/announce
-
 https://tracker.gcrenwp.top:443/announce
 
 http://retracker.x2k.ru:80/announce
@@ -1349,11 +1349,11 @@ udp://evan.im:6969/announce
 
 udp://tracker.skynetcloud.site:6969/announce
 
-udp://tracker.gmi.gd:6969/announce
-
 udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
+
+udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
