@@ -340,9 +340,9 @@ udp://wepzone.net:6969/announce
 
 http://tracker.k.vu:6969/announce
 
-udp://tracker1.t-1.org:6969/announce
-
 udp://tracker-us.silksa.co.za:6969/announce
+
+udp://tracker1.t-1.org:6969/announce
 
 http://smurfsoft.com:6969/announce
 
@@ -392,9 +392,9 @@ https://tracker.moeblog.cn:443/announce
 
 http://tracker.skyts.net:6969/announce
 
-http://tracker.gbitt.info:80/announce
-
 http://open.tracker.ink:6969/announce
+
+http://tracker.gbitt.info:80/announce
 
 http://0205.uptm.ch:6969/announce
 
