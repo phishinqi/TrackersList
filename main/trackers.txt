@@ -524,6 +524,8 @@ http://tracker1.itzmx.com:8080/announce
 
 udp://evan.im:6969/announce
 
+udp://tracker.skynetcloud.site:6969/announce
+
 https://tracker.gcrenwp.top:443/announce
 
 udp://tracker.xor.st:6969/announce
@@ -538,8 +540,6 @@ udp://explodie.org:6969/announce
 
 udp://open.demonii.com:1337/announce
 
-udp://tracker.skynetcloud.site:6969/announce
-
 udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
@@ -550,9 +550,9 @@ udp://tracker.opentrackr.org:1337/announce
 
 https://bittorrent.service.gongt.me:59443/announce
 
-https://tracker.lilithraws.org:443/announce
-
 https://tracker.pmman.tech:443/announce
+
+https://tracker.lilithraws.org:443/announce
 
 udp://epider.me:6969/announce
 
@@ -588,9 +588,9 @@ http://tracker.dump.cl:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
-https://tracker.cloudit.top:443/announce
-
 udp://tracker.0x7c0.com:6969/announce
+
+https://tracker.cloudit.top:443/announce
 
 udp://odd-hd.fr:6969/announce
 
@@ -670,9 +670,9 @@ http://tracker.vraphim.com:6969/announce
 
 udp://open.u-p.pw:6969/announce
 
-https://threads.canofsocks.com:443/announce
-
 udp://d40969.acod.regrucolo.ru:6969/announce
+
+https://threads.canofsocks.com:443/announce
 
 udp://wepzone.net:6969/announce
 
@@ -696,9 +696,9 @@ udp://tracker.farted.net:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
-udp://tracker1.t-1.org:6969/announce
-
 udp://tracker-us.silksa.co.za:6969/announce
+
+udp://tracker1.t-1.org:6969/announce
 
 http://smurfsoft.com:6969/announce
 
@@ -760,9 +760,9 @@ https://tracker.moeblog.cn:443/announce
 
 http://tracker.skyts.net:6969/announce
 
-http://tracker.gbitt.info:80/announce
-
 http://open.tracker.ink:6969/announce
+
+http://tracker.gbitt.info:80/announce
 
 http://0205.uptm.ch:6969/announce
 
@@ -1347,6 +1347,8 @@ http://tracker1.itzmx.com:8080/announce
 
 udp://evan.im:6969/announce
 
+udp://tracker.skynetcloud.site:6969/announce
+
 https://tracker.gcrenwp.top:443/announce
 
 udp://tracker.xor.st:6969/announce
@@ -1361,8 +1363,6 @@ udp://explodie.org:6969/announce
 
 udp://open.demonii.com:1337/announce
 
-udp://tracker.skynetcloud.site:6969/announce
-
 udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
@@ -1373,9 +1373,9 @@ udp://tracker.opentrackr.org:1337/announce
 
 https://bittorrent.service.gongt.me:59443/announce
 
-https://tracker.lilithraws.org:443/announce
-
 https://tracker.pmman.tech:443/announce
+
+https://tracker.lilithraws.org:443/announce
 
 udp://epider.me:6969/announce
 
@@ -1411,9 +1411,9 @@ http://tracker.dump.cl:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
-https://tracker.cloudit.top:443/announce
-
 udp://tracker.0x7c0.com:6969/announce
+
+https://tracker.cloudit.top:443/announce
 
 udp://odd-hd.fr:6969/announce
 
