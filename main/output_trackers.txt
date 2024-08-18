@@ -298,9 +298,7 @@ udp://explodie.org:6969/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
 
-udp://tracker.dump.cl:6969/announce
-
-udp://tracker.bittor.pw:1337/announce
+http://tr.kxmp.cf:80/announce
 
 https://tracker.yemekyedim.com:443/announce
 
@@ -308,11 +306,15 @@ http://tracker.edkj.club:6969/announce
 
 http://tracker.dler.org:6969/announce
 
-http://tr.kxmp.cf:80/announce
-
 http://ch3oh.ru:6969/announce
 
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
 http://tracker1.itzmx.com:8080/announce
+
+http://canardscitrons.nohost.me:6969/announce
+
+http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 https://bittorrent.service.gongt.me:59443/announce
 
@@ -350,13 +352,9 @@ udp://tracker1.t-1.org:6969/announce
 
 udp://tracker.t-1.org:6969/announce
 
-http://canardscitrons.nohost.me:6969/announce
-
 udp://retracker.lanta.me:2710/announce
 
 udp://tracker3.t-1.org:6969/announce
-
-udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
 
@@ -2288,6 +2286,8 @@ http://opentracker.io:80/announce
 
 udp://185.181.60.155:80/announce
 
+udp://tracker.bittor.pw:1337/announce
+
 udp://tracker.cubonegro.xyz:6969/announce
 
 udp://156.234.201.18:80/announce
@@ -2687,8 +2687,6 @@ http://anisource.spb.ru:80/announce
 http://big-boss-tracker.net:80/announce
 
 http://bithq.org:80/announce
-
-http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://blackz.ro:80/announce
 
@@ -3203,6 +3201,8 @@ udp://89.237.0.137:6969/announce
 udp://96.126.98.54:6969/announce
 
 udp://buny.uk:6969/announce
+
+udp://tracker.dump.cl:6969/announce
 
 udp://tracker.xiaoduola.xyz:6969/announce
 
