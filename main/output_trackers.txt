@@ -354,9 +354,9 @@ udp://retracker.lanta.me:2710/announce
 
 udp://tracker3.t-1.org:6969/announce
 
-udp://ipv6.fuuuuuck.com:6969/announce
-
 http://tracker.pcfreetime.com:6969/announce
+
+udp://ipv6.fuuuuuck.com:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
@@ -376,9 +376,9 @@ udp://freedomalternative.com:6969/announce
 
 http://tracker.phoenix.lol:80/announce
 
-http://tracker.ipv6tracker.ru:80/announce
-
 https://tracker.imgoingto.icu:443/announce
+
+http://tracker.ipv6tracker.ru:80/announce
 
 udp://free.publictracker.xyz:6969/announce
 
