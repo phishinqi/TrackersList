@@ -16,8 +16,6 @@ http://bvarf.tracker.sh:2086/announce
 
 http://ipv6.rer.lol:6969/announce
 
-http://isk.richardsw.club:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://retracker.hotplug.ru:2710/announce
@@ -50,11 +48,11 @@ http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.opentrackr.org:1337/announce
-
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
+
+http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -73,6 +71,8 @@ https://pybittrack.retiolus.net:443/announce
 https://retracker2.x2k.ru:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -294,13 +294,13 @@ udp://z.mercax.com:53/announce
 
 wss://tracker.openwebtorrent.com:443/announce
 
+http://tracker.opentrackr.org:1337/announce
+
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://explodie.org:6969/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
-
-http://tracker2.dler.org:80/announce
 
 http://t.overflow.biz:6969/announce
 
@@ -312,13 +312,15 @@ https://bittorrent.service.gongt.me:59443/announce
 
 http://tracker.dump.cl:6969/announce
 
+http://isk.richardsw.club:6969/announce
+
 http://open.acgtracker.com:1096/announce
+
+https://threads.canofsocks.com:443/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
 udp://t.overflow.biz:6969/announce
-
-https://threads.canofsocks.com:443/announce
 
 http://tracker.enitin.xyz:80/announce
 
@@ -332,9 +334,9 @@ http://smurfsoft.com:6969/announce
 
 udp://wepzone.net:6969/announce
 
-http://0x7c.space:7070/announce
-
 http://tracker.k.vu:6969/announce
+
+http://0x7c.space:7070/announce
 
 https://tracker.loligirl.cn:443/announce
 
@@ -352,9 +354,9 @@ udp://tracker3.t-1.org:6969/announce
 
 udp://retracker.lanta.me:2710/announce
 
-http://tracker.pcfreetime.com:6969/announce
-
 https://tracker.cangku.moe:443/announce
+
+http://tracker.pcfreetime.com:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
@@ -382,13 +384,11 @@ https://tracker.moeblog.cn:443/announce
 
 http://open.tracker.ink:6969/announce
 
-udp://tracker.therarbg.com:6969/announce
-
 http://0205.uptm.ch:6969/announce
 
-https://tr.ready4.icu:443/announce
+udp://tracker.therarbg.com:6969/announce
 
-http://tracker.skyts.net:6969/announce
+https://tr.ready4.icu:443/announce
 
 udp://lopatins.ru:5972/announce
 
@@ -455,6 +455,8 @@ udp://tracker.altrosky.nl:6969/announce
 https://tracker.lilithraws.cf:443/announce
 
 udp://tracker.openbittorrent.com:6969/announce
+
+http://tracker.skyts.net:6969/announce
 
 udp://tracker.lelux.fi:6969/announce
 
@@ -971,8 +973,6 @@ http://tracker.anirena.com/announce
 https://tracker.kuroy.me/announce
 
 http://tracker.anirena.com:80/announce
-
-https://tr.abir.ga:443/announce
 
 https://tracker.tamersunion.org/announce
 
@@ -3068,19 +3068,15 @@ http://181.214.58.63:6969/announce
 
 http://184.61.17.58:9000/announce
 
-http://187.57.229.244:6969/announce
+http://187.57.229.10:6969/announce
 
-http://211.75.210.220:6969/announce
+http://211.23.142.127:6969/announce
 
-http://34.94.76.146:80/announce
-
-http://35.227.59.57:80/announce
+http://34.89.51.235:80/announce
 
 http://5.182.86.242:6969/announce
 
 http://51.79.71.167/announce
-
-http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://bt.ali213.net00/announce
 
@@ -3130,23 +3126,19 @@ https://tr.kxmp.cf/announce
 
 https://tracker.quix.cf/announce
 
-udp://104.244.77.14:1337/announce
-
 udp://104.244.77.87:6969/announce
 
 udp://121.199.16.229:6969/announce
 
 udp://125.227.79.123:80/announce
 
-udp://135.125.202.143:6969/announce
+udp://130.61.158.165:6969/announce
 
-udp://138.124.183.78:6969/announce
+udp://135.125.202.143:6969/announce
 
 udp://143.198.64.177:6969/announce
 
 udp://15.204.56.171:6969/announce
-
-udp://15.204.57.168:6969/announce
 
 udp://176.123.1.180:6969/announce
 
@@ -3162,15 +3154,13 @@ udp://185.87.45.163:6969/announce
 
 udp://186.10.181.37:1337/announce
 
-udp://193.42.111.57:9337/announce
-
 udp://198.12.89.149:6969/announce
 
 udp://208.83.20.20:6969/announce
 
 udp://209.141.59.16:6969/announce
 
-udp://211.75.210.220:6969/announce
+udp://211.23.142.127:6969/announce
 
 udp://23.134.89.9:1337/announce
 
@@ -3184,9 +3174,7 @@ udp://27.151.85.242:2710/announce
 
 udp://27.151.85.242:6969/announce
 
-udp://34.89.51.235:1337/announce
-
-udp://34.89.51.235:6969/announce
+udp://35.227.59.57:6969/announce
 
 udp://5.102.159.190:6969/announce
 
@@ -3212,11 +3200,7 @@ udp://89.110.76.229:6969/announce
 
 udp://89.234.156.205:451/announce
 
-udp://89.237.0.137:6969/announce
-
 udp://96.126.98.54:6969/announce
-
-udp://tracker.vraphim.com:6969/announce
 
 http://open.nyaatorrents.info:6544/announce
 
