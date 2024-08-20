@@ -332,9 +332,9 @@ http://tracker.enitin.xyz:80/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-http://tracker.vraphim.com:6969/announce
-
 udp://tracker-us.silksa.co.za:6969/announce
+
+http://tracker.vraphim.com:6969/announce
 
 http://smurfsoft.com:6969/announce
 
@@ -342,11 +342,11 @@ http://tracker.k.vu:6969/announce
 
 udp://wepzone.net:6969/announce
 
-http://0x7c.space:7070/announce
-
 http://t.acg.rip:6699/announce
 
 https://tracker.loligirl.cn:443/announce
+
+http://0x7c.space:7070/announce
 
 http://canardscitrons.nohost.me:6969/announce
 
@@ -360,11 +360,11 @@ udp://tracker.t-1.org:6969/announce
 
 udp://tracker3.t-1.org:6969/announce
 
+http://cn.pcfreetime.com:6969/announce
+
 udp://retracker.lanta.me:2710/announce
 
 http://tracker.pcfreetime.com:6969/announce
-
-http://cn.pcfreetime.com:6969/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
 
@@ -380,9 +380,9 @@ https://tracker.imgoingto.icu:443/announce
 
 http://tracker.phoenix.lol:80/announce
 
-http://tracker.ipv6tracker.ru:80/announce
-
 udp://freedomalternative.com:6969/announce
+
+http://tracker.ipv6tracker.ru:80/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
