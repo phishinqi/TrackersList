@@ -344,9 +344,9 @@ http://t.acg.rip:6699/announce
 
 https://tracker.loligirl.cn:443/announce
 
-http://0x7c.space:7070/announce
-
 http://canardscitrons.nohost.me:6969/announce
+
+http://0x7c.space:7070/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
@@ -354,9 +354,9 @@ udp://tracker1.t-1.org:6969/announce
 
 https://tracker.cangku.moe:443/announce
 
-udp://tracker.t-1.org:6969/announce
-
 http://cn.pcfreetime.com:6969/announce
+
+udp://tracker.t-1.org:6969/announce
 
 udp://tracker3.t-1.org:6969/announce
 
@@ -370,9 +370,9 @@ http://tracker.guguan.000.pe:80/announce
 
 udp://oh.fuuuuuck.com:6969/announce
 
-udp://tracker.vds.nz:6969/announce
-
 http://thetracker.org:80/announce
+
+udp://tracker.vds.nz:6969/announce
 
 https://tracker.imgoingto.icu:443/announce
 
@@ -389,8 +389,6 @@ https://tracker.moeblog.cn:443/announce
 http://open.tracker.ink:6969/announce
 
 http://0205.uptm.ch:6969/announce
-
-udp://tracker.therarbg.com:6969/announce
 
 https://tr.ready4.icu:443/announce
 
@@ -741,6 +739,8 @@ http://home.kray.pw:6969/announce
 udp://globalwave.no-ip.org:6969/announce
 
 http://rfc5746.mywaifu.best:6969/announce
+
+udp://tracker.therarbg.com:6969/announce
 
 udp://escalaenbernal.com:3074/announce
 
