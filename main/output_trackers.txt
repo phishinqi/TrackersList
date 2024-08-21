@@ -306,9 +306,9 @@ udp://tracker.torrust-demo.com:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
-https://threads.canofsocks.com:443/announce
-
 udp://tk1.trackerservers.com:8080/announce
+
+https://threads.canofsocks.com:443/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -318,9 +318,9 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 
-udp://u.peer-exchange.download:6969/announce
-
 http://smurfsoft.com:6969/announce
+
+udp://u.peer-exchange.download:6969/announce
 
 http://tracker.vraphim.com:6969/announce
 
@@ -338,9 +338,9 @@ https://tracker.loligirl.cn:443/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
 http://cn.pcfreetime.com:6969/announce
+
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://0x7c.space:7070/announce
 
@@ -370,17 +370,17 @@ http://tracker.phoenix.lol:80/announce
 
 udp://tracker.vds.nz:6969/announce
 
-udp://freedomalternative.com:6969/announce
-
 udp://free.publictracker.xyz:6969/announce
+
+udp://freedomalternative.com:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
 https://tracker.moeblog.cn:443/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
-
 http://open.tracker.ink:6969/announce
+
+udp://6ahddutb1ucc3cp.ru:6969/announce
 
 http://0205.uptm.ch:6969/announce
 
