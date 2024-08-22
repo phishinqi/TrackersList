@@ -306,9 +306,9 @@ https://bittorrent.service.gongt.me:59443/announce
 
 http://tracker.dump.cl:6969/announce
 
-http://ipv6.rer.lol:6969/announce
-
 http://open.acgtracker.com:1096/announce
+
+http://ipv6.rer.lol:6969/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
@@ -320,9 +320,9 @@ udp://t.overflow.biz:6969/announce
 
 udp://ipv4.rer.lol:2710/announce
 
-http://tracker.enitin.xyz:80/announce
-
 udp://tracker-us.silksa.co.za:6969/announce
+
+http://tracker.enitin.xyz:80/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
@@ -352,15 +352,15 @@ udp://tracker1.t-1.org:6969/announce
 
 https://tracker.cangku.moe:443/announce
 
-udp://tracker.t-1.org:6969/announce
-
 http://tracker.pcfreetime.com:6969/announce
 
-http://0x7c.space:7070/announce
+udp://tracker.t-1.org:6969/announce
 
 http://tracker.guguan.000.pe:80/announce
 
 udp://tracker3.t-1.org:6969/announce
+
+http://0x7c.space:7070/announce
 
 udp://retracker.lanta.me:2710/announce
 
@@ -372,9 +372,9 @@ https://tracker.imgoingto.icu:443/announce
 
 http://tracker.phoenix.lol:80/announce
 
-udp://oh.fuuuuuck.com:6969/announce
-
 udp://free.publictracker.xyz:6969/announce
+
+udp://oh.fuuuuuck.com:6969/announce
 
 udp://freedomalternative.com:6969/announce
 
