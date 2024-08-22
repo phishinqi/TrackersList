@@ -588,11 +588,11 @@ udp://p2p.publictracker.xyz:6969/announce
 
 udp://open.publictracker.xyz:6969/announce
 
-http://ipv6.rer.lol:6969/announce
-
 http://isk.richardsw.club:6969/announce
 
 http://tracker.dump.cl:6969/announce
+
+http://ipv6.rer.lol:6969/announce
 
 udp://moonburrow.club:6969/announce
 
@@ -618,9 +618,9 @@ http://tracker.mywaifu.best:6969/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
-udp://1c.premierzal.ru:6969/announce
-
 udp://tracker.torrust-demo.com:6969/announce
+
+udp://1c.premierzal.ru:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
@@ -658,9 +658,9 @@ http://smurfsoft.com:6969/announce
 
 https://threads.canofsocks.com:443/announce
 
-udp://bt.rer.lol:6969/announce
-
 http://tracker.vraphim.com:6969/announce
+
+udp://bt.rer.lol:6969/announce
 
 udp://u.peer-exchange.download:6969/announce
 
@@ -688,9 +688,9 @@ udp://tracker.theoks.net:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
-https://tracker.loligirl.cn:443/announce
-
 http://canardscitrons.nohost.me:6969/announce
+
+https://tracker.loligirl.cn:443/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
@@ -1411,11 +1411,11 @@ udp://p2p.publictracker.xyz:6969/announce
 
 udp://open.publictracker.xyz:6969/announce
 
-http://ipv6.rer.lol:6969/announce
-
 http://isk.richardsw.club:6969/announce
 
 http://tracker.dump.cl:6969/announce
+
+http://ipv6.rer.lol:6969/announce
 
 udp://moonburrow.club:6969/announce
 
@@ -1440,6 +1440,8 @@ udp://opentracker.io:6969/announce
 http://tracker.mywaifu.best:6969/announce
 
 udp://u6.trakx.crim.ist:1337/announce
+
+udp://tracker.torrust-demo.com:6969/announce
 
 
 http://1337.abcvg.info:80/announce
