@@ -304,6 +304,8 @@ http://tracker.dump.cl:6969/announce
 
 http://isk.richardsw.club:6969/announce
 
+https://threads.canofsocks.com:443/announce
+
 http://open.acgtracker.com:1096/announce
 
 udp://tk1.trackerservers.com:8080/announce
@@ -315,8 +317,6 @@ https://torrent.tracker.durukanbal.com:443/announce
 http://ipv6.rer.lol:6969/announce
 
 udp://t.overflow.biz:6969/announce
-
-https://threads.canofsocks.com:443/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 
@@ -334,9 +334,9 @@ udp://bt.rer.lol:6969/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
-udp://u.peer-exchange.download:6969/announce
-
 http://tracker.k.vu:6969/announce
+
+udp://u.peer-exchange.download:6969/announce
 
 http://t.acg.rip:6699/announce
 
@@ -368,17 +368,17 @@ https://tracker.imgoingto.icu:443/announce
 
 http://tracker.phoenix.lol:80/announce
 
-udp://ipv6.fuuuuuck.com:6969/announce
-
 udp://free.publictracker.xyz:6969/announce
 
 udp://freedomalternative.com:6969/announce
 
+udp://ipv6.fuuuuuck.com:6969/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
-udp://oh.fuuuuuck.com:6969/announce
-
 https://tracker.moeblog.cn:443/announce
+
+udp://oh.fuuuuuck.com:6969/announce
 
 http://open.tracker.ink:6969/announce
 
