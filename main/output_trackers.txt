@@ -308,21 +308,21 @@ udp://tracker.torrust-demo.com:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
-udp://open.demonoid.ch:6969/announce
+http://ipv6.rer.lol:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
-http://ipv6.rer.lol:6969/announce
-
-udp://t.overflow.biz:6969/announce
+udp://open.demonoid.ch:6969/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 
+udp://t.overflow.biz:6969/announce
+
 http://smurfsoft.com:6969/announce
 
-http://tracker.enitin.xyz:80/announce
-
 http://ipv4announce.sktorrent.eu:6969/announce
+
+http://tracker.enitin.xyz:80/announce
 
 udp://ipv4.rer.lol:2710/announce
 
@@ -376,11 +376,11 @@ http://tracker.ipv6tracker.ru:80/announce
 
 https://tracker.moeblog.cn:443/announce
 
-udp://oh.fuuuuuck.com:6969/announce
-
 http://open.tracker.ink:6969/announce
 
 http://0205.uptm.ch:6969/announce
+
+udp://oh.fuuuuuck.com:6969/announce
 
 https://tr.ready4.icu:443/announce
 
