@@ -308,6 +308,8 @@ http://tracker1.itzmx.com:8080/announce
 
 http://canardscitrons.nohost.me:6969/announce
 
+udp://ns575949.ip-51-222-82.net:6969/announce
+
 http://open.acgtracker.com:1096/announce
 
 udp://u4.trakx.crim.ist:1337/announce
@@ -322,11 +324,11 @@ http://ipv6.rer.lol:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
-udp://open.demonoid.ch:6969/announce
-
 udp://t.overflow.biz:6969/announce
 
 http://smurfsoft.com:6969/announce
+
+udp://open.demonoid.ch:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
@@ -342,9 +344,9 @@ udp://u.peer-exchange.download:6969/announce
 
 http://t.acg.rip:6699/announce
 
-udp://bt.ktrackers.com:6666/announce
-
 http://cn.pcfreetime.com:6969/announce
+
+udp://bt.ktrackers.com:6666/announce
 
 https://tracker.loligirl.cn:443/announce
 
@@ -364,9 +366,9 @@ https://tracker.imgoingto.icu:443/announce
 
 udp://tracker3.t-1.org:6969/announce
 
-udp://retracker.lanta.me:2710/announce
-
 http://tracker.phoenix.lol:80/announce
+
+udp://retracker.lanta.me:2710/announce
 
 udp://free.publictracker.xyz:6969/announce
 
@@ -383,8 +385,6 @@ http://open.tracker.ink:6969/announce
 http://0205.uptm.ch:6969/announce
 
 https://tr.ready4.icu:443/announce
-
-udp://oh.fuuuuuck.com:6969/announce
 
 udp://lopatins.ru:5972/announce
 
@@ -655,6 +655,8 @@ udp://cloud.arzanmodern.ir:6969/announce
 http://tracker-sanopiracy.hopto.org:9123/announce
 
 udp://tracker.trojangogogo.site:8080/announce
+
+udp://oh.fuuuuuck.com:6969/announce
 
 http://leidenfro.st:6969/announce
 
@@ -2688,6 +2690,8 @@ http://big-boss-tracker.net:80/announce
 
 http://bithq.org:80/announce
 
+http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
 http://blackz.ro:80/announce
 
 http://bluebird-hd.org:80/announce
@@ -2946,11 +2950,7 @@ udp://147job.com:6969/announce
 
 udp://anidex.moe:6969/announce
 
-udp://bt1.xxxxbt.cc:6969/announce
-
 udp://bttracker.debian.org:6969/announce
-
-udp://buny.uk:6969/announce
 
 udp://canardscitrons.nohost.me:6969/announce
 
@@ -2966,6 +2966,12 @@ udp://fosstorrents.com:6969/announce
 
 udp://home.kray.pw:6969/announce
 
+udp://home.yxgz.club:6969/announce
+
+udp://hzzwly.gq:6969/announce
+
+udp://i-p-v-6.tk:6969/announce
+
 udp://ipv4.tracker.harry.lu:6969/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
@@ -2979,8 +2985,6 @@ udp://ipv6.rer.lol:6969/announce
 udp://ipv6.tracker.harry.lu:6969/announce
 
 udp://jp.moeweb.pw:6969/announce
-
-udp://leidenfro.st:6969/announce
 
 udp://li1406-230.members.linode.com:6969/announce
 
@@ -3030,11 +3034,15 @@ udp://tracker.nartlof.com.br:6969/announce
 
 udp://tracker.pcfreetime.com:6969/announce
 
+udp://tracker.vanitycore.co:6969/announce
+
 udp://tracker.vrpnet.org:6969/announce
 
 udp://tracker.xiaoduola.xyz:6969/announce
 
 udp://tracker.ygsub.com:6969/announce
+
+udp://tracker.yoshi210.com:6969/announce
 
 udp://ulfbrueggemann.no-ip.org:6969/announce
 
@@ -3201,6 +3209,12 @@ udp://89.110.76.229:6969/announce
 udp://89.234.156.205:451/announce
 
 udp://96.126.98.54:6969/announce
+
+udp://bt1.xxxxbt.cc:6969/announce
+
+udp://buny.uk:6969/announce
+
+udp://leidenfro.st:6969/announce
 
 http://open.nyaatorrents.info:6544/announce
 
