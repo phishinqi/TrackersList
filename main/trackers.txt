@@ -514,13 +514,15 @@ http://tracker1.itzmx.com:8080/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
+udp://odd-hd.fr:6969/announce
+
 udp://martin-gebhardt.eu:25/announce
 
 https://trackers.run:443/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-udp://odd-hd.fr:6969/announce
+udp://d40969.acod.regrucolo.ru:6969/announce
 
 http://bvarf.tracker.sh:2086/announce
 
@@ -540,33 +542,31 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://trackarr.org:6969/announce
 
+udp://bt2.archive.org:6969/announce
+
 udp://tracker.tryhackx.org:6969/announce
 
 udp://bt1.archive.org:6969/announce
-
-udp://bt2.archive.org:6969/announce
-
-udp://d40969.acod.regrucolo.ru:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
+udp://ttk2.nbaonlineservice.com:6969/announce
+
 http://retracker.x2k.ru:80/announce
 
 udp://tracker.dler.com:6969/announce
+
+udp://www.torrent.eu.org:451/announce
 
 udp://tracker.filemail.com:6969/announce
 
 udp://open.publictracker.xyz:6969/announce
 
-udp://ttk2.nbaonlineservice.com:6969/announce
+udp://p2p.publictracker.xyz:6969/announce
 
 udp://tracker4.itzmx.com:2710/announce
-
-udp://www.torrent.eu.org:451/announce
-
-udp://p2p.publictracker.xyz:6969/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
 
@@ -580,9 +580,11 @@ udp://moonburrow.club:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
+udp://run.publictracker.xyz:6969/announce
+
 https://tracker.pmman.tech:443/announce
 
-udp://run.publictracker.xyz:6969/announce
+udp://tracker-us.silksa.co.za:6969/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 
@@ -592,13 +594,11 @@ http://open.acgtracker.com:1096/announce
 
 https://tracker1.520.jp:443/announce
 
-udp://tracker-us.silksa.co.za:6969/announce
+https://threads.canofsocks.com:443/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
 udp://u6.trakx.crim.ist:1337/announce
-
-https://threads.canofsocks.com:443/announce
 
 udp://opentracker.io:6969/announce
 
@@ -606,9 +606,9 @@ udp://tracker.darkness.services:6969/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
-udp://tk1.trackerservers.com:8080/announce
-
 http://smurfsoft.com:6969/announce
+
+udp://tk1.trackerservers.com:8080/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -618,21 +618,21 @@ udp://ryjer.com:6969/announce
 
 http://ipv6.rer.lol:6969/announce
 
-udp://epider.me:6969/announce
-
 udp://tracker.srv00.com:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
 udp://t.overflow.biz:6969/announce
 
+udp://epider.me:6969/announce
+
 udp://1c.premierzal.ru:6969/announce
 
 http://ch3oh.ru:6969/announce
 
-udp://open.demonoid.ch:6969/announce
-
 udp://new-line.net:6969/announce
+
+udp://open.demonoid.ch:6969/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
@@ -662,17 +662,17 @@ http://tracker.k.vu:6969/announce
 
 udp://tracker.farted.net:6969/announce
 
-udp://wepzone.net:6969/announce
-
 udp://tracker1.myporn.club:9337/announce
+
+udp://wepzone.net:6969/announce
 
 udp://u.peer-exchange.download:6969/announce
 
 http://t.acg.rip:6699/announce
 
-udp://tracker.theoks.net:6969/announce
-
 http://cn.pcfreetime.com:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
@@ -688,9 +688,9 @@ https://tracker.cangku.moe:443/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
-udp://tracker1.t-1.org:6969/announce
-
 http://tracker.guguan.000.pe:80/announce
+
+udp://tracker1.t-1.org:6969/announce
 
 http://thetracker.org:80/announce
 
@@ -700,23 +700,23 @@ https://tracker.imgoingto.icu:443/announce
 
 http://tracker.phoenix.lol:80/announce
 
-udp://tracker3.t-1.org:6969/announce
-
 udp://free.publictracker.xyz:6969/announce
 
 udp://freedomalternative.com:6969/announce
 
-udp://retracker.lanta.me:2710/announce
+udp://tracker3.t-1.org:6969/announce
 
-http://tracker.ipv6tracker.ru:80/announce
+udp://retracker.lanta.me:2710/announce
 
 https://tracker.moeblog.cn:443/announce
 
-udp://ipv6.fuuuuuck.com:6969/announce
+http://tracker.ipv6tracker.ru:80/announce
 
 http://open.tracker.ink:6969/announce
 
 http://0205.uptm.ch:6969/announce
+
+udp://ipv6.fuuuuuck.com:6969/announce
 
 https://tr.ready4.icu:443/announce
 
@@ -1339,13 +1339,15 @@ http://tracker1.itzmx.com:8080/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
+udp://odd-hd.fr:6969/announce
+
 udp://martin-gebhardt.eu:25/announce
 
 https://trackers.run:443/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-udp://odd-hd.fr:6969/announce
+udp://d40969.acod.regrucolo.ru:6969/announce
 
 http://bvarf.tracker.sh:2086/announce
 
@@ -1365,33 +1367,31 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://trackarr.org:6969/announce
 
+udp://bt2.archive.org:6969/announce
+
 udp://tracker.tryhackx.org:6969/announce
 
 udp://bt1.archive.org:6969/announce
-
-udp://bt2.archive.org:6969/announce
-
-udp://d40969.acod.regrucolo.ru:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
+udp://ttk2.nbaonlineservice.com:6969/announce
+
 http://retracker.x2k.ru:80/announce
 
 udp://tracker.dler.com:6969/announce
+
+udp://www.torrent.eu.org:451/announce
 
 udp://tracker.filemail.com:6969/announce
 
 udp://open.publictracker.xyz:6969/announce
 
-udp://ttk2.nbaonlineservice.com:6969/announce
+udp://p2p.publictracker.xyz:6969/announce
 
 udp://tracker4.itzmx.com:2710/announce
-
-udp://www.torrent.eu.org:451/announce
-
-udp://p2p.publictracker.xyz:6969/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
 
@@ -1405,9 +1405,11 @@ udp://moonburrow.club:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
+udp://run.publictracker.xyz:6969/announce
+
 https://tracker.pmman.tech:443/announce
 
-udp://run.publictracker.xyz:6969/announce
+udp://tracker-us.silksa.co.za:6969/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 
@@ -1417,13 +1419,11 @@ http://open.acgtracker.com:1096/announce
 
 https://tracker1.520.jp:443/announce
 
-udp://tracker-us.silksa.co.za:6969/announce
+https://threads.canofsocks.com:443/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
 udp://u6.trakx.crim.ist:1337/announce
-
-https://threads.canofsocks.com:443/announce
 
 udp://opentracker.io:6969/announce
 
