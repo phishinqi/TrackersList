@@ -502,8 +502,6 @@ udp://tracker.xor.st:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
-udp://p4p.arenabg.com:1337/announce
-
 udp://explodie.org:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
@@ -525,6 +523,8 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://martin-gebhardt.eu:25/announce
 
 https://trackers.run:443/announce
+
+udp://p4p.arenabg.com:1337/announce
 
 http://bvarf.tracker.sh:2086/announce
 
@@ -592,9 +592,9 @@ https://threads.canofsocks.com:443/announce
 
 udp://run.publictracker.xyz:6969/announce
 
-udp://tracker.deadorbit.nl:6969/announce
-
 udp://ttk2.nbaonlineservice.com:6969/announce
+
+udp://tracker.deadorbit.nl:6969/announce
 
 http://t1.aag.moe:17715/announce
 
@@ -602,13 +602,13 @@ https://tracker1.520.jp:443/announce
 
 http://open.acgtracker.com:1096/announce
 
-udp://u4.trakx.crim.ist:1337/announce
-
-udp://epider.me:6969/announce
-
 udp://u6.trakx.crim.ist:1337/announce
 
+udp://u4.trakx.crim.ist:1337/announce
+
 udp://opentracker.io:6969/announce
+
+udp://epider.me:6969/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
@@ -628,13 +628,13 @@ udp://ryjer.com:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
-udp://open.demonoid.ch:6969/announce
-
 udp://tracker.srv00.com:6969/announce
 
-udp://1c.premierzal.ru:6969/announce
+udp://open.demonoid.ch:6969/announce
 
 udp://t.overflow.biz:6969/announce
+
+udp://1c.premierzal.ru:6969/announce
 
 http://smurfsoft.com:6969/announce
 
@@ -678,9 +678,9 @@ udp://tracker1.myporn.club:9337/announce
 
 http://t.acg.rip:6699/announce
 
-udp://bt.ktrackers.com:6666/announce
-
 udp://tracker.theoks.net:6969/announce
+
+udp://bt.ktrackers.com:6666/announce
 
 http://cn.pcfreetime.com:6969/announce
 
@@ -726,9 +726,9 @@ http://open.tracker.ink:6969/announce
 
 http://0205.uptm.ch:6969/announce
 
-udp://oh.fuuuuuck.com:6969/announce
-
 https://tr.ready4.icu:443/announce
+
+udp://oh.fuuuuuck.com:6969/announce
 
 https://1337.abcvg.info:443/announce
 
@@ -1325,8 +1325,6 @@ udp://tracker.xor.st:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
-udp://p4p.arenabg.com:1337/announce
-
 udp://explodie.org:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
@@ -1348,6 +1346,8 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://martin-gebhardt.eu:25/announce
 
 https://trackers.run:443/announce
+
+udp://p4p.arenabg.com:1337/announce
 
 http://bvarf.tracker.sh:2086/announce
 
@@ -1415,9 +1415,9 @@ https://threads.canofsocks.com:443/announce
 
 udp://run.publictracker.xyz:6969/announce
 
-udp://tracker.deadorbit.nl:6969/announce
-
 udp://ttk2.nbaonlineservice.com:6969/announce
+
+udp://tracker.deadorbit.nl:6969/announce
 
 http://t1.aag.moe:17715/announce
 
@@ -1425,13 +1425,13 @@ https://tracker1.520.jp:443/announce
 
 http://open.acgtracker.com:1096/announce
 
-udp://u4.trakx.crim.ist:1337/announce
-
-udp://epider.me:6969/announce
-
 udp://u6.trakx.crim.ist:1337/announce
 
+udp://u4.trakx.crim.ist:1337/announce
+
 udp://opentracker.io:6969/announce
+
+udp://epider.me:6969/announce
 
 
 http://1337.abcvg.info:80/announce

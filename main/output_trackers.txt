@@ -382,9 +382,9 @@ http://open.tracker.ink:6969/announce
 
 http://0205.uptm.ch:6969/announce
 
-udp://oh.fuuuuuck.com:6969/announce
-
 https://tr.ready4.icu:443/announce
+
+udp://oh.fuuuuuck.com:6969/announce
 
 udp://lopatins.ru:5972/announce
 
