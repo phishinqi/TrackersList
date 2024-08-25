@@ -302,21 +302,13 @@ udp://explodie.org:6969/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
 
-http://tr.kxmp.cf:80/announce
-
-udp://tracker.qu.ax:6969/announce
-
-http://tracker.qu.ax:6969/announce
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://tracker.edkj.club:6969/announce
 
-http://canardscitrons.nohost.me:6969/announce
-
-udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+http://tr.kxmp.cf:80/announce
 
 http://tracker1.itzmx.com:8080/announce
-
-http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://isk.richardsw.club:6969/announce
 
@@ -334,9 +326,9 @@ udp://epider.me:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-udp://open.demonoid.ch:6969/announce
-
 http://tracker.enitin.xyz:80/announce
+
+udp://open.demonoid.ch:6969/announce
 
 http://tracker.vraphim.com:6969/announce
 
@@ -344,13 +336,15 @@ udp://bt.rer.lol:6969/announce
 
 http://tracker.k.vu:6969/announce
 
-udp://u.peer-exchange.download:6969/announce
-
 http://t.acg.rip:6699/announce
 
 http://cn.pcfreetime.com:6969/announce
 
+udp://u.peer-exchange.download:6969/announce
+
 https://tracker.cangku.moe:443/announce
+
+http://canardscitrons.nohost.me:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
@@ -393,6 +387,8 @@ udp://lopatins.ru:5972/announce
 udp://dyndns.xionxiii.ovh:6969/announce
 
 https://bt.080609.xyz:443/announce
+
+http://tracker-rh.zhuqiy.eu.org:80/announce
 
 http://t.nyaatracker.com:80/announce
 
@@ -662,6 +658,8 @@ udp://oh.fuuuuuck.com:6969/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
 
+udp://tracker.qu.ax:6969/announce
+
 http://leidenfro.st:6969/announce
 
 http://shogiroom.com:6969/announce
@@ -887,8 +885,6 @@ udp://hbsy.zhuqiy.eu.org:6666/announce
 udp://tcq.zhuqiy.eu.org:25091/announce
 
 https://trackers.nekosunevr.co.uk:443/announce
-
-http://tracker-rh.zhuqiy.eu.org:80/announce
 
 udp://trl-zhuqiy.dgj055.icu:6969/announce
 
@@ -2162,6 +2158,8 @@ http://bigfoot1942.sektori.org:6969/announce
 
 https://tracker.tvgc.win/announce
 
+http://tracker.qu.ax:6969/announce
+
 http://171.104.111.250:6969/announce
 
 http://97.117.150.188:9000/announce
@@ -3073,6 +3071,8 @@ http://35.227.59.57:80/announce
 http://51.79.71.167/announce
 
 http://75.169.121.0:9000/announce
+
+http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://bt.ali213.net00/announce
 
