@@ -572,11 +572,11 @@ udp://tracker.tryhackx.org:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
+udp://ttk2.nbaonlineservice.com:6969/announce
+
 udp://tk2.trackerservers.com:8080/announce
 
 http://tracker.bt4g.com:2095/announce
-
-udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
@@ -594,15 +594,15 @@ udp://tracker4.itzmx.com:2710/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
 
+http://isk.richardsw.club:6969/announce
+
 http://tracker.dump.cl:6969/announce
 
-http://isk.richardsw.club:6969/announce
+udp://tracker-us.silksa.co.za:6969/announce
 
 https://tracker.lilithraws.org:443/announce
 
 udp://moonburrow.club:6969/announce
-
-udp://tracker-us.silksa.co.za:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
 
@@ -626,9 +626,9 @@ udp://u6.trakx.crim.ist:1337/announce
 
 udp://opentracker.io:6969/announce
 
-udp://tracker.darkness.services:6969/announce
-
 http://smurfsoft.com:6969/announce
+
+udp://tracker.darkness.services:6969/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
@@ -672,9 +672,9 @@ udp://ipv4.rer.lol:2710/announce
 
 http://tracker.vraphim.com:6969/announce
 
-udp://bt.rer.lol:6969/announce
-
 udp://tracker.jamesthebard.net:6969/announce
+
+udp://bt.rer.lol:6969/announce
 
 udp://open.tracker.cl:1337/announce
 
@@ -740,11 +740,11 @@ http://open.tracker.ink:6969/announce
 
 http://0205.uptm.ch:6969/announce
 
-udp://ipv6.fuuuuuck.com:6969/announce
-
 https://tr.ready4.icu:443/announce
 
 https://1337.abcvg.info:443/announce
+
+udp://ipv6.fuuuuuck.com:6969/announce
 
 udp://lopatins.ru:5972/announce
 
@@ -1397,11 +1397,11 @@ udp://tracker.tryhackx.org:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
+udp://ttk2.nbaonlineservice.com:6969/announce
+
 udp://tk2.trackerservers.com:8080/announce
 
 http://tracker.bt4g.com:2095/announce
-
-udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
@@ -1419,15 +1419,15 @@ udp://tracker4.itzmx.com:2710/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
 
+http://isk.richardsw.club:6969/announce
+
 http://tracker.dump.cl:6969/announce
 
-http://isk.richardsw.club:6969/announce
+udp://tracker-us.silksa.co.za:6969/announce
 
 https://tracker.lilithraws.org:443/announce
 
 udp://moonburrow.club:6969/announce
-
-udp://tracker-us.silksa.co.za:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
 
@@ -1451,9 +1451,9 @@ udp://u6.trakx.crim.ist:1337/announce
 
 udp://opentracker.io:6969/announce
 
-udp://tracker.darkness.services:6969/announce
-
 http://smurfsoft.com:6969/announce
+
+udp://tracker.darkness.services:6969/announce
 
 
 http://1337.abcvg.info:80/announce
