@@ -292,9 +292,9 @@ http://canardscitrons.nohost.me:6969/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-http://smurfsoft.com:6969/announce
-
 http://tracker.dump.cl:6969/announce
+
+http://smurfsoft.com:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -330,9 +330,9 @@ udp://tracker1.myporn.club:9337/announce
 
 http://cn.pcfreetime.com:6969/announce
 
-https://tracker.cangku.moe:443/announce
-
 http://t.acg.rip:6699/announce
+
+https://tracker.cangku.moe:443/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
@@ -348,9 +348,9 @@ http://thetracker.org:80/announce
 
 udp://tracker1.t-1.org:6969/announce
 
-udp://tracker.t-1.org:6969/announce
-
 https://tracker.imgoingto.icu:443/announce
+
+udp://tracker.t-1.org:6969/announce
 
 http://tracker.phoenix.lol:80/announce
 
