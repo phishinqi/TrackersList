@@ -582,11 +582,11 @@ https://tracker.pmman.tech:443/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 
-http://smurfsoft.com:6969/announce
-
 http://open.acgtracker.com:1096/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
+
+http://smurfsoft.com:6969/announce
 
 http://t1.aag.moe:17715/announce
 
@@ -602,9 +602,9 @@ udp://opentracker.io:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
-udp://tracker.torrust-demo.com:6969/announce
-
 https://threads.canofsocks.com:443/announce
+
+udp://tracker.torrust-demo.com:6969/announce
 
 udp://jutone.com:6969/announce
 
@@ -668,9 +668,9 @@ http://t.acg.rip:6699/announce
 
 udp://tracker.theoks.net:6969/announce
 
-http://canardscitrons.nohost.me:6969/announce
-
 udp://tracker1.bt.moack.co.kr:80/announce
+
+http://canardscitrons.nohost.me:6969/announce
 
 https://tracker.cangku.moe:443/announce
 
@@ -1407,11 +1407,11 @@ https://tracker.pmman.tech:443/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 
-http://smurfsoft.com:6969/announce
-
 http://open.acgtracker.com:1096/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
+
+http://smurfsoft.com:6969/announce
 
 http://t1.aag.moe:17715/announce
 
