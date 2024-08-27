@@ -312,9 +312,9 @@ http://open.acgtracker.com:1096/announce
 
 http://smurfsoft.com:6969/announce
 
-udp://tk1.trackerservers.com:8080/announce
-
 https://threads.canofsocks.com:443/announce
+
+udp://tk1.trackerservers.com:8080/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
@@ -370,9 +370,9 @@ udp://freedomalternative.com:6969/announce
 
 https://tracker.moeblog.cn:443/announce
 
-http://open.tracker.ink:6969/announce
-
 http://tracker.zhuqiy.dgj055.icu:80/announce
+
+http://open.tracker.ink:6969/announce
 
 http://0205.uptm.ch:6969/announce
 
@@ -2978,10 +2978,6 @@ udp://ipv6.tracker.harry.lu:6969/announce
 
 udp://jp.moeweb.pw:6969/announce
 
-udp://li1406-230.members.linode.com:6969/announce
-
-udp://li2021-95.members.linode.com:6969/announce
-
 udp://mail.lakameraobscura.com:6969/announce
 
 udp://mixfiend.com:6969/announce
@@ -3024,11 +3020,7 @@ udp://tracker.nartlof.com.br:6969/announce
 
 udp://tracker.pcfreetime.com:6969/announce
 
-udp://tracker.vanitycore.co:6969/announce
-
 udp://tracker.vrpnet.org:6969/announce
-
-udp://tracker.xiaoduola.xyz:6969/announce
 
 udp://tracker.ygsub.com:6969/announce
 
@@ -3187,6 +3179,14 @@ udp://89.110.76.229:6969/announce
 udp://91.216.110.53:451/announce
 
 udp://96.126.98.54:6969/announce
+
+udp://li1406-230.members.linode.com:6969/announce
+
+udp://li2021-95.members.linode.com:6969/announce
+
+udp://tracker.vanitycore.co:6969/announce
+
+udp://tracker.xiaoduola.xyz:6969/announce
 
 http://open.nyaatorrents.info:6544/announce
 
