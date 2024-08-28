@@ -570,11 +570,11 @@ udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker.filemail.com:6969/announce
 
+udp://moonburrow.club:6969/announce
+
 udp://tk2v6.trackerservers.com:8080/announce
 
 http://tracker.dump.cl:6969/announce
-
-udp://moonburrow.club:6969/announce
 
 https://tracker.lilithraws.org:443/announce
 
@@ -608,17 +608,17 @@ udp://tk1.trackerservers.com:8080/announce
 
 https://threads.canofsocks.com:443/announce
 
-udp://tracker.torrust-demo.com:6969/announce
-
 udp://jutone.com:6969/announce
 
-http://smurfsoft.com:6969/announce
+udp://tracker.torrust-demo.com:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
 http://ipv6.rer.lol:6969/announce
 
 udp://ryjer.com:6969/announce
+
+http://smurfsoft.com:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
@@ -1393,11 +1393,11 @@ udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker.filemail.com:6969/announce
 
+udp://moonburrow.club:6969/announce
+
 udp://tk2v6.trackerservers.com:8080/announce
 
 http://tracker.dump.cl:6969/announce
-
-udp://moonburrow.club:6969/announce
 
 https://tracker.lilithraws.org:443/announce
 
