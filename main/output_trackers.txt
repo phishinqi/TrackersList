@@ -312,9 +312,9 @@ http://isk.richardsw.club:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
-udp://tk1.trackerservers.com:8080/announce
-
 https://threads.canofsocks.com:443/announce
+
+udp://tk1.trackerservers.com:8080/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
@@ -378,9 +378,9 @@ http://open.tracker.ink:6969/announce
 
 http://0205.uptm.ch:6969/announce
 
-http://tracker-rh.zhuqiy.eu.org:80/announce
-
 https://tr.ready4.icu:443/announce
+
+http://tracker-rh.zhuqiy.eu.org:80/announce
 
 udp://lopatins.ru:5972/announce
 
@@ -2946,7 +2946,11 @@ udp://147job.com:6969/announce
 
 udp://anidex.moe:6969/announce
 
+udp://bt1.xxxxbt.cc:6969/announce
+
 udp://bttracker.debian.org:6969/announce
+
+udp://buny.uk:6969/announce
 
 udp://canardscitrons.nohost.me:6969/announce
 
@@ -2962,13 +2966,17 @@ udp://fosstorrents.com:6969/announce
 
 udp://home.kray.pw:6969/announce
 
+udp://home.yxgz.club:6969/announce
+
+udp://hzzwly.gq:6969/announce
+
+udp://i-p-v-6.tk:6969/announce
+
 udp://ipv4.tracker.harry.lu:6969/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://ipv6.1337.cx:6969/announce
-
-udp://ipv6.69.mu:6969/announce
 
 udp://ipv6.govt.hu:6969/announce
 
@@ -2993,6 +3001,8 @@ udp://rfc5746.mywaifu.best:6969/announce
 udp://shogiroom.com:6969/announce
 
 udp://smurfsoft.com:6969/announce
+
+udp://t.jaekr.sh:6969/announce
 
 udp://torrent.fedoraproject.org:6969/announce
 
@@ -3020,7 +3030,11 @@ udp://tracker.nartlof.com.br:6969/announce
 
 udp://tracker.pcfreetime.com:6969/announce
 
+udp://tracker.vanitycore.co:6969/announce
+
 udp://tracker.vrpnet.org:6969/announce
+
+udp://tracker.xiaoduola.xyz:6969/announce
 
 udp://tracker.ygsub.com:6969/announce
 
@@ -3187,6 +3201,8 @@ udp://89.110.76.229:6969/announce
 udp://91.216.110.53:451/announce
 
 udp://96.126.98.54:6969/announce
+
+udp://ipv6.69.mu:6969/announce
 
 http://open.nyaatorrents.info:6544/announce
 
