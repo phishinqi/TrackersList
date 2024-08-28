@@ -276,33 +276,15 @@ udp://z.mercax.com:53/announce
 
 wss://tracker.openwebtorrent.com:443/announce
 
-udp://tracker-udp.gbitt.info:80/announce
-
 udp://explodie.org:6969/announce
+
+udp://tracker-udp.gbitt.info:80/announce
 
 http://tracker2.dler.org:80/announce
 
-udp://tracker.theoks.net:6969/announce
-
 http://tr.kxmp.cf:80/announce
 
-udp://tracker2.dler.org:80/announce
-
-udp://tracker.qu.ax:6969/announce
-
-udp://tracker.jamesthebard.net:6969/announce
-
-udp://tracker.farted.net:6969/announce
-
-udp://tracker.ccp.ovh:6969/announce
-
-udp://tracker.bittor.pw:1337/announce
-
-udp://open.free-tracker.ga:6969/announce
-
 http://t.overflow.biz:6969/announce
-
-http://canardscitrons.nohost.me:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
@@ -322,21 +304,27 @@ udp://tracker.torrust-demo.com:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
-http://smurfsoft.com:6969/announce
-
 udp://t.overflow.biz:6969/announce
+
+http://smurfsoft.com:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
 http://tracker.enitin.xyz:80/announce
 
-udp://open.demonoid.ch:6969/announce
-
-http://tracker.vraphim.com:6969/announce
+udp://tracker.jamesthebard.net:6969/announce
 
 udp://bt.rer.lol:6969/announce
 
+http://tracker.vraphim.com:6969/announce
+
+udp://open.demonoid.ch:6969/announce
+
+udp://tracker.ccp.ovh:6969/announce
+
 http://tracker.k.vu:6969/announce
+
+udp://tracker.farted.net:6969/announce
 
 udp://open.tracker.cl:1337/announce
 
@@ -345,6 +333,10 @@ http://cn.pcfreetime.com:6969/announce
 udp://wepzone.net:6969/announce
 
 http://t.acg.rip:6699/announce
+
+udp://tracker.theoks.net:6969/announce
+
+http://canardscitrons.nohost.me:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
@@ -653,6 +645,8 @@ udp://tracker.trojangogogo.site:8080/announce
 udp://oh.fuuuuuck.com:6969/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
+
+udp://tracker.qu.ax:6969/announce
 
 http://leidenfro.st:6969/announce
 
@@ -1158,6 +1152,8 @@ http://opentracker.xyz/announce
 
 https://tracker.4.babico.name.tr/announce
 
+udp://tracker2.dler.org:80/announce
+
 https://xtremex.herokuapp.com:443/announce
 
 udp://app.icon256.com:8000/announce
@@ -1315,6 +1311,8 @@ http://tracker.dmcomic.org:2710/announce
 http://tracker.tfile.me:80/announce
 
 udp://tracker.trackerfix.com:82/announce
+
+udp://open.free-tracker.ga:6969/announce
 
 http://retracker.ohys.net:80/announce
 
@@ -2285,6 +2283,8 @@ udp://89.36.216.8:6969/announce
 http://opentracker.io:80/announce
 
 udp://185.181.60.155:80/announce
+
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.cubonegro.xyz:6969/announce
 
