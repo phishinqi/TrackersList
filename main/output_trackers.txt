@@ -318,9 +318,9 @@ https://threads.canofsocks.com:443/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
-http://smurfsoft.com:6969/announce
-
 http://ipv6.rer.lol:6969/announce
+
+http://smurfsoft.com:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
