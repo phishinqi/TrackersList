@@ -284,23 +284,17 @@ udp://z.mercax.com:53/announce
 
 wss://tracker.openwebtorrent.com:443/announce
 
-udp://explodie.org:6969/announce
-
 udp://tracker-udp.gbitt.info:80/announce
 
-udp://public.tracker.vraphim.com:6969/announce
-
-udp://open.u-p.pw:6969/announce
+udp://explodie.org:6969/announce
 
 http://tr.kxmp.cf:80/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-http://www.peckservers.com:9000/announce
+http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://tracker1.itzmx.com:8080/announce
-
-http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://tracker.dump.cl:6969/announce
 
@@ -312,15 +306,17 @@ udp://u6.trakx.crim.ist:1337/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
-http://ipv6.rer.lol:6969/announce
-
 https://threads.canofsocks.com:443/announce
+
+http://ipv6.rer.lol:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
 udp://t.overflow.biz:6969/announce
 
 udp://tracker.torrust-demo.com:6969/announce
+
+udp://open.u-p.pw:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
@@ -342,9 +338,9 @@ http://cn.pcfreetime.com:6969/announce
 
 http://t.acg.rip:6699/announce
 
-udp://tracker.theoks.net:6969/announce
-
 http://canardscitrons.nohost.me:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
@@ -379,8 +375,6 @@ http://0205.uptm.ch:6969/announce
 https://tr.ready4.icu:443/announce
 
 http://tracker-rh.zhuqiy.eu.org:80/announce
-
-https://tracker.moeblog.cn:443/announce
 
 udp://lopatins.ru:5972/announce
 
@@ -498,8 +492,6 @@ http://147job.com:6969/announce
 
 udp://thouvenin.cloud:6969/announce
 
-udp://psyco.fr:6969/announce
-
 udp://astrr.ru:6969/announce
 
 udp://aarsen.me:6969/announce
@@ -537,6 +529,8 @@ udp://tracker.6.babico.name.tr:6969/announce
 udp://www.2600.com:6969/announce
 
 https://tracker.expli.top:443/announce
+
+https://tracker.moeblog.cn:443/announce
 
 udp://tracker.joybomb.tw:6969/announce
 
@@ -1166,6 +1160,8 @@ http://tracker2.dler.org/announce
 
 http://t2.pow7.com/announce
 
+udp://psyco.fr:6969/announce
+
 https://open.kickasstracker.com/announce
 
 udp://keke.re:6969/announce
@@ -1467,6 +1463,8 @@ http://34.89.30.59:2710/announce
 http://212.6.3.67/announce
 
 http://185.70.187.79:6969/announce
+
+udp://public.tracker.vraphim.com:6969/announce
 
 http://185.185.40.95:6969/announce
 
@@ -2001,6 +1999,8 @@ udp://10.rarbg.com/announce
 udp://tracker.istole.it:80/announce
 
 udp://11.rarbg.com:80/announce
+
+http://www.peckservers.com:9000/announce
 
 http://201.43.209.254:6969/announce
 
@@ -2948,8 +2948,6 @@ udp://bt1.xxxxbt.cc:6969/announce
 
 udp://bttracker.debian.org:6969/announce
 
-udp://buny.uk:6969/announce
-
 udp://canardscitrons.nohost.me:6969/announce
 
 udp://caramelo.ddns.net:8000/announce
@@ -2963,12 +2961,6 @@ udp://debuz.com:6969/announce
 udp://fosstorrents.com:6969/announce
 
 udp://home.kray.pw:6969/announce
-
-udp://home.yxgz.club:6969/announce
-
-udp://hzzwly.gq:6969/announce
-
-udp://i-p-v-6.tk:6969/announce
 
 udp://ipv4.tracker.harry.lu:6969/announce
 
@@ -3020,21 +3012,15 @@ udp://tracker.files.fm:6969/announce
 
 udp://tracker.kali.org:6969/announce
 
-udp://tracker.lyretain.site:2710/announce
-
-udp://tracker.moxing.party:6969/announce
-
 udp://tracker.mywaifu.best:6969/announce
 
 udp://tracker.nartlof.com.br:6969/announce
 
 udp://tracker.pcfreetime.com:6969/announce
 
-udp://tracker.vanitycore.co:6969/announce
+udp://tracker.vraphim.com:6969/announce
 
 udp://tracker.vrpnet.org:6969/announce
-
-udp://tracker.xiaoduola.xyz:6969/announce
 
 udp://tracker.ygsub.com:6969/announce
 
@@ -3185,6 +3171,22 @@ udp://89.110.76.229:6969/announce
 udp://91.216.110.53:451/announce
 
 udp://96.126.98.54:6969/announce
+
+udp://buny.uk:6969/announce
+
+udp://home.yxgz.club:6969/announce
+
+udp://hzzwly.gq:6969/announce
+
+udp://i-p-v-6.tk:6969/announce
+
+udp://tracker.lyretain.site:2710/announce
+
+udp://tracker.moxing.party:6969/announce
+
+udp://tracker.vanitycore.co:6969/announce
+
+udp://tracker.xiaoduola.xyz:6969/announce
 
 http://open.nyaatorrents.info:6544/announce
 
