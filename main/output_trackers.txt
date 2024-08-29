@@ -16,6 +16,8 @@ http://bvarf.tracker.sh:2086/announce
 
 http://ch3oh.ru:6969/announce
 
+http://isk.richardsw.club:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://retracker.hotplug.ru:2710/announce
@@ -30,13 +32,13 @@ http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
 
+http://tr.kxmp.cf:80/announce
+
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.com:6969/announce
-
-http://tracker.dler.org:6969/announce
 
 http://tracker.edkj.club:6969/announce
 
@@ -53,8 +55,6 @@ http://tracker.opentrackr.org:1337/announce
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -77,8 +77,6 @@ https://bittorrent.service.gongt.me:59443/announce
 https://pybittrack.retiolus.net:443/announce
 
 https://retracker2.x2k.ru:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -276,6 +274,8 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
+udp://u6.trakx.crim.ist:1337/announce
+
 udp://wepzone.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
@@ -288,9 +288,11 @@ udp://tracker-udp.gbitt.info:80/announce
 
 udp://explodie.org:6969/announce
 
-http://tr.kxmp.cf:80/announce
+http://tracker1.bt.moack.co.kr:80/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
+http://tracker.dler.org:6969/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
@@ -298,11 +300,7 @@ http://tracker1.itzmx.com:8080/announce
 
 http://tracker.dump.cl:6969/announce
 
-http://isk.richardsw.club:6969/announce
-
 http://open.acgtracker.com:1096/announce
-
-udp://u6.trakx.crim.ist:1337/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
@@ -316,9 +314,9 @@ udp://t.overflow.biz:6969/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
-udp://open.u-p.pw:6969/announce
-
 http://ipv4announce.sktorrent.eu:6969/announce
+
+udp://open.u-p.pw:6969/announce
 
 http://smurfsoft.com:6969/announce
 
@@ -338,9 +336,9 @@ http://cn.pcfreetime.com:6969/announce
 
 http://t.acg.rip:6699/announce
 
-http://canardscitrons.nohost.me:6969/announce
-
 udp://tracker.theoks.net:6969/announce
+
+http://canardscitrons.nohost.me:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
@@ -358,11 +356,11 @@ udp://u.peer-exchange.download:6969/announce
 
 udp://free.publictracker.xyz:6969/announce
 
+http://tracker.phoenix.lol:80/announce
+
 udp://tracker1.t-1.org:6969/announce
 
 udp://tracker.t-1.org:6969/announce
-
-http://tracker.phoenix.lol:80/announce
 
 udp://freedomalternative.com:6969/announce
 
@@ -969,6 +967,8 @@ http://tracker.anirena.com/announce
 https://tracker.kuroy.me/announce
 
 http://tracker.anirena.com:80/announce
+
+https://tr.abir.ga:443/announce
 
 https://tracker.tamersunion.org/announce
 
