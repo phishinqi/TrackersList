@@ -314,13 +314,13 @@ https://threads.canofsocks.com:443/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-udp://open.u-p.pw:6969/announce
-
 udp://tracker.torrust-demo.com:6969/announce
 
-http://smurfsoft.com:6969/announce
+udp://open.u-p.pw:6969/announce
 
 http://tracker.enitin.xyz:80/announce
+
+http://smurfsoft.com:6969/announce
 
 udp://bt.rer.lol:6969/announce
 
@@ -356,11 +356,11 @@ udp://free.publictracker.xyz:6969/announce
 
 http://tracker.phoenix.lol:80/announce
 
-udp://u.peer-exchange.download:6969/announce
+udp://tracker.t-1.org:6969/announce
 
 udp://tracker1.t-1.org:6969/announce
 
-udp://tracker.t-1.org:6969/announce
+udp://u.peer-exchange.download:6969/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
