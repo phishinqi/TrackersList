@@ -332,9 +332,9 @@ http://tracker.enitin.xyz:80/announce
 
 http://smurfsoft.com:6969/announce
 
-udp://bt.rer.lol:6969/announce
-
 http://tracker.k.vu:6969/announce
+
+udp://bt.rer.lol:6969/announce
 
 http://tracker.vraphim.com:6969/announce
 

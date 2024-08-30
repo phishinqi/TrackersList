@@ -594,9 +594,9 @@ https://www.peckservers.com:9443/announce
 
 http://isk.richardsw.club:6969/announce
 
-http://open.acgtracker.com:1096/announce
-
 udp://tracker.darkness.services:6969/announce
+
+http://open.acgtracker.com:1096/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 
@@ -620,9 +620,9 @@ udp://tracker.srv00.com:6969/announce
 
 http://ipv6.rer.lol:6969/announce
 
-udp://ryjer.com:6969/announce
-
 udp://jutone.com:6969/announce
+
+udp://ryjer.com:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
@@ -656,9 +656,9 @@ udp://epider.me:6969/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
-udp://bt.rer.lol:6969/announce
-
 http://tracker.k.vu:6969/announce
+
+udp://bt.rer.lol:6969/announce
 
 http://tracker.vraphim.com:6969/announce
 
@@ -1409,9 +1409,9 @@ https://www.peckservers.com:9443/announce
 
 http://isk.richardsw.club:6969/announce
 
-http://open.acgtracker.com:1096/announce
-
 udp://tracker.darkness.services:6969/announce
+
+http://open.acgtracker.com:1096/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 
