@@ -300,23 +300,17 @@ udp://tracker-udp.gbitt.info:80/announce
 
 udp://explodie.org:6969/announce
 
-udp://tracker1.myporn.club:9337/announce
-
-udp://public.tracker.vraphim.com:6969/announce
-
-udp://open.u-p.pw:6969/announce
-
-udp://open.free-tracker.ga:6969/announce
-
-http://tracker.mywaifu.best:6969/announce
-
 http://tracker.dler.org:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-http://tracker1.itzmx.com:8080/announce
+http://tracker.mywaifu.best:6969/announce
+
+http://canardscitrons.nohost.me:6969/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
+http://tracker1.itzmx.com:8080/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -327,6 +321,8 @@ https://torrent.tracker.durukanbal.com:443/announce
 udp://tracker.torrust-demo.com:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
+
+udp://open.u-p.pw:6969/announce
 
 https://threads.canofsocks.com:443/announce
 
@@ -346,9 +342,9 @@ udp://open.tracker.cl:1337/announce
 
 http://cn.pcfreetime.com:6969/announce
 
-https://tracker.cangku.moe:443/announce
+udp://tracker1.myporn.club:9337/announce
 
-http://canardscitrons.nohost.me:6969/announce
+https://tracker.cangku.moe:443/announce
 
 http://t.acg.rip:6699/announce
 
@@ -366,9 +362,9 @@ udp://tracker.t-1.org:6969/announce
 
 udp://tracker1.t-1.org:6969/announce
 
-http://tracker.zhuqiy.dgj055.icu:80/announce
-
 http://rfc5746.mywaifu.best:6969/announce
+
+http://tracker.zhuqiy.dgj055.icu:80/announce
 
 http://open.tracker.ink:6969/announce
 
@@ -1310,6 +1306,8 @@ http://tracker.tfile.me:80/announce
 
 udp://tracker.trackerfix.com:82/announce
 
+udp://open.free-tracker.ga:6969/announce
+
 http://retracker.ohys.net:80/announce
 
 http://www.tvnihon.com:6969/announce
@@ -1463,6 +1461,8 @@ http://34.89.30.59:2710/announce
 http://212.6.3.67/announce
 
 http://185.70.187.79:6969/announce
+
+udp://public.tracker.vraphim.com:6969/announce
 
 http://185.185.40.95:6969/announce
 
