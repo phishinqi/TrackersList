@@ -346,11 +346,11 @@ udp://open.tracker.cl:1337/announce
 
 http://cn.pcfreetime.com:6969/announce
 
+https://tracker.cangku.moe:443/announce
+
 http://canardscitrons.nohost.me:6969/announce
 
 http://t.acg.rip:6699/announce
-
-https://tracker.cangku.moe:443/announce
 
 http://tracker.guguan.000.pe:80/announce
 
@@ -2946,8 +2946,6 @@ udp://bobbialbano.com:6969/announce
 
 udp://bttracker.debian.org:6969/announce
 
-udp://buny.uk:6969/announce
-
 udp://canardscitrons.nohost.me:6969/announce
 
 udp://caramelo.ddns.net:8000/announce
@@ -2962,12 +2960,6 @@ udp://fosstorrents.com:6969/announce
 
 udp://home.kray.pw:6969/announce
 
-udp://home.yxgz.club:6969/announce
-
-udp://hzzwly.gq:6969/announce
-
-udp://i-p-v-6.tk:6969/announce
-
 udp://ipv4.tracker.harry.lu:6969/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
@@ -2980,7 +2972,13 @@ udp://ipv6.rer.lol:6969/announce
 
 udp://ipv6.tracker.harry.lu:6969/announce
 
+udp://isk.richardsw.club:6969/announce
+
 udp://jp.moeweb.pw:6969/announce
+
+udp://li1406-230.members.linode.com:6969/announce
+
+udp://li2021-95.members.linode.com:6969/announce
 
 udp://mail.lakameraobscura.com:6969/announce
 
@@ -3012,8 +3010,6 @@ udp://torrenttracker.nwc.acsalaska.net:6969/announce
 
 udp://tracker.doko.moe:6969/announce
 
-udp://tracker.dump.cl:6969/announce
-
 udp://tracker.etree.org:6969/announce
 
 udp://tracker.files.fm:6969/announce
@@ -3027,6 +3023,10 @@ udp://tracker.mywaifu.best:6969/announce
 udp://tracker.nartlof.com.br:6969/announce
 
 udp://tracker.pcfreetime.com:6969/announce
+
+udp://tracker.vanitycore.co:6969/announce
+
+udp://tracker.vraphim.com:6969/announce
 
 udp://tracker.vrpnet.org:6969/announce
 
@@ -3195,6 +3195,16 @@ udp://89.110.76.229:6969/announce
 udp://89.234.156.205:451/announce
 
 udp://96.126.98.54:6969/announce
+
+udp://buny.uk:6969/announce
+
+udp://home.yxgz.club:6969/announce
+
+udp://hzzwly.gq:6969/announce
+
+udp://i-p-v-6.tk:6969/announce
+
+udp://tracker.dump.cl:6969/announce
 
 http://open.nyaatorrents.info:6544/announce
 
