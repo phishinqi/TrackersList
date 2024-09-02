@@ -322,11 +322,11 @@ http://tracker1.itzmx.com:8080/announce
 
 http://tracker.dump.cl:6969/announce
 
-https://bittorrent.service.gongt.me:59443/announce
-
 udp://t.overflow.biz:6969/announce
 
 http://open.acgtracker.com:1096/announce
+
+https://bittorrent.service.gongt.me:59443/announce
 
 http://ipv6.rer.lol:6969/announce
 
@@ -342,9 +342,9 @@ udp://open.u-p.pw:6969/announce
 
 https://threads.canofsocks.com:443/announce
 
-udp://bt.rer.lol:6969/announce
-
 http://tracker.vraphim.com:6969/announce
+
+udp://bt.rer.lol:6969/announce
 
 http://smurfsoft.com:6969/announce
 
