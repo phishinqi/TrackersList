@@ -512,7 +512,11 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://p4p.arenabg.com:1337/announce
 
+udp://tracker.cyberia.is:6969/announce
+
 udp://retracker.hotplug.ru:2710/announce
+
+http://bt.okmp3.ru:2710/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -522,11 +526,7 @@ udp://tracker.fnix.net:6969/announce
 
 udp://tracker.xor.st:6969/announce
 
-udp://tracker.cyberia.is:6969/announce
-
 http://tracker.bt4g.com:2095/announce
-
-http://bt.okmp3.ru:2710/announce
 
 udp://odd-hd.fr:6969/announce
 
@@ -542,6 +542,8 @@ udp://tracker.skynetcloud.site:6969/announce
 
 udp://amigacity.xyz:6969/announce
 
+udp://tracker.darkness.services:6969/announce
+
 https://trackers.run:443/announce
 
 udp://tracker.gmi.gd:6969/announce
@@ -549,8 +551,6 @@ udp://tracker.gmi.gd:6969/announce
 udp://trackarr.org:6969/announce
 
 udp://open.dstud.io:6969/announce
-
-udp://tracker.darkness.services:6969/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -570,9 +570,9 @@ udp://moonburrow.club:6969/announce
 
 https://tracker.cloudit.top:443/announce
 
-udp://bt2.archive.org:6969/announce
-
 udp://bt1.archive.org:6969/announce
+
+udp://bt2.archive.org:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
 
@@ -622,9 +622,9 @@ udp://u6.trakx.crim.ist:1337/announce
 
 udp://opentracker.io:6969/announce
 
-https://bittorrent.service.gongt.me:59443/announce
-
 udp://tk1.trackerservers.com:8080/announce
+
+https://bittorrent.service.gongt.me:59443/announce
 
 udp://tracker.srv00.com:6969/announce
 
@@ -676,9 +676,9 @@ udp://tracker.ccp.ovh:6969/announce
 
 http://smurfsoft.com:6969/announce
 
-udp://dataforai.com:31332/announce
-
 udp://tracker1.myporn.club:9337/announce
+
+udp://dataforai.com:31332/announce
 
 http://cn.pcfreetime.com:6969/announce
 
@@ -1327,7 +1327,11 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://p4p.arenabg.com:1337/announce
 
+udp://tracker.cyberia.is:6969/announce
+
 udp://retracker.hotplug.ru:2710/announce
+
+http://bt.okmp3.ru:2710/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -1337,11 +1341,7 @@ udp://tracker.fnix.net:6969/announce
 
 udp://tracker.xor.st:6969/announce
 
-udp://tracker.cyberia.is:6969/announce
-
 http://tracker.bt4g.com:2095/announce
-
-http://bt.okmp3.ru:2710/announce
 
 udp://odd-hd.fr:6969/announce
 
@@ -1357,6 +1357,8 @@ udp://tracker.skynetcloud.site:6969/announce
 
 udp://amigacity.xyz:6969/announce
 
+udp://tracker.darkness.services:6969/announce
+
 https://trackers.run:443/announce
 
 udp://tracker.gmi.gd:6969/announce
@@ -1364,8 +1366,6 @@ udp://tracker.gmi.gd:6969/announce
 udp://trackarr.org:6969/announce
 
 udp://open.dstud.io:6969/announce
-
-udp://tracker.darkness.services:6969/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -1385,9 +1385,9 @@ udp://moonburrow.club:6969/announce
 
 https://tracker.cloudit.top:443/announce
 
-udp://bt2.archive.org:6969/announce
-
 udp://bt1.archive.org:6969/announce
+
+udp://bt2.archive.org:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
 
@@ -1436,8 +1436,6 @@ udp://u4.trakx.crim.ist:1337/announce
 udp://u6.trakx.crim.ist:1337/announce
 
 udp://opentracker.io:6969/announce
-
-https://bittorrent.service.gongt.me:59443/announce
 
 
 http://1337.abcvg.info:80/announce

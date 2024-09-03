@@ -312,9 +312,9 @@ http://tracker.dump.cl:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
-https://bittorrent.service.gongt.me:59443/announce
-
 udp://tk1.trackerservers.com:8080/announce
+
+https://bittorrent.service.gongt.me:59443/announce
 
 http://ipv6.rer.lol:6969/announce
 
