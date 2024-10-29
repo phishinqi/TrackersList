@@ -1,0 +1,17 @@
+https://trackerslist.com/all.txt
+https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all.txt
+https://newtrackon.com/api/all
+https://newtrackon.com/api/stable
+https://cf.trackerslist.com/all.txt
+https://cdn.jsdelivr.net/gh/DeSireFire/animeTrackerList/AT_all.txt
+https://gitee.com/harvey520/www.yaozuopan.top/raw/master/blacklist.txt
+http://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt
+https://raw.githubusercontent.com/hezhijie0327/Trackerslist/main/trackerslist_combine.txt
+https://raw.githubusercontent.com/hezhijie0327/Trackerslist/main/trackerslist_exclude.txt
+https://raw.githubusercontent.com/hezhijie0327/Trackerslist/main/trackerslist_tracker.txt
+https://ghproxy.com/https://raw.githubusercontent.com/Tunglies/TrackersList/main/all.txt
+https://raw.githubusercontent.com/phishinqi/source/main/tracker.txt
+https://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt
+https://cdn.jsdelivr.net/gh/DeSireFire/animeTrackerList/ATline_best.txt
+https://cdn.jsdelivr.net/gh/DeSireFire/animeTrackerList/ATline_all.txt
+https://raw.githubusercontent.com/chenjia404/CnTrackersList/master/all.txt
