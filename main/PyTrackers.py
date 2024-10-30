@@ -1,74 +1,126 @@
-# coding=utf-8
-import urllib.request
+import asyncio
+import aiohttp
 import os
+from aiologger import Logger
+from tqdm import tqdm
+import aiofiles
 
-# 获取当前文件路径并检查 main_url.txt
-def check_and_download_main_url():
-    url_file_path = os.getcwd()
-    print("当前文件路径：", url_file_path)
-    url_path = os.path.join(url_file_path, 'main_url.txt')
-    if os.path.exists(url_path):
-        print("main_url.txt 文件已存在。")
-    else:
-        print("main_url.txt 文件不存在，正在下载...")
-        main_url = "https://raw.githubusercontent.com/phishinqi/phishinqi.github.io/main/assets/txt/trackers_url.txt"
-        with urllib.request.urlopen(main_url) as response, open(url_path, 'wb') as out_file:
-            out_file.write(response.read())
-        print("main_url.txt 文件下载完成。")
+MAIN_URL_FILE = 'main_url.txt'
+ORIGINAL_TRACKERS_FILE = 'original_trackers.txt'
+OUTPUT_TRACKERS_FILE = 'output_trackers.txt'
 
-# 读取 main_url.txt 文件内容并输出 URL 列表
-def read_urls():
-    print("读取 URL 中...")
-    with open('main_url.txt', 'r') as f:
-        urls = [line.strip('\n') for line in f if line.strip('\n')]
-    return urls
+logger = Logger.with_default_handlers(name='my_async_logger')
 
-# 检查并创建 trackers.txt 文件
-def prepare_trackers_file(file_path):
-    if os.path.exists(file_path):
-        print("trackers.txt 文件存在，正在清空内容...")
-        with open(file_path, 'w') as files:
-            pass  # 清空文件内容
-    else:
-        print("trackers.txt 文件不存在，正在创建...")
-        with open(file_path, 'w') as file_trackers:
-            pass  # 创建空文件
+async def download_main_url():
+    main_url = "https://raw.githubusercontent.com/phishinqi/phishinqi.github.io/refs/heads/main/assets/txt/trackers_url.txt"
+    
+    if os.path.exists(MAIN_URL_FILE):
+        logger.info(f"{MAIN_URL_FILE} 文件已存在，跳过下载。")
+        return
 
-# 读取 URL 并写入 trackers.txt
-def fetch_and_write_trackers(urls, trackers_file_path):
-    for url in urls:
-        print(f"正在处理 URL: {url}")
+    logger.info(f"正在下载 {MAIN_URL_FILE} 文件...")
+    try:
+        timeout = aiohttp.ClientTimeout(total=30)
+        async with aiohttp.ClientSession(timeout=timeout) as session:
+            async with session.get(main_url) as response:
+                response.raise_for_status()
+                content = await response.text()
+
+        async with aiofiles.open(MAIN_URL_FILE, 'w', encoding='utf-8') as f:
+            await f.write(content)
+        
+        logger.info(f"{MAIN_URL_FILE} 文件下载完成。")
+    except aiohttp.ClientError as e:
+        logger.error(f"下载 {MAIN_URL_FILE} 时发生网络错误: {e}")
+    except asyncio.TimeoutError:
+        logger.error(f"下载 {MAIN_URL_FILE} 时超时。")
+
+async def read_urls():
+    if not os.path.exists(MAIN_URL_FILE):
+        logger.error(f"{MAIN_URL_FILE} 文件不存在！")
+        return []
+
+    async with aiofiles.open(MAIN_URL_FILE, 'r', encoding='utf-8') as f:
+        urls = await f.readlines()
+    return [url.strip() for url in urls if url.strip()]
+
+async def prepare_trackers_file(file_name):
+    if os.path.exists(file_name):
         try:
-            headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36'}
-            req = urllib.request.Request(url=url, headers=headers)
-            res = urllib.request.urlopen(req)
-            html = res.read().decode('utf-8')
-            with open(trackers_file_path, 'a') as f:
-                f.write(html + '\n')
-            print("处理完成。")
-        except Exception as e:
-            print(f"处理 URL {url} 时发生错误: {e}")
+            os.remove(file_name)
+            logger.info(f"已删除旧的 {file_name} 文件。")
+        except OSError as e:
+            logger.error(f"删除 {file_name} 文件时发生错误: {e}")
+    else:
+        logger.info(f"{file_name} 文件不存在，无需删除。")
+    async with aiofiles.open(file_name, 'w', encoding='utf-8') as f:
+        await f.write("")
 
-# 去除 trackers.txt 文件中的重复行，并在行与行之间添加空白行
-def remove_duplicates(input_file, output_file):
-    print("正在去重...")
-    with open(input_file, 'r') as f_read, open(output_file, 'w') as f_write:
-        seen = set()
-        for line in f_read:
-            stripped_line = line.strip()
-            if stripped_line not in seen:
-                f_write.write(stripped_line + '\n\n')
-                seen.add(stripped_line)
-    print("去重完成。")
+async def fetch_tracker(session, url, f_write, progress_bar):
+    try:
+        async with session.get(url) as response:
+            response.raise_for_status()
+            content = await response.text()
+            await f_write.write(content + '\n')
+    except aiohttp.ClientError as e:
+        logger.error(f"下载 {url} 时发生网络错误: {e}")
+    except asyncio.TimeoutError:
+        logger.error(f"下载 {url} 时超时。")
+    except asyncio.CancelledError:
+        logger.error(f"下载 {url} 时被取消。")
+    except Exception as e:
+        logger.error(f"下载 {url} 时发生未知错误: {e}")
+    finally:
+        progress_bar.update(1)
 
-# 主函数
-def main():
-    check_and_download_main_url()
-    urls = read_urls()
-    trackers_file_path = os.path.join(os.getcwd(), 'trackers.txt')
-    prepare_trackers_file(trackers_file_path)
-    fetch_and_write_trackers(urls, trackers_file_path)
-    remove_duplicates('./trackers.txt', './output_trackers.txt')
+async def fetch_and_write_trackers(session, urls, output_file):
+    logger.info("正在下载 trackers...")
+    async with aiofiles.open(output_file, 'a', encoding='utf-8') as f_write:
+        with tqdm(total=len(urls), desc="下载中", unit="个") as progress_bar:
+            tasks = [fetch_tracker(session, url, f_write, progress_bar) for url in urls]
+            await asyncio.gather(*tasks)
+
+async def remove_duplicates(input_file, output_file):
+    logger.info("正在去重...")
+    seen = set()
+
+    try:
+        async with aiofiles.open(input_file, 'r', encoding='utf-8') as f_read:
+            async with aiofiles.open(output_file, 'w', encoding='utf-8') as f_write:
+                async for line in f_read:
+                    stripped_line = line.strip()
+                    if stripped_line and stripped_line not in seen:
+                        seen.add(stripped_line)
+                        await f_write.write(stripped_line + '\n\n')
+
+        logger.info("去重完成。")
+    except (OSError, IOError) as e:
+        logger.error(f"去重过程中发生文件 I/O 错误: {e}")
+    except Exception as e:
+        logger.error(f"去重过程中发生其他错误: {e}")
+
+async def main():
+    await download_main_url()
+    urls = await read_urls()
+    
+    if not urls:
+        logger.error("没有可处理的 URL，请检查 main_url.txt 文件。")
+        return
+    
+    await prepare_trackers_file(ORIGINAL_TRACKERS_FILE)
+
+    async with aiohttp.ClientSession() as session:
+        await fetch_and_write_trackers(session, urls, ORIGINAL_TRACKERS_FILE)
+
+    await remove_duplicates(ORIGINAL_TRACKERS_FILE, OUTPUT_TRACKERS_FILE)
+    await logger.shutdown()
+
+    if os.path.exists(MAIN_URL_FILE):
+        try:
+            os.remove(MAIN_URL_FILE)
+            logger.info(f"{MAIN_URL_FILE} 文件已删除。")
+        except OSError as e:
+            logger.error(f"删除 {MAIN_URL_FILE} 文件时发生错误: {e}")
 
 if __name__ == "__main__":
-    main()
+    asyncio.run(main())
